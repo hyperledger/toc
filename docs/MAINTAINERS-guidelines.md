@@ -25,19 +25,19 @@ The `MAINTAINERS.md` file SHOULD contain information about the different types o
 ## How to Become a Maintainer
 The `MAINTAINERS.md` file SHOULD contain information about how to become a maintainer for the project. This section SHOULD list specific information about what is required. Information that SHOULD be included in this section:
 
-* How is required before someone can be considered to become a maintainer.
+* What is required before someone can be considered to become a maintainer
 * Consider whether there should be different requirements based on the scope (whole project, repo, part of repo) of maintainership
-* Whether sponsorship by an existing maintainer is required.
-* How maintainers are proposed to the community. A number of our projects require that a PR be done against the `MAINTAINERS.md` file to make this proposal.
-* How many maintainers must approve the proposed maintainer. This should include information about what happens if someone vetoes the proposal.
-* How long the existing maintainers have to respond to the proposal.
+* Whether sponsorship by an existing maintainer is required
+* How maintainers are proposed to the community. A number of our projects require that a PR be done against the `MAINTAINERS.md` file to make this proposal
+* How many maintainers must approve the proposed maintainer. This should include information about what happens if someone vetoes the proposal
+* How long the existing maintainers have to respond to the proposal
 
 ## How Maintainers are Removed or Moved to Emeritus Status
 The `MAINTAINERS.md` file SHOULD contain information about how a maintainer is removed from the list of active maintainers. Information that SHOULD be included in this section:
 
-* What are the reasons a maintainer would be removed from the list of active maintainers.
-* How this is proposed. Similar to the way in which maintainers are added, one way to do this is via a PR against the `MAINTAINERS.md` file.
-* How a emeritus maintainer becomes active again.
+* What are the reasons a maintainer would be removed from the list of active maintainers
+* How this is proposed; similar to the way in which maintainers are added, one way to do this is via a PR against the `MAINTAINERS.md` file
+* How a emeritus maintainer becomes active again
 
 
 # Example MAINTAINERS Files
