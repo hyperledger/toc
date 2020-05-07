@@ -1,3 +1,4 @@
+[//]: # (SPDX-License-Identifier: CC-BY-4.0)
 # Introduction
 All Hyperledger projects MUST have a `MAINTAINERS` file (`MAINTAINERS.md` or `MAINTAINERS.rst`) at the top-level directory of the source code. This document will provide guidelines on what should be included in the `MAINTAINERS` file.
 
