@@ -5,19 +5,25 @@ All Hyperledger projects MUST have a `MAINTAINERS` file (`MAINTAINERS.md` or `MA
 ## List of Project Maintainers
 The first thing that MUST be included in the `MAINTAINERS` file is a list of the project's maintainers, both active and emeritus.
 
-It is recommended that the lists be sorted alphabetically and contain the maintainers name, GitHub ID, LFID (Hyperledger Chat ID), Company Affiliation, and Scope. The following shows the suggested format for the information:
+It is recommended that the lists be sorted alphabetically and contain the maintainers name, GitHub ID, LFID, Chat ID, Email, Company Affiliation, and Scope.
+
+**NOTES:**
+* There MUST be at least one reliable mechanism to contact the maintainer (either chat ID or email).
+* Scope is dependent on the project and may not exist for a given project. Scope could be the whole project, a specific repository, specific directories in a repository, or high-level description of responsibility (e.g., Documentation).
+
+The following shows the suggested format for the information:
 
 **Active Maintainers**
 
-| Maintainer | GitHub ID | LFID (Hyperledger Chat ID) | Company Affiliation | Scope |
-| ---------- | --------- | -------------------------- | ------------------- | ----- |
-|            |           |                            |                     |       |
+| Maintainer | GitHub ID | LFID | Chat ID | Email | Company Affiliation | Scope |
+| ---------- | --------- | ---- | ------- | ----- | ------------------- | ----- |
+|            |           |      |         |       |                     |       |
 
 **Emeritus Maintainers**
 
-| Maintainer | GitHub ID | LFID (Hyperledger Chat ID) | Company Affiliation | Scope |
-| ---------- | --------- | -------------------------- | ------------------- | ----- |
-|            |           |                            |                     |       |
+| Maintainer | GitHub ID | LFID | Chat ID | Email | Company Affiliation | Scope |
+| ---------- | --------- | ---- | ------- | ----- | ------------------- | ----- |
+|            |           |      |         |       |                     |       |
 
 ## What Does Being a Maintainer Entail
 The `MAINTAINERS` file SHOULD contain information about the different types of maintainers that exist (whole project, repo, part of repo) and what their duties are (e.g., maintainers calls, quarterly reports, code reviews, issue cleansing).
