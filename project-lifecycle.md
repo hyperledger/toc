@@ -42,7 +42,7 @@ and may go through several iterations.
 # Proposal
 
 Project Proposals shall be submitted to the [TSC](https://www.hyperledger.org/about/leadership)
-for review, using [Proposal Template](https://wiki.hyperledger.org/display/TSC/Project+Proposals).
+for review, using [Proposal Template](https://hyperledger.github.io/hyperledger-hip/).
 Proposals that are approved shall enter into an *Incubation* state, unless
 they are of a refactoring nature, in which case they will be turned over
 to the relevant project maintainer(s) to handle as they deem fit.

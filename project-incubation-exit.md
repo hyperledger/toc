@@ -28,7 +28,7 @@ first one is made of requirements expected to be met by all projects
 before moving to *Active*. The second set lists examples of
 additional requirements typically defined at the onset of the project as
 goals to be met to exit *Incubation*. These are expected to be documented
-in a [Proposal for a Hyperledger Improvement Project (HIP)](https://wiki.hyperledger.org/display/TSC/Project+Proposals).
+in a [Proposal for a Hyperledger Improvement Project (HIP)](https://hyperledger.github.io/hyperledger-hip/)
 Because not all projects have the same goals, the importance of each
 criteria and the exact definition of this second set of criteria may
 vary from one project to another. Ultimately the TSC is responsible for
