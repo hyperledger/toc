@@ -141,4 +141,4 @@ exit *Incubation*:
 
 # Acknowledgements
 
-The above borrows from the [ASF\'s Minimum Graduation Requirements](http://incubator.apache.org/incubation/Incubation_Policy.html#Graduating+from+the+Incubator).
+The above borrows from the [ASF\'s Minimum Graduation Requirements](https://incubator.apache.org/incubation/Incubation_Policy.html#Graduating+from+the+Incubator).

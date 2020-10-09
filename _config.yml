@@ -1,3 +1,4 @@
 remote_theme: pmarsceill/just-the-docs
 logo: "hyperledger-logo.png"
-# url: "https://hyperledger.github.io/tsc/"
+url: "https://tsc.hyperledger.org"
+search_enabled: false
