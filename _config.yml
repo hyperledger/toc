@@ -1,4 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
+# theme: just-the-docs
 logo: "hyperledger-logo.png"
 url: "https://tsc.hyperledger.org"
 search_enabled: false
+footer_content: "<a href=\"https://github.com/hyperledger/tsc\">Page generated from TSC repo on GitHub</a>"
