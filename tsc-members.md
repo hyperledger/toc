@@ -7,6 +7,24 @@ nav_order: 20
 
 # The Hyperledger Technical Steering Committee
 
+2020-2021 term:
+
+* [Angelo De Caro](https://github.com/adecaro)
+* [Arnaud J Le Hors](https://github.com/lehors)
+* [Arun S M](https://github.com/arsulegai)
+* [Baohua Yang](https://github.com/yeasy)
+* [Bobbi Muscara](https://github.com/bobbijn)
+* [Danno Ferrin](https://github.com/shemnon)
+* [David Enyeart](https://github.com/denyeart)
+* [Gari Singh](https://github.com/mastersingh24)
+* [Grace Hartley](https://github.com/gmhartley53)
+* [Hart Montgomery](https://github.com/hartm)
+* [María Teresa Nieto](https://github.com/mtnieto)
+* [Mark Wagner](https://github.com/n1zyz)
+* [Nathan George](https://github.com/nage)
+* [Tracy Kuhrt](https://github.com/tkuhrt)
+* [Troy Ronda](https://github.com/troyronda)
+
 2019-2020 term:
 
 * [Angelo De Caro](https://github.com/adecaro)
