@@ -31,8 +31,7 @@ Projects are in one of five possible states:
 
 -   [*Proposal*](#proposal)
 -   [*Incubation*](#incubation)
--   [*Active*](#active)
--   [*Promoted Release*](#promoted-release)
+-   [*Graduated*](#graduated)
 -   [*Deprecated*](#deprecated)
 -   [*End of Life*](#end-of-life)
 
@@ -69,35 +68,25 @@ Projects in *Incubation* may overlap with one another.
 Entering *Incubation* is meant to be fairly easy to allow for
 community exploration of different ideas.
 
-Once a project qualifies to be declared *Active*, the
+Once a project qualifies to be declared *Graduated*, the
 *project*\'s maintainers can then vote to request a graduation
 review by the TSC.
 
 Entering *Incubation* does not guarantee that the project will
-eventually get to *Active* state. Projects may never get
-to *Active* state.
+eventually get to *Graduated* state. Projects may never get
+to *Graduated* state.
 
 Projects seeking to graduate from *Incubation* must meet
 the criteria defined in the 
 [Incubation Exit Criteria](./project-incubation-exit.md) document.
 
-# Active
+# Graduated
+
+(Formerly called 'Active') <a id="active"></a>
 
 Projects that have successfully exited the *Incubation* phase
-are in the *Active* phase. *Active* projects are eligible
-for [*Promoted Releases*](#promoted-release).
-
-# Promoted Release
-
-A project\'s maintainers seeking to publish a *Promoted
-Release* (see Hyperledger\'s use of [semver](./release-taxonomy.md#1);
-also, [semver.org](https://semver.org)) must seek approval of the TSC
-whether in Active or Incubation status as defined above. While it is
-expected that most projects will have reached an *Active* status by
-the time their maintainers seek to announce a *Promoted Release*, the
-TSC may approve such requests also in cases where the project is still
-in *Incubation* status, should the TSC believe that the project\'s code is
-sufficiently mature.
+are in the *Graduated* phase. *Graduated* projects are eligible
+for [*Promoted Releases*](./criteria-for-promoted-release.md).
 
 # Deprecated
 
@@ -118,3 +107,4 @@ period, the project will be labeled *End of Life*.
 # End of Life
 
 A project that is no longer actively developed or maintained.
+
