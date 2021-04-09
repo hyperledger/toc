@@ -10,7 +10,7 @@ nav_order: 4
 Prior to bringing a project to the TSC for a vote on granting a Promoted
 Release, a project must fulfill the following criteria:
 
-1.  Project has reached [Active](./project-lifecycle.md#active) status (the processes and community are
+1.  Project has reached [Graduated](./project-lifecycle.md#graduated) status (the processes and community are
     mature)
 2.  The release features substantially fulfill the project\'s charter
 3.  The release satisfies criteria defined by the project itself. All

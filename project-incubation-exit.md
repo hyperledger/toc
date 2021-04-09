@@ -12,27 +12,27 @@ nav_order: 5
 Hyperledger has defined a [lifecycle](./project-lifecycle.md) for its
 projects but this definition does not specify in any detail what it
 takes for a project to be able to transition from the
-*Incubation* phase to the *Active* phase.
+*Incubation* phase to the *Graduated* phase.
 
 This document is meant to fill this gap by defining a set of criteria to
 be considered before moving a project from *Incubation*
-to *Active*.
+to *Graduated*.
 
-It is important to note that *Active* in this case refers to
+It is important to note that *Graduated* in this case refers to
 the project itself rather than its product and it is therefore more
 about the maturity of process than the maturity of the product or
 General Availability (GA).
 
 For this reason this document defines two sets of exit criteria. The
 first one is made of requirements expected to be met by all projects
-before moving to *Active*. The second set lists examples of
+before moving to *Graduated*. The second set lists examples of
 additional requirements typically defined at the onset of the project as
 goals to be met to exit *Incubation*. These are expected to be documented
 in a [Proposal for a Hyperledger Improvement Project (HIP)](https://hyperledger.github.io/hyperledger-hip/)
 Because not all projects have the same goals, the importance of each
 criteria and the exact definition of this second set of criteria may
 vary from one project to another. Ultimately the TSC is responsible for
-determining whether a project deserves to move to *Active* or
+determining whether a project deserves to move to *Graduated* or
 not and this decision does not need to be solely based on these exit
 criteria. The purpose of these exit criteria is to help the TSC in its
 decision process by informing its members of key aspects of the project.
@@ -80,7 +80,7 @@ decision process by informing its members of key aspects of the project.
     -   Compatibility with other Hyperledger projects
 
         Where applicable, the project should be compatible with other
-        active projects.
+        *Graduated* projects.
 
     -   Release numbering: the project should use the Hyperledger
         standard [release taxonomy](./release-taxonomy.md), once that is agreed upon.
