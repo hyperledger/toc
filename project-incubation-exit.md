@@ -104,12 +104,11 @@ decision process by informing its members of key aspects of the project.
 
     A team seeking to graduate from *Incubation* shall have started the
     CII Badge application and be nearly complete with incomplete badge
-    requirements referenced in their graduation proposal. 100% of the
-    applicable criteria for the CII Badge is a requirement for releasing
-    a *Promoted Release* of the project. That does not mean the project must have 100%
-    of all criteria, just 100% of the applicable criteria. This is to
-    allow for projects such as test harnesses, that have "N/A" answers for
-    questions that don\'t offer that as an option.
+    requirements referenced in their graduation proposal. That does not
+    mean the project must have 100% of all criteria, just 100% of the
+    applicable criteria. This is to allow for projects such as test
+    harnesses, that have "N/A" answers for questions that don\'t offer
+    that as an option.
 
 # Additional considerations
 

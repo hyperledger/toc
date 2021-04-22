@@ -85,8 +85,7 @@ the criteria defined in the
 (Formerly called 'Active') <a id="active"></a>
 
 Projects that have successfully exited the *Incubation* phase
-are in the *Graduated* phase. *Graduated* projects are eligible
-for [*Promoted Releases*](./criteria-for-promoted-release.md).
+are in the *Graduated* phase.
 
 # Deprecated
 
