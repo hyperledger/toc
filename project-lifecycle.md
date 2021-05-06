@@ -27,11 +27,12 @@ phases.
 Therefore Hyperledger has adopted a similar lifecycle process as
 follows:
 
-Projects are in one of five possible states:
+Projects are in one of six possible states:
 
 -   [*Proposal*](#proposal)
 -   [*Incubation*](#incubation)
 -   [*Graduated*](#graduated)
+-   [*Dormant*](#dormant)
 -   [*Deprecated*](#deprecated)
 -   [*End of Life*](#end-of-life)
 
@@ -86,6 +87,14 @@ the criteria defined in the
 
 Projects that have successfully exited the *Incubation* phase
 are in the *Graduated* phase.
+
+# Dormant
+
+Projects in the *Dormant* state are ones in which the normal functions are
+suspended or slowed down for a period of time. The TSC will make the decision
+as to whether a project will move to or from the *Dormant* state upon request.
+If *Dormant* projects become re-activated, they will re-enter the *Incubation*
+state even if they entered the *Dormant* state from the *Graduated* state.
 
 # Deprecated
 
