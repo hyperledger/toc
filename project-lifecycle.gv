@@ -1,0 +1,16 @@
+digraph lifecycle {
+  node [shape=box]
+  EndOfLife [label="End of Life"]
+  //rank=same; Proposal; Incubation; Graduated; Dormant; Deprecated; EndOfLife;
+  Proposal -> Incubation
+  Incubation [color=purple];
+  Incubation -> Graduated [color = purple];
+  Graduated [color=blue];
+  Graduated -> Dormant [color = blue];
+  Dormant [color=red];
+  Dormant -> Deprecated [color = red];
+  Deprecated -> EndOfLife;
+  Incubation -> { Dormant Deprecated EndOfLife } [color = purple];
+  Graduated -> { Deprecated EndOfLife } [color = blue];
+  Dormant -> { Incubation EndOfLife } [color = red];
+}
