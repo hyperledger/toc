@@ -27,6 +27,8 @@ phases.
 Therefore Hyperledger has adopted a similar lifecycle process as
 follows:
 
+![Project lifecycle in graph format](project-lifecycle.svg "Project Lifecycle Graph").
+
 Projects are in one of six possible states:
 
 -   [*Proposal*](#proposal)
