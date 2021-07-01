@@ -17,4 +17,5 @@ Governing Documents:
 
 Guidelines:
 
+* [Repository Structure](./repository-structure.md)
 * [Maintainers Guidelines](./MAINTAINERS-guidelines.md)
