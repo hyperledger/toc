@@ -11,7 +11,7 @@ repository.
 
 -   [`LICENSE`](https://www.apache.org/licenses/LICENSE-2.0.txt) - https://www.apache.org/licenses/LICENSE-2.0.txt\
     (Unless an exception has been made by the Hyperledger Governing Board)
--   [`CODE_OF_CONDUCT.md`](https://wiki.hyperledger.org/community/hyperledger-project-code-of-conduct) - https://wiki.hyperledger.org/community/hyperledger-project-code-of-conduct
+-   [`CODE_OF_CONDUCT.md`](https://tsc.hyperledger.org/code-of-conduct.html) - https://tsc.hyperledger.org/code-of-conduct.html
 -   [`SECURITY.md`](https://wiki.hyperledger.org/display/SEC/Defect+Response) - https://wiki.hyperledger.org/display/SEC/Defect+Response
 
 ## Required Files with Variable Content
