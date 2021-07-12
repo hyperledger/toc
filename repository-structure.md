@@ -9,7 +9,8 @@ Repositories MUST have these files with the specific content in the linked files
 link to the specified content with minimal exposition. These files MUST be at the root of the
 repository.
 
--   [`LICENSE`](https://www.apache.org/licenses/LICENSE-2.0.txt) - https://www.apache.org/licenses/LICENSE-2.0.txt
+-   [`LICENSE`](https://www.apache.org/licenses/LICENSE-2.0.txt) - https://www.apache.org/licenses/LICENSE-2.0.txt\
+    (Unless an exception has been made by the Hyperledger Governing Board)
 -   [`CODE_OF_CONDUCT.md`](https://wiki.hyperledger.org/community/hyperledger-project-code-of-conduct) - https://wiki.hyperledger.org/community/hyperledger-project-code-of-conduct
 -   [`SECURITY.md`](https://wiki.hyperledger.org/display/SEC/Defect+Response) - https://wiki.hyperledger.org/display/SEC/Defect+Response
 
@@ -43,14 +44,16 @@ Repositories SHOULD have these files. Named files SHOULD be at the root of the r
         [Apache License, Version 2](https://www.apache.org/licenses/LICENSE-2.0)
 -   Apache License Header information in each source code file. \
     This SHOULD include the snippet `SPDX-License-Identifier: Apache-2.0` as part of the header.
+    (see the [Copyright and Licencing Policy](https://wiki.hyperledger.org/display/TSC/Copyright+and+License+Policy))
 -   Build files consistent with the implementation language, such as...
     -   For JavaScript/Node.js a `package.json` file
     -   For Ruby a `Gemfile` file
     -   For Java one of a Maven `pom.xml`, an Apache Ant `build.xml`, or a Gralde `build.gradle`
         file
     -   For Python `setup.py` and `requirements.txt` files
-    -   For Go `go.mod`, `go.sum` and as an option a Makefile
+    -   For Go `go.mod` and optionally `go.sum` 
     -   For Rust a `cargo.toml` file
+    -   For multi-lingual repositories a `Makefile` or executable `build.sh` script
     -   For other languages, other standard build files a practitioner of the language would expect.
 -   Testing code \
     Code to test the code in the repository (such as unit tests), in a location appropriate for the language.
