@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Project Incubation Exit Criteria
-nav_order: 5
+parent: Project Governance
+permalink: /projects/incubation-exit-criteria
+nav_order: 1
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
@@ -9,7 +11,7 @@ nav_order: 5
 
 ## Introduction
 
-Hyperledger has defined a [lifecycle](./project-lifecycle.md) for its
+Hyperledger has defined a [lifecycle](project-lifecycle.md) for its
 projects but this definition does not specify in any detail what it
 takes for a project to be able to transition from the
 *Incubation* phase to the *Graduated* phase.
@@ -83,9 +85,9 @@ decision process by informing its members of key aspects of the project.
         *Graduated* projects.
 
     -   Release numbering: the project should use the Hyperledger
-        standard [release taxonomy](./release-taxonomy.md), once that is agreed upon.
+        standard [release taxonomy](release-taxonomy.md), once that is agreed upon.
 
-    -   Project must make a [release](./release-taxonomy.md), even a "developer preview",
+    -   Project must make a [release](release-taxonomy.md), even a "developer preview",
         before graduation.
 
 -   Infrastructure

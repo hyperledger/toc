@@ -1,7 +1,9 @@
 ---
 layout: default
 title:  Release Taxonomy
-nav_order: 7
+parent: Project Governance
+permalink: /projects/release-taxonomy
+nav_order: 3
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 

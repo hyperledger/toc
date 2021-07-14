@@ -1,7 +1,7 @@
 ---
 layout: default
 title: TSC members
-nav_order: 20
+nav_order: 6
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 

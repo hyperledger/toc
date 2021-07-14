@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Code of Conduct
-nav_order: 3
+nav_order: 5
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 

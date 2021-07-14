@@ -1,3 +1,11 @@
+---
+layout: default
+title: Repository Structure
+parent: Guidelines
+permalink: /guidelines/repository-structure
+nav_order: 1
+---
+[//]: # (SPDX-License-Identifier: CC-BY-4.0)
 # Common Repository Structure
 
 Hyperledger projects are required to maintain a standard set of files in each repository. This

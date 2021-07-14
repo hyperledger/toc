@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Project Lifecycle
-nav_order: 6
+parent: Project Governance
+permalink: /projects/lifecycle
+nav_order: 2
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
@@ -27,7 +29,7 @@ phases.
 Therefore Hyperledger has adopted a similar lifecycle process as
 follows:
 
-![Project lifecycle in graph format](project-lifecycle.svg "Project Lifecycle Graph").
+![Project lifecycle in graph format](../assets/project-lifecycle.svg "Project Lifecycle Graph").
 
 Projects are in one of six possible states:
 
@@ -81,7 +83,7 @@ to *Graduated* state.
 
 Projects seeking to graduate from *Incubation* must meet
 the criteria defined in the 
-[Incubation Exit Criteria](./project-incubation-exit.md) document.
+[Incubation Exit Criteria](project-incubation-exit.md) document.
 
 # Graduated
 
