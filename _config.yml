@@ -12,3 +12,5 @@ aux_links:
     - "//wiki.hyperledger.org/display/TSC/Technical+Steering+Committee+Home"
   "Chat":
     - "https://chat.hyperledger.org/channel/tsc"
+plugins:
+  - jekyll-remote-theme

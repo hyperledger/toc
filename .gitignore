@@ -1,2 +1,5 @@
 .jekyll-cache/*
 _site/*
+.idea
+Gemfile.lock
+.env
