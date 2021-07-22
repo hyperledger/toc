@@ -43,7 +43,7 @@ Repositories SHOULD have these files. Named files SHOULD be at the root of the r
     -   As per section 4 subsection d of the
         [Apache License, Version 2](https://www.apache.org/licenses/LICENSE-2.0)
 -   Apache License Header information in each source code file. \
-    This SHOULD include the snippet `SPDX-License-Identifier: Apache-2.0` as part of the header.
+    For new files added to Hyperledger repositories they SHOULD include the snippet `SPDX-License-Identifier: Apache-2.0` as part of the header. 
     (see the [Copyright and Licencing Policy](https://wiki.hyperledger.org/display/TSC/Copyright+and+License+Policy))
 -   Build files consistent with the implementation language, such as...
     -   For JavaScript/Node.js a `package.json` file
