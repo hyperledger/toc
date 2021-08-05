@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hyperledger TSC 
+title: Hyperledger TSC
 nav_order: 1
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
@@ -19,3 +19,4 @@ Guidelines:
 
 * [Repository Structure](./repository-structure.md)
 * [Maintainers Guidelines](./MAINTAINERS-guidelines.md)
+* [Project Incubation Entry Considerations](./project-incubation-entry-considerations.md)
