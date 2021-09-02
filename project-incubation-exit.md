@@ -94,11 +94,7 @@ decision process by informing its members of key aspects of the project.
     -   Mailing lists have been created and are archived
     -   Other communication means used, such as chat channels, are set up
     -   Project is set up with Continuous Integration
-    -   All information necessary for someone to join the community and
-        be able to start contributing is duly documented (location of
-        repo, list of maintainers, mailing lists addresses, slack
-        channels if used, etc) following Hyperledger standard practice
-        (CONTRIBUTING.md, MAINTAINERS.txt, etc)
+    -   All project repos have implemented the [common repository structure](./repository-structure.md)
 
 -   CII Badge
 
