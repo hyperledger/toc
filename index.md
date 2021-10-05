@@ -20,3 +20,4 @@ Guidelines:
 * [Repository Structure](./repository-structure.md)
 * [Maintainers Guidelines](./MAINTAINERS-guidelines.md)
 * [Project Incubation Entry Considerations](./project-incubation-entry-considerations.md)
+* [Raising an issue with the TSC](./raising-an-issue.md)

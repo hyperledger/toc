@@ -1,0 +1,7 @@
+# Raising an Issue with the Technical Steering Committee (TSC)
+
+Issues specific to a project should first be raised within the project itself. Each project provides a system such as GitHub Issues for this purpose, as well as the contact information for its maintainers. However, if the issue is broader in nature or if you are not satisfied with the disposition by the project you may bring it up to the TSC for consideration. Such examples include the case where a project is evolving in a different direction than what is expected or where the project falls short of meeting the expectations set by the original project proposal.
+
+There are several ways you can bring up an issue to the TSC. The most direct one is to simply open an issue in [the TSC GitHub repository](https://github.com/hyperledger/tsc/issues) or to send an email to [the TSC mailing list](https://lists.hyperledger.org/g/tsc/). Projects also submit [quarterly reports](https://wiki.hyperledger.org/display/TSC/TSC+Project+Updates) against which you can file a comment. Either way should get attention from the TSC.
+
+If you are unsure about how to proceed consider contacting one of the [Hyperledger Community Architects](https://wiki.hyperledger.org/display/CA/Community+Architects+Team) or one of the [TSC members](./tsc-members.md). Community Architects can easily be contacted via email [community-architects@hyperledger.org](mailto:community-architects@hyperledger.org) or chat [#community-architects](https://chat.hyperledger.org/channel/community-architects).
