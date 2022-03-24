@@ -13,7 +13,7 @@ There may be some projects that are intended to produce a document, such
 as a requirements or use cases document, a whitepaper, or analysis.
 Other projects develop a new capability, refactor, or remove an
 existing capability for the Hyperledger technology releases. Such
-projects may take the form of a new component (for example, a new repository) or
+projects may take the form of a new component (e.g., a new repository) or
 may propose additions, deletions, or changes to an existing
 repository or repositories.
 
