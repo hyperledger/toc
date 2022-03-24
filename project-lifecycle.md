@@ -43,7 +43,7 @@ and may go through several iterations.
 
 # Proposal
 
-Project Proposals are submitted to the [TSC](https://www.hyperledger.org/about/leadership)
+Project Proposals must be submitted to the [TSC](https://www.hyperledger.org/about/leadership)
 for review, using [Proposal Template](https://hyperledger.github.io/hyperledger-hip/).
 Proposals that are approved enter into an *Incubation* state, unless
 they are of a refactoring nature, in which case the project is turned over
@@ -62,8 +62,8 @@ A Proposal must:
 Approved project proposals enter into *Incubation*. For new
 components and modules, a repository is created under the
 [Hyperledger Github org](https://github.com/hyperledger)
-and optionally in [JIRA](https://jira.hyperledger.org), if requested. New
-features/capabilities must be handled through pull requests labeled
+. New
+features or capabilities must be handled through pull requests labeled
 with tags that identify the project and tag it as
 *incubator*. Pull requests ideally are capable of being enabled and disabled with feature-flags.
 
@@ -77,7 +77,7 @@ review by the TSC.
 
 Entering *Incubation* does not guarantee that the project will
 eventually get to the *Graduated* state. Projects may never get
-to *Graduated* state.
+to the *Graduated* state.
 
 Projects seeking to graduate from *Incubation* must meet
 the criteria defined in the 
@@ -93,7 +93,7 @@ are in the *Graduated* phase.
 # Dormant
 
 Projects enter the *Dormant* state when the normal functions are
-suspended or slowed down for a period of time. The TSC decides to move project to or from the *Dormant* state upon request.
+suspended or slowed down for a period of time. The TSC decides to move a project to or from the *Dormant* state upon request.
 If *Dormant* projects are re-activated, they re-enter the *Incubation*
 state even if they entered the *Dormant* state from the *Graduated* state.
 
@@ -104,8 +104,8 @@ rationale and identifying a substitute project or component, if any. The
 maintainers of the project shall vote on such a request and if it
 passes, make that recommendation to the TSC. Members of the community
 that disagree with the request can make their case before the TSC. The
-TSC will consider all points of view and render a final decision to
-deprecate or not deprecate.
+TSC will consider all points of view and render a final decision
+whether to deprecate.
 
 A *Deprecated* project will be maintained for a six month
 period by its community, after which it will be removed from any
