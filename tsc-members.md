@@ -17,7 +17,7 @@ nav_order: 20
 * [Danno Ferrin, Vice Chair][shemnon]
 * [David Enyeart][denyeart]
 * [Grace Hartley][gmhartley53]
-* [Hart Montgomery][hartm]
+* ~~Hart Montgomery~~
 * [Jim Zhang][jimthematrix]
 * [Kamlesh Nagware][knagware9]
 * [Nathan George][nage]
