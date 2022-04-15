@@ -22,3 +22,8 @@ Guidelines:
 * [Project Incubation Entry Considerations](./project-incubation-entry-considerations.md)
 * [Raising an issue with the TSC](./raising-an-issue.md)
 * [Task Force Guide](./task-force-guide.md)
+
+Miscellaneous:
+
+* [TSC Members](./tsc-members.md)
+* [TSC Responsibilities](./tsc-responsibilities.md)
