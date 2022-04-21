@@ -29,12 +29,13 @@ The [Hyperledger Charter](https://www.hyperledger.org/about/charter) states that
 
 TSC members are expected to:
 
+* Subscribe to the TSC mailing list and the Hyperledger Github organization to stay aware of the TSC related updates and issues.
 * Regularly participate in the [TSC Meetings](https://wiki.hyperledger.org/display/TSC/TSC+Meeting+Minutes)
 * Review the [TSC Project Updates](https://wiki.hyperledger.org/display/TSC/TSC+Project+Updates) and comment as needed in a timely manner
 * Bring up and help resolve any issues related to the needs of the Hyperledger technical community
 * Participate in, and optionally chair, the [Task Forces](https://wiki.hyperledger.org/display/TF/Task+Forces+Home) set up by the TSC to address specific issues
 * Attend one project meeting a month for a project with which they are unaffiliated and have not been a contributor (and, ideally, one that they have not attended before). See [TSC Issue #21](https://github.com/hyperledger/tsc/issues/21).
-* Act as stewards for Hyperledger promoting and helping grow the organization and its activities by engaging of their own accord in activities such as posting on social media, responding to questions raised in forums, helping new community members find their way around, and giving talks at conference on Hyperledger related topics.
+* Act as stewards for Hyperledger promoting and helping grow the organization and its activities by engaging of their own accord in activities such as posting on social media, responding to questions raised in forums, helping new community members find their way around, and giving talks at conferences on Hyperledger related topics.
 
 ## TSC Chair
 
