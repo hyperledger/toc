@@ -14,6 +14,7 @@ Governing Documents:
 * [Project Incubation Exit Criteria](./project-incubation-exit.md)
 * [Project Lifecycle](./project-lifecycle.md)
 * [Release Taxonomy](./release-taxonomy.md)
+* [Maintainer and Repository Inactivity](./inactivity.md)
 
 Guidelines:
 
