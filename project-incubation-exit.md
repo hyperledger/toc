@@ -106,15 +106,15 @@ decision process by informing its members of key aspects of the project.
 
     -   Participate in Hyperledger Foundation wide security discussions.
 
--   CII Badge
+-   OpenSSF Best Practices Badge
 
     A team seeking to graduate from *Incubation* shall have started the
-    CII Badge application and be nearly complete with incomplete badge
-    requirements referenced in their graduation proposal. That does not
-    mean the project must have 100% of all criteria, just 100% of the
-    applicable criteria. This is to allow for projects such as test
-    harnesses, that have "N/A" answers for questions that don\'t offer
-    that as an option.
+    OpenSSF Best Practices Badge application and be nearly complete with
+    incomplete badge requirements referenced in their graduation proposal.
+    That does not mean the project must have 100% of all criteria, just
+    100% of the applicable criteria. This is to allow for projects such
+    as test harnesses, that have "N/A" answers for questions that don\'t
+    offer that as an option.
 
 # Additional considerations
 
