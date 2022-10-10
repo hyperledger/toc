@@ -10,6 +10,7 @@ nav_order: 1
 Governing Documents:
 
 * [Antitrust Policy](./antitrust.md)
+* [Charter](./charter.md)
 * [Code of Conduct](./code-of-conduct.md)
 * [Project Incubation Exit Criteria](./project-incubation-exit.md)
 * [Project Lifecycle](./project-lifecycle.md)
