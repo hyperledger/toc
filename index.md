@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Hyperledger TSC
+title: Hyperledger TOC
 nav_order: 1
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
-# The Hyperledger Technical Steering Committee
+# The Hyperledger Technical Overight Committee
 
 Governing Documents:
 
@@ -22,10 +22,10 @@ Guidelines:
 * [Repository Structure](./repository-structure.md)
 * [Maintainers Guidelines](./MAINTAINERS-guidelines.md)
 * [Project Incubation Entry Considerations](./project-incubation-entry-considerations.md)
-* [Raising an issue with the TSC](./raising-an-issue.md)
+* [Raising an issue with the TOC](./raising-an-issue.md)
 * [Task Force Guide](./task-force-guide.md)
 
 Miscellaneous:
 
-* [TSC Members](./tsc-members.md)
-* [TSC Responsibilities](./tsc-responsibilities.md)
+* [TOC Members](./toc-members.md)
+* [TOC Responsibilities](./toc-responsibilities.md)

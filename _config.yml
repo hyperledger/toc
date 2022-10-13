@@ -1,14 +1,14 @@
 #theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 logo: "hyperledger-logo.png"
-url: "https://tsc.hyperledger.org"
-footer_content: "<a href=\"https://github.com/hyperledger/tsc\">Page generated from TSC repo on GitHub</a>"
+url: "https://toc.hyperledger.org"
+footer_content: "<a href=\"https://github.com/hyperledger/toc\">Page generated from TOC repo on GitHub</a>"
 aux_links:
   "About":
     - "//www.hyperledger.org/about/leadership#tsc"
   "GitHub":
-    - "//github.com/hyperledger/tsc"
+    - "//github.com/hyperledger/toc"
   "Wiki":
-    - "//wiki.hyperledger.org/display/TSC/Technical+Steering+Committee+Home"
+    - "//wiki.hyperledger.org/display/TSC/Technical+Oversight+Committee+Home"
   "Chat":
     - "https://chat.lfx.linuxfoundation.org/"

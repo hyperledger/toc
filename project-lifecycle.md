@@ -43,7 +43,7 @@ and may go through several iterations.
 
 # Proposal
 
-Project Proposals must be submitted to the [TSC](https://www.hyperledger.org/about/leadership)
+Project Proposals must be submitted to the [TOC](https://www.hyperledger.org/about/leadership)
 for review, using [Proposal Template](https://hyperledger.github.io/hyperledger-hip/).
 Proposals that are approved enter into an *Incubation* state, unless
 they are of a refactoring nature, in which case the project is turned over
@@ -73,7 +73,7 @@ community exploration of different ideas.
 
 After a project qualifies to be declared *Graduated*, the
 *project* maintainers can then vote to request a graduation
-review by the TSC.
+review by the TOC.
 
 Entering *Incubation* does not guarantee that the project will
 eventually get to the *Graduated* state. Projects may never get
@@ -93,7 +93,7 @@ are in the *Graduated* phase.
 # Dormant
 
 Projects enter the *Dormant* state when the normal functions are
-suspended or slowed down for a period of time. The TSC decides to move a project to or from the *Dormant* state upon request.
+suspended or slowed down for a period of time. The TOC decides to move a project to or from the *Dormant* state upon request.
 If *Dormant* projects are re-activated, they re-enter the *Incubation*
 state even if they entered the *Dormant* state from the *Graduated* state.
 
@@ -102,9 +102,9 @@ state even if they entered the *Dormant* state from the *Graduated* state.
 Anyone may propose that a project be *Deprecated* by submitting a
 rationale and identifying a substitute project or component, if any. The
 maintainers of the project shall vote on such a request and if it
-passes, make that recommendation to the TSC. Members of the community
-that disagree with the request can make their case before the TSC. The
-TSC will consider all points of view and render a final decision
+passes, make that recommendation to the TOC. Members of the community
+that disagree with the request can make their case before the TOC. The
+TOC will consider all points of view and render a final decision
 whether to deprecate.
 
 A *Deprecated* project will be maintained for a six month

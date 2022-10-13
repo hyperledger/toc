@@ -55,4 +55,4 @@ The `MAINTAINERS` file SHOULD contain information about how a maintainer is remo
 * [Hyperledger Transact (same as Sawtooth)](https://github.com/hyperledger/transact-rfcs/blob/master/text/0000-transact-governance.md#contributor-permission-levels)
 
 # References
-* [TSC Decision Log - Common Maintainers Management Policy](https://wiki.hyperledger.org/display/TSC/Common+Maintainers+management+policy)
+* [TOC Decision Log - Common Maintainers Management Policy](https://wiki.hyperledger.org/display/TSC/Common+Maintainers+management+policy)

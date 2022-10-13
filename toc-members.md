@@ -1,11 +1,11 @@
 ---
 layout: default
-title: TSC members
+title: TOC members
 nav_order: 20
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
-# The Hyperledger Technical Steering Committee
+# The Hyperledger Technical Oversight Committee
 
 2021-2022 term:
 
