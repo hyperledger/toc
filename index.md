@@ -5,7 +5,7 @@ nav_order: 1
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
-# The Hyperledger Technical Overight Committee
+# The Hyperledger Technical Oversight Committee
 
 Governing Documents:
 
