@@ -7,6 +7,20 @@ nav_order: 20
 
 # The Hyperledger Technical Oversight Committee
 
+2022-2023 term:
+
+* [Arnaud J Le Hors][lehors]
+* [Arun S M, Vice Chair][arsulegai]
+* [Bobbi Muscara][bobbijn]
+* [David Enyeart][denyeart]
+* [Jim Zhang][jimthematrix]
+* [Marcus Brandenburger][mbrandenburger]
+* [Peter Somogyvari][petermetz]
+* [Stephen Curran][swcurran]
+* [Timo Glastra][TimoGlastra]
+* [Tracy Kuhrt, Chair][tkuhrt]
+* [Venkatraman Ramakrishna][VRamakrishna]
+
 2021-2022 term:
 
 * [Angelo De Caro][adecaro]
@@ -117,19 +131,24 @@ These seats were determined by appointment, and membership was fluid.
 * Richard G. Brown
 * Charles Cai
 
+[C0rWin]: https://github.com/C0rWin
+[TimoGlastra]: https://github.com/TimoGlastra
+[VRamakrishna]: https://github.com/VRamakrishna
 [adecaro]: https://github.com/adecaro
 [arsulegai]: https://github.com/arsulegai
 [bobbijn]: https://github.com/bobbijn
-[C0rWin]: https://github.com/C0rWin
 [denyeart]: https://github.com/denyeart
 [gmhartley53]: https://github.com/gmhartley53
 [hartm]: https://github.com/hartm
 [jimthematrix]: https://github.com/jimthematrix
 [knagware9]: https://github.com/knagware9
 [lehors]: https://github.com/lehors
+[mbrandenburger]: https://github.com/mbrandenburger
 [nage]: https://github.com/nage
 [petermetz]: https://github.com/petermetz
 [shemnon]: https://github.com/shemnon
+[swcurran]: https://github.com/swcurran
 [tkuhrt]: https://github.com/tkuhrt
 [troyronda]: https://github.com/troyronda
 [yeasy]: https://github.com/yeasy
+
