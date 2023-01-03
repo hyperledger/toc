@@ -11,7 +11,7 @@ nav_order: 20
 
 * [Arnaud J Le Hors][lehors]
 * [Arun S M, Vice Chair][arsulegai]
-* [Bobbi Muscara][bobbijn]
+* [Bobbi Muscara][bobbi28]
 * [David Enyeart][denyeart]
 * [Jim Zhang][jimthematrix]
 * [Marcus Brandenburger][mbrandenburger]
@@ -27,7 +27,7 @@ nav_order: 20
 * [Arnaud J Le Hors][lehors]
 * [Artem Barger][C0rWin]
 * [Arun S M][arsulegai]
-* [Bobbi Muscara][bobbijn]
+* [Bobbi Muscara][bobbi28]
 * [Danno Ferrin, Vice Chair][shemnon]
 * [David Enyeart][denyeart]
 * [Grace Hartley][gmhartley53]
@@ -45,7 +45,7 @@ nav_order: 20
 * [Arnaud J Le Hors, Chair][lehors]
 * [Arun S M][arsulegai]
 * [Baohua Yang][yeasy]
-* [Bobbi Muscara][bobbijn]
+* [Bobbi Muscara][bobbi28]
 * [Danno Ferrin][shemnon]
 * [David Enyeart][denyeart]
 * [Gari Singh](https://github.com/mastersingh24)
@@ -136,7 +136,7 @@ These seats were determined by appointment, and membership was fluid.
 [VRamakrishna]: https://github.com/VRamakrishna
 [adecaro]: https://github.com/adecaro
 [arsulegai]: https://github.com/arsulegai
-[bobbijn]: https://github.com/bobbijn
+[bobbi28]: https://github.com/bobbi28
 [denyeart]: https://github.com/denyeart
 [gmhartley53]: https://github.com/gmhartley53
 [hartm]: https://github.com/hartm
