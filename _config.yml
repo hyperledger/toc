@@ -1,4 +1,8 @@
 #theme: just-the-docs
+title: "Hyperledger TOC"
+show_downloads: "false"
+has_children: true
+has_toc: true
 remote_theme: pmarsceill/just-the-docs
 logo: "hyperledger-logo.png"
 url: "https://toc.hyperledger.org"

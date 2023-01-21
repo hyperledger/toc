@@ -18,7 +18,7 @@ Project updates are:
 - suggested as a point of reference by the Learning Materials Development WG to newcomers to determine if a project would be worth joining based on information like the contributor diversity, as well as, the type of feature work that is ongoing within the project
 
 # Instructions for Filing
-1. Copy the `0000-template.md` file to the subdirectory for the current year and name the file `YYYY-Qn-Project-Name` (e.g., `2023-Q1-Hyperledger-Iroha`). 
+1. Copy the `0000-template.md` file to the subdirectory for the current year and name the file `YYYY-Qn-Project-Name` (e.g., `2023-Q1-Hyperledger-Iroha.md`).
 1. Update the information at the top of the file:
     - change the `parent` line to `YYYY` (e.g., `parent: 2023`)
     - change the `grand_parent` to `Project Updates` (i.e., `grand_parent: Project Updates`)
