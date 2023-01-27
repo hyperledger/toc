@@ -3,7 +3,7 @@ layout: default
 title: Project Lifecycle
 parent: Governing Documents
 grand_parent: Hyperledger TOC
-nav_order: 6
+nav_order: 4
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
