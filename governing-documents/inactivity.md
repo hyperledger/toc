@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Maintainer and Repository Inactivity
-nav_order: 6
+parent: Governing Documents
+nav_order: 5
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  Release Taxonomy
+parent: Governing Documents
 nav_order: 7
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)

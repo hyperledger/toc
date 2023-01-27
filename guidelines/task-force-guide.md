@@ -1,3 +1,9 @@
+---
+layout: default
+title: Task Force
+parent: Guidelines
+nav_order: 5
+---
 # Task Force
 
 A _task force_ is a group that is focused on a task with limited scope and fixed time to complete. A task force can be created by anyone in the Hyperledger community and must be proposed to and approved by the TOC.

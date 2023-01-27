@@ -1,3 +1,9 @@
+---
+layout: default
+title: Project Incubation Entry Considerations
+parent: Guidelines
+nav_order: 3
+---
 # Project Incubation Entry Considerations
 This document provides information to help people who are considering bringing their projects to Hyperledger for [Incubation](./project-lifecycle.md#incubation). Specifically, it will outline items that the TOC will take into consideration when evaluating the project, as well as, some best practices that have been followed by other projects prior to the project proposal being submitted to the TOC. Our hope is that this document will smooth the entry process for new projects being proposed. The [project proposal process](./project-lifecycle.md#proposal) and the [template for project proposals](https://hyperledger.github.io/hyperledger-hip/) are outlined outside of this document. The goal of Incubation within Hyperledger is to provide a space for projects that have high potential to grow in the community. Ideas should start in [Hyperledger Labs](https://labs.hyperledger.org/).
 

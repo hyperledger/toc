@@ -1,3 +1,9 @@
+---
+layout: default
+title: Common Repository Structure
+parent: Guidelines
+nav_order: 1
+---
 # Common Repository Structure
 
 Hyperledger projects are required to maintain a standard set of files in each repository. This

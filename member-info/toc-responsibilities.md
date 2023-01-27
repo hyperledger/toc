@@ -1,7 +1,8 @@
 ---
 layout: default
 title: TOC responsibilities
-nav_order: 21
+parent: Member Info
+nav_order: 2
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
