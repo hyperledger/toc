@@ -5,7 +5,7 @@ grand_parent: Hyperledger TOC
 nav_exclude: true
 ---
 
-<mark>_Copy this template to the subdirectory for the current year and name the page `YYYY-Qn-Project-Name` (e.g., `2023-Q1-Hyperledger-Iroha`). Update the information above to change the `parent` to `YYYY` (e.g., 2023), the `grand_parent` to `Project Updates`, and remove the `nav_exclude` line. Text between `<mark></mark>` are instructions. Please remove when section has been completed._
+<mark>_Copy this template to the subdirectory for the current year and name the file `YYYY-Qn-Project-Name` (e.g., `2023-Q1-Hyperledger-Iroha`). Update the information above to change the `parent` to `YYYY` (e.g., 2023), the `grand_parent` to `Project Updates`, and remove the `nav_exclude` line. Text between `<mark></mark>` are instructions. Please remove when section has been completed._
 </mark>
 
 # Project Health
@@ -18,13 +18,13 @@ nav_exclude: true
 </mark>
 
 - Have you switched from master to main in all your repos?
-- Have you implemented the Common Repository Structure in all your repos?
-- Has your project implemented these inclusive language changes listed below to your repo? You can optionally use the DCI Lint tool to make this a recurring action on your repo.
+- Have you implemented the [Common Repository Structure](../guidelines/repository-structure.md) in all your repos?
+- Has your project implemented these inclusive language changes listed below to your repo? You can optionally [use the DCI Lint tool](https://github.com/petermetz/gh-action-dci-lint#usage) to make this a recurring action on your repo.
   - master → main
   - slave → replicas
   - blacklist → denylist
   - whitelist → allowlist
-- Have you added an Inclusive Language Statement to your project's documentation and/or Wiki pages?
+- Have you added an [Inclusive Language Statement](https://wiki.hyperledger.org/display/TSC/Inclusive+Language+Example) to your project's documentation and/or Wiki pages?
 
 # Questions/Issues for the TSC
 
