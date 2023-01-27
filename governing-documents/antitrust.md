@@ -2,6 +2,7 @@
 layout: default
 title: Antitrust Policy Notice
 parent: Governing Documents
+grand_parent: Hyperledger TOC
 nav_order: 1
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)

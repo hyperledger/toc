@@ -2,6 +2,7 @@
 layout: default
 title: Common Repository Structure
 parent: Guidelines
+grand_parent: Hyperledger TOC
 nav_order: 1
 ---
 # Common Repository Structure

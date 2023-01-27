@@ -2,6 +2,7 @@
 layout: default
 title: TOC members
 parent: Member Info
+grand_parent: Hyperledger TOC
 nav_order: 1
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)

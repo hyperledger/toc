@@ -2,6 +2,7 @@
 layout: default
 title: Hyperledger Foundation Charter
 parent: Governing Documents
+grand_parent: Hyperledger TOC
 nav_order: 2
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)

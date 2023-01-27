@@ -2,6 +2,7 @@
 layout: default
 title: Project Incubation Entry Considerations
 parent: Guidelines
+grand_parent: Hyperledger TOC
 nav_order: 3
 ---
 # Project Incubation Entry Considerations
