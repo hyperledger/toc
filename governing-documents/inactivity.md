@@ -2,6 +2,7 @@
 layout: default
 title: Maintainer and Repository Inactivity
 parent: Governing Documents
+grand_parent: Hyperledger TOC
 nav_order: 5
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)

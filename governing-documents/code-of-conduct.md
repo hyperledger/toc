@@ -2,6 +2,7 @@
 layout: default
 title: Code of Conduct
 parent: Governing Documents
+grand_parent: Hyperledger TOC
 nav_order: 3
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
