@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Project Incubation Exit Criteria
-nav_order: 5
+parent: Governing Documents
+nav_order: 4
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Project Lifecycle
+parent: Governing Documents
 nav_order: 6
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)

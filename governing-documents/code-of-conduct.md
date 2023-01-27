@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Code of Conduct
+parent: Governing Documents
 nav_order: 3
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Raising an Issue
+parent: Guidelines
+nav_order: 4
+---
 # Raising an Issue with the Technical Oversight Committee (TOC)
 
 Issues specific to a project should first be raised within the project itself. Each project provides a system such as GitHub Issues for this purpose, as well as the contact information for its maintainers. However, if the issue is broader in nature or if you are not satisfied with the disposition by the project you may bring it up to the TOC for consideration. Such examples include the case where a project is evolving in a different direction than what is expected or where the project falls short of meeting the expectations set by the original project proposal.
