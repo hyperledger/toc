@@ -3,6 +3,7 @@ layout: default
 title: Project Updates
 parent: Hyperledger TOC
 has_children: true
+child_nav_order: reversed
 has_toc: true
 nav_order: 4
 ---
