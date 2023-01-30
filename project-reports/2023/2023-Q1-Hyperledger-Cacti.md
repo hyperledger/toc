@@ -65,65 +65,67 @@ documentation and/or Wiki pages?  **Yes**</span>
 1.  Major Cactus updates as merged pull-requests
 1.  interoperability with ledgers:
 1.   \[new\_feature\] Iroha: add support for Iroha V2
-1.  <a href="https://github.com/hyperledger/cactus/commit/db789690b64d68b3dda70578127338bdc02e92bd" class="external-link" rel="nofollow">https://github.com/hyperledger/cactus/commit/db789690b64d68b3dda70578127338bdc02e92bd</a>
-2.  <a href="https://github.com/hyperledger/cactus/commit/6ff6aac7fff4669fca873ef40ae6b0818e70b5ec" class="external-link" rel="nofollow">https://github.com/hyperledger/cactus/commit/6ff6aac7fff4669fca873ef40ae6b0818e70b5ec</a>
-2.  \[new\_feature\] Ubiquity SDK: initial version
-1.  <a href="https://github.com/hyperledger/cactus/commit/7c597907910bd5cac919c855a3bfa9e533b6d5dd" class="external-link" rel="nofollow">https://github.com/hyperledger/cactus/commit/7c597907910bd5cac919c855a3bfa9e533b6d5dd</a>
-3.  \[update\] Fabric: add WatchBlocks endpoint
-1.  <a href="https://github.com/hyperledger/cactus/commit/0f670855b0fa0fd33f71bf5a1814fb6fcac2c7b6" class="external-link" rel="nofollow">https://github.com/hyperledger/cactus/commit/0f670855b0fa0fd33f71bf5a1814fb6fcac2c7b6</a>
-4.  \[update\] Fabric: add transactions signed on the client
+    1.  interoperability with ledgers:
+        1.   \[new\_feature\] Iroha: add support for Iroha V2
+            1.  <a href="https://github.com/hyperledger/cactus/commit/db789690b64d68b3dda70578127338bdc02e92bd" class="external-link" rel="nofollow">https://github.com/hyperledger/cactus/commit/db789690b64d68b3dda70578127338bdc02e92bd</a>
+            2.  <a href="https://github.com/hyperledger/cactus/commit/6ff6aac7fff4669fca873ef40ae6b0818e70b5ec" class="external-link" rel="nofollow">https://github.com/hyperledger/cactus/commit/6ff6aac7fff4669fca873ef40ae6b0818e70b5ec</a>
+        2.  \[new\_feature\] Ubiquity SDK: initial version
+            1.  <a href="https://github.com/hyperledger/cactus/commit/7c597907910bd5cac919c855a3bfa9e533b6d5dd" class="external-link" rel="nofollow">https://github.com/hyperledger/cactus/commit/7c597907910bd5cac919c855a3bfa9e533b6d5dd</a>
+        3.  \[update\] Fabric: add WatchBlocks endpoint
+            1.  <a href="https://github.com/hyperledger/cactus/commit/0f670855b0fa0fd33f71bf5a1814fb6fcac2c7b6" class="external-link" rel="nofollow">https://github.com/hyperledger/cactus/commit/0f670855b0fa0fd33f71bf5a1814fb6fcac2c7b6</a>
+        4.  \[update\] Fabric: add transactions signed on the client
 side
-1.  <a href="https://github.com/hyperledger/cactus/commit/0b34ca3d35a39826c05cc047e480d377c1c52bef" class="external-link" rel="nofollow">https://github.com/hyperledger/cactus/commit/0b34ca3d35a39826c05cc047e480d377c1c52bef</a>
-5.  \[update\] ODAP: decouple the gateway implementation from
+            1.  <a href="https://github.com/hyperledger/cactus/commit/0b34ca3d35a39826c05cc047e480d377c1c52bef" class="external-link" rel="nofollow">https://github.com/hyperledger/cactus/commit/0b34ca3d35a39826c05cc047e480d377c1c52bef</a>
+        5.  \[update\] ODAP: decouple the gateway implementation from
 any ledger
-1.  <a href="https://github.com/hyperledger/cactus/commit/6975fefd4994cc9c6dd7d649dc2d6400646a59ae" class="external-link" rel="nofollow">https://github.com/hyperledger/cactus/commit/6975fefd4994cc9c6dd7d649dc2d6400646a59ae</a>
-2.  support features:
-1.  \[update\] support multiple business-logic-plugins in the
+            1.  <a href="https://github.com/hyperledger/cactus/commit/6975fefd4994cc9c6dd7d649dc2d6400646a59ae" class="external-link" rel="nofollow">https://github.com/hyperledger/cactus/commit/6975fefd4994cc9c6dd7d649dc2d6400646a59ae</a>
+    2.  support features:
+        1.  \[update\] support multiple business-logic-plugins in the
 single server
-1.  <a href="https://github.com/hyperledger/cactus/commit/0f670855b0fa0fd33f71bf5a1814fb6fcac2c7b6" class="external-link" rel="nofollow">https://github.com/hyperledger/cactus/commit/0f670855b0fa0fd33f71bf5a1814fb6fcac2c7b6</a>
+            1.  <a href="https://github.com/hyperledger/cactus/commit/0f670855b0fa0fd33f71bf5a1814fb6fcac2c7b6" class="external-link" rel="nofollow">https://github.com/hyperledger/cactus/commit/0f670855b0fa0fd33f71bf5a1814fb6fcac2c7b6</a>
 2.   Major Weaver updates as merged pull requests (\* These will be
 merged in Cacti V2-alpha release in Q1 2023)
-1.  ERC-token support for Besu networks engaging in asset swaps
-1.  <a href="https://github.com/hyperledger-labs/weaver-dlt-interoperability/pull/299" class="external-link" rel="nofollow">https://github.com/hyperledger-labs/weaver-dlt-interoperability/pull/299</a>
-2.  Identity syncing across Fabric networks using
+    1.  ERC-token support for Besu networks engaging in asset swaps
+        1.  <a href="https://github.com/hyperledger-labs/weaver-dlt-interoperability/pull/299" class="external-link" rel="nofollow">https://github.com/hyperledger-labs/weaver-dlt-interoperability/pull/299</a>
+    2.  Identity syncing across Fabric networks using
 organization-specific agents running a flow
-1.  <a href="https://github.com/hyperledger-labs/weaver-dlt-interoperability/pull/322" class="external-link" rel="nofollow">https://github.com/hyperledger-labs/weaver-dlt-interoperability/pull/322</a>
-2.  <a href="https://github.com/hyperledger-labs/weaver-dlt-interoperability/pull/316" class="external-link" rel="nofollow">https://github.com/hyperledger-labs/weaver-dlt-interoperability/pull/316</a>
+        1.  <a href="https://github.com/hyperledger-labs/weaver-dlt-interoperability/pull/322" class="external-link" rel="nofollow">https://github.com/hyperledger-labs/weaver-dlt-interoperability/pull/322</a>
+        2.  <a href="https://github.com/hyperledger-labs/weaver-dlt-interoperability/pull/316" class="external-link" rel="nofollow">https://github.com/hyperledger-labs/weaver-dlt-interoperability/pull/316</a>
 3.  Created a draft architecture diagram for Cacti as a fusion of Cactus
 and Weaver, with the goal of providing a flexible or customizable
 interoperability toolkit 
-1.  The architecture has been brushed-up among weekly maintainer
+    1.  The architecture has been brushed-up among weekly maintainer
 calls.  This will be started to be referred on the next release
 (Cacti V2-beta on Q1-Q2)
-2.  The architectural evolution is called out in two distinct
+    2.  The architectural evolution is called out in two distinct
 phases:
-1.  A common platform and toolkit with Cactus and Weaver modules
+        1.  A common platform and toolkit with Cactus and Weaver modules
 and libraries coexisting and solving similar purposes
-2.  An integrated platform and toolkit with similar-purpose
+        2.  An integrated platform and toolkit with similar-purpose
 modules and libraries from Cactus and Weaver fused into
 common Cacti modules and libraries
 
 # Current Plans
 
 1.  Release plan:
-1.  Cacti V2-alpha (Q1): The first proto version of Cacti combining
+    1.  Cacti V2-alpha (Q1): The first proto version of Cacti combining
 the original Cactus and Weaver
-2.  Cacti V2-beta (Q1-Q2): The first version of Cacti based on the
+    2.  Cacti V2-beta (Q1-Q2): The first version of Cacti based on the
 new architecture (combined with the strengths of Cactus and
 Weaver)
 2.  Other features:
-1.  Cacti Transaction GUI feature (Q1)
-2.  DID registry-based identity management for cross-network data
+    1.  Cacti Transaction GUI feature (Q1)
+    2.  DID registry-based identity management for cross-network data
 sharing
-3.  Automated relay-based asset swaps using cross-network events
-4.  Supporting data sharing (with proof generation and validation)
+    3.  Automated relay-based asset swaps using cross-network events
+    4.  Supporting data sharing (with proof generation and validation)
 in for Fabric PDCs
-5.  Supporting data sharing (with proof generation and validation)
+    5.  Supporting data sharing (with proof generation and validation)
 in Besu networks
 3.  Standardization:
-1.  Track the Secure Asset Transfer (SAT) group's efforts toward
+    1.  Track the Secure Asset Transfer (SAT) group's efforts toward
 forming an official IETF Working Group
-2.  If it becomes an official WG, influence and comply (i.e., in
+    2.  If it becomes an official WG, influence and comply (i.e., in
 Cacti code) with protocol drafts (eventually RFCs) for
 interoperability standards
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2020 Q1 Hyperledger Avalon-Project-Update
+title: 2020 Q1 Hyperledger Avalon
 parent: 2020
 grand_parent: Project Updates
 has_children: false
