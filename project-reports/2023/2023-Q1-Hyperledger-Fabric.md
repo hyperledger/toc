@@ -34,10 +34,10 @@ inclusive language changes listed below to your repo? You can
 optionally
 <a href="https://github.com/petermetz/gh-action-dci-lint#usage" class="external-link" rel="nofollow">use the DCI Lint tool</a> to
 make this a recurring action on your repo. Yes
-1.  master → main
-2.  slave → replicas
-3.  blacklist → denylist
-4.  whitelist → allowlist
+    1.  master → main
+    2.  slave → replicas
+    3.  blacklist → denylist
+    4.  whitelist → allowlist
 4.  <span style="color: rgb(23,43,77);text-decoration: none;"> <span style="color: rgb(23,43,77);">Have you added an <a href="https://wiki.hyperledger.org/display/TSC/Inclusive+Language+Example" rel="nofollow">Inclusive Language Statement</a> to your project's
 documentation and/or Wiki pages? Yes</span>
 
