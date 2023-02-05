@@ -54,7 +54,7 @@ Created by Stephen Curran.
 
 A major milestone was hit in the Hyperledger Indy project this quarter.  The
 Indy Node Continuous Integration/Continuous Delivery (CI/CD) pipeline to
-automated the build, testing and publishing of the Indy ledger artifacts was
+automate the build, testing and publishing of the Indy ledger artifacts was
 completed. We now have Indy Node release candidates in place based on Ubuntu
 20.04, and being used in live Indy instances. The process is fully automated,
 including the execution of the [indy-test-automation] tests. Tags in either
@@ -88,10 +88,10 @@ will simplify the transition to "did:indy".
 
 [anoncreds-rs]: https://github.com/hyperledger/anoncreds-rs
 
-Per the [Indy Activity Dashboard (2022-10 to 2022-12)], there were 100 commits
+Per the [Indy Quarterly Activity Dashboard], there were 100 commits
 (almost double from last quarter) from 13 contributors (up one).
 
-[Indy Activity Dashboard (2022-10 to 2022-12)]: https://insights.lfx.linuxfoundation.org/projects/hyperledger%2Findy/dashboard;subTab=technical?time=%7B%22from%22:%222022-10-01T07:00:00.000Z%22,%22type%22:%22absolute%22,%22to%22:%222022-12-31T07:00:00.000Z%22%7D
+[Indy Quarterly Activity Dashboard]: https://insights.lfx.linuxfoundation.org/projects/hyperledger%2Findy/dashboard;subTab=technical?time=%7B%22from%22:%222022-10-01T07:00:00.000Z%22,%22type%22:%22absolute%22,%22to%22:%222022-12-31T07:00:00.000Z%22%7D
 
 ## Questions/Issues for the TSC
 
@@ -141,22 +141,20 @@ Node to the new Ubuntu 20.04-based releases.
 
 ## Maintainer Diversity
 
-The bi-weekly Indy Contributors call continues to be the medium by which
-maintainers coordinate work, discuss critical issues to the Indy
-codebase, and agree on larger changes. Topics and attendance has
-increased recently, with more and more interested parties showing up,
-and new contributors weighing in on the conversations.
+No change the Maintainers this quarter.
 
 ## Contributor Diversity
 
-The edX course about Indy, Aries, AnonCreds, and Ursa ([LFS172x - Introduction
-to Hyperledger Self Sovereign Identity Blockchain Solutions]) was updated
-recently, with the new version launched in January 2023.
-
-[LFS172x - Introduction to Hyperledger Self Sovereign Identity Blockchain Solutions]: https://www.edx.org/course/identity-in-hyperledger-aries-indy-and-ursa
+See the [Indy Activity Quarterly Dashboard] for information about contributors
+this quarter.
 
 ## Additional Information
 
 - Key channels on Hyperledger Discord: \#indy, \#indy-sdk,
 \#indy-node, \#indy-maintainers, \#indy-vdr
 - [Indy Mailing List](https://lists.hyperledger.org/g/indy)
+- The edX course about Indy, Aries, AnonCreds, and Ursa ([LFS172x - Introduction
+to Hyperledger Self Sovereign Identity Blockchain Solutions]) was updated
+recently, with the new version launched in January 2023.
+
+   - [LFS172x - Introduction to Hyperledger Self Sovereign Identity Blockchain Solutions]: https://www.edx.org/course/identity-in-hyperledger-aries-indy-and-ursa
