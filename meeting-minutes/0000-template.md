@@ -20,7 +20,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 # Quarterly reports
 * <mark>_List the quarterly reports that have been received._
 </mark>
-* Please review any [outstanding quarterly reports](https://github.com/hyperledger/toc/labels/quarterly-report).
+* Please review any [outstanding quarterly reports](https://github.com/hyperledger/toc/pulls?q=is%3Apr+is%3Aopen+label%3Aquarterly-report+user-review-requested%3A%40me).
 
 # Upcoming reports
 <mark>_List the upcoming reports, including delayed reports with the original required date. for instance: https://lists.hyperledger.org/g/toc/message/1966_
@@ -43,8 +43,9 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 </mark>
 
 # Recordings
+* Links to be added upon completion of call
 
-# Attended by:
+# Attended by
 * [ ] Arnaud J Le Hors
 * [ ] Arun S M
 * [ ] Bobbi Muscara

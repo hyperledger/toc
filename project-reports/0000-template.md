@@ -5,7 +5,7 @@ grand_parent: Hyperledger TOC
 nav_exclude: true
 ---
 
-<mark>_Copy this template to the subdirectory for the current year and name the file `YYYY-Qn-Project-Name` (e.g., `2023-Q1-Hyperledger-Iroha`). Update the information above to change the `parent` to `YYYY` (e.g., 2023), the `grand_parent` to `Project Updates`, and remove the `nav_exclude` line. Text between `<mark></mark>` are instructions. Please remove when section has been completed._
+<mark>_Copy this template to the subdirectory for the current year and name the file `YYYY-Qn-Project-Name.md` (e.g., `2023-Q1-Hyperledger-Iroha.md`). Update the information above to change the `parent` to `YYYY` (e.g., 2023), the `grand_parent` to `Project Updates`, and remove the `nav_exclude` line. Text between `<mark></mark>` are instructions. Please remove when section has been completed._
 </mark>
 
 # Project Health
