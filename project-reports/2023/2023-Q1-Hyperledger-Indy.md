@@ -145,7 +145,7 @@ No change the Maintainers this quarter.
 
 ## Contributor Diversity
 
-See the [Indy Activity Quarterly Dashboard] for information about contributors
+See the [Indy Quarterly Activity Dashboard] for information about contributors
 this quarter.
 
 ## Additional Information
@@ -156,5 +156,6 @@ this quarter.
 - The edX course about Indy, Aries, AnonCreds, and Ursa ([LFS172x - Introduction
 to Hyperledger Self Sovereign Identity Blockchain Solutions]) was updated
 recently, with the new version launched in January 2023.
+  - [LFS172x - Introduction to Hyperledger Self Sovereign Identity Blockchain Solutions]
 
-   - [LFS172x - Introduction to Hyperledger Self Sovereign Identity Blockchain Solutions]: https://www.edx.org/course/identity-in-hyperledger-aries-indy-and-ursa
+[LFS172x - Introduction to Hyperledger Self Sovereign Identity Blockchain Solutions]: https://www.edx.org/course/identity-in-hyperledger-aries-indy-and-ursa
