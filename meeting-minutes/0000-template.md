@@ -4,8 +4,11 @@ parent: Meeting Minutes
 grand_parent: Hyperledger TOC
 nav_exclude: true
 ---
-<mark>_Copy this template to the subdirectory for the current year and name the file `YYYY-MM-DD-TOC-meeting-record.md` (e.g., `2023-02-02-TOC-meeting-record.md`). Update the information above to change the `parent` to `YYYY` (e.g., 2023), the `grand_parent` to `Meeting Minutes`, and remove the `nav_exclude` line. Text between `<mark></mark>` are instructions. Please remove when section has been completed._
+<mark>_Copy this template to the subdirectory for the current year and name the file `YYYY-MM-DD-TOC-meeting-record.md` (e.g., `2023-02-02-TOC-meeting-record.md`). Update the information above to change the `parent` to `YYYY` (e.g., 2023), the `grand_parent` to `Meeting Minutes`, and remove the `nav_exclude` line. Update the links below to reflect the appropriate image location (e.g., `../images/`). Text between `<mark></mark>` are instructions. Please remove when section has been completed._
 </mark>
+
+![Antitrust Policy Notice](images/antitrust-policy-notice.png "Antitrust Policy Notice")
+![All are Welcome in the Hyperledger Community](images/all-are-welcome.png "All are Welcome in the Hyperledger Community")
 
 Hyperledger is committed to creating a safe and welcoming community for all. For more information please visit our Code of Conduct: [Hyperledger Code of Conduct](https://toc.hyperledger.org/governing-documents/code-of-conduct.html)
 
