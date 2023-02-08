@@ -62,9 +62,9 @@ Maintainers are distributed across Bitwise IO, Cargill, Intel, and Walmart Labs.
 
 # Contributor Diversity
 
-Commits from 2022-10-26 to 2023-01-28 :  19
-Committers from 2022-10-26 to 2023-01-28 :  3
-Domains from 2022-10-26 to 2023-01-28 :  2
+- Commits from 2022-10-26 to 2023-01-28 :  19
+- Committers from 2022-10-26 to 2023-01-28 :  3
+- Domains from 2022-10-26 to 2023-01-28 :  2
 
 # Additional Information
 
