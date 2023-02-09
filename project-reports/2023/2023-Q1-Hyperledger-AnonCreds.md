@@ -61,19 +61,20 @@ be removed from the AnonCreds API, and most of the changes have been to clean va
 
 In addition to developing the Rust implementations, wrappers for JavaScript and Python have been created/evolved and GitHub Actions have been created to automated builds and release publishing.
 
-Documentation updates in the Rust implementation repo needs attention.
-
 On November 28, 2022, we had a presentation from Mike Lodder who has been involved with AnonCreds since the early
 days of the Indy implementation. He provided a proposal for how to evolve AnonCreds from the current v1.0 specification to a v2.0 that retains (and extends in some places) the key privacy preserving features of AnonCreds with updated cryptographic primitives. The meeting agenda, notes and recordings are available [here](https://wiki.hyperledger.org/display/ANONCREDS/2022-11-28+AnonCreds+Specification+Working+Group+Meeting). Definitely worth listening to the presentation!
 
-There is no AnonCreds Quarterly Activity report available on the LFX Insights page. We will update this report to include the report when it becomes available.
+There is no AnonCreds Quarterly Activity report available on the LFX Insights page. We will update this report to include the report when it becomes available. We do have [this information](https://insights-v2.lfx.linuxfoundation.org/anoncreds/trends) for the rolling past year activity on the project.
 
-[AnonCreds Quarterly Activity Dashboard]: https://insights.lfx.linuxfoundation.org/projects/hyperledger%2Fanoncreds/dashboard;subTab=technical?time=%7B%22from%22:%222022-10-01T07:00:00.000Z%22,%22type%22:%22absolute%22,%22to%22:%222022-12-31T07:00:00.000Z%22%7D
+[AnonCreds Quarterly Activity Dashboard]: https://insights-v2.lfx.linuxfoundation.org/anoncreds/trends?selectedDateFilterType=DATERANGE&selectedDateRangeKey=90D
 
 ## Current Plans
 
 Work on the first release is nearing completion -- the first goal of the project. This work, combined with the efforts
-in the Hyperledger Indy project to eliminate the Indy SDK will mean the quick adoption of AnonCreds into the Aries frameworks. Once we have an initial release, we'll explore the use of AnonCreds outside of the Indy and even outside of Aries.
+in the Hyperledger Indy project to eliminate the Indy SDK will mean the quick adoption of AnonCreds into the Aries frameworks. in parallel with the specification and implementation effort is the integration of AnonCreds with other
+projects, including [Cheqd](https://cheqd.io) and [Cardano](https://cardano.org/).
+
+Documentation updates in the Rust implementation repo needs attention.
 
 ## Maintainer Diversity
 
