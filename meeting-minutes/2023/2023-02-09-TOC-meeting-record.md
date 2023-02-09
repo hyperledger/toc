@@ -28,7 +28,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * Task Force Discussion - [Security Vulnerability Disclosure](https://github.com/hyperledger/toc/issues/48) - @arsulegai
 
 # Recordings
-* Links to be added upon completion of call
+* [YouTube](https://youtu.be/gtzjRwst_vU)
 
 # Attended by
 * [x] Arnaud J Le Hors
@@ -36,9 +36,9 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * [x] Bobbi Muscara
 * [x] David Enyeart
 * [x] Jim Zhang
-* [x] Marcus Brandenburger 
+* [x] Marcus Brandenburger
 * [x] Peter Somogyvari
-* [x] Ramakrishna V 
-* [x] Stephen Curran 
+* [x] Ramakrishna V
+* [x] Stephen Curran
 * [x] Timo Glastra
 * [x] Tracy Kuhrt
