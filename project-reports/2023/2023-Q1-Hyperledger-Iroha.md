@@ -27,7 +27,7 @@ There will be a release for the [`Iroha v2.0.0-pre-rc.13`](https://github.com/hy
 
 # Overall Activity in the Past Quarter
 
-According to the [Iroha Activity Dashboard](https://insights.lfx.linuxfoundation.org/projects/hyperledger%2Firoha/dashboard;subTab=technical?time=%7B%22from%22:%222022-10-01T07:00:00.000Z%22,%22type%22:%22absolute%22,%22to%22:%222022-12-31T07:00:00.000Z%22%7D) for the fourth quarter of 2022 (October-December), Iroha repo has 143 PRs submitted from 28 contributors.
+According to the [Iroha Activity Dashboard](https://insights.lfx.linuxfoundation.org/projects/hyperledger%2Firoha/dashboard;subTab=technical?time=%7B%22from%22:%222022-10-01T07:00:00.000Z%22,%22type%22:%22absolute%22,%22to%22:%222022-12-31T07:00:00.000Z%22%7D) for the fourth quarter of 2022 (October-December), the Iroha repo has 143 PRs submitted from 28 contributors.
 
 ## Iroha v1
 
