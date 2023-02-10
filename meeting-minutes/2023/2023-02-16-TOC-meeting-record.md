@@ -1,8 +1,8 @@
 ---
 layout: default
 title: 2023-02-16 TOC Meeting Record
-parent: Meeting Minutes
-grand_parent: Hyperledger TOC
+parent: 2023
+grand_parent: Meeting Minutes
 ---
 ![Antitrust Policy Notice](../images/antitrust-policy-notice.png "Antitrust Policy Notice")
 ![All are Welcome in the Hyperledger Community](../images/all-are-welcome.png "All are Welcome in the Hyperledger Community")
