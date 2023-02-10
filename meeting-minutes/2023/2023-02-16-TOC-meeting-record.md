@@ -4,8 +4,8 @@ title: 2023-02-16 TOC Meeting Record
 parent: Meeting Minutes
 grand_parent: Hyperledger TOC
 ---
-![Antitrust Policy Notice](images/antitrust-policy-notice.png "Antitrust Policy Notice")
-![All are Welcome in the Hyperledger Community](images/all-are-welcome.png "All are Welcome in the Hyperledger Community")
+![Antitrust Policy Notice](../images/antitrust-policy-notice.png "Antitrust Policy Notice")
+![All are Welcome in the Hyperledger Community](../images/all-are-welcome.png "All are Welcome in the Hyperledger Community")
 
 Hyperledger is committed to creating a safe and welcoming community for all. For more information please visit our Code of Conduct: [Hyperledger Code of Conduct](https://toc.hyperledger.org/governing-documents/code-of-conduct.html)
 
