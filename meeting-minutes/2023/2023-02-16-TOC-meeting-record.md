@@ -27,22 +27,32 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Presentation
 * Min Yu will discuss [Hyperledger Mentorship program](https://wiki.hyperledger.org/display/INTERN/Hyperledger+Mentorship+Program)
+  * Peter, Arun, Marcus volunteered to review mentorship applications
+  * Other volunteers are welcome
 
 # Discussion
+* Discussed process for merging project reports. 
+  * Project reports will be merged after 14 days from submission unless (1) there is still ongoing discussion regarding the report or (2) a majority of the TOC has not approved the PR. If all TOC members have approved the PR before 14 days, then the PR will be merged.
+  * Tracy will create PR against the TOC repo to add above wording.
+* Task force discussion - [Documentation](https://github.com/hyperledger/toc/issues/47)
+  * Bobbi reviewed [write up on work that has been done](https://wiki.hyperledger.org/display/TSC/Documentation+Task+Force)
+  * Tracy shared [ongoing template repo work](https://tkuhrt.github.io/documentation-template/)
 * Task force discussion - [Onboarding Content](https://github.com/hyperledger/toc/issues/47)
+  * Bobbi reviewed what this task force is intended to cover
+
 
 # Recordings
 * Links to be added upon completion of call
 
 # Attended by
-* [ ] Arnaud J Le Hors
-* [ ] Arun S M
-* [ ] Bobbi Muscara
-* [ ] David Enyeart
-* [ ] Jim Zhang
-* [ ] Marcus Brandenburger 
-* [ ] Peter Somogyvari
-* [ ] Ramakrishna V 
-* [ ] Stephen Curran 
-* [ ] Timo Glastra
-* [ ] Tracy Kuhrt
+* [x] Arnaud J Le Hors
+* [x] Arun S M
+* [x] Bobbi Muscara
+* [x] David Enyeart
+* [x] Jim Zhang
+* [x] Marcus Brandenburger 
+* [x] Peter Somogyvari
+* [ ] ~~Ramakrishna V~~
+* [x] Stephen Curran 
+* [ ] ~~Timo Glastra~~
+* [x] Tracy Kuhrt
