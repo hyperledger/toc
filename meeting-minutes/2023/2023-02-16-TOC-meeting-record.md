@@ -42,7 +42,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 
 # Recordings
-* Links to be added upon completion of call
+* [2023 02 16](https://youtu.be/2e7e820X_jA)
 
 # Attended by
 * [x] Arnaud J Le Hors
