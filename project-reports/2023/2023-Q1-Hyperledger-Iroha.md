@@ -23,7 +23,7 @@ Past quarter releases:
 
 * v2.0.0-pre-rc.9
 
-There will be a release for the [`Iroha v2.0.0-pre-rc.13`](https://github.com/hyperledger/iroha/pull/3134) at or after February 16th.
+The release for the [`Iroha v2.0.0-pre-rc.13`](https://github.com/hyperledger/iroha/pull/3134) is planned for February 16th.
 
 # Overall Activity in the Past Quarter
 
