@@ -37,7 +37,7 @@ While DevOps issues temporarily prevent us from fixing it on the default URL, a 
 
 ## Iroha v2
 
-Outstanding PR count: 13, most of which are new. PRs are completed in about a week and a half.
+Outstanding PR count: 13, most of which are new. PRs are reviewed and merged in about a week and a half.
 
 To save RAM, the responsibility for storing blocks has been delegated to Kura to keep blocks on disk when they are not in use.
 
