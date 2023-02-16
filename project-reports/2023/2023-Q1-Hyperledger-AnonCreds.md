@@ -64,7 +64,7 @@ In addition to developing the Rust implementations, wrappers for JavaScript and 
 On November 28, 2022, we had a presentation from Mike Lodder who has been involved with AnonCreds since the early
 days of the Indy implementation. He provided a proposal for how to evolve AnonCreds from the current v1.0 specification to a v2.0 that retains (and extends in some places) the key privacy preserving features of AnonCreds with updated cryptographic primitives. The meeting agenda, notes and recordings are available [here](https://wiki.hyperledger.org/display/ANONCREDS/2022-11-28+AnonCreds+Specification+Working+Group+Meeting). Definitely worth listening to the presentation!
 
-There is no AnonCreds Quarterly Activity report available on the LFX Insights page. We will update this report to include the report when it becomes available. We do have [this information](https://insights-v2.lfx.linuxfoundation.org/anoncreds/trends) for the rolling past year activity on the project.
+There is no AnonCreds Quarterly Activity report available on the LFX Insights page. We will update this report to include the report when it becomes available. We do have [this information](https://insights.lfx.linuxfoundation.org/projects/hyperledger%2Fanoncreds/dashboard;subTab=technical?time=%7B%22from%22:%222022-10-01T07:00:00.000Z%22,%22type%22:%22absolute%22,%22to%22:%222022-12-31T07:00:00.000Z%22%7D) for the rolling past year activity on the project.
 
 [AnonCreds Quarterly Activity Dashboard]: https://insights-v2.lfx.linuxfoundation.org/anoncreds/trends?selectedDateFilterType=DATERANGE&selectedDateRangeKey=90D
 
