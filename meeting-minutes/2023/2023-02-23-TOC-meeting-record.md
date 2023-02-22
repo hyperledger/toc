@@ -28,6 +28,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Discussion
 * Task force discussion - [Project Best Practices](https://github.com/hyperledger/toc/issues/45)
+  * [Initial Brainstorm](https://wiki.hyperledger.org/display/TF/Project+Best+Practices+task+force)
 
 # Recordings
 * Links to be added upon completion of call
@@ -38,7 +39,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * [ ] Bobbi Muscara
 * [ ] David Enyeart
 * [ ] Jim Zhang
-* [ ] Marcus Brandenburger 
+* [ ] ~~Marcus Brandenburger~~
 * [ ] Peter Somogyvari
 * [ ] Ramakrishna V
 * [ ] Stephen Curran 
