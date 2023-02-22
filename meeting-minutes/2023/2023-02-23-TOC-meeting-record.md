@@ -38,7 +38,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * [ ] Arun S M
 * [ ] Bobbi Muscara
 * [ ] David Enyeart
-* [ ] Jim Zhang
+* [ ] ~~Jim Zhang~~
 * [ ] ~~Marcus Brandenburger~~
 * [ ] Peter Somogyvari
 * [ ] Ramakrishna V
