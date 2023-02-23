@@ -31,7 +31,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
   * [Initial Brainstorm](https://wiki.hyperledger.org/display/TF/Project+Best+Practices+task+force)
 
 # Recordings
-* Links to be added upon completion of call
+* [https://youtu.be/ZCf0Qfd2cZo](https://youtu.be/ZCf0Qfd2cZo)
 
 # Attended by
 * [x] Arnaud J Le Hors
