@@ -34,14 +34,14 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * Links to be added upon completion of call
 
 # Attended by
-* [ ] Arnaud J Le Hors
-* [ ] Arun S M
-* [ ] Bobbi Muscara
-* [ ] David Enyeart
+* [x] Arnaud J Le Hors
+* [ ] ~~Arun S M~~
+* [x] Bobbi Muscara
+* [x] David Enyeart
 * [ ] ~~Jim Zhang~~
 * [ ] ~~Marcus Brandenburger~~
-* [ ] Peter Somogyvari
-* [ ] Ramakrishna V
-* [ ] Stephen Curran 
-* [ ] Timo Glastra
-* [ ] Tracy Kuhrt
+* [x] Peter Somogyvari
+* [x] Ramakrishna V
+* [x] Stephen Curran 
+* [x] Timo Glastra
+* [x] Tracy Kuhrt
