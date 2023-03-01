@@ -52,7 +52,7 @@ Next steps include:
 
 # Maintainer Diversity
 
-Current there are 3 maintainers, and those active developers who contribute to cello continuously (3 month) may be nominated as new maintainers. 
+Current there are 3 maintainers, and those active developers who contribute to Cello continuously (3 month) may be nominated as new maintainers. 
 
 * Baohua Yang (Oracle)
 * feng yang  (H3C)
