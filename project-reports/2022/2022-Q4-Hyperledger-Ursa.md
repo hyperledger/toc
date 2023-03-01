@@ -7,7 +7,7 @@ has_children: false
 has_toc: false
 ---
 
-# 2022 Q3 Hyperledger Ursa
+# 2022 Q4 Hyperledger Ursa
 
 Created by Brent Zundel
 
