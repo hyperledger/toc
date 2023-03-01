@@ -32,7 +32,7 @@ None
 # Releases
 
 * v1.0.0-beta1 is done in November, 2022.
-* v1.0.0-GA is planed in Q1, 2023.
+* v1.0.0-GA is planned in Q1, 2023.
 
 # Overall Activity in the Past Quarter
 
