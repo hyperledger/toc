@@ -53,15 +53,17 @@ The Discord is very active and project maintainers answer questions regularly. S
 PR Activities:
 
 https://insights.lfx.linuxfoundation.org/projects/hyperledger%2Ffirefly/dashboard;subTab=technical;v=pull-request-management%2Fgithub-pr%2Foverview
+![PR Activities](../images/HLFF_PRactivityQ12023.png)
 
 Contributor Strength:
 
 https://insights.lfx.linuxfoundation.org/projects/hyperledger%2Ffirefly/dashboard;quicktime=time_filter_3M
+![PR Activities](../images/HLFF_ContstrQ12023.png)
 
 Commit Activities:
 
 https://insights.lfx.linuxfoundation.org/projects/hyperledger%2Ffirefly/dashboard;subTab=technical;v=source-control%2Fcommits%2Foverview
-
+![PR Activities](../images/HLFF_commitQ12023.png)
 
 # Current Plans
 
