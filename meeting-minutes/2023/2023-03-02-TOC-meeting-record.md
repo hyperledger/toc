@@ -28,7 +28,8 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * [2023 TOC Project Update Calendar](https://wiki.hyperledger.org/display/TSC/2023+TOC+Project+Update+Calendar)
 
 # Discussion
-* Task force discussion - [Security Vulnerability Disclosure](https://github.com/hyperledger/toc/issues/48)
+* Task force discussion - [Project Best Practices](https://github.com/hyperledger/toc/issues/45)
+  * [Initial Brainstorm](https://wiki.hyperledger.org/display/TF/Project+Best+Practices+task+force)
 
 # Recordings
 * Links to be added upon completion of call
