@@ -18,8 +18,6 @@ Contributors are very active in the project and since December, excluding merges
 There are currently 640k lines of code for Hyperledger FireFly across 19 repositories, with a total of 7k commits to date.
 
 # Required Information
-<mark>_Required: Please answer the following questions._
-</mark>
 
 - Have you switched from master to main in all your repos? Yes
 - Have you implemented the [Common Repository Structure](../guidelines/repository-structure.md) in all your repos? Yes
@@ -53,17 +51,17 @@ The Discord is very active and project maintainers answer questions regularly. S
 PR Activities:
 
 https://insights.lfx.linuxfoundation.org/projects/hyperledger%2Ffirefly/dashboard;subTab=technical;v=pull-request-management%2Fgithub-pr%2Foverview
-![PR Activities](../images/HLFF_PRactivityQ12023.png)
+![PR Activities](./images/HLFF_PRactivityQ12023.png)
 
 Contributor Strength:
 
 https://insights.lfx.linuxfoundation.org/projects/hyperledger%2Ffirefly/dashboard;quicktime=time_filter_3M
-![PR Activities](../images/HLFF_ContstrQ12023.png)
+![PR Activities](./images/HLFF_ContstrQ12023.png)
 
 Commit Activities:
 
 https://insights.lfx.linuxfoundation.org/projects/hyperledger%2Ffirefly/dashboard;subTab=technical;v=source-control%2Fcommits%2Foverview
-![PR Activities](../images/HLFF_commitQ12023.png)
+![PR Activities](./images/HLFF_commitQ12023.png)
 
 # Current Plans
 
