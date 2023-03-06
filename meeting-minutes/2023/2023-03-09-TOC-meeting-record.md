@@ -23,7 +23,10 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Past due reports
 * 2023 Q1 Hyperledger Grid (**due 23 Feb 2023**)
+  * [Reminder to maintainers sent March 2](https://discord.com/channels/905194001349627914/941369600841502792/1080893818603307028)
 * 2023 Q1 Hyperledger Transact (**due 23 Feb 2023**)
+  * [Reminder to maintainers sent March 2](https://discord.com/channels/905194001349627914/941414458922790982/1080893688441491536)
+  * [Ongoing discussion with maintainers](https://discord.com/channels/905194001349627914/941414458922790982/1081247988275486752)
 
 # Upcoming reports
 * 2023 Q1 Hyperledger Ursa (due 16 Mar 2023)
