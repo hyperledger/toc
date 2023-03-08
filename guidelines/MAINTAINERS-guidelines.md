@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Introduction
 
-All Hyperledger repositories MUST have a `MAINTAINERS` file (`MAINTAINERS.md` or `MAINTAINERS.rst`) at the top-level directory of the source code. The [SAMPLE-MAINTAINERS.md](SAMPLE-MAINTAINERS.md) can be used as a template by projects creating a new repository.
+All Hyperledger repositories **MUST** have a `MAINTAINERS` file (`MAINTAINERS.md` or `MAINTAINERS.rst`) at the top-level directory of the source code. The [SAMPLE-MAINTAINERS.md](SAMPLE-MAINTAINERS.md) can be used as a template by projects creating a new repository.
 
 The Hyperledger Foundation GitHub organization administrators **SHOULD** periodically send out notifications about missing `MAINTAINERS` files.
 
