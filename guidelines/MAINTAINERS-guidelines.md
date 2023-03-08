@@ -42,7 +42,7 @@ If there is more than the single "Maintainer" scope used in a repository, there 
 
 Lists of active and emeritus maintainers **MUST** be included in the `MAINTAINERS` file.
 
-Changes to the maintainers lists MUST be made via Pull Requests. Once a new `MAINTAINERS` file is created or a PR changing the maintainer lists within the file is merged, a corresponding update to the affected GitHub Teams within the Hyperledger GitHub organization must be made. This is a manual process and the maintainers must ensure that it occurs.
+Changes to the maintainers lists **MUST** be made via Pull Requests. Once a new `MAINTAINERS` file is created or a PR changing the maintainer lists within the file is merged, a corresponding update to the affected GitHub Teams within the Hyperledger GitHub organization must be made. This is a manual process and the maintainers must ensure that it occurs.
 
 It is recommended that the lists be sorted alphabetically and contain at least the maintainers name and GitHub ID. If useful, other columns may be added to the table, such as LFID, Discord ID, Email, and Company Affiliation.
 
