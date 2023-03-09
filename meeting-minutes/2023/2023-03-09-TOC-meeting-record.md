@@ -37,7 +37,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * Task force discussion - [Security Vulnerability Disclosure](https://github.com/hyperledger/toc/issues/48)
 
 # Recordings
-* Links to be added upon completion of call
+* [https://youtu.be/wDbD0k8kzzw](https://youtu.be/wDbD0k8kzzw)
 
 # Attended by
 * [x] Arnaud J Le Hors
