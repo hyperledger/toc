@@ -33,20 +33,21 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * [2023 TOC Project Update Calendar](https://wiki.hyperledger.org/display/TSC/2023+TOC+Project+Update+Calendar)
 
 # Discussion
+* [Maintainer Guideline PR](https://github.com/hyperledger/toc/pull/80)
 * Task force discussion - [Security Vulnerability Disclosure](https://github.com/hyperledger/toc/issues/48)
 
 # Recordings
 * Links to be added upon completion of call
 
 # Attended by
-* [ ] Arnaud J Le Hors
-* [ ] Arun S M
-* [ ] Bobbi Muscara
-* [ ] David Enyeart
-* [ ] Jim Zhang
-* [ ] Marcus Brandenburger 
-* [ ] Peter Somogyvari
-* [ ] Ramakrishna V 
-* [ ] Stephen Curran 
+* [x] Arnaud J Le Hors
+* [x] Arun S M
+* [x] Bobbi Muscara
+* [x] David Enyeart
+* [x] Jim Zhang
+* [x] Marcus Brandenburger 
+* [x] Peter Somogyvari
+* [x] Ramakrishna V 
+* [x] Stephen Curran 
 * [ ] Timo Glastra
-* [ ] Tracy Kuhrt
+* [x] Tracy Kuhrt
