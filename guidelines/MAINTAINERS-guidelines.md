@@ -86,7 +86,7 @@ in such cases) might be different than for Maintainers of an open source code
 project. The Maintainer role is more about approving and merging pull requests
 that reflect the agreement of the community, as opposed to code related metrics
 (quality, fit for purpose, tests, etc.). In some cases, a GOVERNANCE.md file
-[like this](https://github.com/hyperledger/anoncreds-methods-registry/blob/main/registry/governance.md) might further define the duties of the maintainers.
+like the [AnonCreds Methods Registry governance.md file](https://github.com/hyperledger/anoncreds-methods-registry/blob/main/registry/governance.md) might further define the duties of the maintainers.
 
 ## How to Become a Maintainer
 
