@@ -5,36 +5,38 @@ copy this file into your repository and update it for your specific needs.
 
 ## Maintainer Scopes, GitHub Roles and GitHub Teams
 
-The only Maintainer scope for this repository is `Maintainer`, which is given to all repository maintainers. The "Maintainer" scope uses the `Maintain` [GitHub Role](https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/repository-roles-for-an-organization).
+Maintainers are assigned the following scopes in this repository:
 
-The GitHub teams for this repository are:
-
-- Maintainer: [\<repo name> committers](#)
+| Scope | Definition | GitHub Role | GitHub Team |
+| ----- | ---------- | ----------- | ----------- |
+| Maintainer | The GitHub Maintain role | Maintain   | `<repository> committers`     |
 
 ## Active Maintainers
 
 <!-- Please keep this sorted alphabetically by github -->
 
-| Name             | Github           |
-| ---------------- | ---------------- |
-|                  |                  |
+| Name | GitHub ID | Scope | LFID | Discord ID | Email | Company Affiliation |
+|----- | --------- | ----- | ---- | ---------- | ----- | ------------------- |
+|      |           |       |      |            |       |                     |
+
 
 ## Emeritus Maintainers
 
-| Name             | Github           |
-| ---------------- | ---------------- |
-|                  |                  |
+| Name | GitHub ID | Scope | LFID | Discord ID | Email | Company Affiliation |
+|----- | --------- | ----- | ---- | ---------- | ----- | ------------------- |
+|      |           |       |      |            |       |                     |
 
 ## The Duties of a Maintainer
 
-Maintainers are expected to perform the following tasks for this repository. The tasks are listed in more or less priority order:
+Maintainers are expected to perform the following duties for this repository. The duties are listed in more or less priority order:
 
 - Review, provide feedback on, and merge or reject GitHub Pull Requests from
   Contributors.
-- Review, triage, comment on, and, when appropriate, close GitHub Issues
+- Review, triage, comment on, and close GitHub Issues
   submitted by Contributors.
 - When appropriate, lead/facilitate architectural discussions in the community.
 - When appropriate, lead/facilitate the creation of a product roadmap.
+- Create, clarify, and label issues to be worked on by Contributors.
 - Ensure that there is a well defined (and ideally automated) product test and
   release pipeline, including the publication of release artifacts.
 - When appropriate, execute the product release process.
@@ -94,7 +96,7 @@ The process to move a maintainer from active to emeritus status is comparable to
 resignation, the Pull Request can be merged following a maintainer PR approval. If the removal is for any other reason, the following steps **SHOULD** be followed:
 
 - A PR is created to update this file to move the maintainer to the list of emeritus maintainers.
-- The PR is authored by an existing maintainer or has a comment on the PR from an existing maintainer supporting the proposal.
+- The PR is authored by, or has a comment supporting the proposal from, an existing maintainer or Hyperledger GitHub organization administrator.
 - Once the PR and necessary comments have been received, the approval timeframe begins.
 - The PR **MAY** be communicated on appropriate communication channels, including relevant community calls, chat channels and mailing lists.
 - The PR may be vetoed prior to merging by a maintainer other than the one to be removed.
