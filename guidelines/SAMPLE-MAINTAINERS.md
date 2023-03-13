@@ -35,7 +35,7 @@ Maintainers are assigned the following scopes in this repository:
 
 Maintainers are expected to perform the following duties for this repository. The duties are listed in more or less priority order:
 
-- Review, respond, and act on an reported security vulnerabilities reported against the repository.
+- Review, respond, and act on any reported security vulnerabilities reported against the repository.
 - Review, provide feedback on, and merge or reject GitHub Pull Requests from
   Contributors.
 - Review, triage, comment on, and close GitHub Issues
