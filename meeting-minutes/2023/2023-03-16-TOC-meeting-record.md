@@ -31,6 +31,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * [2023 TOC Project Update Calendar](https://wiki.hyperledger.org/display/TSC/2023+TOC+Project+Update+Calendar)
 
 # Discussion
+* Brand update
 * [Maintainer Guideline PR](https://github.com/hyperledger/toc/pull/80)
 * Task force discussion - [Onboarding Content](https://github.com/hyperledger/toc/issues/47)
 
