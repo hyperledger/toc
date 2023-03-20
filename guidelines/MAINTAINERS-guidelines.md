@@ -43,9 +43,9 @@ each Maintainer given one or more of those designated scopes:
 
 If there is more than the single "Maintainer" scope used in a repository, there **MUST** be a list of the repository specific scopes in the MAINTAINERS file. The list must include the scope name, the definition of the scope, and if applicable, the related GitHub Role and Team for the scope.
 
-| Scope | Definition | GitHub Role | GitHub Team |
-| ----- | ---------- | ----------- | ----------- |
-| Maintainer | The GitHub Maintain role | Maintain   | `<repository> committers`     |
+| Scope      | Definition               | GitHub Role | GitHub Team               |
+| ---------- | ------------------------ | ----------- | ------------------------- |
+| Maintainer | The GitHub Maintain role | Maintain    | `<repository> committers` |
 
 ## List of Repository Maintainers
 
@@ -53,22 +53,25 @@ Lists of active and emeritus maintainers **MUST** be included in the `MAINTAINER
 
 Changes to the maintainers lists **MUST** be made via Pull Requests. Once a new `MAINTAINERS.md` file is created or a PR changing the maintainer lists within the file is merged, a corresponding update to the affected GitHub Teams within the Hyperledger GitHub organization must be made. This is a manual process and the maintainers must ensure that it occurs.
 
-It is recommended that the lists be sorted alphabetically and contain at least the maintainer's name and GitHub ID, plus additional information about the Maintainer, including LFID (Linux Foundation ID), Discord ID, Email, and Company Affiliation.
+It is recommended that the lists be sorted alphabetically and **MUST** contain at least the Maintainers name, GitHub ID, Scope, and at least one contact method. The reasons for populating columns are:
 
-A "Scope" column **MUST** be included if there is more than one scope defined in the repository.
+- A GitHub ID **MUST** be provided to add the Maintainer to a GitHub Team, and to recognize the action the Maintainer takes in the repository.
+- The Scope **MUST** be provided to know the role of each Maintainer, and to know the GitHub Team to update when adding/removing Maintainers.
+- A LFID (Linux Foundation ID), Discord ID and/or Email are the most effective ways for the Hyperledger Foundation to contact the Maintainer when necessary.
+- A Company Affiliation is helpful for monitoring the diversity of the Maintainer community for a project.
 
-The following shows a suggested format for the information:
+The following table format **MUST** be used for both Maintainers lists (active and emeritus):
 
 **Active Maintainers**
 
 | Name | GitHub ID | Scope | LFID | Discord ID | Email | Company Affiliation |
-|----- | --------- | ----- | ---- | ---------- | ----- | ------------------- |
+| ---- | --------- | ----- | ---- | ---------- | ----- | ------------------- |
 |      |           |       |      |            |       |                     |
 
 **Emeritus Maintainers**
 
 | Name | GitHub ID | Scope | LFID | Discord ID | Email | Company Affiliation |
-|----- | --------- | ----- | ---- | ---------- | ----- | ------------------- |
+| ---- | --------- | ----- | ---- | ---------- | ----- | ------------------- |
 |      |           |       |      |            |       |                     |
 
 ## Maintainer Duties
@@ -86,18 +89,22 @@ in such cases) might be different than for Maintainers of an open source code
 project. The Maintainer role is more about approving and merging pull requests
 that reflect the agreement of the community, as opposed to code related metrics
 (quality, fit for purpose, tests, etc.). In some cases, a GOVERNANCE.md file
-like the [AnonCreds Methods Registry governance.md file](https://github.com/hyperledger/anoncreds-methods-registry/blob/main/registry/governance.md) might further define the duties of the maintainers.
+like the [AnonCreds Methods Registry governance file] might further define the duties of the maintainers.
+
+[AnonCreds Methods Registry governance file]: https://github.com/hyperledger/anoncreds-methods-registry/blob/main/registry/governance.md
 
 ## How to Become a Maintainer
 
-The `MAINTAINERS.md` file **SHOULD** contain information about how to become a maintainer for the project. This section **SHOULD** list specific information about what is required. Information that **SHOULD** be included in this section:
+The `MAINTAINERS.md` file **SHOULD** contain information about how to become a
+maintainer for the project. This section **SHOULD** list specific information
+about what is required. Information that **SHOULD** be included in this section:
 
 * What is required before someone can be considered to become a maintainer.
   * Include a statement on how an emeritus maintainer can be changed to active again.
 * Consider whether there should be different requirements based on the scope of a given maintainer.
 * Whether sponsorship by an existing maintainer is required.
 * How maintainers are proposed to the community. Proposals are typically done by creating PR against the `MAINTAINERS.md` file, and including information in the PR about how the proposed contributor meets the criteria to be a maintainer.
-* How many maintainers must approve the proposed maintainer. This should include information about what happens if someone vetoes the proposal.
+* How many maintainers must approve the proposed maintainer.
 * How long the existing maintainers have to respond to the proposal.
 
 ## How Maintainers are Removed or Moved to Emeritus Status
