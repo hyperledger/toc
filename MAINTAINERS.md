@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Hyperledger TOC
+nav_exclude: true
+---
 ## Maintainers
 
 The current TOC are also maintainers of this repo.
