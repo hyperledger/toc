@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project Name
+title: 2023 Q1 Hyperledger Caliper
 parent: 2023
 grand_parent: Project Updates
 ---
@@ -49,7 +49,7 @@ Summary of activities:
 * Create developer docs that exhaustively document internal Caliper workings.
 * Probably shrink the scope of Caliper to highly configurable workload generation and reporting (but less focus on monitoring and SUT managemenent).
 * The Ethereum/Besu connector receives increasing attention, but its feature set is limited, it should be enhanced.
-* Adjust Caliper capabilities if needed for PSWG-related collaboriation (e.g., easier integration into k8s).
+* Adjust Caliper capabilities if needed for PSWG-related collaboration (e.g., easier integration into k8s).
 
 # Maintainer Diversity
 
