@@ -40,6 +40,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 # Discussion
 * GitHub Actions limits
 * Task force discussion - [Project Best Practices](https://github.com/hyperledger/toc/issues/45)
+* [Nidhi Singh](https://github.com/nidhi-singh02) was approved unanimously by voice vote as a new [Hyperledger Lab Steward](https://labs.hyperledger.org/stewards.html).
 
 # Recordings
 * [https://youtu.be/_xdrnlANsj0](https://youtu.be/_xdrnlANsj0)
