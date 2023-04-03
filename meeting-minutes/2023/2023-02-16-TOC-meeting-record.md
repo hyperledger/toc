@@ -50,9 +50,9 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * [x] Bobbi Muscara
 * [x] David Enyeart
 * [x] Jim Zhang
-* [x] Marcus Brandenburger 
+* [x] Marcus Brandenburger
 * [x] Peter Somogyvari
 * [ ] ~~Ramakrishna V~~
-* [x] Stephen Curran 
+* [x] Stephen Curran
 * [ ] ~~Timo Glastra~~
 * [x] Tracy Kuhrt

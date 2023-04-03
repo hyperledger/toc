@@ -42,6 +42,6 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * [ ] ~~Marcus Brandenburger~~
 * [x] Peter Somogyvari
 * [x] Ramakrishna V
-* [x] Stephen Curran 
+* [x] Stephen Curran
 * [x] Timo Glastra
 * [x] Tracy Kuhrt
