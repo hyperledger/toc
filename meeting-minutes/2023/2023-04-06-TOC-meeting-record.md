@@ -21,7 +21,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
     * [Reminder to maintainers sent March 2](https://discord.com/channels/905194001349627914/941414458922790982/1080893688441491536)
     * [Ongoing discussion with maintainers](https://discord.com/channels/905194001349627914/941414458922790982/1081247988275486752)
     * [Waiting on list of maintainers from Shawn](https://discord.com/channels/905194001349627914/941414458922790982/1083097678461800580) to determine if they want to move project to Dormant
-    * Peter volunteered to open issue and pull request stating that the work is being moved to libsawtooth
+    * Peter volunteered to open [issue](https://github.com/hyperledger/transact/issues/375) and [pull request](https://github.com/hyperledger/transact/pull/376) stating that the work is being moved to libsawtooth
 
 * 2023 Q1 Hyperledger Ursa (**due 16 Mar 2023**)
     * [Reminder to maintainers sent March 20](https://discord.com/channels/905194001349627914/941474924516737126/1087428893255942174)
