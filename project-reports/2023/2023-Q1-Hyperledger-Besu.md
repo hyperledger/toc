@@ -42,10 +42,11 @@ See the [roadmap](https://wiki.hyperledger.org/display/BESU/Roadmap). This is pr
 # Maintainer Diversity
 
 No maintainers added, Web3Labs contributors getting up to speed in Q1 and might soon hit the threshold of commits for Maintainer status. 
+Current maintainers are from Consensys Software Inc (18), Swirlds Labs (1), ETC-Coop (1), Splunk (1) with small support from former CSI maintainers, at large and at Palm and Optimism FND (remainder of list). The full list can be found [here.](https://github.com/hyperledger/besu/blob/main/MAINTAINERS.md)
 
 # Contributor Diversity
 
-Too many to user orgs to list - not many converting to contributor status. Maintainers are actively working with HLF leadership to change this. 
+Too many user orgs to list - not many converting to contributor status. Maintainers are actively working with HLF leadership to change this. More details in the [Inisghts report](https://insights.lfx.linuxfoundation.org/projects/hyperledger/besu/dashboard%3BsubTab=technical?time=%7B%22from%22:%222023-01-01T07:00:00.000Z%22,%22type%22:%22absolute%22,%22to%22:%222023-04-01T06:59:59.000Z%22%7D) 
 
 
 # Additional Information
