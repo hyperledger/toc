@@ -14,6 +14,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Quarterly reports
 * [2023 Q1 Hyperledger Caliper](https://github.com/hyperledger/toc/pull/85)
+* [2023 Q1 Hyperledger Besu](https://github.com/hyperledger/toc/pull/88)
 * Please review any [outstanding quarterly reports](https://github.com/hyperledger/toc/pulls?q=is%3Apr+is%3Aopen+label%3Aquarterly-report+user-review-requested%3A%40me).
 
 # Past due reports
@@ -26,12 +27,6 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * 2023 Q1 Hyperledger Ursa (**due 16 Mar 2023**)
     * [Reminder to maintainers sent March 20](https://discord.com/channels/905194001349627914/941474924516737126/1087428893255942174)
     * [Reminder to maintainers sent March 30](https://discord.com/channels/905194001349627914/941474924516737126/1091000974136578068)
-
-* 2023 Q1 Hyperledger Besu (**due 23 Mar 2023**)
-    * [Reminder to maintainers sent March 24](https://discord.com/channels/905194001349627914/905205502940696607/1088892238450405526)
-    * [Maintainers seemed unaware of reporting requirements](https://discord.com/channels/905194001349627914/905205502940696607/1088892523453354005)
-    * [Follow up with maintainers sent on April 4](https://discord.com/channels/905194001349627914/905205502940696607/1092834237696188508)
-
 
 # Upcoming reports
 * 2023 Q2 Hyperledger Cacti (due 13 Apr 2023)
