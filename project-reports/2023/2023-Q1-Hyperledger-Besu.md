@@ -46,7 +46,7 @@ Current maintainers are from Consensys Software Inc (18), Swirlds Labs (1), ETC-
 
 # Contributor Diversity
 
-Too many user orgs to list - not many converting to contributor status. Maintainers are actively working with HLF leadership to change this. More details in the [Inisghts report](https://insights.lfx.linuxfoundation.org/projects/hyperledger/besu/dashboard%3BsubTab=technical?time=%7B%22from%22:%222023-01-01T07:00:00.000Z%22,%22type%22:%22absolute%22,%22to%22:%222023-04-01T06:59:59.000Z%22%7D) 
+Too many user orgs to list - not many converting to contributor status. Maintainers are actively working with HLF leadership to change this. More details in the [Insights report](https://insights.lfx.linuxfoundation.org/projects/hyperledger/besu/dashboard%3BsubTab=technical?time=%7B%22from%22:%222023-01-01T07:00:00.000Z%22,%22type%22:%22absolute%22,%22to%22:%222023-04-01T06:59:59.000Z%22%7D) 
 
 
 # Additional Information
