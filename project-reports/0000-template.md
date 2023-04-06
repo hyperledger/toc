@@ -27,7 +27,7 @@ nav_exclude: true
   - whitelist → allowlist
 - Have you added an [Inclusive Language Statement](https://wiki.hyperledger.org/display/TSC/Inclusive+Language+Example) to your project's documentation and/or Wiki pages?
 
-# Questions/Issues for the TSC
+# Questions/Issues for the TOC
 
 <mark>_Required: If there are any specific issues that the TSC should be aware of or specifically address, then please call them out. If not, then it is helpful to state something like: "There are no issues at this time." When in doubt, it is better to include information or questions, rather than waiting._
 </mark>
