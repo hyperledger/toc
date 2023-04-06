@@ -14,19 +14,6 @@ nav_exclude: true
 <mark>_Required: Sum up the status and health of your project and the community in a few sentences. Consider this the TL;DR for the rest of the report. How is your community doing health-wise? Are questions being answered? Are contributors acting appropriately? Are there new contributors showing up?_
 </mark>
 
-# Required Information
-<mark>_Required: Please answer the following questions._
-</mark>
-
-- Have you switched from master to main in all your repos?
-- Have you implemented the [Common Repository Structure](../guidelines/repository-structure.md) in all your repos?
-- Has your project implemented these inclusive language changes listed below to your repo? You can optionally [use the DCI Lint tool](https://github.com/petermetz/gh-action-dci-lint#usage) to make this a recurring action on your repo.
-  - master → main
-  - slave → replicas
-  - blacklist → denylist
-  - whitelist → allowlist
-- Have you added an [Inclusive Language Statement](https://wiki.hyperledger.org/display/TSC/Inclusive+Language+Example) to your project's documentation and/or Wiki pages?
-
 # Questions/Issues for the TOC
 
 <mark>_Required: If there are any specific issues that the TOC should be aware of or specifically address, then please call them out. If not, then it is helpful to state something like: "There are no issues at this time." When in doubt, it is better to include information or questions, rather than waiting._
