@@ -29,7 +29,7 @@ nav_exclude: true
 
 # Questions/Issues for the TOC
 
-<mark>_Required: If there are any specific issues that the TSC should be aware of or specifically address, then please call them out. If not, then it is helpful to state something like: "There are no issues at this time." When in doubt, it is better to include information or questions, rather than waiting._
+<mark>_Required: If there are any specific issues that the TOC should be aware of or specifically address, then please call them out. If not, then it is helpful to state something like: "There are no issues at this time." When in doubt, it is better to include information or questions, rather than waiting._
 </mark>
 
 # Releases
@@ -59,6 +59,6 @@ nav_exclude: true
 
 # Additional Information
 
-<mark>_Optional: Please provide any additional information that you feel would be useful for TSC to be aware._
+<mark>_Optional: Please provide any additional information that you feel would be useful for TOC to be aware._
 </mark>
 
