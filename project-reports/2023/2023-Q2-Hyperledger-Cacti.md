@@ -43,7 +43,7 @@ has_toc: false
             - https://github.com/hyperledger/cacti/commit/4ac560a3222733a2ecf465f80f42b2007ddcb6be
             - https://github.com/hyperledger/cacti/commit/4171eebd83aba627a155509e13bd95fb50f6ae73
     - support tools:
-        - [new_feature] Cacti GUI app 
+        - [new_feature (WIP)] Cacti GUI app 
             - https://github.com/hyperledger/cacti/pull/2265
 2. Created a new architecture diagram toward realizing Cacti as a more flexible interoperability toolkit
     - The architecture has been brushed-up among weekly maintainer calls. We will use this architecture as the main point of reference starting with the next release (Cacti V2-beta on Q2)
