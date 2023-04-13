@@ -36,6 +36,8 @@ has_toc: false
             - https://github.com/hyperledger/cacti/pull/2265
 2. Created a new architecture diagram toward realizing Cacti as a more flexible interoperability toolkit
     - The architecture has been brushed-up among weekly maintainer calls. We will use this architecture as the main point of reference starting with the next release (Cacti V2-beta on Q2)
+    - https://github.com/hyperledger/cacti/blob/main/ROADMAP.md#cacti-v2
+    - https://github.com/hyperledger/cacti/blob/main/images/cacti-architecture-v1-merge.png
 3. Submitted several proposals for the 2023 Hyperledger Mentorship Program, of which four got selected:
     - [Cacti - Polkadot connector](https://wiki.hyperledger.org/display/INTERN/Cacti+-+Polkadot+connector)
     - [Cacti: Implement Standardized Secure Asset Transfer Protocol](https://wiki.hyperledger.org/display/INTERN/Cacti%3A+Implement+Standardized+Secure+Asset+Transfer+Protocol)
