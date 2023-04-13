@@ -24,7 +24,7 @@ All completed for Besu.
 
 # Questions/Issues for the TSC
 
-Will the TSC deliver a unified CI/CD strategy across HLF projects to avoid ambiguity going forward? 
+Will the TOC deliver a unified CI/CD strategy across HLF projects to avoid ambiguity going forward? 
 
 # Releases
 
