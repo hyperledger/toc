@@ -22,7 +22,7 @@ All completed for Besu.
   - whitelist → allowlist
 - Have you added an [Inclusive Language Statement](https://wiki.hyperledger.org/display/TSC/Inclusive+Language+Example) to your project's documentation and/or Wiki pages?
 
-# Questions/Issues for the TSC
+# Questions/Issues for the TOC
 
 Will the TOC deliver a unified CI/CD strategy across HLF projects to avoid ambiguity going forward? 
 
