@@ -34,22 +34,24 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * [2023 TOC Project Update Calendar](https://wiki.hyperledger.org/display/TSC/2023+TOC+Project+Update+Calendar)
 
 # Discussion
+* Should the TOC have the ability to merge pull requests?
+  - Lots of discussion, the status quo should remain
 * GitHub Actions update
 * Task force discussion - [Onboarding Content](https://github.com/hyperledger/toc/issues/47)
 * Task force discussion - [Documentation](https://github.com/hyperledger/toc/issues/46)
 
 # Recordings
-* Links to be added upon completion of call
+* [https://youtu.be/3NKfBS2S4is](https://youtu.be/3NKfBS2S4is)
 
 # Attended by
-* [ ] Arnaud J Le Hors
-* [ ] Arun S M
-* [ ] Bobbi Muscara
-* [ ] David Enyeart
-* [ ] Jim Zhang
-* [ ] Marcus Brandenburger
-* [ ] Peter Somogyvari
-* [ ] Ramakrishna V
-* [ ] Stephen Curran
-* [ ] Timo Glastra
-* [ ] Tracy Kuhrt
+* [X] Arnaud J Le Hors
+* [X] Arun S M
+* [X] Bobbi Muscara
+* [X] David Enyeart
+* [X] Jim Zhang
+* [X] Marcus Brandenburger
+* [X] Peter Somogyvari
+* [X] Ramakrishna V
+* [X] Stephen Curran
+* [X] Timo Glastra
+* [X] Tracy Kuhrt
