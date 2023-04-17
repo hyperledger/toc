@@ -32,7 +32,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
     * [Reminder to maintainers sent April 13](https://discord.com/channels/905194001349627914/941474924516737126/1096078178243579975)
 
 # Upcoming reports
-* 2023 Q2 Hyperledger Sawtooth (due 04-27-2023)
+* 2023 Q2 Hyperledger Sawtooth (due 27 Apr 2023)
 * [2023 TOC Project Update Calendar](https://wiki.hyperledger.org/display/TSC/2023+TOC+Project+Update+Calendar)
 
 # Discussion
