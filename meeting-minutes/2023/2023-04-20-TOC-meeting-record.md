@@ -39,17 +39,17 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 - Task force discussion: [Project best practices](https://github.com/hyperledger/toc/issues/45)
 
 # Recordings
-* Links to be added upon completion of call
+* [https://youtu.be/jfzpT43L2NQ](https://youtu.be/jfzpT43L2NQ)
 
 # Attended by
-* [ ] Arnaud J Le Hors
-* [ ] Arun S M
-* [ ] Bobbi Muscara
-* [ ] David Enyeart
-* [ ] Jim Zhang
-* [ ] Marcus Brandenburger
-* [ ] Peter Somogyvari
-* [ ] Ramakrishna V
-* [ ] Stephen Curran
-* [ ] Timo Glastra
-* [ ] Tracy Kuhrt
+* [X] Arnaud J Le Hors
+* [ ] ~~Arun S M~~
+* [X] Bobbi Muscara
+* [X] David Enyeart
+* [ ] ~~Jim Zhang~~
+* [ ] ~~Marcus Brandenburger~~
+* [X] Peter Somogyvari
+* [X] Ramakrishna V
+* [ ] ~~Stephen Curran~~
+* [ ] ~~Timo Glastra~~
+* [X] Tracy Kuhrt
