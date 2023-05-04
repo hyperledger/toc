@@ -10,14 +10,36 @@ nav_exclude: true
 
 # Project Health
 
-Hyperledger Aries has seen a lot of activity overall, especially in the
+Hyperledger Aries is healthy, seeing lots of activity overall, especially in the
 [Aries Framework
 JavaScript](https://github.com/hyperledger/aries-framework-javascript), [Aries
 Bifold](https://github.com/hyperledger/aries-mobile-agent-react-native) (mobile
 wallet), and [Aries VCX](https://github.com/hyperledger/aries-vcx) communities.
 Lots of progress being made in those projects!
 
-The following are the highlights from this past quarter:
+# Questions/Issues for the TOC
+
+None.
+
+# Releases
+
+The following Aries releases occurred in the last quarter:
+
+-   Aries Cloud Agent Python -- 0.8.0-rc0, 0.8.0
+-   Aries Framework JavaScript -- v0.3.2, v0.3.3, 0.3.4-alpha0 to 0.3.4-alpha17, 0.4.0-alpha18 to 0.4.0-alpha95
+-   Aries Askar -- v0.2.8
+-   Aries VCX Releases -- v0.3.4, v0.4.0-dev1 to v0.4.0-dev12
+-   Aries Framework Go -- v0.1.9
+
+Of the 28 Aries repositories, all but 3 have been updated in 2023.
+
+Interoperability status can be seen
+here: [https://aries-interop.info](https://aries-interop.info).
+
+# Overall Activity in the Past Quarter
+
+Per the [Aries Activity Dashboard](https://insights.lfx.linuxfoundation.org/projects/hyperledger%2Faries/dashboard;subTab=technical?time=%7B%22from%22:%222023-01-01T07:00:00.000Z%22,%22type%22:%22absolute%22,%22to%22:%222023-03-31T07:00:00.000Z%22%7D) for the first three months of 2023, Aries
+codebases had 442 PRs (up 11%) from 81 contributors (up 21%).
 
 -   Lots of activity towards integrating [Hyperledger AnonCreds] into
     all of the Aries Frameworks to enable ledger-agnostic implementations.
@@ -139,30 +161,6 @@ documentation site [aca-py.org]
 
 The Indy/Aries stack continues to be the global leader in SSI/verifiable
 data solutions, with AnonCreds the most used credential format.
-
-# Questions/Issues for the TOC
-
-None.
-
-# Releases
-
-The following Aries releases occurred in the last quarter:
-
--   Aries Cloud Agent Python -- 0.8.0-rc0, 0.8.0
--   Aries Framework JavaScript -- v0.3.2, v0.3.3, 0.3.4-alpha0 to 0.3.4-alpha17, 0.4.0-alpha18 to 0.4.0-alpha95
--   Aries Askar -- v0.2.8
--   Aries VCX Releases -- v0.3.4, v0.4.0-dev1 to v0.4.0-dev12
--   Aries Framework Go -- v0.1.9
-
-Of the 28 Aries repositories, all but 3 have been updated in 2023.
-
-Interoperability status can be seen
-here: [https://aries-interop.info](https://aries-interop.info).
-
-# Overall Activity in the Past Quarter
-
-Per the [Aries Activity Dashboard](https://insights.lfx.linuxfoundation.org/projects/hyperledger%2Faries/dashboard;subTab=technical?time=%7B%22from%22:%222023-01-01T07:00:00.000Z%22,%22type%22:%22absolute%22,%22to%22:%222023-03-31T07:00:00.000Z%22%7D) for the first three months of 2023, Aries
-codebases had 442 PRs (up 11%) from 81 contributors (up 21%).
 
 # Current Plans
 
