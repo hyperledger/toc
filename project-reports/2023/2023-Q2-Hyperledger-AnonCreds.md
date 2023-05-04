@@ -104,7 +104,7 @@ Work continues on getting a final `v0.1.0` release completed with the details in
 the wrappers stabilized. With the end-of-life of the Hyperledger Ursa project, a
 new AnonCreds repository is needed to host the CL-Signatures code used in
 [anoncreds-rs], and producing artifacts from that new repository. In theory,
-that should be a straight forward transfer of code from the existing Ursa
+that should be a straightforward transfer of code from the existing Ursa
 repository.
 
 On the specifications side, completing the v1.0 specification has slowed, as the
