@@ -81,7 +81,7 @@ The AnonCreds project has has significant progress on three fronts this quarter:
 An AnonCreds v2.0 Working Group has begun meeting bi-weekly to discuss the "next
 generation" of AnonCreds.  So far we have discussed the AnonCreds data objects,
 including what would be published by the issuer to the Ledger, credentials, and
-presentations, plus a potential revocation scheme ([ALLOSSAUR], [ALLOSAUR Summary]) that could be
+presentations, plus a potential revocation scheme ([ALLOSAUR], [ALLOSAUR Summary]) that could be
 used. The design that Mike Lodder has defined enables the use of several cryptographic
 suites to sign the credentials. The working group is now discussing the details of
 how to transition the proposals into the v2.0 Specification.
