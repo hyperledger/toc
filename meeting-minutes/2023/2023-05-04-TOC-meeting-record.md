@@ -11,9 +11,12 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Announcements
 * The [Hyperledger /dev/weekly developer newsletter](https://wiki.hyperledger.org/pages/viewpage.action?pageId=39618905) goes out each Friday to hundreds of Hyperledger developers. It is a collaborative effort. If you have a project release, pull request, community event, and/or relevant article you would like highlighted next week, please [leave a comment for consideration on the upcoming newsletter wiki page](https://wiki.hyperledger.org/display/DR/2023)
-* Review [Security Policy Vulnerability Disclosure Template](https://docs.google.com/document/d/1ne2RISsvRpOzy4buL1WTvs3Wm1_Scc6_82hKHx60Chk/edit).
+* Reminder to review [Security Policy Vulnerability Disclosure Template](https://docs.google.com/document/d/1ne2RISsvRpOzy4buL1WTvs3Wm1_Scc6_82hKHx60Chk/edit).
 
 # Quarterly reports
+* [2023 Q2 Hyperledger AnonCreds](https://github.com/hyperledger/toc/pull/100)
+* [2023 Q2 Hyperledger Aries](https://github.com/hyperledger/toc/pull/101)
+* [2023 Q2 Hyperledger Indy](https://github.com/hyperledger/toc/pull/102)
 * Please review any [outstanding quarterly reports](https://github.com/hyperledger/toc/pulls?q=is%3Apr+is%3Aopen+label%3Aquarterly-report+user-review-requested%3A%40me).
 
 # Past due reports
@@ -24,19 +27,21 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
     * Peter volunteered to open [issue](https://github.com/hyperledger/transact/issues/375) and [pull request](https://github.com/hyperledger/transact/pull/376) stating that the work is being moved to libsawtooth (opened on April 4, 2023)
     * No update on issue or pull request as of April 11, 2023
     * Arun reached out directly to Andrea and Shawn regarding the pull request, and it has since been merged
-    * Daniela will reach out to Shawn about status and moving to EOL
+    * Daniela will reach out to Shawn about status and moving to EOL.
+    * Shawn would like to move the project to Dormant state (see decision below).
+* 2023 Q2 Hyperledger Sawtooth (**due 27 Apr 2023**)
+    * [Reminder to maintainers sent May 2](https://discord.com/channels/905194001349627914/941417089779007488/1102952066231586836)
+    * Sawtooth contributors had a meeting on 26th April, a day before the due date for the quarterly report. The team is experimenting new ways of working to increase the contributor base.
+    * James Barry will be submitting the Q2 2023 report.
+    * James has put up a [draft](https://docs.google.com/document/d/1EvbqBNg9bsRnSHpDRIosKbERtWiTkKhllaFLW0xDQ4w/edit?usp=sharing) for internal project team's review before sending it over to the TOC.
 
 # Upcoming reports
-* 2023 Q2 Hyperledger Sawtooth (due 27 Apr 2023)
-* 2023 Q2 Hyperledger Aries (due 04 May 2023)
-* 2023 Q2 Hyperledger Indy (due 04 May 2023)
-* 2023 Q2 Hyperledger AnonCreds (due 04 May 2023)
 * 2023 Q2 Hyperledger Iroha (due 11 May 2023)
 * [2023 TOC Project Update Calendar](https://wiki.hyperledger.org/display/TSC/2023+TOC+Project+Update+Calendar)
 
 # Discussion
-* Move Transact to Dormant.
-* Focus topics and next task force.
+* Decision: [Move Transact to Dormant](https://github.com/hyperledger/toc/issues/98).
+* Focus topics and next task force from [the list of open proposals](https://github.com/hyperledger/toc/issues?q=is%3Aissue+is%3Aopen+label%3Atask-force-proposal).
 * Task Force: Documentation and Onboarding Task Force.
 
 # Recordings
