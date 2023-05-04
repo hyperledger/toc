@@ -192,20 +192,3 @@ In Q1 there were contributions from 81 individuals representing at least 16 orga
 
 Nothing
 
-# Submission date
-
-03-May-2023
-
-# Reviewed by
-
--   🔲 Arnaud J Le Hors
--   🔲 Arun S M
--   🔲 Bobbi Muscara
--   🔲 David Enyeart
--   🔲 Jim Zhang
--   🔲 Marcus Brandenburger
--   🔲 Peter Somogyvari
--   🔲 Ramakrishna V
--   🔲 Stephen Curran
--   🔲 Timo Glastra
--   🔲 Tracy Kuhrt
