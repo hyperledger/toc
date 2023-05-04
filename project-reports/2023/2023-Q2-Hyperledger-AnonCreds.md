@@ -54,7 +54,7 @@ None.
 
 ## Releases
 
-- [anoncreds-rs] -- [v0.1.0-dev.1] through [v0.1.0-dev12] (12 releases)
+- [anoncreds-rs] -- [v0.1.0-dev.1] through [v0.1.0-dev.12] (12 releases)
 
 [v0.1.0-dev.1]: https://github.com/hyperledger/anoncreds-rs/releases/tag/v0.1.0-dev.1
 [v0.1.0-dev.12]: https://github.com/hyperledger/anoncreds-rs/releases/tag/v0.1.0-dev.12
