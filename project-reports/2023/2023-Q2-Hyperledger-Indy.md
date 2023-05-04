@@ -101,7 +101,7 @@ Further progress was made on the Indy CI/CD pipeline automation and on the new
 Ubuntu 20.04 release. Work on completing that task has been slowed because of
 the nature of the final task -- deciding what changes in the Indy Node/Indy
 Plenum `ubuntu-16.04` (formerly `main`) and `stable` branches need to be
-cherry-picked onto the new new (Ubuntu 20.04) `main` branch. The nature of the
+cherry-picked onto the new (Ubuntu 20.04) `main` branch. The nature of the
 work restricts those capable of making the decisions, and those folks are busy
 on other tasks in the community.
 
