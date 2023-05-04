@@ -61,7 +61,7 @@ None.
 
 ## Overall Activity in the Past Quarter
 
-The AnonCreds project has has significant progress on three fronts this quarter:
+The AnonCreds project has made significant progress on three fronts this quarter:
 
 - The [anoncreds-rs] implementation evolved significantly has it was added as
   dependencies in [Aries Framework JavaScript] and later, into [Aries Cloud
