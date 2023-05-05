@@ -1,0 +1,20 @@
+name: Send quarterly report reminders
+
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the toc repository
+        uses: actions/checkout@v2
+
+      - name: GitHub Issue Schedule
+        uses: hyperledger-tooling/github-issue-schedule@1.1
+        env:
+          GITHUB_TOKEN: "${{ secrets.PAT }}"
+          CONFIG_FILE: ./.github/configs/quarterly-report-reminder.yaml
