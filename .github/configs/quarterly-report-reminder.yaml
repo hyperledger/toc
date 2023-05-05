@@ -1,0 +1,11 @@
+buffer_window_days: 7
+projects:
+  - name: Hyperledger Bevel
+    github_org: hyperledger
+    github_repo: bevel
+    maintainers:
+      - arsulegai
+    schedules:
+      - date: 2023-05-13
+        title: Gentle reminder (test)
+        description: Dear Bevel maintainers, please submit the 2023 imaginary report.
