@@ -1,11 +1,258 @@
-buffer_window_days: 7
+buffer_window_days: 3
 projects:
+  - name: Hyperledger Iroha
+    github_org: hyperledger
+    github_repo: iroha
+    maintainers:
+      - takemiyamakoto
+      - ryuo88
+      - dmitrivenger
+      - Mingela
+      - appetrosyan
+      - QuentinI
+      - Arjentix
+      - ilchu
+      - mversic
+      - SamHSmith
+      - Erigara
+      - s8sato
+      - pesterev
+      - "0x009922"
+      - baziorek
+      - arndey
+      - gv-timur
+      - Cre-eD
+      - BAStos525
+      - outoftardis
+      - WRRicht3r
+      - 6r1d
+    schedules:
+      - date: 2023-05-11
+        title: Reminder to submit the 2023 Q2 quarterly project report
+        description: Dear @hyperledger/iroha-maintainers, please submit the 2023 Q2 quarterly report (due 2023-05-11) for @hyperledger/toc review and mark this issue as complete.
+      - date: 2023-08-10
+        title: Reminder to submit the 2023 Q3 quarterly project report
+        description: Dear @hyperledger/iroha-maintainers, please submit the 2023 Q3 quarterly report (due 2023-08-10) for @hyperledger/toc review and mark this issue as complete.
+      - date: 2023-11-09
+        title: Reminder to submit the 2023 Q4 quarterly project report
+        description: Dear @hyperledger/iroha-maintainers, please submit the 2023 Q4 quarterly report (due 2023-11-09) for @hyperledger/toc review and mark this issue as complete.
   - name: Hyperledger Bevel
     github_org: hyperledger
     github_repo: bevel
     maintainers:
+      - sownak
+      - suvajit-sarkar
+      - jagpreetsinghsasan
       - arsulegai
+      - weihong-ou
+      - adityajoshi12
     schedules:
-      - date: 2023-05-13
-        title: Gentle reminder (test)
-        description: Dear Bevel maintainers, please submit the 2023 imaginary report.
+      - date: 2023-05-18
+        title: Reminder to submit the 2023 Q2 quarterly project report
+        description: Dear @hyperledger/bevel-committers, please submit the 2023 Q2 quarterly report (due 2023-05-18) for @hyperledger/toc review and mark this issue as complete.
+      - date: 2023-08-17
+        title: Reminder to submit the 2023 Q3 quarterly project report
+        description: Dear @hyperledger/bevel-committers, please submit the 2023 Q3 quarterly report (due 2023-08-17) for @hyperledger/toc review and mark this issue as complete.
+      - date: 2023-11-16
+        title: Reminder to submit the 2023 Q4 quarterly project report
+        description: Dear @hyperledger/bevel-committers, please submit the 2023 Q4 quarterly report (due 2023-11-16) for @hyperledger/toc review and mark this issue as complete.
+  - name: Hyperledger Cello
+    github_org: hyperledger
+    github_repo: cello
+    maintainers:
+      - yeasy
+      - fengyangsy
+      - zhuyuanmao
+    schedules:
+      - date: 2023-06-01
+        title: Reminder to submit the 2023 Q2 quarterly project report
+        description: Dear @hyperledger/cello-maintainers, please submit the 2023 Q2 quarterly report (due 2023-06-01) for @hyperledger/toc review and mark this issue as complete.
+      - date: 2023-08-31
+        title: Reminder to submit the 2023 Q3 quarterly project report
+        description: Dear @hyperledger/cello-maintainers, please submit the 2023 Q3 quarterly report (due 2023-08-31) for @hyperledger/toc review and mark this issue as complete.
+      - date: 2023-11-30
+        title: Reminder to submit the 2023 Q4 quarterly project report
+        description: Dear @hyperledger/cello-maintainers, please submit the 2023 Q4 quarterly report (due 2023-11-30) for @hyperledger/toc review and mark this issue as complete.
+  - name: Hyperledger Firefly
+    github_org: hyperledger
+    github_repo: firefly
+    maintainers:
+      - peterbroadhurst
+      - nguyer
+      - awrichar
+      - shorsher
+    schedules:
+      - date: 2023-06-08
+        title: Reminder to submit the 2023 Q2 quarterly project report
+        description: Dear @hyperledger/firefly-committers, please submit the 2023 Q2 quarterly report (due 2023-06-08) for @hyperledger/toc review and mark this issue as complete.
+      - date: 2023-09-07
+        title: Reminder to submit the 2023 Q3 quarterly project report
+        description: Dear @hyperledger/firefly-committers, please submit the 2023 Q3 quarterly report (due 2023-09-07) for @hyperledger/toc review and mark this issue as complete.
+      - date: 2023-12-07
+        title: Reminder to submit the 2023 Q4 quarterly project report
+        description: Dear @hyperledger/firefly-committers, please submit the 2023 Q4 quarterly report (due 2023-12-07) for @hyperledger/toc review and mark this issue as complete.
+  - name: Hyperledger Besu
+    github_org: hyperledger
+    github_repo: besu
+    maintainers:
+      - ahamlat
+      - ajsutton
+      - antonydenyer
+      - atoulme
+      - daniellehrner
+      - diega
+      - fab-10
+      - garyschulte
+      - gabriel-trintinalia
+      - gezero
+      - gfukushima
+      - jflo
+      - jframe
+      - joshuafernandes
+      - lucassaldanha
+      - macfarla
+      - mark-terry
+      - matkt
+      - mbaxter
+      - pinges
+      - shemnon
+      - siladu
+      - usmansaleem
+      - wcgcyx
+    schedules:
+      - date: 2023-06-22
+        title: Reminder to submit the 2023 Q2 quarterly project report
+        description: Dear @hyperledger/besu-maintainers, please submit the 2023 Q2 quarterly report (due 2023-06-22) for @hyperledger/toc review and mark this issue as complete.
+      - date: 2023-09-21
+        title: Reminder to submit the 2023 Q3 quarterly project report
+        description: Dear @hyperledger/besu-maintainers, please submit the 2023 Q3 quarterly report (due 2023-09-21) for @hyperledger/toc review and mark this issue as complete.
+      - date: 2023-12-07
+        title: Reminder to submit the 2023 Q4 quarterly project report
+        description: Dear @hyperledger/besu-maintainers, please submit the 2023 Q4 quarterly report (due 2023-12-07) for @hyperledger/toc review and mark this issue as complete.
+  - name: Hyperledger Caliper
+    github_org: hyperledger
+    github_repo: caliper
+    maintainers:
+      - aklenik
+      - davidkel
+    schedules:
+      - date: 2023-06-22
+        title: Reminder to submit the 2023 Q2 quarterly project report
+        description: Dear @hyperledger/caliper-committers, please submit the 2023 Q2 quarterly report (due 2023-06-22) for @hyperledger/toc review and mark this issue as complete.
+      - date: 2023-09-21
+        title: Reminder to submit the 2023 Q3 quarterly project report
+        description: Dear @hyperledger/caliper-committers, please submit the 2023 Q3 quarterly report (due 2023-09-21) for @hyperledger/toc review and mark this issue as complete.
+      - date: 2023-12-07
+        title: Reminder to submit the 2023 Q4 quarterly project report
+        description: Dear @hyperledger/caliper-committers, please submit the 2023 Q4 quarterly report (due 2023-12-07) for @hyperledger/toc review and mark this issue as complete.
+  - name: Hyperledger Cacti
+    github_org: hyperledger
+    github_repo: cacti
+    maintainers:
+      - jonathan-m-hamilton
+      - izuru0
+      - petermetz
+      - takeutak
+      - jagpreetsinghsasan
+      - VRamakrishna
+      - sandeepnRES
+    schedules:
+      - date: 2023-07-13
+        title: Reminder to submit the 2023 Q3 quarterly project report
+        description: Dear @hyperledger/cacti-maintainers, please submit the 2023 Q3 quarterly report (due	2023-07-13) for @hyperledger/toc review and mark this issue as complete.
+      - date: 2023-10-12
+        title: Reminder to submit the 2023 Q4 quarterly project report
+        description: Dear @hyperledger/cacti-maintainers, please submit the 2023 Q4 quarterly report (due 2023-10-12) for @hyperledger/toc review and mark this issue as complete.
+  - name: Hyperledger Fabric
+    github_org: hyperledger
+    github_repo: fabric
+    maintainers:
+      - ale-linux
+      - andrew-coleman
+      - c0rwin
+      - denyeart
+      - manish-sethi
+      - cendhu
+      - yacovm
+      - tock-ibm
+    schedules:
+      - date: 2023-07-13
+        title: Reminder to submit the 2023 Q3 quarterly project report
+        description: Dear @hyperledger/fabric-maintainers, please submit the 2023 Q3 quarterly report (due 2023-07-13) for @hyperledger/toc review and mark this issue as complete.
+      - date: 2023-10-12
+        title: Reminder to submit the 2023 Q4 quarterly project report
+        description: Dear @hyperledger/fabric-maintainers, please submit the 2023 Q4 quarterly report (due 2023-10-12) for @hyperledger/toc review and mark this issue as complete.
+  - name: Hyperledger Sawtooth
+    github_org: hyperledger
+    github_repo: sawtooth-lib
+    maintainers:
+      - agunde406
+      - chenette
+      - cianx
+      - dcmiddle
+      - dplumb94
+      - isabeltomb
+      - jsmitchell
+      - ltseeley
+      - peterschwarz
+      - rberg2
+      - rbuysse
+      - vaporos
+    schedules:
+      - date: 2023-07-27
+        title: Reminder to submit the 2023 Q3 quarterly project report
+        description: Dear @hyperledger/sawtooth-core-maintainers, please submit the 2023 Q3 quarterly report (due 2023-07-27) for @hyperledger/toc review and mark this issue as complete.
+      - date: 2023-10-26
+        title: Reminder to submit the 2023 Q4 quarterly project report
+        description: Dear @hyperledger/sawtooth-core-maintainers, please submit the 2023 Q4 quarterly report (due 2023-10-26) for @hyperledger/toc review and mark this issue as complete.
+  - name: Hyperledger Aries
+    github_org: hyperledger
+    github_repo: aries-cloudagent-python
+    maintainers:
+      - TelegramSam
+      - swcurran
+      - andrewwhitehead
+      - ianco
+      - shaangill025
+      - WadeBarnes
+    schedules:
+      - date: 2023-08-03
+        title: Reminder to submit the 2023 Q3 quarterly project report
+        description: Dear @hyperledger/aries-cloudagent-python-committers, please submit the 2023 Q3 quarterly report (due 2023-08-03) for @hyperledger/toc review and mark this issue as complete.
+      - date: 2023-11-09
+        title: Reminder to submit the 2023 Q4 quarterly project report
+        description: Dear @hyperledger/aries-cloudagent-python-committers, please submit the 2023 Q4 quarterly report (due 2023-11-09) for @hyperledger/toc review and mark this issue as complete.
+  - name: Hyperledger Indy
+    github_org: hyperledger
+    github_repo: indy-node
+    maintainers:
+      - TimoGlastra
+      - andrewwhitehead
+      - Artemkaaas
+      - swcurran
+      - ianco
+      - WadeBarnes
+    schedules:
+      - date: 2023-08-03
+        title: Reminder to submit the 2023 Q3 quarterly project report
+        description: Dear @hyperledger/indy-vdr-maintainers, please submit the 2023 Q3 quarterly report (due 2023-08-03) for @hyperledger/toc review and mark this issue as complete.
+      - date: 2023-11-09
+        title: Reminder to submit the 2023 Q4 quarterly project report
+        description: Dear @hyperledger/indy-vdr-maintainers, please submit the 2023 Q4 quarterly report (due 2023-11-09) for @hyperledger/toc review and mark this issue as complete.
+  - name: Hyperledger AnonCreds
+    github_org: hyperledger
+    github_repo: anoncreds-rs
+    maintainers:
+      - TimoGlastra
+      - blu3beri
+      - dkulic
+      - andrewwhitehead
+      - swcurran
+      - WadeBarnes
+    schedules:
+      - date: 2023-08-03
+        title: Reminder to submit the 2023 Q3 quarterly project report
+        description: Dear @hyperledger/anoncreds-maintainers, please submit the 2023 Q3 quarterly report (due 2023-08-03) for @hyperledger/toc review and mark this issue as complete.
+      - date: 2023-11-09
+        title: Reminder to submit the 2023 Q4 quarterly project report
+        description: Dear @hyperledger/anoncreds-maintainers, please submit the 2023 Q4 quarterly report (due 2023-11-09) for @hyperledger/toc review and mark this issue as complete.
