@@ -34,7 +34,7 @@ According to the [Iroha Activity Dashboard](https://insights.lfx.linuxfoundation
 We are restoring the old documentation for the Iroha v1 project using a different hosting solution, as the previous solution was terminated. This is going to be used temporarily for support of the deprecated version of Iroha v1 documentation. 
 
 Iroha 1 has its own mentorship project: "[Extend queries with optional arguments](https://mentorship.lfx.linuxfoundation.org/project/06a25b14-a56e-4294-a89d-05f1dc74106c)".
-The mentors on this project are: Andrzej Gruntowski, Grzegorz Bazior and Aleksandr Petrosyan.
+The mentors on this project are: [Andrzej Gruntowski](https://github.com/andprogrammer), [Grzegorz Bazior](https://github.com/baziorek) and [Aleksandr Petrosyan](https://github.com/appetrosyan).
 
 ## Iroha v2
 
@@ -69,7 +69,7 @@ Legacy configurations have been added to Iroha. ([#3183](https://github.com/hype
 
 The `AssetDefinition` now has a logo field. ([#3389](https://github.com/hyperledger/iroha/pull/3389))
 
-Iroha 2 now uses Tokio actors. This allows us to use industry standard instrumentation to diagnose deadlocks, starvation  and other previously undiagnoseable problems. ([#3362](https://github.com/hyperledger/iroha/issues/3362))
+Iroha 2 now uses Tokio actors. This allows us to use industry standard instrumentation to diagnose deadlocks, starvation and other previously undiagnoseable problems. ([#3362](https://github.com/hyperledger/iroha/issues/3362))
 
 Additionally an SDK based off of using `iroha_client_cli` and a common JSON API was proposed, and will be merged.
 
@@ -87,7 +87,7 @@ There are three mentorship streams currently accepting mentees for Iroha 2.
 
 # Maintainer Diversity
 
-Currently, the Iroha 2 core development team consists of:
+Currently, the Iroha 2 core development team consists of [SORAMITSU](https://soramitsu.co.jp/) employees:
 
 * 8 Rust engineers + 1 tech lead
 * 1 front-end developer
@@ -96,7 +96,9 @@ Currently, the Iroha 2 core development team consists of:
 * 1 full-time DevOps
 * 1 community manager who also handles front-end, back-end, DevOps and writing tasks as needed
 
-The maintenance team now consists of  SORAMITSU employees. Gregorz Bazior (Yonix Digital Systems, AGH University of Science and Technology) is interested in Iroha 2 and maintains Iroha 1.
+Iroha 2 core team is actively working on attracting talents through [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN/Hyperledger+Mentorship+Program) as shown above to considerably boost the maintainer diversity.
+
+Gregorz Bazior (Yonix Digital Systems, AGH University of Science and Technology) maintains Iroha 1 and he is also interested in Iroha 2.
 
 # Contributor Diversity
 
