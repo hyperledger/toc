@@ -11,7 +11,7 @@ Currently, active maintenance of Iroha 1 has stopped and there are no plans for 
 
 All Iroha 2 developers are now fully onboarded and at maximum productivity.
 
-Since development of the Ursa project has been discontinued, the Iroha team is rewriting its essential parts to integrate in the Iroha codebase. In addition, thanks to Arun S M, the Iroha 2 BCE team will start collaborating with the Hyperledger Blockchain Explorer team.
+Since development of the Ursa project has been discontinued, the Iroha team is rewriting its essential parts to integrate in the Iroha codebase. In addition, thanks to Arun S M, the Iroha 2 BCE team will start collaborating with the Blockchain Explorer, a Hyperledger Lab, team.
 
 # Questions/Issues for the TOC
 
