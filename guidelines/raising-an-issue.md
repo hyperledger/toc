@@ -3,7 +3,7 @@ layout: default
 title: Raising an Issue
 parent: Guidelines
 grand_parent: Hyperledger TOC
-nav_order: 4
+nav_order: 5
 ---
 # Raising an Issue with the Technical Oversight Committee (TOC)
 

@@ -3,7 +3,7 @@ layout: default
 title: Task Force
 parent: Guidelines
 grand_parent: Hyperledger TOC
-nav_order: 5
+nav_order: 6
 ---
 # Task Force
 
