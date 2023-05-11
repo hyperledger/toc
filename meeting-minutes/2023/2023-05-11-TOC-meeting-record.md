@@ -12,6 +12,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Announcements
 * The [Hyperledger /dev/weekly developer newsletter](https://wiki.hyperledger.org/pages/viewpage.action?pageId=39618905) goes out each Friday to hundreds of Hyperledger developers. It is a collaborative effort. If you have a project release, pull request, community event, and/or relevant article you would like highlighted next week, please [leave a comment for consideration on the upcoming newsletter wiki page](https://wiki.hyperledger.org/display/DR/2023)
+* Upcoming meeting changes
 
 # Quarterly reports
 * [2023 Q2 Hyperledger Iroha](https://github.com/hyperledger/toc/pull/108)
@@ -35,17 +36,17 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
     * [GitHub Contribution Guide](https://github.com/hyperledger/toc/pull/112)
 
 # Recordings
-* Links to be added upon completion of call
+* [https://youtu.be/AlsapQnEgXA](https://youtu.be/AlsapQnEgXA}
 
 # Attended by
-* [ ] Arnaud J Le Hors
-* [ ] Arun S M
-* [ ] Bobbi Muscara
-* [ ] David Enyeart
-* [ ] Jim Zhang
-* [ ] Marcus Brandenburger
-* [ ] Peter Somogyvari
-* [ ] Ramakrishna V
-* [ ] Stephen Curran
-* [ ] Timo Glastra
-* [ ] Tracy Kuhrt
+* [ ] ~~Arnaud J Le Hors~~
+* [x] Arun S M
+* [x] Bobbi Muscara
+* [x] David Enyeart
+* [x] Jim Zhang
+* [x] Marcus Brandenburger
+* [x] Peter Somogyvari
+* [x] Ramakrishna V
+* [x] Stephen Curran
+* [x] Timo Glastra
+* [x] Tracy Kuhrt
