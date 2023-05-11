@@ -31,6 +31,8 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 # Discussion
 * Demo of Insights V3 Project Health dashboard
 * Task force discussion: [Project best practices](https://github.com/hyperledger/toc/issues/45)
+    * [Project Best Practices Guidelines](https://github.com/hyperledger/toc/pull/111)
+    * [GitHub Contribution Guide](https://github.com/hyperledger/toc/pull/112)
 
 # Recordings
 * Links to be added upon completion of call
