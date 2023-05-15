@@ -144,7 +144,7 @@ Framework JavaScript, which will be the first release of the framework that is
 truly ledger-agnostic. 
 
 In addition, work has been done to expand the supported exchange protocols to
-include OpenID4VCI, allow credentials to be received and shared using different
+include OpenID4VCI, allowing credentials to be received and shared using different
 protocols.
 
 ### [Aries Cloud Agent Python]
