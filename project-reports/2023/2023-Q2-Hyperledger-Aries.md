@@ -48,7 +48,7 @@ codebases had 442 PRs (up 11%) from 81 contributors (up 21%).
     rooted in [cheqd.io] and [Cardano].
     - BC Gov published an [AnonCreds Code With Us Opportunity] to integrate
     [Hyperledger AnonCreds] into [Aries Cloud Agent Python]. [Indicio]
-    won that Opportunity and is working the implementation.
+    won that Opportunity and is working on the implementation.
 - An implementation of [OpenID4VCs] (issuance) with [Aries Framework JavaScript]
 has been completed. This is the first experiment in using [OpenID4VCs] with Aries.
 The community is also considering the feasibility of issuing and presenting [ISO
