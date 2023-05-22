@@ -27,6 +27,7 @@ has_toc: false
 | Q2      | 2023-05-04 | AnonCreds Aries Indy |
 | Q2      | 2023-05-11 | Iroha     |
 | Q2      | 2023-05-18 | Bevel     |
+| Q2      | 2023-05-25 | Solang Transact |
 | Q2      | 2023-06-01 | Cello     |
 | Q2      | 2023-06-08 | FireFly   |
 | Q2      | 2023-06-22 | Besu Caliper |
@@ -35,6 +36,7 @@ has_toc: false
 | Q3      | 2023-08-03 | AnonCreds Aries Indy |
 | Q3      | 2023-08-10 | Iroha     |
 | Q3      | 2023-08-17 | Bevel     |
+| Q3      | 2023-08-24 | Solang Transact |
 | Q3      | 2023-08-31 | Cello     |
 | Q3      | 2023-09-07 | FireFly   |
 | Q3      | 2023-09-21 | Besu Caliper |
@@ -42,6 +44,7 @@ has_toc: false
 | Q4      | 2023-10-26 | Sawtooth  |
 | Q4      | 2023-11-09 | AnonCreds Aries Indy Iroha |
 | Q4      | 2023-11-16 | Bevel     |
+| Q3      | 2023-11-23 | Solang Transact |
 | Q4      | 2023-11-30 | Cello     |
 | Q4      | 2023-12-07 | Besu Caliper FireFly   |
 
