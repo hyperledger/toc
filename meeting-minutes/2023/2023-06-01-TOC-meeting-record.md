@@ -31,7 +31,8 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * [2023 TOC Project Update Calendar](../../project-reports/2023/2023-updates.md)
 
 # Discussion
-* Task force: [Best Practices for Automated Pipelines](https://github.com/hyperledger/toc/issues/44)
+* [Why Contributing to the Hyperledger Community Will Help You Meet Your Goals](https://docs.google.com/presentation/d/147Bu9DhpiywvpEtuSh7Cblzt6aS2M_bK_yGyODAi_Y0/edit?usp=sharing) - David Boswell
+* Task force: [Best Practices for Automated Pipelines](https://github.com/hyperledger/toc/issues/44) - Peter Somogyvari
 
 # Recordings
 * Links to be added upon completion of call
