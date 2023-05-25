@@ -12,6 +12,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Announcements
 * The [Hyperledger /dev/weekly developer newsletter](https://wiki.hyperledger.org/pages/viewpage.action?pageId=39618905) goes out each Friday to hundreds of Hyperledger developers. It is a collaborative effort. If you have a project release, pull request, community event, and/or relevant article you would like highlighted next week, please [leave a comment for consideration on the upcoming newsletter wiki page](https://wiki.hyperledger.org/display/DR/2023)
+* Meeting move to PCC upcoming
 * Reminder - Please review the following PRs:
     * [GitHub Contribution Guide](https://github.com/hyperledger/toc/pull/112)
     * [Project Best Practices Guidelines](https://github.com/hyperledger/toc/pull/111)
@@ -29,6 +30,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
     * James has put up a [draft](https://docs.google.com/document/d/1EvbqBNg9bsRnSHpDRIosKbERtWiTkKhllaFLW0xDQ4w/edit?usp=sharing) for internal project team's review before sending it over to the TOC.
     * [Reminder sent to the Sawtooth contributors on May 11](https://discord.com/channels/905194001349627914/941417089779007488/1106221749646925886)
     * [Reminder sent to the Sawtooth contributors on May 18](https://discord.com/channels/905194001349627914/941417089779007488/1108757482614030376)
+    * Ry spoke to the Sawtooth community on the 24 MAY 2023 call
 
 # Upcoming reports
 * 2023 Q2 Hyperledger Transact (due 25 May 2023) -- Dormant project
@@ -39,20 +41,20 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * Task Force: Documentation and Onboarding Task Force - Bobbi Muscara
 
 # Recordings
-* Links to be added upon completion of call
+* [https://youtu.be/UATC5Vn5ERk](https://youtu.be/UATC5Vn5ERk)
 
 # Upcoming TOC meetings
 [Please check the calendar](https://lists.hyperledger.org/g/toc/calendar)
 
 # Attended by
-* [ ] Arnaud J Le Hors
-* [ ] Arun S M
-* [ ] Bobbi Muscara
-* [ ] David Enyeart
-* [ ] Jim Zhang
-* [ ] Marcus Brandenburger
-* [ ] Peter Somogyvari
-* [ ] Ramakrishna V
-* [ ] Stephen Curran
-* [ ] Timo Glastra
-* [ ] Tracy Kuhrt
+* [x] Arnaud J Le Hors
+* [x] Arun S M
+* [x] Bobbi Muscara
+* [x] David Enyeart
+* [x] Jim Zhang
+* [x] Marcus Brandenburger
+* [x] Peter Somogyvari
+* [x] Ramakrishna V
+* [ ] ~~Stephen Curran~~
+* [x] Timo Glastra
+* [x] Tracy Kuhrt
