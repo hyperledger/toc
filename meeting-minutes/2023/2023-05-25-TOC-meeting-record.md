@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2023-05-18 TOC Meeting Record
+title: 2023-05-25 TOC Meeting Record
 parent: 2023
 grand_parent: Meeting Minutes
 ---
