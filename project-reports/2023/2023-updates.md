@@ -24,10 +24,10 @@ has_toc: false
 | Q1      | 2023-03-23 | [Besu](2023-Q1-Hyperledger-Besu) [Caliper](2023-Q1-Hyperledger-Caliper) |
 | Q2      | 2023-04-13 | [Cacti](2023-Q2-Hyperledger-Cacti) [Fabric](2023-Q2-Hyperledger-Fabric) |
 | Q2      | 2023-04-27 | Sawtooth  |
-| Q2      | 2023-05-04 | AnonCreds Aries Indy |
-| Q2      | 2023-05-11 | Iroha     |
-| Q2      | 2023-05-18 | Bevel     |
-| Q2      | 2023-05-25 | Solang Transact |
+| Q2      | 2023-05-04 | [AnonCreds](2023-Q2-Hyperledger-AnonCreds) [Aries](2023-Q2-Hyperledger-Aries) [Indy](2023-Q2-Hyperledger-Indy) |
+| Q2      | 2023-05-11 | [Iroha](2023-Q2-Hyperledger-Iroha) |
+| Q2      | 2023-05-18 | [Bevel](2023-Q2-Hyperledger-Bevel) |
+| Q2      | 2023-05-25 | [Solang](2023-Q2-Hyperledger-Solang) Transact |
 | Q2      | 2023-06-01 | Cello     |
 | Q2      | 2023-06-08 | FireFly   |
 | Q2      | 2023-06-22 | Besu Caliper |
