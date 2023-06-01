@@ -11,12 +11,12 @@ nav_order: 4
 
 # Project Updates
 Project updates are:
-- used by the TOC to determine the health of a project
+- used by the TOC to determine the health of a project, including whether project should be moved to Dormant state
 - provided to the Governing Board on a monthly basis in the TOC Update
 - used to highlight interesting updates to the Governing Board about the projects
 - used by the TOC chair to provide project updates at both the annual Member Summit and Global Forum 
 - used to share interesting information with member companies by both the staff and TOC members
-- suggested as a point of reference by the Learning Materials Development WG to newcomers to determine if a project would be worth joining based on information like the contributor diversity, as well as, the type of feature work that is ongoing within the project
+- suggested as a point of reference for newcomers to determine if a project would be worth joining based on information like the contributor diversity, as well as, the type of feature work that is ongoing within the project
 
 # Instructions for Filing
 1. Copy the `0000-template.md` file to the subdirectory for the current year and name the file `YYYY-Qn-Project-Name` (e.g., `2023-Q1-Hyperledger-Iroha.md`).
