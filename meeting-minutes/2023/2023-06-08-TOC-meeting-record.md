@@ -25,9 +25,10 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
     * [Reminder sent to the Sawtooth contributors on May 11](https://discord.com/channels/905194001349627914/941417089779007488/1106221749646925886)
     * [Reminder sent to the Sawtooth contributors on May 18](https://discord.com/channels/905194001349627914/941417089779007488/1108757482614030376)
     * Ry spoke to the Sawtooth community on the 24 MAY 2023 call
+* 2023 Q2 Hyperledger Cello (**due 01 June 2023**)
+    * [Reminder sent to Cello maintainers via Discord](https://discord.com/channels/905194001349627914/941475454378991646/1115377168923512902) on June 5, 2023
 
 # Upcoming reports
-* 2023 Q2 Hyperledger Cello (due 01 June 2023)
 * 2023 Q2 Hyperledger Firefly (due 08 June 2023)
 * [2023 TOC Project Update Calendar](../../project-reports/2023/2023-updates.md)
 
