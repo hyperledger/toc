@@ -37,20 +37,20 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * Review CNCF's project review process
 
 # Recordings
-* To be added after meeting
+* [https://youtu.be/e_zIljfLl88](https://youtu.be/e_zIljfLl88)
 
 # Upcoming TOC meetings
 [Please check the calendar](https://lists.hyperledger.org/g/toc/calendar)
 
 # Attended by
-* [ ] Arnaud J Le Hors
-* [ ] Arun S M
-* [ ] Bobbi Muscara
-* [ ] David Enyeart
-* [ ] Jim Zhang
-* [ ] Marcus Brandenburger
-* [ ] Peter Somogyvari
-* [ ] Ramakrishna V
-* [ ] Stephen Curran
-* [ ] Timo Glastra
-* [ ] Tracy Kuhrt
+* [x] Arnaud J Le Hors
+* [x] Arun S M
+* [x] Bobbi Muscara
+* [x] David Enyeart
+* [x] Jim Zhang
+* [x] Marcus Brandenburger
+* [x] Peter Somogyvari
+* [x] Ramakrishna V
+* [ ] ~~Stephen Curran~~
+* [ ] ~~Timo Glastra~~
+* [x] Tracy Kuhrt
