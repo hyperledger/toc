@@ -1,0 +1,27 @@
+name: On demand quarterly report reminders
+
+on:
+  workflow_dispatch:
+    inputs:
+      number-of-days:
+        type: string
+        description: how many days before is the reminder required?
+        required: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the toc repository
+        uses: actions/checkout@v2
+
+      - name: Run the command now
+        run: |
+          sed -i "s/buffer_window_days: 3/buffer_window_days: ${{ inputs.number-of-days }}/" ./.github/configs/quarterly-report-reminder.yaml
+
+      - name: GitHub Issue Schedule
+        uses: hyperledger-tooling/github-issue-schedule@1.1
+        env:
+          GITHUB_TOKEN: "${{ secrets.TOC_ISSUES }}"
+          CONFIG_FILE: ./.github/configs/quarterly-report-reminder.yaml
