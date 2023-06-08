@@ -21,7 +21,7 @@ jobs:
           sed -i "s/buffer_window_days: 3/buffer_window_days: ${{ inputs.number-of-days }}/" ./.github/configs/quarterly-report-reminder.yaml
 
       - name: GitHub Issue Schedule
-        uses: hyperledger-tooling/github-issue-schedule@1.1
+        uses: hyperledger-tooling/github-issue-schedule@1.2
         env:
           GITHUB_TOKEN: "${{ secrets.TOC_ISSUES }}"
           CONFIG_FILE: ./.github/configs/quarterly-report-reminder.yaml
