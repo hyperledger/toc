@@ -3,7 +3,7 @@ layout: default
 title:  Release Taxonomy
 parent: Governing Documents
 grand_parent: Hyperledger TOC
-nav_order: 8
+nav_order: 9
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
