@@ -34,7 +34,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * [2023 TOC Project Update Calendar](../../project-reports/2023/2023-updates.md)
 
 # Discussion
-* Review CNCF's project review process
+* [Review CNCF's project review process](https://wiki.hyperledger.org/display/~arsulegai/CNCF+TOC+Review+Process)
 
 # Recordings
 * [https://youtu.be/e_zIljfLl88](https://youtu.be/e_zIljfLl88)
