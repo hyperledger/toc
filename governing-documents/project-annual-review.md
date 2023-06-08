@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project Lifecycle
+title: Project Annual Review
 parent: Governing Documents
 grand_parent: Hyperledger TOC
 nav_order: 5
