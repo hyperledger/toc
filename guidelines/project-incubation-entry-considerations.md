@@ -11,6 +11,9 @@ This document provides information to help people who are considering bringing t
 ## Considerations
 When considering projects that are proposed for incubation to Hyperledger, the TOC will consider the following items: codebase, maintainers, community, sponsors, legal, and overlap with existing projects. The below items are not hard and fast rules for projects being accepted. The considerations are a guide to project proposers. If you meet most of the considerations, you are most likely to be accepted. If you do not meet any of the considerations, you are most likely to not be accepted.
 
+### Goal Setting
+Every project team has a vision for why they exist. The project is more likely to succeed if it sets annual goals with expected outcomes. Hyperledger Foundation's governance model allows for projects to go through an annual review process against these set goals. The goal evaluation helps the stakeholders, and the community that is invested in the project to anticipate what's coming next. This process will open-up collaboration opportunities to those having similar interests.
+
 ### Codebase
 * Code should exist as open source software in some form. Previous accepted projects have come up through labs (e.g., Cactus, Ursa); while others previously had stand alone governance prior to joining (e.g., Besu).
 * DCO sign off should exists in the code repository. If not 100% ready, the code must be capable of becoming compliant upon entry (i.e., squash commit).
