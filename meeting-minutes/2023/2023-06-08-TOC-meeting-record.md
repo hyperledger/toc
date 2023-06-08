@@ -12,6 +12,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 # Announcements
 * The [Hyperledger /dev/weekly developer newsletter](https://wiki.hyperledger.org/pages/viewpage.action?pageId=39618905) goes out each Friday to hundreds of Hyperledger developers. It is a collaborative effort. If you have a project release, pull request, community event, and/or relevant article you would like highlighted next week, please [leave a comment for consideration on the upcoming newsletter wiki page](https://wiki.hyperledger.org/display/DR/2023)
 * Please review and provide comments to [Why and Why Not Contribute to an Open Source Community](https://wiki.hyperledger.org/display/~davidwboswell/Why+and+Why+Not+To+Contribute+to+an+Open+Source+Community)
+* Thurs June 15 11amET/8am PT ID SIG Meeting with guest & TOC member Stephen Curran presenting "Understanding Zero Knowledge Proofs With High School Math". [Details here](https://wiki.hyperledger.org/display/IWG/2023-06-15%3A+Identity+Special+Interest+Group)
 
 # Quarterly reports
 * Please review any [outstanding quarterly reports](https://github.com/hyperledger/toc/pulls?q=is%3Apr+is%3Aopen+label%3Aquarterly-report+user-review-requested%3A%40me).
