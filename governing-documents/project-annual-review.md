@@ -21,7 +21,7 @@ Reviews will start on the yearly anniversary of the project being accepted or mo
 The process for annual reviews is as follows:
 
 * A TOC representative will be chosen on a round-robin basis to lead the review once the project files a PR.
-* The assigned TOC member reviews the content of the PR and analyzes the project for community health indicators, their findings are placed within a thread in the private TOC channel ([#toc-only](https://discord.com/login?redirect_to=%2Fchannels%2F905194001349627914%2F945035770954141796)) for discussion. The thread should contain:
+* The assigned TOC member reviews the content of the PR and analyzes the project for community health indicators, their findings are placed within a thread in the TOC channel ([#toc](https://discord.com/channels/905194001349627914/941384040316018790)) for discussion. The thread should contain:
     1. important facts about the project that could influence the TOCs decision around the future of the project, its current stage, and path to other stages.
     2. whether the project's view of themselves is accurate and the ask of the TOC is reasonable to assist the project moving forward.
 * The project's maintainers are invited to the public TOC meeting to engage in TOC-led discussion around the project. Project maintainers are not obligated to attend, but it is recommended.
@@ -77,7 +77,7 @@ NOTE: If the TOC members recommend moving to a new stage, additional work may be
 
 ### TOC Member Responsible for Project's Annual Review
 - Reviewing the contents of the PR and analyzing the project's community health indicators
-- Documenting findings within a thread in the private TOC channel ([#toc-only](https://discord.com/login?redirect_to=%2Fchannels%2F905194001349627914%2F945035770954141796)) for discussion. The thread should contain:
+- Documenting findings within a thread in the TOC channel ([#toc](https://discord.com/channels/905194001349627914/941384040316018790)) for discussion. The thread should contain:
     1. Highlight important facts about the project that could influence the TOC's decision around the future of the project, its current stage, and paths to other stages
     2. Whether the project's view of themselves is accurate and the ask of the TOC is reasonable to assiste the prjoect moving forward
 - During the TOC-led discussion, providing a summary of the project and leverages the private thread's content as the basis of discussion. The discussion typically focuses on what is going well with the project and areas to improve
