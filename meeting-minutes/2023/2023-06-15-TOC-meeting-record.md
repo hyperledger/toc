@@ -10,7 +10,8 @@ grand_parent: Meeting Minutes
 Hyperledger is committed to creating a safe and welcoming community for all. For more information please visit our Code of Conduct: [Hyperledger Code of Conduct](https://toc.hyperledger.org/governing-documents/code-of-conduct.html)
 
 # Announcements
-* The [Hyperledger /dev/weekly developer newsletter](https://wiki.hyperledger.org/pages/viewpage.action?pageId=39618905) goes out each Friday to hundreds of Hyperledger developers. It is a collaborative effort. If you have a project release, pull request, community event, and/or relevant article you would like highlighted next week, please [leave a comment for consideration on the upcoming newsletter wiki page](https://wiki.hyperledger.org/display/DR/2023)
+* The [Hyperledger /dev/weekly developer newsletter](https://wiki.hyperledger.org/pages/viewpage.action?pageId=39618905) goes out each Friday to hundreds of Hyperledger developers. It is a collaborative effort. If you have a project release, pull request, community event, and/or relevant article you would like highlighted next week, please [leave a comment for consideration on the upcoming newsletter wiki page](https://wiki.hyperledger.org/display/DR/2023).
+* Updates have been made to [Why Contributing To The Hyperledger Community Will Help Meet Your Goals](https://docs.google.com/presentation/d/147Bu9DhpiywvpEtuSh7Cblzt6aS2M_bK_yGyODAi_Y0/edit#slide=id.g34ddab491c_0_16). Please review the changes.
 
 # Quarterly reports
 * [2023 Q2 Hyperledger Firefly](https://github.com/hyperledger/toc/pull/126)
