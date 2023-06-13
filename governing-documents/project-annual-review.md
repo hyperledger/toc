@@ -20,7 +20,7 @@ Reviews will start on the yearly anniversary of the project being accepted or mo
 ## Process
 The process for annual reviews is as follows:
 
-* A TOC representative will be chosen to lead the review once the project files a PR.
+* A TOC representative will be chosen on a round-robin basis to lead the review once the project files a PR.
 * The assigned TOC member reviews the content of the PR and analyzes the project for community health indicators, their findings are placed within a thread in the private TOC channel ([#toc-only](https://discord.com/login?redirect_to=%2Fchannels%2F905194001349627914%2F945035770954141796)) for discussion. The thread should contain:
     1. important facts about the project that could influence the TOCs decision around the future of the project, its current stage, and path to other stages.
     2. whether the project's view of themselves is accurate and the ask of the TOC is reasonable to assist the project moving forward.
@@ -33,7 +33,7 @@ The process for annual reviews is as follows:
 ### Filing an Annual Review
 Hyperledger Foundation staff will notify the project maintainers and copy the TOC when the project review is due. 
 
-Project maintainers are responsible for agreeing between them who will complete the annual review. One of the maintainers should create the review in GitHub under [hyperledger-foundation/toc/project-updates/](https://github.com/hyperledger-foundation/toc/tree/main/project-updates). 
+Project maintainers are responsible for agreeing between them who will complete the annual review. One of the maintainers should create the review in GitHub under [hyperledger/toc/project-reports/](https://github.com/hyperledger/toc/tree/gh-pages/project-reports).
 
 * Raise a PR titled *[Project name] [year] Annual Review* (e.g., Amazing Project 2024 Annual Review)
 * The PR should include a file called `./<year>/<year>-<project name>-annual.md` (e.g., `2024/2024-amazingproj-annual.md`) with the [contents described below](#annual-review-contents)
@@ -71,7 +71,7 @@ NOTE: If the TOC members recommend moving to a new stage, additional work may be
 
 ### Project Maintainers
 - Agreeing between themselves who will complete the annual review
-- Creating the annual review by filing a PR in GitHub under [hyperledger-foundation/toc/project-updates/](https://github.com/hyperledger-foundation/toc/tree/main/project-updates)
+- Creating the annual review by filing a PR in GitHub under [hyperledger/toc/project-reports/](https://github.com/hyperledger/toc/tree/gh-pages/project-reports)
 - Sending email to the [TOC mailing list](mailto:toc@lists.hyperledger.org) so that the community knows the PR is there and can comment on it
 - Optionally attending the public TOC meeting to engage in TOC-led discussion around the project. The project's maintainers are invited to use this time to voice any concerns and requests for help they may have that are not captured in the PR (or highlight asks within the PR)
 
