@@ -10,7 +10,7 @@ nav_exclude: true
 </mark>
 
 # Project Health
-<mark>_ Include a link to your project’s [LFX Insights page](https://insights-v2.lfx.linuxfoundation.org/projects). We will be looking for signs of consistent or increasing contribution activity. Please feel free to add commentary to add color to the numbers and graphs we will see on Insights._
+<mark>_Include a link to your project’s [LFX Insights page](https://insights-v2.lfx.linuxfoundation.org/projects). We will be looking for signs of consistent or increasing contribution activity. Please feel free to add commentary to add color to the numbers and graphs we will see on Insights._
 </mark>
 
 # Maintainer Diversity
