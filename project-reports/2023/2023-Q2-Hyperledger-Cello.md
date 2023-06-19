@@ -13,16 +13,6 @@ V1.0.0 version has been released.
 * New agent design and docker agent implementation are done;
 * Finish the API Engine.
 
-# Required Information
-- [x] Have you switched from master to main in all your repos? 
-- [x] Have you implemented the [Common Repository Structure](../guidelines/repository-structure.md) in all your repos? 
-- [x] Has your project implemented these inclusive language changes listed below to your repo? You can optionally [use the DCI Lint tool](https://github.com/petermetz/gh-action-dci-lint#usage) to make this a recurring action on your repo.
-    - master → main
-    - slave → replicas
-    - blacklist → denylist
-    - whitelist → allowlist
-- [x] Have you added an [Inclusive Language Statement](https://wiki.hyperledger.org/display/TSC/Inclusive+Language+Example) to your project's documentation and/or Wiki pages?
-
 # Questions/Issues for the TOC
 
 None
