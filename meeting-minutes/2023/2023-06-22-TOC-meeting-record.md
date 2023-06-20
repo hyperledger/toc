@@ -12,6 +12,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 # Announcements
 * The [Hyperledger /dev/weekly developer newsletter](https://wiki.hyperledger.org/pages/viewpage.action?pageId=39618905) goes out each Friday to hundreds of Hyperledger developers. It is a collaborative effort. If you have a project release, pull request, community event, and/or relevant article you would like highlighted next week, please [leave a comment for consideration on the upcoming newsletter wiki page](https://wiki.hyperledger.org/display/DR/2023).
 * Please add your review to [Encourage Projects to Set Annual Goals](https://github.com/hyperledger/toc/pull/125)
+* Hyperledger Aries Framework Javascript 0.4.0 Release, Setting Up an Agent and Issuing Credentials Workshop is July 11 @ 8amPT. [Click here for details] (https://wiki.hyperledger.org/display/events/Hyperledger+Aries+Framework+Javascript+0.4.0+Release%2C+Setting+Up+an+Agent+and+Issuing+Credentials). 
 
 # Quarterly reports
 * 2023 Q2 Hyperledger Cello(https://github.com/hyperledger/toc/pull/129)
