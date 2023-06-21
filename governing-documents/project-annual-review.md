@@ -13,7 +13,7 @@ nav_order: 5
 In addition to the [quarterly project updates](./project-updates.md), projects will undergo an annual review by the TOC. This annual review will replace one of the quarterly reports. Unlike the quarterly updates, the annual review process will be a "big picture" assessment of the project by reviewing the progress on goals from the prior year and goals for the next year. In addition, the annual review process will include a deep dive into the project health, including contributor and maintainer diversity and adoption metrics, and will include an assessment of the current [project lifecycle state](./project-lifecycle.md). The review will result in a set of recommendations for the project to improve and/or recommendation to move a project to another stage.
 
 ## Timeline
-Reviews will start on the yearly anniversary of the project being accepted or moving to a new stage.  **If your annual review is not submitted within two months of notification, we will take this as a sign that the project is not under active maintenance and the TOC is likely to decide to archive the project and move it to End of Life status.**
+Annual reviews will replace the Q1 quarterly report.  **If your annual review is not submitted within two months of notification, we will take this as a sign that the project is not under active maintenance and the TOC is likely to decide to archive the project and move it to End of Life status.**
 
 **NOTE:** If a project has genuinely stalled we can save everyone’s time and effort by archiving the project and moving it to `End of Life`.
 
@@ -59,7 +59,7 @@ NOTE: If the TOC members recommend moving to a new stage, additional work may be
 ### Hyperledger Staff
 
 - Maintaining the calendar for the project annual reviews
-- Notifying the project maintainers and copy the TOC when the project review is due
+- Notifying the project maintainers and copying the TOC when the project review is due
 
 ### Project Maintainers
 - Agreeing between themselves who will complete the annual review and informing the TOC of who will be completing the report
@@ -76,7 +76,7 @@ NOTE: If the TOC members recommend moving to a new stage, additional work may be
 - After the public meeting wraps up, summarizing the discussion on the PR in the form of a comment to document information for the project and community
 
 ### TOC Members
-- Participating in the private thread and ask questions that they might have
+- Participating in the thread and asking questions that they might have
 - Participating in the TOC-led discussion of the project's annual review
 - Participating in the vote on the project's annual review
 
