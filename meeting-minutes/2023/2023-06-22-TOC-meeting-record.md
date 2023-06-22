@@ -47,21 +47,21 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * [Task Force: Onboarding Content](https://github.com/hyperledger/toc/issues/47)
 
 # Recordings
-* Links to be added upon completion of call
+* [https://youtu.be/h6ZjyYnFi9w](https://youtu.be/h6ZjyYnFi9w)
 
 # Upcoming TOC meetings
 [Please check the calendar](https://lists.hyperledger.org/g/toc/calendar)
 
 # Attended by
-* [ ] Arnaud J Le Hors
-* [ ] Arun S M
-* [ ] Bobbi Muscara
-* [ ] David Enyeart
-* [ ] Jim Zhang
-* [ ] Marcus Brandenburger
-* [ ] Peter Somogyvari
-* [ ] Ramakrishna V
-* [ ] Stephen Curran
-* [ ] Timo Glastra
-* [ ] Tracy Kuhrt
+* [x] Arnaud J Le Hors
+* [x] Arun S M
+* [x] Bobbi Muscara
+* [x] David Enyeart
+* [ ] ~~Jim Zhang~~
+* [x] Marcus Brandenburger
+* [x] Peter Somogyvari
+* [x] Ramakrishna V
+* [x] Stephen Curran
+* [x] Timo Glastra
+* [x] Tracy Kuhrt
 
