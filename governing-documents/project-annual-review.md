@@ -21,14 +21,16 @@ Annual reviews will replace the Q1 quarterly report.  **If your annual review is
 The process for annual reviews is as follows:
 
 * A TOC representative will be chosen on a round-robin basis to lead the review once the project files a PR. This representative should be someone that is not directly involved with the project.
-* The assigned TOC member reviews the content of the PR and analyzes the project for community health indicators, their findings are placed within a thread in the TOC channel ([#toc](https://discord.com/channels/905194001349627914/941384040316018790)) for discussion. The thread should contain:
+* A secondary representative will be chosen on a round-robin basis to observe and corroborate the findings of the lead. This representative should be someone that is not directly involved with the project.
+* The lead TOC member reviews the content of the PR and analyzes the project for community health indicators, their findings are placed within a thread in the TOC channel ([#toc](https://discord.com/channels/905194001349627914/941384040316018790)) for discussion. The thread should contain:
     1. important facts about the project that could influence the TOCs decision around the future of the project, its current stage, and path to other stages.
     2. whether the project's view of themselves is accurate and the ask of the TOC is reasonable to assist the project moving forward.
+* The lead TOC member will work closely with the secondary TOC member to review their findings prior to the TOC meeting.
 * The project's maintainers are invited to the public TOC meeting to engage in TOC-led discussion around the project. Project maintainers are not obligated to attend, but it is highly recommended.
-* The assigned TOC member provides a summary of the project and leverages the thread's content as the basis of discussion. The discussion typically focuses on what is going well with the project and areas to improve.
+* The lead TOC member provides a summary of the project and leverages the thread's content as the basis of discussion. The discussion typically focuses on what is going well with the project and areas to improve.
 * The project's maintainers are invited to use this time to voice any concerns and requests for help they may have that are not captured in the PR (or highlight asks within the PR).
 * At the conclusion of the public meeting, the TOC votes to approve the annual review. Should a concern be registered on a project, the vote will be held separately.
-* After the meeting wraps up, the assigned TOC member should summarize the discussion on the PR in the form of a comment to document information for the project and community.
+* After the meeting wraps up, the lead TOC member should summarize the discussion on the PR in the form of a comment to document information for the project and community.
 
 ### Filing an Annual Review
 Hyperledger Foundation staff will notify the project maintainers and copy the TOC when the project review is due. 
@@ -72,8 +74,12 @@ NOTE: If the TOC members recommend moving to a new stage, additional work may be
 - Documenting findings within a thread in the TOC channel ([#toc](https://discord.com/channels/905194001349627914/941384040316018790)) for discussion. The thread should contain:
     1. Highlight important facts about the project that could influence the TOC's decision around the future of the project, its current stage, and paths to other stages
     2. Whether the project's view of themselves is accurate and the ask of the TOC is reasonable to assist the project moving forward
+- Working closely with the secondary TOC member to review their findings prior to the TOC meeting
 - During the TOC-led discussion, providing a summary of the project and leverages the private thread's content as the basis of discussion. The discussion typically focuses on what is going well with the project and areas to improve
 - After the public meeting wraps up, summarizing the discussion on the PR in the form of a comment to document information for the project and community
+
+### TOC Secondary Member
+- Working closely with the lead TOC member to review and corroborate their findings
 
 ### TOC Members
 - Participating in the thread and asking questions that they might have
