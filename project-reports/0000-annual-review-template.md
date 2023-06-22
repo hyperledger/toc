@@ -14,7 +14,7 @@ nav_exclude: true
 </mark>
 
 # Maintainer Diversity
-<mark>_How many maintainers do you have, and which organisations are they from? (Feel free to link to an existing [MAINTAINERS file](../guidelines/MAINTAINERS-guidelines.md) if appropriate.)_
+<mark>_How many maintainers do you have, and which organisations are they from? How has the maintainers and diversity of your maintainers changed in the past year? Has the number of active maintainers increased/decreased? Has the diversity of maintainers increased/decreased? Please include a link to your existing [MAINTAINERS file](../guidelines/MAINTAINERS-guidelines.md) and the MAINTAINERS file from last year (if appropriate). This is a good opportunity to ensure that your MAINTAINERS file is up to date and to retire any maintainers._ 
 </mark>
 
 # Project Adoption
@@ -24,15 +24,15 @@ nav_exclude: true
 # Goals
 
 ## Performance Against Prior Goals
-<mark>_Include information about the goals that you previously set for the project in the last review or since the project proposal has been approved. How has the project performed against these goals? (We won't penalize you if your goals changed for good reasons.)_
+<mark>_Include information about the goals that you previously set for the project in the last review or since the project proposal has been approved. How has the project performed against these goals? If your goals changed from your previous annual report, let us know what changed and why. If you have not achieved the goals that you set out, that is okay. We want to know what you have accomplished and what challenges the project is having in meeting the goals._
 </mark>
 
 ## Next Year's Goals
-<mark>_What are the goals for the next year of the project? For example, are you working on major new features? Or are you concentrating on adoption or documentation?_
+<mark>_What are the goals for the next year of the project? The goals should list what you want to achieve, not just what you know you can achieve. Feel free to include stretch goals and things that you are looking to explore in the next year. For example, are you working on major new features? Or are you concentrating on adoption, community growth, or documentation?_
 </mark>
 
 ## Help Required
-<mark>_How can the Hyperledger Foundation help you achieve your upcoming goals?_
+<mark>_How can the Hyperledger Foundation or the TOC help you achieve your upcoming goals?_
 </mark>
 
 # Project Lifecycle Stage Recommendation
