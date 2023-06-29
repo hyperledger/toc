@@ -24,7 +24,7 @@ None
 
 # Overall Activity in the Past Quarter
 
-The team is working mainly on the remaining work for the 1.0.0-GA release.
+The team was working mainly on the remaining work for the 1.0.0-GA release.
 
 * Testing and fixing bugs;
 * Finishing the node operations;
