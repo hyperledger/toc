@@ -15,7 +15,7 @@ Have we been able to complete the asks around CircleCI funding by Hyperledger Fo
 
 # Releases
 
-There were only three Besu releases this quarter, two point releases with fixes and a huge quarterly with a number of new changes. We expect another rather large quarterly in July with a huge amount of features focused on performance, fixes, and tech debt. We are also using these quarterlies to deprecate older features relating to Quorum, which is no longer being maintained by Consensys. 
+There were only three Besu releases this quarter, two point releases with fixes and a huge quarterly with a number of new changes. We expect another rather large quarterly in July with a huge amount of features focused on performance, fixes, and tech debt. We are also using these quarterlies to deprecate older features relating to Quorum, which is no longer being maintained by Consensys. We removed GoQuorum-compatible permissioning in 23.4.0 and are removing GoQuorum-compatible privacy in 23.7.0. 
 
 [Releases](https://github.com/hyperledger/besu/releases) this quarter: 
 - 23.1.4
