@@ -1,0 +1,5 @@
+---
+meeting-minutes:
+  - "meeting-minutes/**"
+quarterly-report:
+  - "project-reports/**"
