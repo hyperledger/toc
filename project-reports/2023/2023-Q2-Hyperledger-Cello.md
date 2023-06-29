@@ -35,7 +35,7 @@ The team was working mainly on the remaining work for the 1.0.0-GA release.
 
 Next steps include:
 
-* Finish the v1.1.0 GA release in 2023, which will include more operations of chaincode.
+* Finish the v1.1.0 GA release in 2023, which will include more operations of chaincode, for example upload, install, approve, and commit.
 
 # Maintainer Diversity
 
