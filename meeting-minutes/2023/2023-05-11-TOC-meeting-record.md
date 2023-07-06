@@ -36,7 +36,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
     * [GitHub Contribution Guide](https://github.com/hyperledger/toc/pull/112)
 
 # Recordings
-* [https://youtu.be/AlsapQnEgXA](https://youtu.be/AlsapQnEgXA}
+* [https://youtu.be/AlsapQnEgXA](https://youtu.be/AlsapQnEgXA)
 
 # Attended by
 * [ ] ~~Arnaud J Le Hors~~
