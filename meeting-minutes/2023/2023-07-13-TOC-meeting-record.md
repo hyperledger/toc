@@ -31,8 +31,9 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 # Discussion
 * [Project Annual Review Policy](https://github.com/hyperledger/toc/pull/123) - Let's vote on this
     * Changes made:
-        * Changed the report to replace the Q1 quarterly report
+        * Changed the annual review timeline to replace the Q1 quarterly report
         * Added a secondary TOC member to review and corroborate the findings of the TOC lead reviewer
+        * Updates to the template based on June 22 meeting
 * [Encourage Projects to Set Annual Goals](https://github.com/hyperledger/toc/pull/125) - Let's vote on this
 * Security Vulnerability Disclosure Task Force discussion
     * [Security Policy Vulnerability Disclosure Template](https://docs.google.com/document/d/1ne2RISsvRpOzy4buL1WTvs3Wm1_Scc6_82hKHx60Chk/edit)
