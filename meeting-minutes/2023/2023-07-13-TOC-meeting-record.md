@@ -39,21 +39,21 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
     * [Security Policy Vulnerability Disclosure Template](https://docs.google.com/document/d/1ne2RISsvRpOzy4buL1WTvs3Wm1_Scc6_82hKHx60Chk/edit)
 
 # Recordings
-* Links to be added upon completion of call
+* [https://youtu.be/w5nSjgQxShw](https://youtu.be/w5nSjgQxShw)
 
 # Upcoming TOC meetings
 * [Please check the calendar](https://lists.hyperledger.org/g/toc/calendar)
 * Next week task force discussion: automated pipeline best practices
 
 # Attended by
-* [ ] Arnaud J Le Hors
-* [ ] Arun S M
-* [ ] Bobbi Muscara
+* [x] Arnaud J Le Hors
+* [x] Arun S M
+* [x] Bobbi Muscara
 * [ ] ~~David Enyeart~~
-* [ ] Jim Zhang
-* [ ] Marcus Brandenburger
-* [ ] Peter Somogyvari
-* [ ] Ramakrishna V
-* [ ] Stephen Curran
-* [ ] Timo Glastra
-* [ ] Tracy Kuhrt
+* [x] Jim Zhang
+* [ ] ~~Marcus Brandenburger~~
+* [x] Peter Somogyvari
+* [x] Ramakrishna V
+* [x] Stephen Curran
+* [ ] ~~Timo Glastra~~
+* [x] Tracy Kuhrt
