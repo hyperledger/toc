@@ -14,7 +14,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Quarterly reports
 * [2023 Q3 Hyperledger Cacti](https://github.com/hyperledger/toc/pull/139)
-* [2023 Q2 Hyperledger Sawtooth](https://github.com/hyperledger/toc/pull/128) - waiting on Sawtooth maintainers to answer questions
+* [2023 Q2 Hyperledger Sawtooth](https://github.com/hyperledger/toc/pull/128) - Shawn has addressed questions. Please re-review
 * Please review any [outstanding quarterly reports](https://github.com/hyperledger/toc/pulls?q=is%3Apr+is%3Aopen+label%3Aquarterly-report+user-review-requested%3A%40me).
 
 # Past due reports
