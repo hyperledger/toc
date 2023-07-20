@@ -27,23 +27,25 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Discussion
 * [Task Force - Best Practices for Automated Pipelines](https://github.com/hyperledger/toc/issues/44)
+  * https://wiki.hyperledger.org/display/TF/Best+Practices+for+Automated+Pipelines
+* Applying for graduation for Cacti - PeterS to start the process
 
 # Recordings
-* Link to be added after meeting
+* https://youtu.be/8pl3kr1B-8c
 
 # Upcoming TOC meetings
 * [Please check the calendar](https://lists.hyperledger.org/g/toc/calendar)
-* Next week task force discussion: badging/project lifecycle
+* Next week topic TBD
 
 # Attended by
-* [ ] Arnaud J Le Hors
-* [ ] Arun S M
-* [ ] Bobbi Muscara
-* [ ] David Enyeart
-* [ ] Jim Zhang
-* [ ] Marcus Brandenburger
-* [ ] Peter Somogyvari
-* [ ] Ramakrishna V
-* [ ] Stephen Curran
-* [ ] Timo Glastra
-* [ ] Tracy Kuhrt
+* [x] Arnaud J Le Hors
+* [x] Arun S M
+* [x] Bobbi Muscara
+* [x] David Enyeart
+* [x] Jim Zhang
+* [x] Marcus Brandenburger
+* [x] Peter Somogyvari
+* [x] Ramakrishna V
+* [x] Stephen Curran
+* [ ] --Timo Glastra--
+* [x] Tracy Kuhrt
