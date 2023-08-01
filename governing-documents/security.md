@@ -14,7 +14,7 @@ security policies).  Please edit this as appropriate for your project and
 delete this top section.  For most projects, this will only involve minor
 edits (look for text in red below).  For projects that have security experts,
 feel free to edit and tailor to your project’s needs, but be sure that you
-know what you’re doing.  We expect this document to be linked from SECURITY.md
+know what you’re doing.  We expect this document to be linked from `SECURITY.md` in your project's repositories.
 
 —--
 
@@ -59,15 +59,15 @@ and rules for vulnerability disclosures.  We note that this outline is derived
 from the OpenSSF,
 https://github.com/ossf/oss-vulnerability-guide/blob/main/maintainer-guide.md.
 
-Each project will have a security team (for more details, see the section on
-people infrastructure below).  The security team will be comprised of
+Each project will have a security team (for more details, see the
+[people infrastructure](#people-infrastructure) below).  The security team will be comprised of
 maintainers or contributors to the project who are knowledgeable about
 security and is responsible for responding to and helping to fix security
 vulnerabilities.
 
-The security team (see below for details) for this project will do the
+The security team for this project will do the
 following for each reported vulnerability:
-1. Acknowledge receipt (see the section on “Report Intakes” for more) of the
+1. Acknowledge receipt (see [Report Intakes](#report-intakes] for more) of the
 issue to the reporter within 2 business days.
 2. Assess the issue.  Engage with the reporter to ask any outstanding questions
 about the report and how to reproduce it.   If the report is not considered a
@@ -79,16 +79,16 @@ process for reporting bugs, available <where your project has regular bug report
 particular report is more complex, discuss an embargo period with the reporter.
 The embargo period should be negotiated with the reporter and must not be
 longer than 90 days.
-4. Create a patch for the issue (see the “Private Patch Deployment
-Infrastructure” section).
-5. Request a CVE for the issue (see the “CNA/CVE Reporting” section).
+4. Create a patch for the issue (see the [Private Patch Deployment
+Infrastructure](#private-patch-deployment-infrastructure) section).
+5. Request a CVE for the issue (see the [CNA/CVE Reporting](#cnacve-reporting) section).
 6. Decide the date of public release.
-7. If applicable, Notify members of the embargo list of the upcoming patch
+7. If applicable, notify members of the embargo list of the upcoming patch
 and release, as described above.
 8. Cut a new (software) release in which the bug is fixed..
 9. Publicly disclose the issue within 48 hours after the release. It is
 recommended that this is done through Github security advisories (see the
-“(Github) Security Advisories” section for more details).
+[(Github) Security Advisories](#github-security-advisories) section for more details).
 
 ## “People” Infrastructure
 
@@ -102,7 +102,7 @@ happen so that people know who to contact and how to contact them when an
 emergency issue arises.  It can be difficult to track down someone with unique
 knowledge (e.g. in a particular area of cryptography) who is capable of
 fixing a problem in a short period of time.
-1. Each maintainer will be a member of the Hyperledger security email list
+1. Each security team member will be a member of the Hyperledger security email list
 (security@lists.hyperledger.org), and, in general, any Hyperledger-wide
 security infrastructure.
 2. If a project has specialized code related to certain aspects of security
@@ -145,7 +145,9 @@ This project has the following recommended ways to submit security
 vulnerabilities.  While the security team members will do their best to
 respond to bugs disclosed in all possible ways, it is encouraged for bug
 finders to report through the following approved channels:
-The Hyperledger Foundation security list:  security@lists.hyperledger.org.
+
+- The Hyperledger Foundation security list:  security@lists.hyperledger.org.
+
 To report a security issue, please send an email with the name of the project,
 a description of the issue, the steps you took to create the issue, affected
 versions, and if known, mitigations for the issue.  Note that this is a
@@ -186,7 +188,7 @@ Parties are on this list primarily for one of two reasons, which are either
 because they can either help fix the problem (perhaps through testing a fix at
 scale) or they need extra time to help prepare their ecosystem to roll out
 fixes quickly.  Approval is not given lightly:  project leadership
-(maintainers) must be convinced that institutions on the list “need to know
+(maintainers) must be convinced that institutions on the list “need to know"
 about issues in advance.
 
 Participation in an embargo list should not be taken lightly.  List members
