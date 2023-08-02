@@ -82,7 +82,7 @@ platforms beyond Hyperledger Indy, including at least [Cheqd.io] and [Cardano].
 [Cheqd.io]: https://cheqd.io/
 [Cardano]: https://cardano.org/
 
-Work on embedded the [AnonCreds Rust] implementation in [Aries Cloud Agent Python]
+Work on embedding the [AnonCreds Rust] implementation in [Aries Cloud Agent Python]
 has stalled, and the maintainers of that library are reorganizing that effort.
 The maintainers of the [Aries VCX] implementation recently connected with the
 AnonCreds maintainers with an offer to help with the AnonCreds implementation to
