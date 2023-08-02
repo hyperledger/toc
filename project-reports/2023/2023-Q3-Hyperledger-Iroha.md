@@ -18,7 +18,6 @@ The integration of Ursa essential parts to the Iroha codebase continues.
 
 # Questions/Issues for the TSC
 
-- No indexing on [2023](https://wiki.hyperledger.org/display/TSC/2023+Project+Updates) page
 - LFX interface [caused problems](https://community.lfx.dev/t/lfx-mentorship-platform-issues/2130) for candidate vetting/selection, and internship allocations
 
 # Releases
@@ -47,7 +46,7 @@ The project is in maintenance mode. It has a minor breakage for outdated platfor
 
 ## Overall comments
 
-The team has been focused on providing a stable base for internal projects, mainly on improving the UI/UX, optimisations and stability improvements. In addition to that, the mentorships are progressing well.
+The team has been focused on providing a stable base for Soramitsu's internal projects, mainly on improving the UI/UX, optimisations and stability improvements. In addition to that, the mentorships are progressing well.
 
 The maintainers' main focus was establishing reliable integration tests via `pytest` and `allure` to supplement the bare-bones Rust testing infrastructure.
 
