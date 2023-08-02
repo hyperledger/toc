@@ -71,6 +71,9 @@ Per the [Indy Quarterly Activity Dashboard], there were 97 commits
 
 [Indy Quarterly Activity Dashboard]: https://insights.lfx.linuxfoundation.org/projects/hyperledger%2Findy/dashboard;subTab=technical?time=%7B%22from%22:%222023-04-01T08:00:00.000Z%22,%22type%22:%22absolute%22,%22to%22:%222023-06-30T07:00:00.000Z%22%7D
 
+> NOTE: As of 2023.08.02 only some of the Indy repositories are visible on
+LFX Insights. The additional repositories are being added.
+
 ## Questions/Issues for the TOC
 
 None
