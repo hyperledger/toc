@@ -51,7 +51,7 @@ The team was focused on providing a stable base for internal projects, the main 
 
 The main focus of the maintainers was on establishing reliable integration tests via `pytest` and `allure` to supplement the bare-bones Rust testing infrastructure.
 
-Major developments have been made in the supporting SDKs, as well as supporting tools: namely, 
+Major developments have been made in the supporting SDKs, as well as supporting tools; namely, 
 the block squash tool is now capable of graceful handling of the `pre-rc.9` to `pre-rc.18` inclusive upgrades.
 Field deployment of this tool allowed us to identify flaws in the deserialisation pipeline ([#3330](https://github.com/hyperledger/iroha/issues/3330)).
 
