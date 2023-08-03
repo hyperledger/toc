@@ -9,7 +9,7 @@ has_toc: false
 
 # Project Health
 
-Currently, active maintenance of Iroha 1 has stopped and there are no plans for major releases.
+Currently, active maintenance of Iroha 1 has stopped, and there are no plans for major releases.
 The release `2.0.0-pre-rc.18` is officially merged and stable as of July 31th.
 
 All Iroha 2 developers are now fully onboarded and at maximum productivity.
