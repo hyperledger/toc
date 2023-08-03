@@ -80,7 +80,7 @@ Currently, the Iroha 2 core development team consists of:
 * 1 part-time DevOps
 * 1 community manager who also handles front-end, back-end, DevOps and writing tasks as needed
 
-The maintenance team now consists of the Soramitsu employees. [Gregorz Bazior](https://github.com/baziorek) (Yonix Digital Systems, AGH University of Science and Technology) is interested in Iroha 2 and maintains Iroha 1.
+The maintenance team is currently comprised of SORAMITSU employees. [Gregorz Bazior](https://github.com/baziorek) (Yonix Digital Systems, AGH University of Science and Technology) is interested in Iroha 2 and maintains Iroha 1.
 
 ## Contributor Diversity
 
