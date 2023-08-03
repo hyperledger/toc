@@ -12,7 +12,7 @@ Hyperledger projects or subprojects within individual Hyperledger projects
 (we note that some projects may have different repositories with different
 security policies).  Please edit this as appropriate for your project and
 delete this top section.  For most projects, this will only involve minor
-edits (look for text in red below).  For projects that have security experts,
+edits (look for `highlighted` text). For projects that have security experts,
 feel free to edit and tailor to your project’s needs, but be sure that you
 know what you’re doing.  We expect this document to be linked from `SECURITY.md` in your project's repositories.
 
@@ -65,7 +65,8 @@ maintainers or contributors to the project who are knowledgeable about
 security and is responsible for responding to and helping to fix security
 vulnerabilities.
 
-The security team for this project will do the
+The security team (see [people infrastructure](#people-infrastructure)
+for details) for this project will do the
 following for each reported vulnerability:
 1. Acknowledge receipt (see [Report Intakes](#report-intakes] for more) of the
 issue to the reporter within 2 business days.
@@ -74,7 +75,7 @@ about the report and how to reproduce it.   If the report is not considered a
 vulnerability, then the reporter should be informed and this process can be
 halted. If the report is still a regular bug (just not a security
 vulnerability), the reporter should be informed (if necessary) of the regular
-process for reporting bugs, available <where your project has regular bug reports>.
+process for reporting bugs, available `where your project has regular bug reports`.
 3. Some issues may require more time and resources to correct.  If this
 particular report is more complex, discuss an embargo period with the reporter.
 The embargo period should be negotiated with the reporter and must not be
@@ -88,7 +89,8 @@ and release, as described above.
 8. Cut a new (software) release in which the bug is fixed..
 9. Publicly disclose the issue within 48 hours after the release. It is
 recommended that this is done through Github security advisories (see the
-[(Github) Security Advisories](#github-security-advisories) section for more details).
+[(Github) Security Advisories](#github-security-advisories) section for
+more details).
 
 ## “People” Infrastructure
 
@@ -167,8 +169,9 @@ numbering authority (CNA) or set of authorities that the project uses to issue
 CVEs.
 
 It is recommended but not required that projects use Github as a CNA since the
-reporting process here can be streamlined with the entire Github security
-advisory process (see below).  It is also considered reasonable to have bug
+reporting process here can be streamlined with the entire
+[Github security advisory](#github-security-advisories) process.
+It is also considered reasonable to have bug
 bounty programs that can serve as CNAs such as Hackerone.
 
 This project uses the following CNA(s) in the following situations:
