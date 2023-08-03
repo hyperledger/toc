@@ -105,5 +105,5 @@ We've got some interest from a potential security-oriented intern and we're in t
 
 # Prior reports
 
-* [2023, Quarter 1](https://github.com/hyperledger/toc/pull/65)
-* [2023, Quarter 2](https://github.com/hyperledger/toc/pull/108)
+* [2023, Quarter 1](https://toc.hyperledger.org/project-reports/2023/2023-Q1-Hyperledger-Iroha.html)
+* [2023, Quarter 2](https://toc.hyperledger.org/project-reports/2023/2023-Q2-Hyperledger-Iroha.html)
