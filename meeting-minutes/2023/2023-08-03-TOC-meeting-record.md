@@ -11,6 +11,9 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Announcements
 * The [Hyperledger /dev/weekly developer newsletter](https://wiki.hyperledger.org/pages/viewpage.action?pageId=39618905) goes out each Friday to hundreds of Hyperledger developers. It is a collaborative effort. If you have a project release, pull request, community event, and/or relevant article you would like highlighted next week, please [leave a comment for consideration on the upcoming newsletter wiki page](https://wiki.hyperledger.org/display/DR/2023).
+* Q3 Editorial Campaign is #HyperledgerIdentity. We will be doing an extra communications push around all things related to Hyperledger identity tech, SSI, VCs etc. What can you do? Send us content to promote! The content you submit will be queued throughout the quarter for us to push on our social channels with the hashtag #HyperledgerIdentity. We would also appreciate any engagement with our promotion once it is live. You can submit content by emailing [pr@hyperledger.org](mailto:pr@hyperledger.org)
+* Animo recently announced "Making Aries Framework Javascript a Global Framework". It is a call for sponsors and partners to make it easy to build  EU suitable applications with Aries Framework JavaScript. [Find out more here](https://animo.id/project/making-aries-framework-javascript-a-global-framework).
+* Lissi recently announced the new messaging feature for the Lissi Agent and Wallet. [Find out more here](https://lissi-id.medium.com/unlocking-the-power-of-identity-and-communication-lissi-wallet-supports-b2c-messaging-6b88e65df7e8). 
 
 # Quarterly reports
 * [2023 Q2 Hyperledger Sawtooth](https://github.com/hyperledger/toc/pull/128) - Dave has [requested updates in the PR](https://github.com/hyperledger/toc/pull/128#issuecomment-1643997198); Jim has also [requested changes in the PR](https://github.com/hyperledger/toc/pull/128#discussion_r1269564288)
