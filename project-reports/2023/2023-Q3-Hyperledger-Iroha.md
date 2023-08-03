@@ -29,7 +29,7 @@ Past quarter releases:
 * v2.0.0-pre-rc.17
 * v2.0.0-pre-rc.18
 
-Iroha 1 is in maintenance mode, no releases are planned until the completion of the internship project.
+Iroha 1 is in maintenance mode. No releases are planned until the completion of the internship project.
 
 # Overall Activity in the Past Quarter
 
