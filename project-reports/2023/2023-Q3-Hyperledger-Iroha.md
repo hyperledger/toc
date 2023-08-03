@@ -76,7 +76,7 @@ Currently, the Iroha 2 core development team consists of:
 * 8 Rust developers + 1 PM + 1 tech lead
 * 1 front-end developer
 * 2 full-time QA engineers
-* 2 full-time technical writer
+* 2 full-time technical writers
 * 1 part-time DevOps
 * 1 community manager who also handles front-end, back-end, DevOps and writing tasks as needed
 
