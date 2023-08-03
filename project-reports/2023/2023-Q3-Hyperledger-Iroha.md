@@ -49,7 +49,7 @@ The project is in maintenance mode. It has a minor breakage for outdated platfor
 
 The team was focused on providing a stable base for internal projects, the main focus was on improving the UI/UX, optimisations and stability improvements. In addition to that, the mentorships are progressing well.
 
-The main focus of the maintainers was on establishing reliable integration tests via `pytest` and `allure` to supplement the bare-bones Rust testing infrastructure.
+The maintainers' main focus was establishing reliable integration tests via `pytest` and `allure` to supplement the bare-bones Rust testing infrastructure.
 
 Major developments have been made in the supporting SDKs, as well as supporting tools; namely, 
 the block squash tool is now capable of graceful handling of the `pre-rc.9` to `pre-rc.18` inclusive upgrades.
