@@ -47,7 +47,7 @@ The project is in maintenance mode. It has a minor breakage for outdated platfor
 
 ## Overall comments
 
-The team was focused on providing a stable base for internal projects, the main focus was on improving the UI/UX, optimisations and stability improvements. In addition to that, the mentorships are progressing well.
+The team has been focused on providing a stable base for internal projects, mainly on improving the UI/UX, optimisations and stability improvements. In addition to that, the mentorships are progressing well.
 
 The maintainers' main focus was establishing reliable integration tests via `pytest` and `allure` to supplement the bare-bones Rust testing infrastructure.
 
