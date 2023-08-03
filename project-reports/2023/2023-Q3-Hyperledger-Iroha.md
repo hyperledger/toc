@@ -37,7 +37,7 @@ According to the [Iroha Activity Dashboard](https://insights.lfx.linuxfoundation
 
 ## Iroha v1
 
-The project is in maintenance mode. It has a minor brekage for outdated platforms the fix is to update the build system to `ninja` from `CMake`, but it is held off so as not to interfere with the internship project and the restoration of the CI for the last releases of the v1 branch is planned to happen in Q4 2023 or Q1 2024.
+The project is in maintenance mode. It has a minor breakage for outdated platforms. The fix is to update the build system to `ninja` from `CMake`, but it is held off so as not to interfere with the internship project and the restoration of the CI for the last releases of the v1 branch is planned to happen in Q4 2023 or Q1 2024.
 
 ### Mentorship program
 
