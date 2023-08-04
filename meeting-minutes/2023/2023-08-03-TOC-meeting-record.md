@@ -33,7 +33,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * [Security Policy](https://github.com/hyperledger/toc/pull/143)
 
 # Recordings
-* Links to be added upon completion of call
+* [YouTube Recording](https://youtu.be/jAefU4oKFJ0)
 
 # Upcoming TOC meetings
 * [Please check the calendar](https://lists.hyperledger.org/g/toc/calendar)
@@ -41,13 +41,13 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Attended by
 * [ ] Arnaud J Le Hors
-* [ ] Arun S M
-* [ ] Bobbi Muscara
-* [ ] David Enyeart
-* [ ] Jim Zhang
-* [ ] Marcus Brandenburger
-* [ ] Peter Somogyvari
+* [x] Arun S M
+* [ ] ~Bobbi Muscara~
+* [x] David Enyeart
+* [x] Jim Zhang
+* [x] Marcus Brandenburger
+* [x] Peter Somogyvari
 * [ ] Ramakrishna V
-* [ ] Stephen Curran
+* [x] Stephen Curran
 * [ ] Timo Glastra
-* [ ] Tracy Kuhrt
+* [x] Tracy Kuhrt
