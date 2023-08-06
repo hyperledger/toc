@@ -183,7 +183,7 @@ This project uses the following CNA(s) in the following situations:
 
 The Hyperledger Foundation recommends that graduated projects maintain an
 embargo list. An embargo list is a list of known, trusted entities that run
-large deployments of a project (of course, project XYZ in our case). These
+large deployments of a project (of course, project `XYZ` in our case). These
 entities are notified ahead of time when important security patches are
 incoming to minimize potential security risks to large deployments of this
 project.
@@ -192,7 +192,7 @@ Parties are on this list primarily for one of two reasons, which are either
 because they can either help fix the problem (perhaps through testing a fix at
 scale) or they need extra time to help prepare their ecosystem to roll out
 fixes quickly. Approval is not given lightly: project leadership
-(maintainers) must be convinced that institutions on the list “need to know"
+(maintainers) must be convinced that institutions on the list **“need to know"**
 about issues in advance.
 
 Participation in an embargo list should not be taken lightly. List members
@@ -201,6 +201,11 @@ information to unauthorized parties until the public disclosure date.
 Institutions are on this list because their presence helps the project and its
 users; if their actions do not help the project and its users, they can expect
 to be removed from the list.
+
+The `XYZ` project team will publish guidelines for participation in the
+embargo list. Alternatively, send an email to [Hyperledger Foundation security
+mailing list](mailto:security@lists.hyperledger.org) with the reason for
+you to be part of the embargo list.
 
 `If the project does not maintain an embargo list.`
 This project does not maintain an embargo list. This is because `we are too

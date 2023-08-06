@@ -108,6 +108,10 @@ decision process by informing its members of key aspects of the project.
 
     -   Participate in Hyperledger Foundation wide security discussions.
 
+    -   Define an intake process for embargo list membership and ensure that
+    the embargo list membership is kept confidential.
+    See [Hyperledger Foundation Security Policy](../governing-documents/security.md).
+
 -   OpenSSF Best Practices Badge
 
     A team seeking to graduate from *Incubation* shall have started the
