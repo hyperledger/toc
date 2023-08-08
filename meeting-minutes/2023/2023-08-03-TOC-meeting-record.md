@@ -33,21 +33,21 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * [Security Policy](https://github.com/hyperledger/toc/pull/143)
 
 # Recordings
-* [YouTube Recording](https://youtu.be/jAefU4oKFJ0)
+* [YouTube Recording](https://youtu.be/vyHvtQdADxg)
 
 # Upcoming TOC meetings
 * [Please check the calendar](https://lists.hyperledger.org/g/toc/calendar)
 * Next week task force: Badging/Project Lifecycle
 
 # Attended by
-* [ ] Arnaud J Le Hors
+* [ ] ~Arnaud J Le Hors~
 * [x] Arun S M
 * [ ] ~Bobbi Muscara~
 * [x] David Enyeart
 * [x] Jim Zhang
 * [x] Marcus Brandenburger
 * [x] Peter Somogyvari
-* [ ] Ramakrishna V
+* [ ] ~Ramakrishna V~
 * [x] Stephen Curran
-* [ ] Timo Glastra
+* [ ] ~Timo Glastra~
 * [x] Tracy Kuhrt
