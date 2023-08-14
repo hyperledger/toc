@@ -49,7 +49,8 @@ that library being used in downstream applications.
 The [AnonCreds Quarterly Activity Dashboard] shows the activity on the project
 repositories, with 52 commits by 8 contributors in the quarter. Those counts are
 much lower than last quarter, reflecting the shift from implementing AnonCreds
-to using AnonCreds in the downstream implementations.
+to using AnonCreds in the downstream implementations, including the various
+Aries components/frameworks, and applications built on Aries.
 
 > NOTE: As of 2023.08.02 only some of the AnonCreds repositories are visible on
 LFX Insights. The additional repositories are being added.
