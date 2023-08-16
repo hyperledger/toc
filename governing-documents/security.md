@@ -24,19 +24,19 @@ know what you’re doing. We expect this document to be linked from
 This policy borrows heavily from the recommendations
 of the OpenSSF Vulnerability Disclosure working group. For up-to-date
 information on the latest recommendations related to vulnerability disclosures,
-please visit the github of that working group, available at
-https://github.com/ossf/wg-vulnerability-disclosures.
+please visit the
+[GitHub of that working group](https://github.com/ossf/wg-vulnerability-disclosures).
 
 ## Outline:
 
 This document has the following sections:
 1. [What is a Vulnerability Disclosure Policy?](#what-is-a-vulnerability-disclosure-policy)
-2. [Vulnerability Disclosure Processes and Associated rules](#vulnerability-disclosure-process-and-associated-rules)
+2. [Vulnerability Disclosure Processes and Associated Rules](#vulnerability-disclosure-process-and-associated-rules)
 3. [“People” Infrastructure](#people-infrastructure)
 4. [Report Intakes](#report-intakes)
 5. [CNA/CVE Reporting](#cnacve-reporting)
 6. [Embargo List](#embargo-list)
-7. [(Github) Security Advisories](#github-security-advisories)
+7. [(GitHub) Security Advisories](#github-security-advisories)
 8. [Private Patch Deployment Infrastructure](#private-patch-deployment-infrastructure)
 
 ## What Is a Vulnerability Disclosure Policy?
@@ -57,8 +57,7 @@ agreed to follow.
 
 All Hyperledger projects, including this project, follow the associated process
 and rules for vulnerability disclosures. We note that this outline is derived
-from the OpenSSF,
-https://github.com/ossf/oss-vulnerability-guide/blob/main/maintainer-guide.md.
+from the [OpenSSF maintainers guide](https://github.com/ossf/oss-vulnerability-guide/blob/main/maintainer-guide.md).
 
 Each project will have a security team (for more details, see the
 [people infrastructure](#people-infrastructure) below). The security team
@@ -69,7 +68,7 @@ helping to fix security vulnerabilities.
 The security team (see [people infrastructure](#people-infrastructure)
 for details) for this project will do the
 following for each reported vulnerability:
-1. Acknowledge receipt (see [Report Intakes](#report-intakes] for more) of the
+1. Acknowledge receipt (see [Report Intakes](#report-intakes) for more) of the
 issue to the reporter within 2 business days.
 2. Assess the issue. Engage with the reporter to ask any outstanding questions
 about the report and how to reproduce it. If the report is not considered a
@@ -89,8 +88,8 @@ Infrastructure](#private-patch-deployment-infrastructure) section).
 and release, as described above.
 8. Cut a new (software) release in which the bug is fixed..
 9. Publicly disclose the issue within 48 hours after the release. It is
-recommended that this is done through Github security advisories (see the
-[(Github) Security Advisories](#github-security-advisories) section for
+recommended that this is done through GitHub security advisories (see the
+[(GitHub) Security Advisories](#github-security-advisories) section for
 more details).
 
 ## “People” Infrastructure
@@ -140,7 +139,8 @@ Forums may be private but the existence of a forum must be public.
 
 ## Report Intakes
 While all Hyperledger Foundation projects are required to respond to security
-vulnerability disclosures sent to the [Hyperledger Foundation security list](mailto:security@lists.hyperledger.org),
+vulnerability disclosures sent to the Hyperledger Foundation security list
+[security@lists.hyperledger.org](mailto:security@lists.hyperledger.org),
 many projects have other authorized ways that reports are taken in as well.
 
 This project has the following recommended ways to submit security
@@ -155,10 +155,10 @@ versions, and if known, mitigations for the issue.  Note that this is a
 mandatory response channel.  We encourage reporters to default to this channel
 for reporting vulnerabilities if there is no compelling reason to use other
 channels.
-- [Github security vulnerability reporting](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing/privately-reporting-a-security-vulnerability):
+- [GitHub security vulnerability reporting](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing/privately-reporting-a-security-vulnerability):
 See also [GitHub Security Advisories](#github-security-advisories)
-to learn more about security infrastructure available in github.
-`This project does not use github for reporting because XYZ.`
+to learn more about security infrastructure available in GitHub.
+`This project does not use GitHub for reporting because XYZ.`
 - `Other intake`: `Other process`
 
 ## CNA/CVE Reporting
@@ -169,9 +169,9 @@ by projects in incubation.  For that reason, a project must designate a **CVE
 numbering authority (CNA)** or set of authorities that the project uses to issue
 CVEs.
 
-It is recommended but not required that projects use Github as a CNA since the
+It is recommended but not required that projects use GitHub as a CNA since the
 reporting process here can be streamlined with the entire
-[Github security advisory](#github-security-advisories) process.
+[GitHub security advisory](#github-security-advisories) process.
 It is also considered reasonable to have bug
 bounty programs that can serve as CNAs such as Hackerone.
 
@@ -227,20 +227,20 @@ list membership where an entity feels like they are being dealt with unfairly
 by the security response team, then they are encouraged to bring up the issue
 in front of the Hyperledger TOC, who can act as moderators.
 
-## (Github) Security Advisories
+## (GitHub) Security Advisories
 
-It is highly recommended that Hyperledger Foundation projects use [Github
-security advisories and the Github security process](https://docs.github.com/en/code-security/security-advisories) for
+It is highly recommended that Hyperledger Foundation projects use [GitHub
+security advisories and the GitHub security process](https://docs.github.com/en/code-security/security-advisories) for
 handling security vulnerabilities. In particular, this is strongly recommended
 for projects that do not have a large number of security experts as the
 features serve as a nice set of **guardrails** to help make sure that things are
 done correctly.
 
-This project `does/does not` use Github security advisories. `More precisely,
+This project `does/does not` use GitHub security advisories. `More precisely,
 describe what features (if any) are used here if the whole package is not
 utilized.`
 
-`If the project does not use Github security advisories, explain how security
+`If the project does not use GitHub security advisories, explain how security
 issues are publicly disclosed.`
 
 ## Private Patch Deployment Infrastructure
@@ -251,7 +251,7 @@ other words, patches that fix security vulnerabilities (potentially of some
 severity) are built without public visibility.
 
 Hyperledger also recommends that projects use the private development features
-of Github for private patch deployment infrastructure. For projects that wish
+of GitHub for private patch deployment infrastructure. For projects that wish
 to set this up, we encourage contacting the community architects (the email is
 community-architects@hyperledger.org).
 
@@ -264,12 +264,11 @@ advance`, and may change if `people start using our software in production`.
 This project builds patches addressing security vulnerabilities in a private
 way. In particular, the following infrastructure is used:
 
-`If the project uses Github.`
-This project uses the private development features of Github for security
-vulnerabilities. Github has extensive documentation of these features, which
-can be found here:
-https://docs.github.com/en/code-security/security-advisories/repository-security-advisories.
+`If the project uses GitHub.`
+This project uses the private development features of GitHub for security
+vulnerabilities. GitHub has [extensive documentation](https://docs.github.com/en/code-security/security-advisories/repository-security-advisories)
+of these features.
 
-`If the project does not use Github.`
+`If the project does not use GitHub.`
 This project uses the following private development features: magic and
 clairvoyance, or what you really use here.
