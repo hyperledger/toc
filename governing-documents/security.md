@@ -17,6 +17,10 @@ feel free to edit and tailor to your project’s needs, but be sure that you
 know what you’re doing. We expect this document to be linked from
 `SECURITY.md` in your project's repositories.
 
+If your project has multiple repositories then add the policy
+in the primary repository of your project. Remaining repositories
+can add a link to the primay repository's `SECURITY.md` file.
+
 —--
 
 ## About this document:
@@ -26,6 +30,10 @@ of the OpenSSF Vulnerability Disclosure working group. For up-to-date
 information on the latest recommendations related to vulnerability disclosures,
 please visit the
 [GitHub of that working group](https://github.com/ossf/wg-vulnerability-disclosures).
+
+If you are familiar with the security policies of the `XYZ` project
+and are interested in reporting the bug, please jump to
+[Report Intakes](#report-intakes).
 
 ## Outline:
 
