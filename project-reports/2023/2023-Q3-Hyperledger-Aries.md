@@ -53,11 +53,12 @@ codebases had 387 PRs (down 12%) from 70 contributors (down 13%).
   JavaScript] 0.4.0 includes Aries Askar and the shared components, including
   [Hyperledger AnonCreds], fully integrated, and initial support for
   [OpenID4VCs] protocols.
-    * [Aries Bifold] using AFJ 0.4.0 was deployed with ease, including updates
-      to existing Mobile Wallets being updated on the fly from using the Indy
-      SDK to using Askar.
+    * [Aries Bifold] using AFJ 0.4.0 was deployed by adopters with existing
+      implementations built on [Aries Framework JavaScript], including push the
+      apps to Apple and Google stores. In the process, existing Mobile Wallets
+      were updated on the fly from using the Indy SDK to using Askar.
     * Instances of [Aries Framework JavaScript] using non-Indy ledgers were
-      deployed and being used.
+      deployed and are being used in live use cases.
     * The [Aries Framework JavaScript] Team put on a workshop to cover all the
       new capabilities in [Aries Framework JavaScript] 0.4.0.
 * The move away from the [Indy SDK] accelerated over the quarter buoyed by the
