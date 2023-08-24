@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Q2 Hyperledger Besu
+title: 2023 Q2 Hyperledger Besu
 parent: 2023
 grand_parent: Project Updates
 ---
