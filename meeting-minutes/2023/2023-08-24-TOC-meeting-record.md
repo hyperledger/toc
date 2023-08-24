@@ -35,7 +35,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Upcoming TOC meetings
 * [Please check the calendar](https://lists.hyperledger.org/g/toc/calendar)
-* Next week task force: Badging/Lifecycle
+* Next week task force: Security Artifact Signing
 
 # Attended by
 * [ ] Arnaud J Le Hors
