@@ -22,6 +22,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 # Upcoming reports
 * 2023 Q3 Hyperledger Solang (Due August 24, 2023)
 * 2023 Q3 Hyperledger Transact (Due August 24, 2023) (**Dormant**)
+* 2023 Q3 Hyperledger Cello (Due August 31, 2023)
 * [2023 TOC Project Update Calendar](../../project-reports/2023/2023-updates.md)
 
 # Discussion
