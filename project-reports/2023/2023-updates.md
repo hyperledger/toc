@@ -34,7 +34,7 @@ has_toc: false
 | Q3      | 2023-07-13 | [Cacti](2023-Q3-Hyperledger-Cacti) [Fabric](2023-Q3-Hyperledger-Fabric) |
 | Q3      | 2023-07-27 | [Sawtooth](2023-Q3-Hyperleger-Sawtooth) |
 | Q3      | 2023-08-03 | [AnonCreds](2023-Q3-Hyperledger-AnonCreds) [Aries](2023-Q3-Hyperledger-Aries) [Indy](2023-Q3-Hyperledger-Indy) |
-| Q3      | 2023-08-10 | [Iroha](2023-Q3-Hyperledger-Iroha] |
+| Q3      | 2023-08-10 | [Iroha](2023-Q3-Hyperledger-Iroha) |
 | Q3      | 2023-08-17 | Bevel     |
 | Q3      | 2023-08-24 | Solang Transact |
 | Q3      | 2023-08-31 | Cello     |
