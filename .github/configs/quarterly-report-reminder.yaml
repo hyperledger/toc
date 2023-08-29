@@ -256,3 +256,17 @@ projects:
       - date: 2023-11-09
         title: Reminder to submit the 2023 Q4 quarterly project report
         description: Dear @hyperledger/anoncreds-maintainers, please submit the 2023 Q4 quarterly report (due 2023-11-09) for @hyperledger/toc review and mark this issue as complete.
+  - name: Hyperledger Solang
+    github_org: hyperledger
+    github_repo: solang
+    maintainers:
+      - seanyoung
+      - LucasSte
+      - xermicus
+    schedules:
+      - date: 2023-08-24
+        title: Reminder to submit the 2023 Q3 quarterly project report
+        description: Dear @hyperledger/solang-committers, please submit the 2023 Q3 quarterly report (due 2023-08-24) for @hyperledger/toc review and mark this issue as complete.
+      - date: 2023-11-23
+        title: Reminder to submit the 2023 Q4 quarterly project report
+        description: Dear @hyperledger/solang-committers, please submit the 2023 Q4 quarterly report (due 2023-11-23) for @hyperledger/toc review and mark this issue as complete.
