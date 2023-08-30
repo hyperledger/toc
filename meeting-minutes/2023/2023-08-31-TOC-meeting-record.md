@@ -14,10 +14,10 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Quarterly reports
 * [2023 Q3 Hyperledger Bevel](https://github.com/hyperledger/toc/pull/150)
+* [2023 Q3 Hyperledger Solang](https://github.com/hyperledger/toc/pull/157)
 * Please review any [outstanding quarterly reports](https://github.com/hyperledger/toc/pulls?q=is%3Apr+is%3Aopen+label%3Aquarterly-report+user-review-requested%3A%40me).
 
 # Past due reports
-* 2023 Q3 Hyperledger Solang (Due August 24, 2023)
 * 2023 Q3 Hyperledger Transact (Due August 24, 2023) (**Dormant**)
 
 # Upcoming reports
