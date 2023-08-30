@@ -37,12 +37,12 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * Next week task force: [Badging/Lifecycle](https://github.com/hyperledger/toc/issues/50)
 
 # Attended by
-* [ ] Arnaud J Le Hors
+* [ ] ~~Arnaud J Le Hors~~
 * [ ] Arun S M
 * [ ] Bobbi Muscara
 * [ ] David Enyeart
 * [ ] Jim Zhang
-* [ ] Marcus Brandenburger
+* [ ] ~~Marcus Brandenburger~~
 * [ ] Peter Somogyvari
 * [ ] Ramakrishna V
 * [ ] Stephen Curran
