@@ -3,6 +3,8 @@ title: "Hyperledger TOC"
 show_downloads: "false"
 has_children: true
 has_toc: true
+ga_tracking: GTM-T6J7RQ
+ga_tracking_anonymize_ip: true
 remote_theme: pmarsceill/just-the-docs
 logo: "hyperledger-logo.png"
 url: "https://toc.hyperledger.org"
