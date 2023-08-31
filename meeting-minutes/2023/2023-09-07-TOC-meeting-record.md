@@ -11,17 +11,17 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Announcements
 * The [Hyperledger /dev/weekly developer newsletter](https://wiki.hyperledger.org/pages/viewpage.action?pageId=39618905) goes out each Friday to hundreds of Hyperledger developers. It is a collaborative effort. If you have a project release, pull request, community event, and/or relevant article you would like highlighted next week, please [leave a comment for consideration on the upcoming newsletter wiki page](https://wiki.hyperledger.org/display/DR/2023).
+* [Allowed Third Party License Policy](https://toc.hyperledger.org/governing-documents/allowed-third-party-license-policy.html) that was approved in 2019 by the Governing Board has been added to the governing documents
 
 # Quarterly reports
-* [2023 Q3 Hyperledger Bevel](https://github.com/hyperledger/toc/pull/150)
 * [2023 Q3 Hyperledger Solang](https://github.com/hyperledger/toc/pull/157)
+* [2023 Q3 Hyperledger Cello](https://github.com/hyperledger/toc/pull/160)
 * Please review any [outstanding quarterly reports](https://github.com/hyperledger/toc/pulls?q=is%3Apr+is%3Aopen+label%3Aquarterly-report+user-review-requested%3A%40me).
 
 # Past due reports
 * 2023 Q3 Hyperledger Transact (Due August 24, 2023) (**Dormant**)
 
 # Upcoming reports
-* 2023 Q3 Hyperledger Cello (Due August 31, 2023)
 * 2023 Q3 Hyperledger FireFly (Due September 7, 2023)
 * [2023 TOC Project Update Calendar](../../project-reports/2023/2023-updates.md)
 
