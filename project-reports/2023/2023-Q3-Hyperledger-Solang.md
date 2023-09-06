@@ -33,7 +33,7 @@ There are no issues at this time.
 
 * Do everything to support and attract Solidity developers on Solana and Polkadot
 * Improve the developer experience for Solidity
-* Maintain compatibility the latest Solidity version
+* Maintain compatibility with the latest Solidity version
 * More security audits
 
 # Maintainer Diversity
