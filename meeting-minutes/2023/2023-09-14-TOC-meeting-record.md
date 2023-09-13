@@ -24,6 +24,9 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Discussion
 * Update on Security Policy PR
+* Election question: "All maintainers (or similar technical role in the case of Supported Projects that have different technical roles than TOC Projects) of any Technical Project who have been active in the past year." Do we read this statement as 
+    1. Refers only to current maintainers who have been active in the past year
+    2. Refers to maintainers (regardless of current status) who have been active in the past year
 * Task Force: [Badging/Lifecycle](https://github.com/hyperledger/toc/issues/50)
 
 # Recordings
