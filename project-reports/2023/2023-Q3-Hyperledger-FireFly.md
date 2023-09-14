@@ -15,7 +15,7 @@ Hyperledger published the case study [The Hyperledger FireFly Story: Kaleido Tap
 
 We have onboarded 3 new maintainers to the project and one maintainer has transitioned to a new company. These new maintainers include Matthew Whitehead & Chengxuan Xing from Kaleido and Dzianis Andreyenka from Instincttools. Vinod Damle has moved to Fidelity Investments and will continue as a maintainer.
 
-The Hyperledger FireFly team has been working closely with developers at OneOf over the past year as they built a new FireFly blockchain connector for the Tezos blockchain. They also demod this new blockchain connector at a recent FireFly Community Call. This codebase is in the process of being open sourced and donated to the Hyperledger FireFly project.
+The Hyperledger FireFly team has been working closely with developers at OneOf over the past year as they built a new FireFly blockchain connector for the Tezos blockchain. They also demoed this new blockchain connector at a recent FireFly Community Call. This codebase is in the process of being open sourced and donated to the Hyperledger FireFly project.
 
 Community adoption updates:
 
