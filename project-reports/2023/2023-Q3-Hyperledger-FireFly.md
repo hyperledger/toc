@@ -13,7 +13,7 @@ Hyperledger FireFly is applying to move to Graduated Project status. A separate 
 
 Hyperledger published the case study [The Hyperledger FireFly Story: Kaleido Taps into the Hyperledger Community to Develop Next-Gen Solutions](https://media.licdn.com/dms/document/media/D561FAQFHEjkdNUvJEg/feedshare-document-pdf-analyzed/0/1692713935821?e=1694044800&v=beta&t=KLpydg2_L7VbFMuSJpm3OsnKUJbxw3Q6dDzto_UPFGE).
 
-We have onboarded 3 new maintainers to the project and one maintainer has transitioned to a new company. These new maintainers include Matthew Whitehead & Chengxuan Xing from Kaleido and Dzianis Andreyenka from Instincttools. Vinod Damle has moved to Fidelity Investments and will continue as a maintainer.
+We have onboarded 3 new maintainers to the project and one maintainer has transitioned to a new company. These new maintainers include Matthew Whitehead & Chengxuan Xing from Kaleido and Dzianis Andreyenka from OneOf/Instinctools. Vinod Damle has moved to Fidelity Investments and will continue as a maintainer.
 
 The Hyperledger FireFly team has been working closely with developers at OneOf over the past year as they built a new FireFly blockchain connector for the Tezos blockchain. They also demoed this new blockchain connector at a recent FireFly Community Call. This codebase is in the process of being open sourced and donated to the Hyperledger FireFly project.
 
@@ -36,7 +36,7 @@ Contributor activity updates:
 
 The star activity for the FireFly repository has continued to grow from 339 end of last quarter to 398 end of this quarter. Discord activity remains consistent with ~45 DAU.
 
-![alt_text](images/ffq3image1.png "image_tooltip")
+![alt_text](images/HLFF_2023_Q3_image1.png "image_tooltip")
 
 Contributors are active in the project and since June there were 14 new contributors who performed at least one commit.
 
@@ -63,7 +63,7 @@ FireFly v1.2.1 is a patch release that contains many fixes, including:
 - Replace “UpsertBatch” with “InsertOrGetBatch”
 - Enable workflows for release branch
 - Backport fixes
-- FIxed multiple named tuple result from contract
+- Fixed multiple named tuple result from contract
 
 # Overall Activity in the Past Quarter
 
@@ -100,24 +100,24 @@ A list of all maintainers for Hyperledger FireFly may be found [here](https://wi
 | ------------------ | -------------------- | -------------- |
 | Matthew Whitehead  | Kaleido              | New Maintainer |
 | Chengxuan Xing     | Kaleido              | New Maintainer |
-| Dzianis Andreyenka | Instinctools         | New Maintainer |
+| Dzianis Andreyenka | OneOf/Instinctools   | New Maintainer |
 | Vinod Damle        | Fidelity Investments | New company    |
 
 # Contributor Diversity
 
 In the past quarter we’ve seen an increase in contributor strength, commit growth, and new contributors from parties outside of Kaleido.
 
-![alt_text](images/ffq3image2.png "image_tooltip")
+![alt_text](images/HLFF_2023_Q3_image2.png "image_tooltip")
 
-![alt_text](images/ffq3image3.png "image_tooltip")
+![alt_text](images/HLFF_2023_Q3_image3.png "image_tooltip")
 
-![alt_text](images/ffq3image4.png "image_tooltip")
+![alt_text](images/HLFF_2023_Q3_image4.png "image_tooltip")
 
-![alt_text](images/ffq3image5.png "image_tooltip")
+![alt_text](images/HLFF_2023_Q3_image5.png "image_tooltip")
 
-![alt_text](images/ffq3image6.png "image_tooltip")
+![alt_text](images/HLFF_2023_Q3_image6.png "image_tooltip")
 
-![alt_text](images/ffq3image7.png "image_tooltip")
+![alt_text](images/HLFF_2023_Q3_image7.png "image_tooltip")
 
 # Additional Information
 
