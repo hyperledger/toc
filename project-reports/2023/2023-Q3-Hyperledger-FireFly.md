@@ -52,7 +52,7 @@ Given the maturity of the project, and the recent changes in maintainership, Fir
 
 FireFly v1.2.2 is a patch that fixes several issues, including:
 
-- FabConnect not being able to set transactiondex and eventindex
+- FabConnect not being able to set transactionindex and eventindex
 - Correctly parse blockchain subscription names when delivering events
 
 ## [FireFly v1.2.1](https://github.com/hyperledger/firefly/releases/tag/v1.2.1)
