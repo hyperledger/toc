@@ -13,11 +13,31 @@ Hyperledger FireFly is applying to move to Graduated Project status. A separate 
 
 Hyperledger published the case study [The Hyperledger FireFly Story: Kaleido Taps into the Hyperledger Community to Develop Next-Gen Solutions](https://media.licdn.com/dms/document/media/D561FAQFHEjkdNUvJEg/feedshare-document-pdf-analyzed/0/1692713935821?e=1694044800&v=beta&t=KLpydg2_L7VbFMuSJpm3OsnKUJbxw3Q6dDzto_UPFGE).
 
+### New Repo Contributed
+
+The Hyperledger FireFly team has been working closely with developers at OneOf over the past year as they built a new FireFly blockchain connector for the Tezos blockchain. This blockchain connector was recently demoed on a FireFly Community Call and is now part of the Hyperledger FireFly open source project: [https://github.com/hyperledger/firefly-tezosconnect](https://github.com/hyperledger/firefly-tezosconnect)
+
+### Maintainers
+
 We have onboarded 3 new maintainers to the project and one maintainer has transitioned to a new company. These new maintainers include Matthew Whitehead & Chengxuan Xing from Kaleido and Dzianis Andreyenka from OneOf/Instinctools. Vinod Damle has moved to Fidelity Investments and will continue as a maintainer.
 
-The Hyperledger FireFly team has been working closely with developers at OneOf over the past year as they built a new FireFly blockchain connector for the Tezos blockchain. They also demoed this new blockchain connector at a recent FireFly Community Call. This codebase is in the process of being open sourced and donated to the Hyperledger FireFly project.
+### Steering Committee
 
-Community adoption updates:
+The FireFly Community is in active discussions of establishing a Steering Committee for the project itself. This would be a role for stakeholders who have a vested interest in the direction and the success of the project but are not necessarily writing or reviewing code on a daily basis. We have several Hyperledger Member companies that have expressed interest in being involved in the project in such a way including:
+
+- [DTCC](https://www.dtcc.com/)
+- [OneOf](https://www.oneof.com/)
+- [Kaleido](https://kaleido.io/)
+
+### Maintainer Pipeline
+
+The FireFly Community is actively working to continue to grow the FireFly technical contributors and maintainers through a Maintainer Pipeline. Pipeline activities range from working with organizations such as Grace Hopper Celebration to host open source contribution days, maintaining an active Discord channel, regular community calls, regular FireFly technical workshops, active plans to develop education/ workshop materials with local HL chapters and industry partners such as AWS, along with interactions with technical communities at major web3 community events such as EthDenver, EthCC, Consensus, Devconnect, etc. These pipeline activities aim to cultivate more technical contributions and maintainers from new organizations. We are pleased with the current continued growth in diversity in the project, and this "maintainer pipeline" will allow it to continue growing. Some examples of companies/organizations in various stages of this pipeline:
+
+- [DTCC](https://www.dtcc.com/)
+- [LACChain](https://lacnet.lacchain.net/firefly/)
+- [CGI Federal](https://www.cgi.com/us/en-us/federal)
+
+### Community adoption updates
 
 - The DFCRC and Reserve Bank of Australia released the [results of their CBDC Pilot](https://www.rba.gov.au/payments-and-infrastructure/central-bank-digital-currency/pdf/australian-cbdc-pilot-for-digital-finance-innovation-project-report.pdf) which leveraged Hyperledger FireFly. Some use cases tested in the pilot include:
   - A wholesale car dealer generated a tokenized invoice representing a claim on a wholesale buyer.
@@ -32,7 +52,7 @@ Community members have given talks featuring Hyperledger FireFly at a number of 
 - EthCC: [State of Enterprise Blockchain](https://www.youtube.com/watch?v=1XruoWm9cF4)
 - Point Zero Forum: [SME Financing via Programmable Money and Tokenization hosted by Bank of Thailand](https://www.pointzeroforum.com/insights/sme%20financing%20via%20programmable%20money%20and%20tokenisation?hsLang=en)
 
-Contributor activity updates:
+### Contributor activity updates
 
 The star activity for the FireFly repository has continued to grow from 339 end of last quarter to 398 end of this quarter. Discord activity remains consistent with ~45 DAU.
 
