@@ -20,7 +20,7 @@ disclosure policy.
 
 [security-template.md]: /governing-documents/security-template.md
 
-All project repositories MUST have a published security vulnerability disclosure
+All project repositories **MUST** have a published security vulnerability disclosure
 policy or have link to a common policy document for the project. In rare cases,
 a repository within a project may have a policy different from the project, as
 long as the repository policy also adheres to this Hyperledger security
