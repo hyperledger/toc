@@ -62,8 +62,8 @@ the community or the public find bugs and report them to the project. A
 vulnerability disclosure policy explains how this process functions from the
 perspective of the project.
 
-This vulnerability disclosure policy explains the rules and guidelines for the
-Hyperledger PROJECT Project. It is intended to act as both a reference for
+This vulnerability disclosure policy explains the rules and guidelines for
+Hyperledger PROJECT. It is intended to act as both a reference for
 outsiders–including both bug reporters and those looking for information on the
 project’s security practices–as well as a set of rules that maintainers and
 contributors have agreed to follow.
