@@ -182,7 +182,7 @@ infrastructure in GitHub.
 
 [GitHub security vulnerability report]: https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing/privately-reporting-a-security-vulnerability
 
-**Alternative:** Projects may publish in their security policy that they accept
+**Alternative:** Projects **MAY** publish in their security policy that they accept
 security vulnerability disclosures via other mechanism, such as using the
 [HackerOne.com] service. The policy must document the necessary details in using
 the alternate reporting mechanism(s). In addition, a project may publish that
