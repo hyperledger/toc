@@ -157,7 +157,7 @@ channel specific to the issue **MAY** be created on the Hyperledger Discord serv
 with invited participants added to the discussion.
 
 **Alternative:** Projects **MAY** document on their security policy that they use other forums for private discussion forums for approved maintainers and
-security team participants to discuss vulnerabilities. Details about the other forum(s) must be included.
+security team participants to discuss vulnerabilities. If other forum(s) are used, details about them **MUST** be included.
 
 ## Report Intakes
 
