@@ -119,7 +119,7 @@ This section details the required basic vulnerability disclosure infrastructure
 for all Hyperledger projects. There are quite a few necessary pieces of infrastructure,
 and we go through them in detail here.
 
-**Security team:** Projects must have a security response team of at
+**Security team:** Projects **MUST** have a security response team of at
 least three maintainers. This response team shall be set up BEFORE incidents
 happen so that people know who to contact and how to contact them when an
 emergency issue arises. It can be difficult to track down someone with unique
