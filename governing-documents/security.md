@@ -184,7 +184,7 @@ infrastructure in GitHub.
 
 **Alternative:** Projects **MAY** publish in their security policy that they accept
 security vulnerability disclosures via other mechanism, such as using the
-[HackerOne.com] service. The policy must document the necessary details in using
+[HackerOne.com] service. The policy **MUST** document the necessary details in using
 the alternate reporting mechanism(s). In addition, a project may publish that
 they don't accept reports via the recommended GitHub security vulnerability
 process. Projects **MUST** accept reports via the [Hyperledger Foundation
