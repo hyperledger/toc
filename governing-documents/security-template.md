@@ -134,7 +134,7 @@ with invited participants added to the discussion.
 
 ### Report Intakes
 
-The Hyperledger PROJECT project has the following ways to submit security
+Hyperledger PROJECT has the following ways to submit security
 vulnerabilities. While the security team members will do their best to
 respond to bugs disclosed in all possible ways, it is encouraged for bug
 finders to report through the following approved channels:
