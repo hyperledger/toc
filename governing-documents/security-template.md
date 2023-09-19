@@ -161,7 +161,7 @@ CVEs.
 
 ### Embargo List
 
-The Hyperledger PROJECT project maintains a private embargo list. If you wish to
+Hyperledger PROJECT maintains a private embargo list. If you wish to
 be added to the embargo list, please email the [Hyperledger Foundation security
 mailing list](mailto:security@lists.hyperledger.org), including the project name
 (Hyperledger PROJECT) and reason for being added to the embargo list. Requests
