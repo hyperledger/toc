@@ -247,7 +247,7 @@ assessed by the respective Hyperledger security team in conjunction with the
 appropriate Hyperledger Staff, and a decision will be made to accommodate or not
 the request.
 
-**Alternative:** Projects may choose to document in their security document
+**Alternative:** Projects **MAY** choose to document in their security document
 that they do not have an embargo list. The reason for not having an embargo list
 **SHOULD** be included when a project chooses not to have an embargo list.
 
