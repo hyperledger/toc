@@ -262,7 +262,7 @@ done correctly.
 
 **Alternative:** Projects **MAY** document in their security policy document
 that they use a security advisory mechanism other than GitHub to publish their
-disclosures. The alternate mechanism must be documented sufficiently for users
+disclosures. The alternate mechanism **MUST** be documented sufficiently for users
 to understand how to monitor the security advisories published by the project.
 
 ## Private Patch Deployment Infrastructure
