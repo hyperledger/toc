@@ -151,7 +151,7 @@ team members in the following format.
 
 **Discussion forum:**
 
-Discussions about each reported vulnerability should be carried out in the
+Discussions about each reported vulnerability **SHOULD** be carried out in the
 private GitHub security advisory about the vulnerability. If necessary, a private
 channel specific to the issue may be created on the Hyperledger Discord server
 with invited participants added to the discussion.
