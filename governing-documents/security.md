@@ -156,7 +156,7 @@ private GitHub security advisory about the vulnerability. If necessary, a privat
 channel specific to the issue may be created on the Hyperledger Discord server
 with invited participants added to the discussion.
 
-**Alternative:** Projects may document on their security policy that they use other forums for private discussion forums for approved maintainers and
+**Alternative:** Projects **MAY** document on their security policy that they use other forums for private discussion forums for approved maintainers and
 security team participants to discuss vulnerabilities. Details about the other forum(s) must be included.
 
 ## Report Intakes
