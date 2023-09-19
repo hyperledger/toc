@@ -22,7 +22,7 @@ disclosure policy.
 
 All project repositories **MUST** have a published security vulnerability disclosure
 policy or have link to a common policy document for the project. In rare cases,
-a repository within a project may have a policy different from the project, as
+a repository within a project **MAY** have a policy different from the project, as
 long as the repository policy also adheres to this Hyperledger security
 vulnerability disclosure policy.
 
