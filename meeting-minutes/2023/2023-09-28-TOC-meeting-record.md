@@ -15,10 +15,10 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Quarterly reports
 * [2023 Q3 Hyperledger FireFly](https://github.com/hyperledger/toc/pull/163)
+* [2023 Q3 Hyperledger Besu](https://github.com/hyperledger/toc/pull/169)
 * Please review any [outstanding quarterly reports](https://github.com/hyperledger/toc/pulls?q=is%3Apr+is%3Aopen+label%3Aquarterly-report+user-review-requested%3A%40me).
 
 # Past Due Reports
-* 2023 Q3 Hyperledger Besu (**Due September 21, 2023**)
 * 2023 Q3 Hyperledger Caliper (**Due September 21, 2023**)
 
 # Upcoming reports
