@@ -12,7 +12,7 @@ project. Notably:
 * Replace "PROJECT" throughout the document with the name of your project.
 
 Once your project's security vulnerability disclosure policy document is
-published, place a copy it into the rest of the repositories of your project, or
+published, place a copy of it into the rest of the repositories of your project, or
 create a `SECURITY.md` file in each repository that links back to the primary
 document.
 
