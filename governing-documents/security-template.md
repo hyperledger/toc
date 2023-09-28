@@ -106,7 +106,7 @@ time the report will not be publicly disclosed. The embargo period should be
 negotiated with the reporter and must not be longer than 90 days.
 
 4. If necessary, create a private patch development infrastructure for the issue
-   by email the [Hyperledger Community Architects].
+   by emailing the [Hyperledger Community Architects].
 
 [Hyperledger Community Architects]: mailto:community-architects@hyperledger.org
 
