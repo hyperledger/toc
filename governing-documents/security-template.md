@@ -46,15 +46,20 @@ Intakes](#report-intakes).
 
 This document has the following sections:
 
-1. [What is a Vulnerability Disclosure Policy?](#what-is-a-vulnerability-disclosure-policy)
-2. [Security Team](#security-team)
-3. [Report Intakes](#report-intakes)
-4. [CNA/CVE Reporting](#cnacve-reporting)
-5. [Embargo List](#embargo-list)
-6. [(GitHub) Security Advisories](#github-security-advisories)
-7. [Private Patch Deployment Infrastructure](#private-patch-deployment-infrastructure)
+- [Hyperledger PROJECT Security Policy](#hyperledger-project-security-policy)
+  - [Instructions](#instructions)
+  - [About this document](#about-this-document)
+  - [Outline](#outline)
+  - [What Is a Vulnerability Disclosure Policy?](#what-is-a-vulnerability-disclosure-policy)
+  - [Security Team](#security-team)
+  - [Discussion Forums](#discussion-forums)
+  - [Report Intakes](#report-intakes)
+  - [CNA/CVE Reporting](#cnacve-reporting)
+  - [Embargo List](#embargo-list)
+  - [(GitHub) Security Advisories](#github-security-advisories)
+  - [Private Patch Deployment Infrastructure](#private-patch-deployment-infrastructure)
 
-### What Is a Vulnerability Disclosure Policy?
+## What Is a Vulnerability Disclosure Policy?
 
 No piece of software is perfect. All software (at least, all software of a
 certain size and complexity) has bugs. In open source development, members of
@@ -68,7 +73,7 @@ outsiders–including both bug reporters and those looking for information on th
 project’s security practices–as well as a set of rules that maintainers and
 contributors have agreed to follow.
 
-### Security Team
+## Security Team
 
 The current Hyperledger PROJECT security team is:
 
@@ -125,14 +130,14 @@ upcoming patch and release, as described above.
 GitHub security advisory (see the [(GitHub) Security
 Advisories](#github-security-advisories) section for details).
 
-### Discussion Forums
+## Discussion Forums
 
 Discussions about each reported vulnerability should be carried out in the
 private GitHub security advisory about the vulnerability. If necessary, a private
 channel specific to the issue may be created on the Hyperledger Discord server
 with invited participants added to the discussion.
 
-### Report Intakes
+## Report Intakes
 
 Hyperledger PROJECT has the following ways to submit security
 vulnerabilities. While the security team members will do their best to
@@ -153,13 +158,13 @@ infrastructure in GitHub.
 
 [GitHub security vulnerability report]: https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing/privately-reporting-a-security-vulnerability
 
-### CNA/CVE Reporting
+## CNA/CVE Reporting
 
 Hyperledger PROJECT maintains a list of **Common Vulnerabilities and Exposures
 (CVE)** and uses GitHub as its **CVE numbering authority (CNA)** for issuing
 CVEs.
 
-### Embargo List
+## Embargo List
 
 Hyperledger PROJECT maintains a private embargo list. If you wish to
 be added to the embargo list, please email the [Hyperledger Foundation security
@@ -173,12 +178,12 @@ For more information about the embargo list, please see the [Embargo List
 section of the Hyperledger Security
 Policy](https://toc.hyperledger.org/governing-documents/security.html#embargo-list).
 
-### (GitHub) Security Advisories
+## (GitHub) Security Advisories
 
 Hyperledger PROJECT uses GitHub Security Advisories to manage the public
 disclosure of security vulnerabilities.
 
-### Private Patch Deployment Infrastructure
+## Private Patch Deployment Infrastructure
 
 In creating patches and new releases that address security vulnerabilities,
 Hyperledger PROJECT uses the private development features of GitHub for security
