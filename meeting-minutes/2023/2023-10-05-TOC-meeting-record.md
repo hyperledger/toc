@@ -26,7 +26,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * [2023 TOC Project Update Calendar](../../project-reports/2023/2023-updates.md)
 
 # Discussion
-* [TOC Election Schedule](https://wiki.hyperledger.org/display/TSC/TOC%252BElection%252B2023)
+* [TOC Election Schedule](https://wiki.hyperledger.org/display/TSC/TOC+Election+2023)
 * [Security Artifact Signing](https://github.com/hyperledger/toc/issues/49)
 
 # Recordings
