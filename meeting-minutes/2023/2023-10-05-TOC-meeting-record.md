@@ -27,24 +27,25 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Discussion
 * [TOC Election Schedule](https://wiki.hyperledger.org/display/TSC/TOC+Election+2023)
+  * Approved by role call vote, 9 aye and 2 absent
 * [Security Artifact Signing](https://github.com/hyperledger/toc/issues/49)
 
 # Recordings
-* Links to be added upon completion of call
+* [https://youtu.be/g7XFIaygEpg](https://youtu.be/g7XFIaygEpg)
 
 # Upcoming TOC meetings
 * [Please check the calendar](https://lists.hyperledger.org/g/toc/calendar)
 * Next meeting task force discussion: [Documentation Task Force](https://github.com/hyperledger/toc/issues/46)
 
 # Attended by
-* [ ] Arnaud J Le Hors
-* [ ] Arun S M
-* [ ] Bobbi Muscara
-* [ ] David Enyeart
-* [ ] Jim Zhang
-* [ ] Marcus Brandenburger
-* [ ] Peter Somogyvari
-* [ ] Ramakrishna V
-* [ ] Stephen Curran
-* [ ] Timo Glastra
-* [ ] Tracy Kuhrt
+* [x] Arnaud J Le Hors
+* [x] Arun S M
+* [x] Bobbi Muscara
+* [x] David Enyeart
+* [ ] ~~Jim Zhang~~
+* [x] Marcus Brandenburger
+* [x] Peter Somogyvari
+* [x] Ramakrishna V
+* [x] Stephen Curran
+* [ ] ~~Timo Glastra~~
+* [x] Tracy Kuhrt
