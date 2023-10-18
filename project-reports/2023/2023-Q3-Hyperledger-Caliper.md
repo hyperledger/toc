@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project Name
+title: 2023 Q3 Hyperledger Caliper
 parent: 2023
 grand_parent: Project Updates
 ---
