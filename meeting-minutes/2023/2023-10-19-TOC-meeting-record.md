@@ -30,20 +30,20 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * Documentation Task Force Update
 
 # Recordings
-* Links to be added upon completion of call
+* [https://youtu.be/XI9546AnRPM](https://youtu.be/XI9546AnRPM)
 
 # Upcoming TOC meetings
 [Please check the calendar](https://lists.hyperledger.org/g/toc/calendar)
 
 # Attended by
-* [ ] Arnaud J Le Hors
-* [ ] Arun S M
-* [ ] Bobbi Muscara
-* [ ] David Enyeart
-* [ ] Jim Zhang
-* [ ] Marcus Brandenburger
-* [ ] Peter Somogyvari
-* [ ] Ramakrishna V
-* [ ] Stephen Curran
-* [ ] Timo Glastra
-* [ ] Tracy Kuhrt
+* [x] Arnaud J Le Hors
+* [x] Arun S M
+* [x] Bobbi Muscara
+* [x] David Enyeart
+* [x] Jim Zhang
+* [x] Marcus Brandenburger
+* [x] Peter Somogyvari
+* [x] Ramakrishna V
+* [x] Stephen Curran
+* [ ] ~~Timo Glastra~~
+* [x] Tracy Kuhrt
