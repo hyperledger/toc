@@ -18,10 +18,10 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Quarterly reports
 * [2023 Q3 Hyperledger Caliper](https://github.com/hyperledger/toc/pull/173)
+* [2023 Q4 Hyperledger Sawtooth](https://github.com/hyperledger/toc/pull/177)
 * Please review any [outstanding quarterly reports](https://github.com/hyperledger/toc/pulls?q=is%3Apr+is%3Aopen+label%3Aquarterly-report+user-review-requested%3A%40me).
 
 # Upcoming reports
-* 2023 Q4 Hyperledger Sawtooth (Due October 26, 2023)
 * [2023 TOC Project Update Calendar](../../project-reports/2023/2023-updates.md)
 
 # Discussion
