@@ -105,7 +105,7 @@ appreciation of the efforts by Aritra who has done an outstanding job!
 [AnonCreds Mentorship]: https://wiki.hyperledger.org/display/INTERN/Document%2C+Review%2C+and+Implement+Hyperledger+AnonCreds+ZKP+Cryptographic+Primitives
 
 The contribution of the new AnonCreds v2 code base, and underlying cryptography
-in [Hyperledger Labs Agora] represents a big opportunity to advance AnonCreds
+in [Agora], a Hyperledger Labs represents a big opportunity to advance AnonCreds
 and the idea of maximum privacy-preserving verifiable credentials for everyday
 use. We need to assemble the set of collaborators looking to accomplish that
 goal that are willing to have developers do the work needed. A presentation at
@@ -113,7 +113,7 @@ goal that are willing to have developers do the work needed. A presentation at
 enabled by AnonCreds v2, and a "[To Do List]" of things we as a community need to
 work on.
 
-[Hyperledger Labs Agora]: https://labs.hyperledger.org/labs/agora.html
+[Agora]: https://labs.hyperledger.org/labs/agora.html
 [To Do List]: https://docs.google.com/presentation/d/1-07WrKtLxIf6ymdmQyU3ssg0R4XrGJkMBAxIE9i6NMU/edit#slide=id.g28a13545521_0_5
 
 [AnonCreds Rust]: https://github.com/hyperledger/anoncreds-rs
