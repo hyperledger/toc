@@ -89,7 +89,7 @@ codebases had 402 PRs (up 5%) from 64 contributors (down 9%).
 **Accomplishments**
 
 * Finished migration from legacy indysdk components to maintained components indy-vdr and credx
-* Ongoing effort to add support for V2 versions of issue-credential and presentation protocols to enabler wider variety of VC formats.
+* Ongoing efforts to add support for V2 versions of issue-credential and presentation protocols to enable wider varieties of VC formats.
 * Big portion of dev effort was dedicated to refactoring, improving developer experience, making tests cleaner, stabler and more efficient.
 * The two ongoing mentorship projects shaping up nicely:
     * [aries-vcx based mediator service](https://wiki.hyperledger.org/display/INTERN/%5Bdraft%5D+Project+Plan+-+aries-vcx+based+message+mediator+service)
@@ -98,7 +98,7 @@ codebases had 402 PRs (up 5%) from 64 contributors (down 9%).
 **2023Q4 Planning**
 
 * Completion and stabilization of V2 issuance/presentation protocols
-* Stabilization of new reusable components created in 2023, such as did, did_document, did_peer, did_exchange and others. On the same note, general improvement of developer onboarding of these components, as they be adopted also outside of Aries context.
+* Stabilization of new reusable components created in 2023, such as did, did_document, did_peer, did_exchange and others. On the same note, general improvement of developer onboarding of these components, as they will be adopted also outside of Aries context.
 * Completion of our two 2023 mentorship projects
 * Progress on work to migrate from credx to [anoncreds-rs] to enable implementation of non-indy anoncreds methods
 
@@ -140,8 +140,11 @@ maintainers]. The issue is not yet finalized, and discussions are continuing.
 ### [Aries Framework Go]
 
 After an active previous quarter, activity slowed this quarter on [Aries
-Framework Go] for reasons not clear outside of the repository maintainers. We're
-trying get information from the maintainers on their plans for this component.
+Framework Go]. In checking with the primary maintainers (from [Gen
+Digital](https://www.gendigital.com/)) about this change, we were told that the
+current maintainers will not be continuing to evolve the framework. As such,
+we'll consult with the community and either change the maintainers or archive
+the repository.
 
 # Current Plans
 
