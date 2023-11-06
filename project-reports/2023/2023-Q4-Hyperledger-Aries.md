@@ -45,7 +45,7 @@ The following Aries releases occurred in the last quarter:
 - [Aries Cloud Agent Python] -- 0.10.0, 0.10.1, 0.10.2, 0.10.3
 - [Aries Framework JavaScript] -- v0.4.0, v0.4.1alpha.5-34, v0.4.1, v0.4.2, v0.5.0alpha57-58
 - [Aries Askar] -- v0.3.0-dev1
-- [Aries VCX Releases] -- v0.58.0-v0.61.0
+- [Aries VCX] -- v0.58.0-v0.61.0
 - [Aries Bifold] -- v1.0.0-alpha.34-130
 
 Interoperability status can be seen
