@@ -33,8 +33,14 @@ Iroha 1 is in maintenance mode. There are no plans for new releases until the co
 
 ## Iroha v1
 
+### Upcoming activities
+
 - Upgrade libraries in VCPKG
 - Repair the MacOS build
+
+### Mentorship program
+
+* [Tomasz](https://github.com/dominious1) learned a lot about Iroha 1 during his [internship project](https://wiki.hyperledger.org/display/INTERN/Iroha+1%3A+extend+queries+with+optional+arguments). He was able to extend two commands in C++ code with tests and documentation. The project is still in progress.
 
 ## Iroha v2
 
@@ -71,8 +77,6 @@ The mentees are positive about the knowledge they gain during the process.
 * [Yasser Arguelles Snape](https://github.com/RealNeGate) learned about the Rust procedural macros in a relatively short period of time, gaining useful experience while writing a [DSL](https://wiki.hyperledger.org/display/INTERN/Iroha+2%3A+DSL).
 * [Kshitij Roodkee](https://github.com/horizenight) learned a lot of useful things about Vue and Rust while working on the [Blockchain Explorer](https://wiki.hyperledger.org/display/INTERN/Iroha+2%3A+blockchain+explorer+update). In addition to learning technical skills, he claims to have improved soft skills too, such as his collaboration skills, the principle of structuring PRs, and appropiately addressing comments.
 * [Orange Ng](https://github.com/orangeng) shared that he learned a lot during the [FFI mentorship project](https://wiki.hyperledger.org/display/INTERN/Project+Plan+-+Iroha+2%3A+FFI+client+library+bindings), especially about the Rust language and parsing the source code. He is enjoying the mentorship program and works on his soft skills as well.
-[Tomasz](https://github.com/dominious1) learned a lot about Iroha 1 during his [internship project](https://wiki.hyperledger.org/display/INTERN/Iroha+1%3A+extend+queries+with+optional+arguments). He was able to extend two commands in C++ code with tests and documentation. The project is still in progress.
-At the moment, their mentorship continues, so it's too early to announce the final results.
 
 # Maintainer Diversity
 
