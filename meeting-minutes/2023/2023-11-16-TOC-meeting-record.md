@@ -18,10 +18,10 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * [2023 Q4 Hyperledger Aries](https://github.com/hyperledger/toc/pull/181)
 * [2023 Q4 Hyperledger Indy](https://github.com/hyperledger/toc/pull/182)
 * [2023 Q4 Hyperledger Iroha](https://github.com/hyperledger/toc/pull/183)
+* [2023 Q4 Hyperledger Bevel](https://github.com/hyperledger/toc/pull/186)
 * Please review any [outstanding quarterly reports](https://github.com/hyperledger/toc/pulls?q=is%3Apr+is%3Aopen+label%3Aquarterly-report+user-review-requested%3A%40me).
 
 # Upcoming reports
-* 2023 Q4 Hyperledger Bevel (due November 16, 2023)
 * 2023 Q4 Hyperledger Solang (due November 23, 2023)
 * 2023 Q4 Hyperledger Transact (due November 23, 2023)
 * [2023 TOC Project Update Calendar](../../project-reports/2023/2023-updates.md)
@@ -31,21 +31,21 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * [Badging/Lifecycle Task Force](https://github.com/hyperledger/toc/issues/50)
 
 # Recordings
-* Links to be added upon completion of call
+* [https://youtu.be/j1q8Zy-vSqY](https://youtu.be/j1q8Zy-vSqY)
 
 # Upcoming TOC meetings
 * [Please check the calendar](https://lists.hyperledger.org/g/toc/calendar)
 * Next week's task force discussion: [Best Practices for Automated Pipelines Task Force](https://github.com/hyperledger/toc/issues/44) ([wiki page](https://wiki.hyperledger.org/display/TF/Best+Practices+for+Automated+Pipelines))
 
 # Attended by
-* [ ] Arnaud J Le Hors
-* [ ] Arun S M
-* [ ] Bobbi Muscara
-* [ ] David Enyeart
-* [ ] Jim Zhang
-* [ ] Marcus Brandenburger
-* [ ] Peter Somogyvari
-* [ ] Ramakrishna V
-* [ ] Stephen Curran
-* [ ] Timo Glastra
-* [ ] Tracy Kuhrt
+* [x] Arnaud J Le Hors
+* [x] Arun S M
+* [x] Bobbi Muscara
+* [ ] ~~David Enyeart~~
+* [ ] ~~Jim Zhang~~
+* [x] Marcus Brandenburger
+* [ ] ~~Peter Somogyvari~~
+* [x] Ramakrishna V
+* [x] Stephen Curran
+* [ ] ~~Timo Glastra~~
+* [x] Tracy Kuhrt
