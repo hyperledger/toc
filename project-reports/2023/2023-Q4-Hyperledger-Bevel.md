@@ -38,7 +38,7 @@ grand_parent: Project Updates
 2.	Release v1.0 community discussion
 3.	Work towards completions of mentorship: Doc redesign  
 4. 	Corda 5 OS support
-5. 	Platform specfic deployment workflows
+5. 	Platform specific deployment workflows
 6. 	Helm chart testing
 
 
