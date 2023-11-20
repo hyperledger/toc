@@ -128,7 +128,7 @@ The second topic raised was if and how the Indy community, as represented at the
 Ecosystems Summits, can collaborate on moving the Indy technology, marketing and
 regulatory environment forward?  For example, is there a way for the Hyperledger
 Foundation to enable a group to collect funds for an open source objective, and
-the use those funds to enable a code contribution?
+then use those funds to enable a code contribution?
 
 ## Current Plans
 
