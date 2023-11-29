@@ -21,7 +21,7 @@ The document will first provide a survey of existing guidelines and practices an
 
 ## Project Incubation Entry Considerations
 
-The [Project Incubation Entry Considerations](project-incubation-entry-considerations.md) provides baseline suggestions for new Incubations projects. For example:
+The [Project Incubation Entry Considerations](../governing-documents/project-incubation-entry-considerations.md) provides baseline suggestions for new Incubations projects. For example:
 * Follow basic open-source practices and licensing
 * [DCO](https://developercertificate.org/) sign-offs on commits
 * Diverse set of maintainers and stakeholders
