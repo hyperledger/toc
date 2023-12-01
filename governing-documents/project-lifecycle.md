@@ -31,14 +31,12 @@ follows:
 
 ![Project lifecycle in graph format](project-lifecycle.svg "Project Lifecycle Graph").
 
-Projects are in one of six possible states:
+Projects are in one of four possible states:
 
 -   [*Proposal*](#proposal)
 -   [*Incubation*](#incubation)
 -   [*Graduated*](#graduated)
--   [*Dormant*](#dormant)
--   [*Deprecated*](#deprecated)
--   [*End of Life*](#end-of-life)
+-   [*Archived*](#archived)
 
 Projects may not necessarily move through those states in a linear way
 and may go through several iterations.
@@ -92,29 +90,27 @@ the criteria defined in the
 Projects that have successfully exited the *Incubation* phase
 are in the *Graduated* phase.
 
-# Dormant
+# Archived
 
-Projects enter the *Dormant* state when the normal functions are
-suspended or slowed down for a period of time. The TOC decides to move a project to or from the *Dormant* state upon request.
-If *Dormant* projects are re-activated, they re-enter the *Incubation*
-state even if they entered the *Dormant* state from the *Graduated* state.
+Projects may enter the *Archived* state under various circumstances,
+including:
+ * the project is deprecated
+ * the normal functions are suspended for an undefined period of time
+ * the project is no longer actively developed or maintained
 
-# Deprecated
+The TOC decides to move a project to or from the *Archived* state upon request.
 
-Anyone may propose that a project be *Deprecated* by submitting a
-rationale and identifying a substitute project or component, if any. The
-maintainers of the project shall vote on such a request and if it
-passes, make that recommendation to the TOC. Members of the community
-that disagree with the request can make their case before the TOC. The
-TOC will consider all points of view and render a final decision
-whether to deprecate.
+Anyone may propose that a project be *Archived* by submitting a
+rationale and identifying a substitute project or component, if there
+is any. When possible, the maintainers of the project shall vote on
+such a request and if it passes, make that recommendation to the
+TOC. Members of the community that disagree with the request can make
+their case before the TOC. The TOC will consider all points of view
+and render a final decision whether to archive the project or not.
 
-A *Deprecated* project will be maintained for a six month
-period by its community, after which it will be removed from any
-subsequent formal releases. Notice will be given to the public of the
-project deprecation. After the six-month deprecation
-period, the project will be labeled *End of Life*.
+Prior to a being *Archived* projects should give notice to the public
+of the upcoming archival and provide a six month period of
+maintenance.
 
-# End of Life
-
-A project that is no longer actively developed or maintained.
+If *Archived* projects are re-activated, they re-enter the *Incubation*
+state even if they entered the *Archived* state from the *Graduated* state.
