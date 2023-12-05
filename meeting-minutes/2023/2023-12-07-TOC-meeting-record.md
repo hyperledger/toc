@@ -30,7 +30,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Discussion
 * [TOC 2023 Retrospective](https://docs.google.com/presentation/d/126hBqWstyWl1UhzsR52cy1kqNtp6NYPrdzkhdSIRc5Q/edit?usp=sharing)
-* Hyperledger Fabric Ecosystem (?)
+* [Hyperledger Fabric Ecosystem](https://wiki.hyperledger.org/display/fabric/Ecosystem)
 
 # Recordings
 * Links to be added upon completion of call
