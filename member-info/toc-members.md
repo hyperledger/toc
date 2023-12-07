@@ -9,6 +9,20 @@ nav_order: 1
 
 # The Hyperledger Technical Oversight Committee
 
+2024 term:
+
+* [Marcus Brandenburger][mbrandenburger]
+* [Stephen Curran][swcurran]
+* [David Enyeart][denyeart]
+* [Tracy Kuhrt][tkuhrt]
+* [Yacov Manevich][yacovm]
+* [Matt Nelson][non-fungible-nelson]
+* [Venkatraman Ramakrishna][VRamakrishna]
+* [Arun S M][arsulegai]
+* [Peter Somogyvari][petermetz]
+* [Conor Svensson][conor10]
+* [Jim Zhang][jimthematrix]
+
 2022-2023 term:
 
 * [Arnaud J Le Hors][lehors]
@@ -139,6 +153,7 @@ These seats were determined by appointment, and membership was fluid.
 [adecaro]: https://github.com/adecaro
 [arsulegai]: https://github.com/arsulegai
 [bobbi28]: https://github.com/bobbi28
+[conor10]: https://github.com/conor10
 [denyeart]: https://github.com/denyeart
 [gmhartley53]: https://github.com/gmhartley53
 [hartm]: https://github.com/hartm
@@ -147,10 +162,12 @@ These seats were determined by appointment, and membership was fluid.
 [lehors]: https://github.com/lehors
 [mbrandenburger]: https://github.com/mbrandenburger
 [nage]: https://github.com/nage
+[non-fungible-nelson]: https://github.com/non-fungible-nelson
 [petermetz]: https://github.com/petermetz
 [shemnon]: https://github.com/shemnon
 [swcurran]: https://github.com/swcurran
 [tkuhrt]: https://github.com/tkuhrt
 [troyronda]: https://github.com/troyronda
+[yacovm]: https://github.com/yacovm
 [yeasy]: https://github.com/yeasy
 
