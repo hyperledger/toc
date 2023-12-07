@@ -29,8 +29,9 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * [2023 TOC Project Update Calendar](../../project-reports/2023/2023-updates.md)
 
 # Discussion
-* [TOC 2023 Retrospective](https://docs.google.com/presentation/d/126hBqWstyWl1UhzsR52cy1kqNtp6NYPrdzkhdSIRc5Q/edit?usp=sharing)
+* [Lifecycle Simplification](https://github.com/hyperledger/toc/pull/188)
 * [Hyperledger Fabric Ecosystem](https://wiki.hyperledger.org/display/fabric/Ecosystem)
+* [TOC 2023 Retrospective](https://docs.google.com/presentation/d/126hBqWstyWl1UhzsR52cy1kqNtp6NYPrdzkhdSIRc5Q/edit?usp=sharing)
 
 # Recordings
 * Links to be added upon completion of call
