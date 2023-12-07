@@ -30,11 +30,13 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Discussion
 * [Lifecycle Simplification](https://github.com/hyperledger/toc/pull/188)
+    * Discussed a number of options, which are captured on the pull request at [this comment](https://github.com/hyperledger/toc/pull/188#issuecomment-1845626167)
 * [Hyperledger Fabric Ecosystem](https://wiki.hyperledger.org/display/fabric/Ecosystem)
 * [TOC 2023 Retrospective](https://docs.google.com/presentation/d/126hBqWstyWl1UhzsR52cy1kqNtp6NYPrdzkhdSIRc5Q/edit?usp=sharing)
+    * Move to next week
 
 # Recordings
-* Links to be added upon completion of call
+* [https://youtu.be/_OnpCF1lUwU](https://youtu.be/_OnpCF1lUwU)
 
 # Upcoming TOC meetings
 * [Please check the calendar](https://lists.hyperledger.org/g/toc/calendar)
