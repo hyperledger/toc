@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hyperledger Solang
+title: 2023 Q4 Hyperledger Solang
 parent: 2023
 grand_parent: Project Updates
 ---
