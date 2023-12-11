@@ -50,14 +50,15 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 [Please check the calendar](https://lists.hyperledger.org/g/toc/calendar)
 
 # Attended by
-* [ ] Arnaud J Le Hors
-* [ ] Arun S M
-* [ ] Bobbi Muscara
-* [ ] David Enyeart
-* [ ] Jim Zhang
+
 * [ ] Marcus Brandenburger
-* [ ] Peter Somogyvari
-* [ ] Ramakrishna V
 * [ ] Stephen Curran
-* [ ] Timo Glastra
+* [ ] David Enyeart
 * [ ] Tracy Kuhrt
+* [ ] Yacov Manevich
+* [ ] Matt Nelson
+* [ ] Venkatraman Ramakrishna
+* [ ] Arun S M
+* [ ] Peter Somogyvari
+* [ ] Conor Svensson
+* [ ] Jim Zhang
