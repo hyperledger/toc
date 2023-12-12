@@ -14,12 +14,12 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * The TOC meetings of December 21, December 28, and January 4 are cancelled.
 
 # Quarterly reports
+* [2023 Q4 Hyperledger Besu](https://github.com/hyperledger/toc/pull/192)
 * Please review any [outstanding quarterly reports](https://github.com/hyperledger/toc/pulls?q=is%3Apr+is%3Aopen+label%3Aquarterly-report+user-review-requested%3A%40me).
 
 # Past due reports
 * 2023 Q4 Hyperledger Transact (due November 23, 2023) -- Dormant project - should we move to EOL?
 * 2023 Q4 Hyperledger Cello (due November 30, 2023)
-* 2023 Q4 Hyperledger Besu (due December 7, 2023)
 * 2023 Q4 Hyperledger Caliper (due December 7, 2023)
 * 2023 Q4 Hyperledger FireFly (due December 7, 2023)
 
