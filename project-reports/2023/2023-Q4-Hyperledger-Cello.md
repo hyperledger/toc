@@ -9,7 +9,7 @@ has_toc: false
 
 # Project Health
 
-The Hyperledger Cello Project is in good health, with the recent release of version v1.0.0. This version addresses bugs found during the testing of v1.0.0-RC and enhances the user interface.
+The Hyperledger Cello Project is in good health, with the recent release of version v1.0.0-GA. This version addresses bugs found during the testing of v1.0.0-RC and enhances the user interface.
 
 * Fixed the issue of Docker container startup sequence;
 * Simplifed the UI by eliminating the secondary menu in navigation and integrating new font sizes and logo;
@@ -21,10 +21,9 @@ There are currently no outstanding issues.
 
 # Releases
 
-* v1.0.0 was released in October 2023.
+* v1.0.0-GA was released in October 2023.
 * v1.0.0-RC2 was released in September 2023.
 * v1.0.0-RC1 was released in June 2023.
-* v1.0.0-GA was released in May 2023.
 * v1.0.0-beta1 was completed in November 2022.
 
 # Overall Activity in the Past Quarter
