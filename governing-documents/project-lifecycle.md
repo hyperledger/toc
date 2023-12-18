@@ -33,9 +33,9 @@ follows:
 
 Projects are in one of four possible states:
 
--   [*Proposal*](#proposal)
 -   [*Incubation*](#incubation)
 -   [*Graduated*](#graduated)
+-   [*Dormant*](#dormant)
 -   [*Archived*](#archived)
 
 Projects may not necessarily move through those states in a linear way
@@ -90,27 +90,38 @@ the criteria defined in the
 Projects that have successfully exited the *Incubation* phase
 are in the *Graduated* phase.
 
+The TOC may decide to move a *Graduated* project that no longer meets
+the [Incubation Exit Criteria](./project-incubation-exit.md) back to
+the *Incubation* state until it meets the criteria again.
+
+# Dormant
+
+(Covers the state formerly known as 'Deprecated') <a id="deprecated"></a>
+
+Projects enter the *Dormant* state when the normal functions are
+suspended, slowed down for a period of time, or the project is being
+deprecated.
+
+When possible, the maintainers of the project shall vote on such a change
+of state and if it passes, make that recommendation to the TOC, but
+anyone may propose that a project be moved to *Dormant* state. Members
+of the community who disagree with the request can make their case
+before the TOC. The TOC will consider all points of view and render a
+final decision.
+
+If *Dormant* projects are re-activated, they re-enter the *Incubation*
+state even if they entered the *Dormant* state from the *Graduated* state.
+
+
 # Archived
 
-Projects may enter the *Archived* state under various circumstances,
-including:
- * the project is deprecated
- * the normal functions are suspended for an undefined period of time
- * the project is no longer actively developed or maintained
+(Formerly called 'End of Life')<a id="end-of-life"></a>
 
-The TOC decides to move a project to or from the *Archived* state upon request.
+Projects that have been in the *Dormant* state for a period of 6 months
+will be automatically archived.
 
-Anyone may propose that a project be *Archived* by submitting a
-rationale and identifying a substitute project or component, if there
-is any. When possible, the maintainers of the project shall vote on
-such a request and if it passes, make that recommendation to the
-TOC. Members of the community that disagree with the request can make
-their case before the TOC. The TOC will consider all points of view
-and render a final decision whether to archive the project or not.
+If anyone wants to resume work on an *Archived* project they may
+submit a proposal to the TOC for consideration.
 
-Prior to a being *Archived* projects should give notice to the public
-of the upcoming archival and provide a six month period of
-maintenance.
-
-If *Archived* projects are re-activated, they re-enter the *Incubation*
-state even if they entered the *Archived* state from the *Graduated* state.
+If an *Archived* project is re-activated, it re-enters the *Incubation*
+state independent of its prior history.
