@@ -1,12 +1,14 @@
 digraph lifecycle {
   node [shape=box]
-  // rank=same; Proposal; Incubation; Graduated;
-  Proposal -> Incubation [weight=1]
   Incubation [color=purple];
   Incubation -> Graduated [color=purple, weight=1];
-  Incubation -> Archived [color=purple, weight=0];
+  Incubation -> Dormant [color=purple, weight=0];
   Graduated [color=blue];
-  Graduated -> Archived [color = blue, weight=1];
-  Archived [color=black];
-  Archived:e -> Incubation [weight=0];
+  Graduated -> Incubation [color=blue, weight=0];
+  Graduated -> Dormant [color=blue, weight=1];
+  Dormant [color=black];
+  Dormant:e -> Incubation [weight=0];
+  Dormant -> Archived
+  Archived [color=green]
+  Archived:e -> Incubation:e [weight=0, color=green];
 }
