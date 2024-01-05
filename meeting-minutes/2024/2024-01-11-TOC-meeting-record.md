@@ -28,6 +28,8 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Discussion
 * Decision: [Move Transact to Archived State](https://github.com/hyperledger/toc/issues/200)
+* Annual review TOC representatives selection
+* Meeting time
 * New Project Proposal: [Web3j](https://github.com/hyperledger/hyperledger-hip/pull/15)
 * 2024 Goals (time permitting)
 
