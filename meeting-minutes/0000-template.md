@@ -14,7 +14,7 @@ nav_exclude: true
 Hyperledger is committed to creating a safe and welcoming community for all. For more information please visit our Code of Conduct: [Hyperledger Code of Conduct](https://toc.hyperledger.org/governing-documents/code-of-conduct.html)
 
 # Announcements
-* The [Hyperledger /dev/weekly developer newsletter](https://wiki.hyperledger.org/pages/viewpage.action?pageId=39618905) goes out each Friday to hundreds of Hyperledger developers. It is a collaborative effort. If you have a project release, pull request, community event, and/or relevant article you would like highlighted next week, please [leave a comment for consideration on the upcoming newsletter wiki page](https://wiki.hyperledger.org/display/DR/2023)
+* The [Hyperledger /dev/weekly developer newsletter](https://wiki.hyperledger.org/pages/viewpage.action?pageId=39618905) goes out each Friday to hundreds of Hyperledger developers. It is a collaborative effort. If you have a project release, pull request, community event, and/or relevant article you would like highlighted next week, please [leave a comment for consideration on the upcoming newsletter wiki page](https://wiki.hyperledger.org/display/DR/2024)
 * <mark>_Put any announcements. Upcoming events, for example_
 </mark>
 
@@ -26,7 +26,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 # Upcoming reports
 <mark>_List the upcoming reports, including delayed reports with the original required date. for instance: https://lists.hyperledger.org/g/toc/message/1966_
 </mark>
-* [2023 TOC Project Update Calendar](https://wiki.hyperledger.org/display/TSC/2023+TOC+Project+Update+Calendar)
+* [2024 TOC Project Update Calendar](../../project-reports/2024/2024-updates.md)
 
 # Presentation
 <mark>_If there are any presentations from a WG, SIG, or project._
