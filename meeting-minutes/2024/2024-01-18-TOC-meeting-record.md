@@ -14,7 +14,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * Thursday Feb 8, join Hyperledger & DSR for the workshop: Decentralized Identity + Interoperability: Connecting Besu, Cardano, AnonCreds, Cheqd, OIDC4VC, and OWF Agent Framework Javascript. Registration: https://zoom.us/meeting/register/tJUuf-6srToiGdQZCHMxaJZoON1RCuwiDRcY
 
 
-# Quarterly reports
+# Project reports
 * [2023 Q4 Hyperledger FireFly](https://github.com/hyperledger/toc/pull/194)
 * [2024 Annual Review Hyperledger Cacti](https://github.com/hyperledger/toc/pull/205/files) -- David (Primary), Stephen (Secondary)
 * [2024 Annual Review Hyperledger Fabric](https://github.com/hyperledger/toc/pull/204/files) -- Matt (Primary), Rama (Secondary)
@@ -36,21 +36,21 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * 2024 Goals
 
 # Recordings
-* Links to be added upon completion of call
+* [Recordings are available on your Open Profile page](https://openprofile.dev/my-meetings) under Past Meetings
 
 # Upcoming TOC meetings
 [Please check the calendar](https://lists.hyperledger.org/g/toc/calendar)
 
 # Attended by
 
-* [ ] Marcus Brandenburger
-* [ ] Stephen Curran
-* [ ] David Enyeart
-* [ ] Tracy Kuhrt
-* [ ] Yacov Manevich
-* [ ] Matt Nelson
-* [ ] Venkatraman Ramakrishna
-* [ ] Arun S M
-* [ ] Peter Somogyvari
-* [ ] Conor Svensson
-* [ ] Jim Zhang
+* [x] Marcus Brandenburger
+* [x] Stephen Curran
+* [x] David Enyeart
+* [x] Tracy Kuhrt
+* [x] Yacov Manevich
+* [x] Matt Nelson
+* [x] Venkatraman Ramakrishna
+* [X] Arun S M
+* [x] Peter Somogyvari
+* [ ] ~~Conor Svensson~~
+* [x] Jim Zhang
