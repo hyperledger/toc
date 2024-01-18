@@ -12,7 +12,7 @@ grand_parent: Project Updates
 1. We've been (mostly) steadily adding new contributors each month with a quick break during the Summer.
 2. The pull request lead time has been reduced to 15 days which is great news, previously this was well above 20, meaning that we've had a 60% decrease overall. 
 3. What we especially needed to improve on with pull request lead times was the waiting for review state, in which, pull requests should not spend more than 48 hours according to our self-imposed limit and we are closing in on hitting this milestone with the waiting for review state lasting 2.76 days on average.
-4. We've resolved ~670 issues but 1070 were opened. This is can be seen through many different lenses. One of them is that more than 30% of the currently open issues are "good first" issues that we mostly keep open as bait for new contributions in order to grow the community.
+4. We've resolved ~670 issues but 1070 were opened. This can be seen through many different lenses. One of them is that more than 30% of the currently open issues are "good first" issues that we mostly keep open as bait for new contributions in order to grow the community.
 5. We've produced a consolidated (albeit not completely integrated) documentation website
 6. The project received graduated status as of Q3 2023!
 
