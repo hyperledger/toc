@@ -34,6 +34,23 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * [Meeting Time](https://www.when2meet.com/?23066121-BU7Ai)
 * [Annual Review Assignments](https://docs.google.com/spreadsheets/d/1kqGLjC9oFHHmCYcEHFQeW8cgZn1ratz8xmCGILAkyqc/edit#gid=903210176)
 * 2024 Goals
+    * Move decisions and discussions to asynchronous communication
+    * Continue ongoing work with task forces
+        * Documentation task force - summarized recommendations
+        * Security Artifact Signing task force - graduated projects should be using SigStore; have OpenSSF presentation
+        * Automated Pipeline task force - complete best practices
+        * Badging task force - complete list of badges
+        * Determine ways to energize the task force work
+    * Determine if there is a Hyperledger mentorship that the TOC would like to submit
+    * Develop video content
+        * Short form videos
+        * Best practices for new maintainers
+        * Best practices for new projects
+        * Best practices for new contributors
+    * Solicit new projects
+    * Branstorm ways to obtain more contributors and to remove barriers to entry
+    * CNCF org control for adding new maintainers
+    * Education on dependency management best practices
 
 # Recordings
 * [Recordings are available on your Open Profile page](https://openprofile.dev/my-meetings) under Past Meetings
