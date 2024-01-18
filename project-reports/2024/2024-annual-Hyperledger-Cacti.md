@@ -60,4 +60,4 @@ As a precedent, Dave Enyeart's Fabric ecosystem web page (which he started late 
 
 # Project Lifecycle Stage Recommendation
 
-`Active`
+`Graduated`
