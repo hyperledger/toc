@@ -44,7 +44,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 </mark>
 
 # Recordings
-* Links to be added upon completion of call
+* [Recordings are available on your Open Profile page](https://openprofile.dev/my-meetings) under Past Meetings
 
 # Upcoming TOC meetings
 [Please check the calendar](https://lists.hyperledger.org/g/toc/calendar)
