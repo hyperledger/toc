@@ -20,13 +20,13 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 # Annual reports
 * [2024 Annual Review Hyperledger Cacti](https://github.com/hyperledger/toc/pull/205/files) -- David (Primary), Stephen (Secondary)
 * [2024 Annual Review Hyperledger Fabric](https://github.com/hyperledger/toc/pull/204/files) -- Matt (Primary), Rama (Secondary)
+* [2024 Annual Review Hyperledger Sawtooth](https://github.com/hyperledger/toc/pull/207/files) -- Marcus (Primary), Tracy (Secondary)
 * Please review any [outstanding annual reports](https://github.com/hyperledger/toc/pulls?q=is%3Apr+is%3Aopen+label%3Aannual-review).
 
 # Past due reports
 * 2023 Q4 Hyperledger Caliper (due December 7, 2023)
 
 # Upcoming reports
-* 2024 Annual Review Hyperledger Sawtooth (January 25, 2024) -- Marcus (Primary), Tracy (Secondary)
 * 2024 Annual Review Hyperledger Aries (February 1, 2024) -- Marcus (Primary), Conor (Secondary)
 * 2024 Annual Review Hyperledger Indy (February 1, 2024) -- Rama (Primary), Matt (Secondary)
 * 2024 Annual Review Hyperledger AnonCreds (February 1, 2024) -- Conor (Primary), Tracy (Secondary)
