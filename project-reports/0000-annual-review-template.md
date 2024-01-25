@@ -36,5 +36,6 @@ nav_exclude: true
 </mark>
 
 # Project Lifecycle Stage Recommendation
-<mark>_What stage do you think the project should be? If you you think that your project meets the criteria for another stage, please explain why. (See [Project Lifecycle](./project-lifecycle.md))_
+<mark>_What stage do you think the project should be? If you you think that your project meets the criteria for another stage, please explain why. (See [Project Lifecycle](../governing-documents/project-lifecycle.md))_
+
 </mark>
