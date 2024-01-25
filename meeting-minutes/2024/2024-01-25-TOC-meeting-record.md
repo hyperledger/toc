@@ -15,6 +15,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Quarterly reports
 * [2023 Q4 Hyperledger FireFly](https://github.com/hyperledger/toc/pull/194)
+* [2023 Q4 Hyperledger Caliper](https://github.com/hyperledger/toc/pull/208)
 * Please review any [outstanding quarterly reports](https://github.com/hyperledger/toc/pulls?q=is%3Apr+is%3Aopen+label%3Aquarterly-report).
 
 # Annual reports
@@ -22,9 +23,6 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * [2024 Annual Review Hyperledger Fabric](https://github.com/hyperledger/toc/pull/204/files) -- Matt (Primary), Rama (Secondary)
 * [2024 Annual Review Hyperledger Sawtooth](https://github.com/hyperledger/toc/pull/207/files) -- Marcus (Primary), Tracy (Secondary)
 * Please review any [outstanding annual reports](https://github.com/hyperledger/toc/pulls?q=is%3Apr+is%3Aopen+label%3Aannual-review).
-
-# Past due reports
-* 2023 Q4 Hyperledger Caliper (due December 7, 2023)
 
 # Upcoming reports
 * 2024 Annual Review Hyperledger Aries (February 1, 2024) -- Marcus (Primary), Conor (Secondary)
@@ -49,14 +47,14 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Attended by
 
-* [ ] Marcus Brandenburger
-* [ ] Stephen Curran
-* [ ] David Enyeart
-* [ ] Tracy Kuhrt
-* [ ] Yacov Manevich
-* [ ] Matt Nelson
-* [ ] Venkatraman Ramakrishna
-* [ ] Arun S M
-* [ ] Peter Somogyvari
-* [ ] Conor Svensson
-* [ ] Jim Zhang
+* [x] Marcus Brandenburger
+* [ ] ~~Stephen Curran~~
+* [x] David Enyeart
+* [x] Tracy Kuhrt
+* [x] Yacov Manevich
+* [ ] ~~Matt Nelson~~
+* [x] Venkatraman Ramakrishna
+* [x] Arun S M
+* [x] Peter Somogyvari
+* [x] Conor Svensson
+* [ ] ~~Jim Zhang~~
