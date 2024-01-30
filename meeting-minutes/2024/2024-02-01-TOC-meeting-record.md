@@ -12,6 +12,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 # Announcements
 * The [Hyperledger /dev/weekly developer newsletter](https://wiki.hyperledger.org/pages/viewpage.action?pageId=39618905) goes out each Friday to hundreds of Hyperledger developers. It is a collaborative effort. If you have a project release, pull request, community event, and/or relevant article you would like highlighted next week, please [leave a comment for consideration on the upcoming newsletter wiki page](https://wiki.hyperledger.org/display/DR/2024).
 * Thursday Feb 8, join Hyperledger & DSR for the workshop: Decentralized Identity + Interoperability: Connecting Besu, Cardano, AnonCreds, Cheqd, OIDC4VC, and OWF Agent Framework Javascript. Registration: [link](https://zoom.us/meeting/register/tJUuf-6srToiGdQZCHMxaJZoON1RCuwiDRcY)
+* Hyperledger Mentorship program will be accepting applications soon. Be thinking about what your proposal might be.
 
 # Quarterly reports
 * [2023 Q4 Hyperledger FireFly](https://github.com/hyperledger/toc/pull/194)
