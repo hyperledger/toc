@@ -1,4 +1,4 @@
-# 2024 Hyperledger Indy Annual Report _DRAFT_
+# 2024 Annual Review Hyperledger Indy
 
 ---
 layout: default
