@@ -40,7 +40,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * OpenSSF presentation on SigStore
 
 # Recordings
-* [https://zoom.us/rec/play/QGh8f5fAJGhqmKeKkKyC80jZ0OCq-PHttLTcA2WtOxLdk2n-_WJUfxm6Rrxqum529NaAUWTZlCCK5mIh.6Bb8nBo7-2LIS3q9](2024 01 25)
+* [2024 01 25](https://zoom.us/rec/play/QGh8f5fAJGhqmKeKkKyC80jZ0OCq-PHttLTcA2WtOxLdk2n-_WJUfxm6Rrxqum529NaAUWTZlCCK5mIh.6Bb8nBo7-2LIS3q9)
 
 # Upcoming TOC meetings
 * [Please check the calendar](https://lists.hyperledger.org/g/toc/calendar)

@@ -43,7 +43,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
     * Discuss next week
 
 # Recordings
-* https://zoom.us/rec/share/WeqSpsWEtAaGmnwbx_wzNXbZ1q3mqJ1q5lmmKkNkyvDR5o9XaP9F8lRJS5IaRwgD.5xG2hHcIBZlhKHDB
+* [2024 01 11](https://zoom.us/rec/share/WeqSpsWEtAaGmnwbx_wzNXbZ1q3mqJ1q5lmmKkNkyvDR5o9XaP9F8lRJS5IaRwgD.5xG2hHcIBZlhKHDB)
 
 # Upcoming TOC meetings
 [Please check the calendar](https://lists.hyperledger.org/g/toc/calendar)
