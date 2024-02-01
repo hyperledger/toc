@@ -53,7 +53,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
     * Education on dependency management best practices
 
 # Recordings
-* [https://zoom.us/rec/play/s3Hsmw2GtI71Tn1X5XNFGoVHaldvu0BWdCkQD66jaOKv-zKmPFubbn1pF6BA7t3pJcrXvMLQGMtEJOFV.n1pPSkQCmVqv8C0S](2024 01 18)
+* [2024 01 18](https://zoom.us/rec/play/s3Hsmw2GtI71Tn1X5XNFGoVHaldvu0BWdCkQD66jaOKv-zKmPFubbn1pF6BA7t3pJcrXvMLQGMtEJOFV.n1pPSkQCmVqv8C0S)
 
 # Upcoming TOC meetings
 [Please check the calendar](https://lists.hyperledger.org/g/toc/calendar)
