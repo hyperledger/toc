@@ -35,7 +35,8 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * Review [Hyperledger Cacti Annual Report](https://github.com/hyperledger/toc/pull/205/files)
 * Review [Hyperledger Sawtooth Annual Report](https://github.com/hyperledger/toc/pull/207/files)
   * Discussion: Lifecycle question - Do we want to recognize projects in a long term maintainance state?
-  * Move Hyperledger Sawtooth to Archived 
+  * Move Hyperledger Sawtooth to Archived
+    * Approved by role call vote. 11 yea, 0 abstain, 0 nay.
 * Review [Hyperledger Fabric Annual Report](https://github.com/hyperledger/toc/pull/204/files)
 * Discuss [Task Force order](https://github.com/hyperledger/toc/issues?q=is%3Aissue+is%3Aopen+label%3Ain-progress)
 
@@ -43,21 +44,21 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * OpenSSF presentation on SigStore
 
 # Recordings
-* 
+* [2024 02 01](https://zoom.us/rec/play/g5zrYzoGSqzHMARtdtd6Neoehe5UtnX2YIFO8if4lIkibU4jlzmvAIcZueDuT2EvSd1VPdiAsPjpYG0o.VcJRblO6fhV6E_g6)
 
 # Upcoming TOC meetings
 * [Please check the calendar](https://lists.hyperledger.org/g/toc/calendar)
 
 # Attended by
 
-* [ ] Marcus Brandenburger
-* [ ] Stephen Curran
-* [ ] David Enyeart
-* [ ] Tracy Kuhrt
-* [ ] Yacov Manevich
-* [ ] Matt Nelson
-* [ ] Venkatraman Ramakrishna
-* [ ] Arun S M
-* [ ] Peter Somogyvari
-* [ ] Conor Svensson
-* [ ] Jim Zhang
+* [x] Marcus Brandenburger
+* [x] Stephen Curran
+* [x] David Enyeart
+* [x] Tracy Kuhrt
+* [x] Yacov Manevich
+* [x] Matt Nelson
+* [x] Venkatraman Ramakrishna
+* [x] Arun S M
+* [x] Peter Somogyvari
+* [x] Conor Svensson
+* [x] Jim Zhang
