@@ -43,7 +43,7 @@ Further expanding our reach, [Fraud Intelligence Limited](https://soramitsu.co.j
 
 The development of the Iroha 2.0 MVP is ongoing, with the targeted release at the end of March 2024 in line with the agreed-upon product roadmap.
 
-Given this is the first Hyperledger Iroha Annual Report, there is no 2022 Annual Report to look back on. Instead, this section highlights the project's accomplishments in no particular order.
+Given this is the first Hyperledger Iroha Annual Report, there is no 2022 Annual Report to look back on. Instead, this section highlights the project's accomplishments.
 
 **New features**:
 
