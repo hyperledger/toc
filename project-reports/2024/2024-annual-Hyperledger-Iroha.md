@@ -7,7 +7,7 @@ grand_parent: Project Updates
 
 # Project Health
 
-Our LFX Insights page is available with an [old](https://insights-v2.lfx.linuxfoundation.org/iroha/trends?selectedDateFilterType=DATERANGE&selectedDateRangeKey=1Y) and [new](https://insights.lfx.linuxfoundation.org/foundation/hyp/overview?project=iroha&bestPractice=false&repository=all&dateFilters=Last%2012%20Months&dateRange=2023-02-02%20to%202024-02-01&compare=PP&granularity=month&hideBots=true) interface. It must be noted that it doesn't reflect the full image, as we have several SDKs ([`iroha-java`](https://github.com/hyperledger/iroha-java), [`iroha-javascript`](https://github.com/hyperledger/iroha-java)) and the documentation repositiory, [`iroha-2-docs`](https://github.com/hyperledger/iroha-2-docs).
+Our LFX Insights page is available with an [old](https://insights-v2.lfx.linuxfoundation.org/iroha/trends?selectedDateFilterType=DATERANGE&selectedDateRangeKey=1Y) and [new](https://insights.lfx.linuxfoundation.org/foundation/hyp/overview?project=iroha&bestPractice=false&repository=all&dateFilters=Last%2012%20Months&dateRange=2023-02-02%20to%202024-02-01&compare=PP&granularity=month&hideBots=true) interface. It must be noted that it doesn't reflect the whole picture, as we have several SDKs ([`iroha-java`](https://github.com/hyperledger/iroha-java), [`iroha-javascript`](https://github.com/hyperledger/iroha-java)) and the documentation repositiory, [`iroha-2-docs`](https://github.com/hyperledger/iroha-2-docs).
 
 # Maintainer Diversity
 
