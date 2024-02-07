@@ -21,7 +21,7 @@ Currently, the Iroha 2 core development team consists of:
 * 1 project manager
 * 1 DevOps
 
-The maintenance team is currently comprised of SORAMITSU employees. [Gregorz Bazior](https://github.com/baziorek) (Yonix Digital Systems, AGH University of Science and Technology) is interested in Iroha 2 and maintains Iroha 1. 
+The maintenance team currently comprises SORAMITSU employees. [Gregorz Bazior](https://github.com/baziorek) (Yonix Digital Systems, AGH University of Science and Technology) is interested in Iroha 2 and maintains Iroha 1. 
 
 The community interest is rising and there are some minor community contributions. Moreover, our team started working with a new intern, [Asem Abdelhady](https://github.com/Asem-Abdelhady), who proved to be an effecient Rust developer. Diversity-wise, Kshitij Roodkee participates as a contributor.
 
