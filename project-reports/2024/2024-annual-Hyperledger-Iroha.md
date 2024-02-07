@@ -75,7 +75,7 @@ Initially, Iroha 2 used Ursa as a core cryptographic library to leverage its sec
 
 At this point, the necessary parts of Ursa are detached and fully integrated. The refactoring of the [`iroha-crypto`](https://github.com/hyperledger/iroha/tree/iroha2-dev/crypto) library itself continues.
 
-The latest topic in Iroha's cryptographic infrastructure   addressed by our team is [#4181](https://github.com/hyperledger/iroha/pull/4181); it allows the parsed keys to be stored instead of the raw bytes.
+The latest topic in Iroha's cryptographic infrastructure addressed by our team is [#4181](https://github.com/hyperledger/iroha/pull/4181); it allows the parsed keys to be stored instead of the raw bytes.
 
 ## Next Year's Goals
 
