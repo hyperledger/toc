@@ -81,7 +81,7 @@ The latest topic in Iroha's cryptographic infrastructure addressed by our team i
 
 Our primary goal is to build upon the achievements of 2024 by successfully delivering the Hyperledger Iroha 2.0 MVP and stabilising its SDKs.
 
-Beyond this milestone, our focus with the development team will address functional deliverables not included in the MVP but are essential for the project's completeness in the post-production phase. 
+Beyond this milestone, our focus with the development team will address functional deliverables not included in the MVP but essential for the project's completeness in the post-production phase. 
 
 Furthermore, we aspire to initiate the development of architectural upgrades, laying the groundwork for delivering Iroha 2.0 as a public blockchain. It is important to note that the Iroha 2 currently operates as a private blockchain, and the shift to a public blockchain will necessitate dedicated time for research and development. Additionally, we plan to incorporate a set of additional functional features in the post-release phase, strategically supporting the commercial efforts of Central Bank Digital Currency Proof of Concepts. We aim to advance our project's technical capabilities and foster its broader adoption and utility within the industry.
 
