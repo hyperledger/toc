@@ -23,7 +23,7 @@ Currently, the Iroha 2 core development team consists of:
 
 The maintenance team currently comprises SORAMITSU employees. [Gregorz Bazior](https://github.com/baziorek) (Yonix Digital Systems, AGH University of Science and Technology) is interested in Iroha 2 and maintains Iroha 1. 
 
-The community interest is rising and there are some minor community contributions. Moreover, our team started working with a new intern, [Asem Abdelhady](https://github.com/Asem-Abdelhady), who proved to be an effecient Rust developer. Diversity-wise, Kshitij Roodkee participates as a contributor.
+Community interest is rising, and there are some minor community contributions. Moreover, our team started working with a new intern, [Asem Abdelhady](https://github.com/Asem-Abdelhady), who proved an efficient Rust developer. Diversity-wise, Kshitij Roodkee participates as a contributor.
 
 To compare, [this year's](https://github.com/hyperledger/iroha/blob/main/MAINTAINERS.md) `MAINTAINERS.md` file is available, as well as well as the [previous year's version](https://github.com/hyperledger/iroha/commit/522b27bbd73e9b7306e9d6e1b7d0d0eff122b5e0?short_path=39da3bd#diff-39da3bd6270d44ea37b6ed50bd42eeb9d93ac5e1639645871a69cbe08cbe29de). The number of active maintainers did not change.
 
