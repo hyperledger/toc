@@ -97,4 +97,4 @@ Since we expect Iroha 2 to grow, we'd like to request help with our PR effort, i
 
 Hyperledger Iroha project should remain [graduated](https://toc.hyperledger.org/governing-documents/project-lifecycle.html#graduated).
 
-Its code improved with the use of Rust. Interest in Iroha 2 is growing, and we expect it to gain deployments following its release.
+Its code has improved with the use of Rust. Interest in Iroha 2 is growing and we expect it to gain deployments following its release.
