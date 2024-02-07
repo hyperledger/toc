@@ -69,7 +69,7 @@ Our team actively pursues enhancing community engagement, promoting Hyperledger 
 
 Despite facing challenges related to a shortage of high-quality and available development resources, the team remains dedicated to the original project direction. As we work towards the MVP release, addressing challenges and seeking additional support will be pivotal for the project's success.
 
-As stated above, this quarter marks a significant evolution in the development of Iroha cryptographic infrastructure: the complete removal of Ursa's dependency from Iroha 2, the integration of its code to the [`iroha-crypto`](https://github.com/hyperledger/iroha/tree/iroha2-dev/crypto) package and the further refactoring of the cryptographic tooling.
+As stated above, this quarter marks a significant evolution for Iroha's cryptographic infrastructure development: the complete removal of Ursa's dependency from Iroha 2, the integration of its code to the [`iroha-crypto`](https://github.com/hyperledger/iroha/tree/iroha2-dev/crypto) package, and the further refactoring of the cryptographic tooling.
 
 Initially, Iroha 2 used Ursa as a core cryptographic library to leverage its secure and reusable features. In turn, Ursa worked as an abstraction over other cryptography libraries. Iroha 2 benefited from Ursa's high cryptographic security standards. This change also minimised the need for redundant cryptographic code.
 
