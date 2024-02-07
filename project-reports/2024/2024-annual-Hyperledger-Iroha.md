@@ -62,7 +62,7 @@ Given this is the first Hyperledger Iroha Annual Report, there is no 2022 Annual
 * The [`iroha_crypto`](https://github.com/hyperledger/iroha/tree/iroha2-dev/crypto) crate superseded the Hyperledger Ursa dependency
 * Block layout has been standardised
 * Transaction layout has been standardised
-* Our team simplified the data model API and removed the expressions
+* The data model API has been simplified and expressions have been removed
 * Kagami was refactored and split into `iroha_swarm` and `iroha_wasm_builder_cli`
 
 Our team actively pursues enhancing community engagement, promoting Hyperledger Iroha 2 into the broader IT community, and collaborating with the Hyperledger PR team.
