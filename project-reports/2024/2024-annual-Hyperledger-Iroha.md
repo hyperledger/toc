@@ -87,7 +87,7 @@ Furthermore, we aspire to initiate the development of architectural upgrades, la
 
 Our community has expressed an interest in using Iroha's codebase as something that can reliably run on the embedded SoCs, similar to those found in modern mobile phones. They could compile Iroha on different ARM SoCs with limited RAM and help test it in new conditions. While this isn't a priority, Rust allows such ports to function well, and the main concern would be overall performance. We are engaged in dialogue with those users to benchmark Iroha and expand its use scope.
 
-We are also excited to have a chance to participate in the Hyperledger [AI FAQ](https://github.com/hyperledger-labs/aifaq) project and contribute our documentation.
+We are also excited about the opportunity to participate in the Hyperledger [AI FAQ](https://github.com/hyperledger-labs/aifaq) project and contribute our documentation.
 
 # Help Required
 
