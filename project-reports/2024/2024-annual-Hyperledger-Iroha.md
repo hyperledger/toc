@@ -95,6 +95,6 @@ Since we expect Iroha 2 to grow, we would like to request support for our PR eff
 
 # [Project Lifecycle](https://toc.hyperledger.org/governing-documents/project-lifecycle.html) Stage Recommendation
 
-Hyperledger Iroha project should remain [graduated](https://toc.hyperledger.org/governing-documents/project-lifecycle.html#graduated).
+Hyperledger Iroha should remain [graduated](https://toc.hyperledger.org/governing-documents/project-lifecycle.html#graduated).
 
 Its code has improved with the use of Rust. Interest in Iroha 2 is growing and we expect it to gain deployments following its release.
