@@ -27,7 +27,7 @@ Community interest is rising, and there are some minor community contributions. 
 
 For comparison, [this year's](https://github.com/hyperledger/iroha/blob/main/MAINTAINERS.md) `MAINTAINERS.md`, as well as [last year's version](https://github.com/hyperledger/iroha/commit/522b27bbd73e9b7306e9d6e1b7d0d0eff122b5e0?short_path=39da3bd#diff-39da3bd6270d44ea37b6ed50bd42eeb9d93ac5e1639645871a69cbe08cbe29de) is available. The number of active maintainers stayed the same.
 
-After Iroha 2 is released, we expect more maintainers to join the project, as the mature Iroha 2 codebase would be more useful to the new projects.
+After Iroha 2 is released, we expect more maintainers to join the project, as the mature Iroha 2 codebase would be more beneficial to new projects.
 
 # Project Adoption
 
