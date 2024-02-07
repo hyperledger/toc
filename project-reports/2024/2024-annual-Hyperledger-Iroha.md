@@ -91,7 +91,7 @@ We are also excited about the opportunity to participate in the Hyperledger [AI 
 
 # Help Required
 
-Since we expect Iroha 2 to grow, we'd like to request help with our PR effort, intending to report the project's results. For now, the projects we can mention are the [Bokolo Cash](https://soramitsu.co.jp/bokolo-cash), Bakong and [Fraud Intelligence Limited](https://soramitsu.co.jp/fil-2023-in-review).
+Since we expect Iroha 2 to grow, we would like to request support for our PR effort, intending to report the project's results. For now, the projects we can mention are [Bokolo Cash](https://soramitsu.co.jp/bokolo-cash), Bakong, and [Fraud Intelligence Limited](https://soramitsu.co.jp/fil-2023-in-review).
 
 # [Project Lifecycle](https://toc.hyperledger.org/governing-documents/project-lifecycle.html) Stage Recommendation
 
