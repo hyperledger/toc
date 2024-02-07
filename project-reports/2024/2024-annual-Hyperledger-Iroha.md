@@ -58,7 +58,7 @@ Given this is the first Hyperledger Iroha Annual Report, there is no 2022 Annual
 **Refactoring**:
 
 * Domains now have owners
-* The layout of the Iroha 2 schema was simplified (every entry is unique)
+* The Iroha 2 schema layout has been simplified (every entry is unique)
 * The [`iroha_crypto`](https://github.com/hyperledger/iroha/tree/iroha2-dev/crypto) crate superseded the Hyperledger Ursa dependency
 * Our team standardised the block layout
 * Our team standardised the transaction layout
