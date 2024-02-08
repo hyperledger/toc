@@ -40,21 +40,21 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * OpenSSF presentation on SigStore
 
 # Recordings
-* [2024 02 08]()
+* [2024 02 08](https://zoom.us/rec/play/6VlWsdipwLQv_qYMvGJCJec6_LPiS-H11pllaYTZmPYx6EMPL2qmRhLC53YbX_4iqS9dnj0PBV9tCprx.V26a73Fz1WEAGpsS)
 
 # Upcoming TOC meetings
 * [Please check the calendar](https://lists.hyperledger.org/g/toc/calendar)
 
 # Attended by
 
-* [ ] Marcus Brandenburger
-* [ ] Stephen Curran
-* [ ] David Enyeart
-* [ ] Tracy Kuhrt
-* [ ] Yacov Manevich
+* [x] Marcus Brandenburger
+* [x] Stephen Curran
+* [x] David Enyeart
+* [x] Tracy Kuhrt
+* [x] Yacov Manevich
 * [ ] Matt Nelson
-* [ ] Venkatraman Ramakrishna
-* [ ] Arun S M
-* [ ] Peter Somogyvari
+* [x] Venkatraman Ramakrishna
+* [x] Arun S M
+* [x] Peter Somogyvari
 * [ ] Conor Svensson
-* [ ] Jim Zhang
+* [x] Jim Zhang
