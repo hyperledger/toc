@@ -9,8 +9,6 @@ grand_parent: Project Updates
 
 ## Project Health
 
-_Guidance: Include a link to your project’s [LFX Insights page](https://insights-v2.lfx.linuxfoundation.org/projects). We will be looking for signs of consistent or increasing contribution activity. Please feel free to add commentary to add color to the numbers and graphs we will see on Insights._
-
 Hyperledger Indy LFX Insights Page for [Calendar Year 2023](https://insights.lfx.linuxfoundation.org/foundation/hyp/overview?project=indy&repository=all&dateFilters=2023-01-01%20to%202023-12-31&dateRange=2023-01-01%20to%202023-12-31&compare=PP&granularity=month&hideBots=true) (v. [2022](https://insights.lfx.linuxfoundation.org/foundation/hyp/overview?project=indy&repository=all&dateFilters=2022-01-01%20to%202022-12-31&dateRange=2022-01-01%20to%202022-12-31&compare=PP&granularity=month&hideBots=true))  and for [Q1 2024 Oct-Dec.](https://insights.lfx.linuxfoundation.org/foundation/hyp/overview?project=indy&repository=all&dateFilters=2023-10-01%20to%202023-12-31&dateRange=2023-10-01%20to%202023-12-31&compare=PP&granularity=month&hideBots=true) (v. [Q4 2023](https://insights.lfx.linuxfoundation.org/foundation/hyp/overview?project=indy&repository=all&dateFilters=2023-07-01%20to%202023-09-30&dateRange=2023-07-01%20to%202023-09-30&compare=PP&granularity=month&hideBots=true)).
 
 Compared to 2022, the Pull Request count was down by about 25% to 189 for the year, while the number of contributors was slightly higher, up about 20% to 46. Compared to Q4 2023, the Q1 2024 report changes had the same ratios — down about 25% (to 24) in Pull Requests, up about 20% in contributors (to 13).
@@ -21,8 +19,6 @@ The Hyperledger Indy ecosystem community came together at a series of Hyperledge
 
 ## Maintainer Diversity
 
-_Guidance: How many maintainers do you have, and which organisations are they from? How has the maintainers and diversity of your maintainers changed in the past year? Has the number of active maintainers increased/decreased? Has the diversity of maintainers increased/decreased? Please include a link to your existing [MAINTAINERS file](https://github.com/hyperledger/toc/blob/gh-pages/guidelines/MAINTAINERS-guidelines.md) and the MAINTAINERS file from last year (if appropriate). This is a good opportunity to ensure that your MAINTAINERS file is up to date and to retire any maintainers._
-
 There are 35 individuals on 22 Indy GitHub Teams representing at least 16 organizations. We continue to have participation from (more or less) the same organizations as in 2022 — which is both good (still participating) and bad (few newcomers).
 
 From the last Quarterly Report: _Still needed -- a cleanup of the teams are needed as some of the individuals are no longer active in the community. No progress was made on that cleanup this quarter. We have the team lists, but have not queried those on the list to see if they are still interested in being maintainers._
@@ -31,19 +27,13 @@ Typical Indy [Maintainers File](https://github.com/hyperledger/indy-plenum/blob/
 
 ## Project Adoption
 
-_Guidance: What do you know about adoption, and how has this changed since your last review or since being accepted into Hyperledger Foundation? If you can list companies that are adopters of your project, please do so. Feel free to link to an existing ADOPTERS file if appropriate._
-
 Insights from the Hyperledger Indy Ecosystem Summit showed that project adoption is “stable”. It seems those that have adopted Indy continue to stay with it and while there is evidence of new private deployments, we’re not aware of new public ones. There remains little competition for what Indy is today — an easy to deploy, stable, token-less, public, permissioned blockchain that is purpose-built for privacy-preserving verifiable credentials. The best alternative to Indy, and one being investigated as a potential Indy replacement, is Besu, with features that align with the existing Indy concepts.
 
 It should be noted that we continue to see a steady stream of people deploying Indy through questions asked on Discord and in GitHub issues, but we do not have visibility into why they are deploying Indy and if they are continuing to use it.
 
 ## Goals
 
-_Include information about the goals that you previously set for the project in the last review or since the project proposal has been approved. How has the project performed against these goals? If your goals changed from your previous annual report, let us know what changed and why. If you have not achieved the goals that you set out, that is okay. We want to know what you have accomplished and what challenges the project is having in meeting the goals._
-
 ### Performance Against Prior Goals
-
-_Guidance: Include information about the goals that you previously set for the project in the last review or since the project proposal has been approved. How has the project performed against these goals? If your goals changed from your previous annual report, let us know what changed and why. If you have not achieved the goals that you set out, that is okay. We want to know what you have accomplished and what challenges the project is having in meeting the goals._
 
 As this is the first Hyperledger Indy Annual Report, there is not a 2022 Annual Report to look back on. However, in March 2023, the Indy Contributors group developed this [Indy Roadmap](https://hackmd.io/GeRP00i0Sj-7z4zXn2MB5g?view), an (non-timelined) wish list of technical capabilities we’d like to see in Indy. That roadmap was part of the agenda of the Hyperledger Indy Ecosystem summit, where it was highlighted that in addition to the technical capabilities, a focus was needed on marketing and on influencing regulatory guidance on decentralized identity infrastructure.
 
@@ -53,20 +43,18 @@ Of those items, progress was made on the following items:
 * Clean up of issues in the various Indy repositories.
 * Indy node monitoring capabilities.
 
-That is less progress than we would have liked to see. A positive spin on that lack of progress is that Indy continues to be stable and adequately scalable such that there is no need 
+That is less progress than we would have liked to see. A positive spin on that lack of progress is that Indy continues to be stable and adequately scalable such that there have been no hard complaints on the lack of additional features.
 
 There were several events around which Hyperledger Indy code development efforts were focused over the year:
 
 * Completion of the Ubuntu 20.04 version of Indy Node. Deployers of Indy networks have reported success in deploying the new version.
 * The archiving of Ursa, triggering the move of the BLS Signatures library from Ursa to being maintained in the Indy Project.
 * The movement of Aries projects to use the “shared components” in place of the Indy SDK. The “shared components” consist of [Aries Askar](https://github.com/hyperledger/aries-askar) (secure storage), [Indy VDR](https://github.com/hyperledger/indy-vdr) (client interface to Indy networks) and [Hyperledger AnonCreds](https://www.hyperledger.org/projects/anoncreds) (AnonCreds implementation).
-* The deprecation of the Indy SDK.
+* The deprecation of the Indy SDK by the end of Q1 2024. Progress has been made on things like closing all open pull requests and closing all issues. We've also removed the Indy SDK from the public (Read the Docs) documentation.
 
 In addition, as mentioned earlier in the report, significant progress was made in creating an Indy-Besu proof of concept.
 
 ### Next Year’s Goals
-
-_Guidance: What are the goals for the next year of the project? The goals should list what you want to achieve, not just what you know you can achieve. Feel free to include stretch goals and things that you are looking to explore in the next year. For example, are you working on major new features? Or are you concentrating on adoption, community growth, or documentation?_
 
 The goals for 2024 derive from both 2023 Indy Roadmap document, and the outcome of the Indy Ecosystems Summits held in 2023. The bullet point versions of these goals include the following. The Indy maintainers and contributors have a deeper understanding of what is behind these bullet points:
 
@@ -80,19 +68,17 @@ The goals for 2024 derive from both 2023 Indy Roadmap document, and the outcome 
 * Address the “Corporate Firewall” issue, where users behind a corporate firewall cannot access an Indy network because of the ZMQ ports being used.
 * Evolve Indy so as to be ready for when the current implementation will need more functionality, such via the Indy-Besu approach.
 * Desired functionality:
-    * Tombstoning
+    * Ledger Redactibility (aka "tombstoning" transactions)
     * Additional DIDDoc support, such support for additional key types
     * Read replicas for performance
     * Storing other document types on an Indy ledger, such as OCA Bundles
+* Progress on the Indy Besu concept, transitioning from the existing PoC and design to a concrete implementation.
+    * Some of the desired functionality above might be done in the Indy Besu implementation.
 
 ### Help Required
-
-_Guidance: How can the Hyperledger Foundation or the TOC help you achieve your upcoming goals?_
 
 No specific requests at this time. There is a lot that the Hyperledger Foundation provides that we need to be making use of, particularly in the area of marketing / getting the word out about the capabilities of Hyperledger Indy. Our challenge is that the project is driven largely by technical types, not marketers.
 
 ## Project Lifecycle Stage Recommendation
-
-_Guidance: What stage do you think the project should be? If you think that your project meets the criteria for another stage, please explain why. (See [Project Lifecycle](https://github.com/hyperledger/toc/blob/gh-pages/governing-documents/project-lifecycle.md))_
 
 Indy is a Graduated project and should remain so. Its code is rock solid, and a relatively large ecosystem of network operators, maintainers, contributors, and users.
