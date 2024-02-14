@@ -52,7 +52,7 @@ There were several events around which Hyperledger Indy code development efforts
 * The movement of Aries projects to use the “shared components” in place of the Indy SDK. The “shared components” consist of [Aries Askar](https://github.com/hyperledger/aries-askar) (secure storage), [Indy VDR](https://github.com/hyperledger/indy-vdr) (client interface to Indy networks) and [Hyperledger AnonCreds](https://www.hyperledger.org/projects/anoncreds) (AnonCreds implementation).
 * The deprecation of the Indy SDK by the end of Q1 2024. Progress has been made on things like closing all open pull requests and closing all issues. We've also removed the Indy SDK from the public (Read the Docs) documentation.
 
-In addition, as mentioned earlier in the report, significant progress was made in creating an Indy-Besu proof of concept.
+In addition, as mentioned earlier in the report, significant progress was made in creating the Indy Besu proof of concept and repository.
 
 ### Next Year’s Goals
 
@@ -69,11 +69,15 @@ The goals for 2024 derive from both 2023 Indy Roadmap document, and the outcome 
 * Evolve Indy so as to be ready for when the current implementation will need more functionality, such via the Indy-Besu approach.
 * Desired functionality:
     * Ledger Redactibility (aka "tombstoning" transactions)
+    * Simplify the process for adding more types of transactions so that new object types can be published on the ledger with some verification. Currently, that requires more work than we would like, so it does not happen as often as we would need.
+        * With more types of transactions we can more easily transition to new of kinds of verifiable credentials, such as AnonCreds v2.
+        * With transitions to new VC formats, we get better functionality, such as much better revocation — which will reduce the number of transactions on the ledger — reducing the pressure on scalability.
+            * Scalability is not an issue today, but will be some day.
     * Additional DIDDoc support, such support for additional key types
     * Read replicas for performance
     * Storing other document types on an Indy ledger, such as OCA Bundles
 * Progress on the Indy Besu concept, transitioning from the existing PoC and design to a concrete implementation.
-    * Some of the desired functionality above might be done in the Indy Besu implementation.
+    * Some of the desired functionality above might be done in the Indy Besu implementation, such as being part of a much bigger community working on a common component.
 
 ### Help Required
 
