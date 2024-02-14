@@ -70,6 +70,7 @@ The goals for 2024 derive from both 2023 Indy Roadmap document, and the outcome 
 * Desired functionality:
     * Ledger Redactibility (aka "tombstoning" transactions)
     * Simplify the process for adding more types of transactions so that new object types can be published on the ledger with some verification. Currently, that requires more work than we would like, so it does not happen as often as we would need.
+        * Simplify, but ideally without increasing the risk of "bad data" going on the ledger and requiring use of the "Ledger Redactibility" feature (e.g. permissioned writing, and at least some structural verification of the data)
         * With more types of transactions we can more easily transition to new of kinds of verifiable credentials, such as AnonCreds v2.
         * With transitions to new VC formats, we get better functionality, such as much better revocation — which will reduce the number of transactions on the ledger — reducing the pressure on scalability.
             * Scalability is not an issue today, but will be some day.
