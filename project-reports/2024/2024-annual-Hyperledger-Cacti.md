@@ -15,6 +15,7 @@ grand_parent: Project Updates
 4. We've resolved ~670 issues but 1070 were opened. This can be seen through many different lenses. One of them is that more than 30% of the currently open issues are "good first" issues that we mostly keep open as bait for new contributions in order to grow the community.
 5. We've produced a consolidated (albeit not completely integrated) documentation website
 6. The project received graduated status as of Q3 2023!
+7. We've also started the work on the v2.0.0 release by issuing the v2.0.0-alpha.2 release in 2023!
 
 # Maintainer Diversity
 
@@ -53,6 +54,7 @@ The main theme is to carry on with the integration work with our multi-phase pla
 2. Eliminating and merging redundant packages,
 3. Finally consolidating packages as per our target architecture (this may be too ambitious for 2024, given other priorities in the roadmap). 
 4. Adding more plugins for other forms of DLTs and also legacy/centralized systems that need to trade assets.
+5. Issuance of the much anticipated v2.0.0 final/GA/etc. release in Q1 or Q2 the latest!
 
 ## Help Required
 
