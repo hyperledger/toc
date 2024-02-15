@@ -21,6 +21,8 @@ grand_parent: Project Updates
 - We currently have 7 maintainers from 3 different companies and 3 different continents (scheduling synchronous meetings is fun :-))
 - The number of maintainers is up from an earlier 6. Our newest maintainer is Michal Bajer from Fujitsu who is doing an excellent job of collaborating with the rest of the maintainers and his presence is a big improvement to code quality!
 
+Please see our [MAINTAINERS.md](https://github.com/hyperledger/cacti/blob/main/MAINTAINERS.md) file for further details!
+
 # Project Adoption
 
 The detailed answer about adoption has been published earlier and can be read through this link:
