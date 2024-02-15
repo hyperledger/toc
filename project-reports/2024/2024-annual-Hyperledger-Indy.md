@@ -15,15 +15,21 @@ Compared to 2022, the Pull Request count was down by about 25% to 189 for the ye
 
 While the existing implementation of Indy is extremely stable, and robust — for example, the Sovrin Foundation has been running its networks for 6 years, with 100% uptime since Feb. 2020 — there has been relatively little substantially new functionality added in some time. That may be changing as, in the latter half of 2023, the idea of “Indy Besu” was raised and a successful PoC developed, demonstrating implementing Indy’s public-permissioned network model on top of a Besu network. Progress has already been good in 2024 with the Indy community agreeing on the creation of the [Indy Besu repository](https://github.com/hyperledger/indy-besu) that further moves the implementation forward.
 
-Indy Besu is a set of independent smart contracts that **can be used for an existing Besu network** or built a new one from scratch. The main idea here is a modular system (modules list below) that allows deploying smart contracts at any time.
+Indy Besu is a set of independent smart contracts. The main idea here is a modular system (modules list below) that allows deploying smart contracts at any time for:
 
-- Network Permission modules:
+- permissioned Indy network (new or migration of existing ones)
+- existing Besu networks
+- existing or new Ethereum permissionless networks
+
+Modules:
+
+- Network Permissions:
   - [Auth](https://github.com/hyperledger/indy-besu/blob/main/docs/design/auth.md) - control user permissions
     - role control - manage roles assigned to accounts  
-    - access control - first level validation: whether to accept write transactions (execute target contract method) from a given account
+    - access control - first level validation about whether to accept write transactions (execute target contract method) from a given account
   - [Upgrading contracts](https://github.com/hyperledger/indy-besu/blob/main/docs/design/upgradability.md) - control versions of deployed contracts (proposing and approving new versions).
   - [Validators node management](design/network.md) - control the list of network validator nodes
-- Identity modules:
+- Identity:
   - [DID Method](https://github.com/hyperledger/indy-besu/blob/main/docs/design/did-method.md) - Supported DID method
   - [CL Registry](https://github.com/hyperledger/indy-besu/blob/main/docs/design/cl-registry.md)
 - [Client](https://github.com/hyperledger/indy-besu/blob/main/docs/design/vdr.md) - design of VDR library
