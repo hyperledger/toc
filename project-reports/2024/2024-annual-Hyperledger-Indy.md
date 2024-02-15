@@ -13,9 +13,24 @@ Hyperledger Indy LFX Insights Page for [Calendar Year 2023](https://insights.lfx
 
 Compared to 2022, the Pull Request count was down by about 25% to 189 for the year, while the number of contributors was slightly higher, up about 20% to 46. Compared to Q4 2023, the Q1 2024 report changes had the same ratios — down about 25% (to 24) in Pull Requests, up about 20% in contributors (to 13).
 
-While the existing implementation of Indy is extremely stable, and robust — for example, the Sovrin Foundation has been running its networks for 6 years, with 100% uptime since Feb. 2020 — there has been relatively little substantially new functionality added in some time. That may be changing as, in the latter half of 2023, the idea of “Indy-Besu” was raised and a successful PoC developed, demonstrating implementing Indy’s public-permissioned network model on top of a Besu network. Progress has already been good in 2024 with the Indy community agreeing on the creation of the [Indy-Besu repository](https://github.com/hyperledger/indy-besu) that further moves the implementation forward.
+While the existing implementation of Indy is extremely stable, and robust — for example, the Sovrin Foundation has been running its networks for 6 years, with 100% uptime since Feb. 2020 — there has been relatively little substantially new functionality added in some time. That may be changing as, in the latter half of 2023, the idea of “Indy Besu” was raised and a successful PoC developed, demonstrating implementing Indy’s public-permissioned network model on top of a Besu network. Progress has already been good in 2024 with the Indy community agreeing on the creation of the [Indy Besu repository](https://github.com/hyperledger/indy-besu) that further moves the implementation forward.
 
-The Hyperledger Indy ecosystem community came together at a series of Hyperledger Indy Ecosystem Summits (organized by the Sovrin Foundation), bringing together network operators, node operators, project maintainers, network users, vendors to discuss the state of Indy and proposals for moving the project forward. The summits were well-attended (up to 90 participants), a better understanding of the community of interest was gained, and next steps were proposed, with some (mostly notably, the Indy-Besu initiative) acted upon.
+Indy Besu is a set of independent smart contracts that **can be used for an existing Besu network** or built a new one from scratch. The main idea here is a modular system (modules list below) that allows deploying smart contracts at any time.
+
+- Network Permission modules:
+  - [Auth](https://github.com/hyperledger/indy-besu/blob/main/docs/design/auth.md) - control user permissions
+    - role control - manage roles assigned to accounts  
+    - access control - first level validation: whether to accept write transactions (execute target contract method) from a given account
+  - [Upgrading contracts](https://github.com/hyperledger/indy-besu/blob/main/docs/design/upgradability.md) - control versions of deployed contracts (proposing and approving new versions).
+  - [Validators node management](design/network.md) - control the list of network validator nodes
+- Identity modules:
+  - [DID Method](https://github.com/hyperledger/indy-besu/blob/main/docs/design/did-method.md) - Supported DID method
+  - [CL Registry](https://github.com/hyperledger/indy-besu/blob/main/docs/design/cl-registry.md)
+- [Client](https://github.com/hyperledger/indy-besu/blob/main/docs/design/vdr.md) - design of VDR library
+
+More links and docs here https://github.com/hyperledger/indy-besu/blob/main/docs/README.md
+
+The Hyperledger Indy ecosystem community came together at a series of Hyperledger Indy Ecosystem Summits (organized by the Sovrin Foundation), bringing together network operators, node operators, project maintainers, network users, vendors to discuss the state of Indy and proposals for moving the project forward. The summits were well-attended (up to 90 participants), a better understanding of the community of interest was gained, and next steps were proposed, with some (mostly notably, the Indy Besu initiative) acted upon.
 
 ## Maintainer Diversity
 
@@ -50,9 +65,9 @@ There were several events around which Hyperledger Indy code development efforts
 * Completion of the Ubuntu 20.04 version of Indy Node. Deployers of Indy networks have reported success in deploying the new version.
 * The archiving of Ursa, triggering the move of the BLS Signatures library from Ursa to being maintained in the Indy Project.
 * The movement of Aries projects to use the “shared components” in place of the Indy SDK. The “shared components” consist of [Aries Askar](https://github.com/hyperledger/aries-askar) (secure storage), [Indy VDR](https://github.com/hyperledger/indy-vdr) (client interface to Indy networks) and [Hyperledger AnonCreds](https://www.hyperledger.org/projects/anoncreds) (AnonCreds implementation).
-* The deprecation of the Indy SDK by the end of Q1 2024. Progress has been made on things like closing all open pull requests and closing all issues. We've also removed the Indy SDK from the public (Read the Docs) documentation.
+* Deprecation of the Indy SDK by the end of Q1 2024. Progress has been made on things like closing all open pull requests and closing all issues. We've also removed the Indy SDK from the public (Read the Docs) documentation.
 
-In addition, as mentioned earlier in the report, significant progress was made in creating the Indy Besu proof of concept and repository.
+In addition, as mentioned earlier in the report, significant progress was made in creating the Indy Besu proof of concept and repository. Its code was added to the experimental feature branch of Indy Node repository. The development of the project is planned in a new [Hyperledger Indy Besu repository](https://github.com/hyperledger/indy-besu/tree/main).
 
 ### Next Year’s Goals
 
@@ -66,7 +81,7 @@ The goals for 2024 derive from both 2023 Indy Roadmap document, and the outcome 
     * Update the Indy documentation to point people to current “best practices”.
     * Update and release the Indy VDR component as needed.
 * Address the “Corporate Firewall” issue, where users behind a corporate firewall cannot access an Indy network because of the ZMQ ports being used.
-* Evolve Indy so as to be ready for when the current implementation will need more functionality, such via the Indy-Besu approach.
+* Evolve Indy so as to be ready for when the current implementation will need more functionality, such via the Indy Besu approach.
 * Desired functionality:
     * Ledger Redactibility (aka "tombstoning" transactions)
     * Simplify the process for adding more types of transactions so that new object types can be published on the ledger with some verification. Currently, that requires more work than we would like, so it does not happen as often as we would need.
@@ -77,8 +92,12 @@ The goals for 2024 derive from both 2023 Indy Roadmap document, and the outcome 
     * Additional DIDDoc support, such support for additional key types
     * Read replicas for performance
     * Storing other document types on an Indy ledger, such as OCA Bundles
-* Progress on the Indy Besu concept, transitioning from the existing PoC and design to a concrete implementation.
-    * Some of the desired functionality above might be done in the Indy Besu implementation, such as being part of a much bigger community working on a common component.
+* Progress on the Indy Besu concept:
+  * Transitioning from the existing PoC and design to a concrete implementation.
+      * Improvement of existing modules
+      * Integration with Aries Frameworks
+      * Implementation of migration tools
+    * Some of the general desired functionality above might be done in the Indy Besu implementation.
 
 ### Help Required
 
