@@ -7,7 +7,7 @@ grand_parent: Project Updates
 
 # Project Health
 
-[Hyperledger Cacti LFX Insights page](https://insights-v2.lfx.linuxfoundation.org/cactus/trends)
+[Hyperledger Cacti LFX Insights page](https://insights.lfx.linuxfoundation.org/foundation/hyp/overview?project=cactus&repository=all&dateFilters=Last%20Year&dateRange=2023-01-01%20to%202023-12-31&compare=PP&granularity=month&hideBots=true)
 
 1. We've been (mostly) steadily adding new contributors each month with a quick break during the Summer.
 2. The pull request lead time has been reduced to 15 days which is great news, previously this was well above 20, meaning that we've had a 60% decrease overall. 
