@@ -29,13 +29,12 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * [2024 TOC Project Update Calendar](../../project-reports/2024/2024-updates.md)
 
 # Discussion
-* [2024 Annual Review Hyperledger Aries](https://github.com/hyperledger/toc/pull/212) -- Marcus (Primary), Conor (Secondary)
 * [2024 Annual Review Hyperledger Indy](https://github.com/hyperledger/toc/pull/210) -- Rama (Primary), Matt (Secondary)
 * [2024 Annual Review Hyperledger AnonCreds](https://github.com/hyperledger/toc/pull/211) -- Conor (Primary), Tracy (Secondary)
 * Task Force: Automated Pipelines Best Practices
 
 # Recordings
-* [Recordings are available on your Open Profile page](https://openprofile.dev/my-meetings) under Past Meetings
+* [2024-02-15](https://zoom.us/rec/share/SEWW2lMg14g4kV7hsjvXFr-i5hVtJDPlUb9_BmFb2S8cA-YyP-jw3EfEx4qbk4sA.AmQb1tXouL7kdu6A)
 
 # Upcoming TOC meetings
 [Please check the calendar](https://lists.hyperledger.org/g/toc/calendar)
