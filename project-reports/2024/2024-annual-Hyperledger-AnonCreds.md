@@ -1,11 +1,11 @@
-# 2024 Annual Review Hyperledger AnonCreds
-
 ---
 layout: default
 title: 2024 Annual Review Hyperledger AnonCreds
 parent: 2024
 grand_parent: Project Updates
 ---
+
+# 2024 Annual Review Hyperledger AnonCreds
 
 ## Project Health
 
