@@ -92,12 +92,59 @@ A backdrop to the activity in Aries in 2024 will be the ongoing evolution of the
 
 _Guidance: How can the Hyperledger Foundation or the TOC help you achieve your upcoming goals?_
 
-Keeping open the dialogue about where the components of Aries should be between Hyperledger and the Open Wallet Foundation. From a bottom up perspective, there is a diversity of opinions on that question (as indicated by the Credo/Agent Framework JavaScript and Bifold moves), and we’re very interested in the top down perspective. Likewise, the relationship between Aries and DIF concerning DIDComm is another interesting “challenge”.
+Keeping open the dialogue about where the components of Aries should be between Hyperledger and the Open Wallet Foundation. From a bottom up perspective, there is a diversity of opinions on that question (as indicated by the Credo/Agent Framework JavaScript and Bifold moves), and we’re very interested in the top down perspective. Likewise, the dual-interest relationship between Aries and DIF concerning DIDComm is another aspect of community effort that requires balance and coordination.
 
-There is a lot that the Hyperledger Foundation provides that we need to be making better use of, particularly in the area of marketing / getting the word out about the capabilities of Hyperledger Aries/AnonCreds. Our challenge is that the project is driven largely by technical types, not marketers.
+There is a lot that the Hyperledger Foundation provides that we need to be making better use of, particularly in the area of marketing / getting the word out about the capabilities of Hyperledger Aries/AnonCreds. Our challenge is that the project is driven largely by technical types, not marketers. Those that helping with marketing are doing a great job, but are often constrained by a lack of content from the technical contributors.
 
 ## Project Lifecycle Stage Recommendation
 
 _Guidance: What stage do you think the project should be? If you think that your project meets the criteria for another stage, please explain why. (See [Project Lifecycle](https://github.com/hyperledger/toc/blob/gh-pages/governing-documents/project-lifecycle.md))_
 
 Aries is a Graduated project and should remain so. Its codebases are rock solid, growing and improving continuously. Aries has a large base of active maintainers and contributors, and a large ecosystem of deployments around the world.
+
+## Feedback from the TOC
+
+### Project Health
+
+- Pull requests down by 10%, but contributors stable
+- Q4 2023 vs Q1 2024 contributors down 20% and PRs 30%, but Q1 2024 hasn't finished
+- Aries Cloud Agent Python and Aries VCX thrived, Agent Framework JavaScript moved to Open Wallet Foundation
+- Aries Bifold may move to OWF 
+- Some old projects archived (Aries Framework .NET and Aries Framework Go)
+- Would be useful to provide more context on benefits of this?
+
+### Maintainer Diversity
+
+- Very good — 62 people on the 48 Hyperledger Aries teams representing at least 19 organizations.
+
+### Project Adoption
+
+- Hard to measure — "senses" its climbing, but little concrete data
+
+### Goals
+
+No previous goals to compare against — highlights from past year
+
+- Moving toward ledger agnostic implementations and away from indy-sdk
+- Embracing OpenID4VCs and SD-JWTs
+- Production components being added
+
+This coming year:
+
+- Interop efforts
+- Build greater awareness with marketing
+- Additional protocol support 
+
+### Help Required
+
+- Relationship of components between OWF and Hyperledger, also Aries relationship with with DIF due to DIDComm
+- Tech driven — need marketing help
+
+### Lifecycle
+
+Remain graduated — agree
+
+### Project Suggestions
+
+- Identifying ways to market project more effectively
+- If possible, it would be useful to get more context on the OWF and DID with respect to Aries, as it seems like there's a lot of crossover between them.
