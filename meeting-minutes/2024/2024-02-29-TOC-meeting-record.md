@@ -14,11 +14,6 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * The [Hyperledger /dev/weekly developer newsletter](https://wiki.hyperledger.org/pages/viewpage.action?pageId=39618905) goes out each Friday to hundreds of Hyperledger developers. It is a collaborative effort. If you have a project release, pull request, community event, and/or relevant article you would like highlighted next week, please [leave a comment for consideration on the upcoming newsletter wiki page](https://wiki.hyperledger.org/display/DR/2024)
 * [Hyperledger Mentorship program](https://wiki.hyperledger.org/display/INTERN) accepting [project proposals](https://wiki.hyperledger.org/display/INTERN/Mentorship+Projects) until March 15, 2024
 
-# Quarterly reports
-* [2023 Q4 Hyperledger FireFly](https://github.com/hyperledger/toc/pull/194)
-    * Waiting on update from submitter before we can merge
-* Please review any [outstanding quarterly reports](https://github.com/hyperledger/toc/pulls?q=is%3Apr+is%3Aopen+label%3Aquarterly-report+user-review-requested%3A%40me).
-
 # Overdue reports
 * 2024 Annual Review Hyperledger Bevel (February 15, 2024) -- Stephen (Primary), Marcus (Secondary)
     * Reminder sent to the maintainers via Discord on February 26th.
