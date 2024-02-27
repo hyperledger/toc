@@ -35,7 +35,7 @@ Community members have given talks featuring Hyperledger FireFly at a number of 
 
 The star activity for the FireFly repository has continued to grow from 390 end of last quarter to 430 end of this quarter. Discord activity remains consistent with ~45 DAU.
 
-![alt_text](images/HLFF_2023_Q3_image1.png "image_tooltip")
+![alt_text](images/HLFF_2023_Q4_stars.png "image_tooltip")
 
 
 There are currently 767k lines of code for Hyperledger FireFly across 19 repositories, with a total of 8.0k commits to date.
