@@ -26,10 +26,10 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * [2024 TOC Project Update Calendar](../../project-reports/2024/2024-updates.md)
 
 # Discussion
-* OpenSSF Sigstore and Scorecard - Dana Wang
+* [OpenSSF Sigstore and Scorecard](https://github.com/hyperledger/toc-docs/blob/main/2024/02/29/OpenSSF_Scorecard_and_Sigstore_Overview.pdf) - Dana Wang
 
 # Recordings
-* [Recordings are available on your Open Profile page](https://openprofile.dev/my-meetings) under Past Meetings
+* [2024-02-29](https://zoom.us/rec/play/lhC1oSP1UafmbmC2P4YOSVjzpUnIG2TGg5edIhlUqpLYJZwgMiXWmgcfwWgw5bI3dMoe6roEBqIDcd-2.xwpYXsSc9nG2LzV1)
 
 # Upcoming TOC meetings
 [Please check the calendar](https://lists.hyperledger.org/g/toc/calendar)
