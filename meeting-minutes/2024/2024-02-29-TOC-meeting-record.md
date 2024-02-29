@@ -22,7 +22,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Upcoming reports
 * 2024 Annual Review Hyperledger Cello (February 29, 2024) -- Peter (Primary), Arun (Secondary)
-* 2024 Annual Review Hyperledger FireFly (March 7, 2024) -- Tracy (Primary), Davuid (Secondary)
+* 2024 Annual Review Hyperledger FireFly (March 7, 2024) -- Tracy (Primary), David (Secondary)
 * [2024 TOC Project Update Calendar](../../project-reports/2024/2024-updates.md)
 
 # Discussion
