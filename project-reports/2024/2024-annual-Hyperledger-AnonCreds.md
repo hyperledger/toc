@@ -66,3 +66,52 @@ Collaboration on AnonCreds as it transitions to v2 with new signature schemes, s
 ## Project Lifecycle Stage Recommendation
 
 AnonCreds is an Incubation project and should probably remain so. AnonCreds is one of the most mature and battle-tested code bases in Hyperledger, has a solid specification, and (we think) broad adoption. However, we think that the acceptance and support for AnonCreds v2 is a driving factor in determining if privacy will win the day in digital trust, and that will dictate if AnonCreds should transition to a graduated project.
+
+## TOC Hyperledger AnonCreds Annual Review Notes
+
+[TOC Meeting Recording - 2024.02.15](https://zoom.us/rec/play/9R-g9dDkev58KyjPT7XkYJ6fltM879Tba6rdC-Loz_6pjyCjMabH5KwO8vcC-kvs_WoKp8ksD6Y8O1qG.FcT2qG1CM2RydRmp?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FSEWW2lMg14g4kV7hsjvXFr-i5hVtJDPlUb9_BmFb2S8cA-YyP-jw3EfEx4qbk4sA.AmQb1tXouL7kdu6A) -- AnonCreds Annual Review discussion starts at the 4:36 mark.
+
+### Project Health
+
+* Project reports great strides in the past year
+* Project reports lack of engagement in moving the AnonCreds v2.0 codebase forward as concerning
+* LFX Insights seems to have inaccurate information
+    * showing contributors from other projects that do not have anything to do with AnonCreds or the identity space
+    * the same committer is showing up under different names (swcurran vs. Stephen Curran, as well as others)
+    * organization mapping does not line up with contributor mapping
+* Based on LFX Insights, it appears that the project contributions have decreased over the last 6 months of 2023
+* Based on LFX Insights, it appears that new contributors are not staying
+* Based on LFX Insights, the PR average wait time for first review is ~5 days and the average lead time (time it takes for pull requests to be raised, reviewed, accepted and merged) of ~9 days
+
+### Maintainer Diversity
+
+* 11 maintainers in the project representing 8 organizations
+* This is great diversity for a project
+* From what LFX Insights provides, it does appear that there is a fairly even distribution of activity across maintainers
+
+### Project Adoption
+
+* Hard to find information on — would there be projects using it as a dependency
+* Getting organizations to contribute to and use AnonCreds v2 seems to be a challenge because of inaccurate perceptions with it being viewed as different to other VC standards and specification
+
+### Goals
+
+* 2023 Goals were not set due to new project status. A number of accomplishments did occur in 2023, including completion of a v1 specification and its implementation
+* 2024 Goals - good set focused on formalizing the v1 specification into a standard, work towards v2 with a migration path between v1 and v2, and support for deploying W3C format.
+* It might be worth mentioning in the goals work that will be done for fixing the perception of AnonCreds
+
+### Help Required
+
+* Need help from marketing the capabilities of AnonCreds
+* Collaborating with others in the verifiable identity community on v2 with new signature schemes
+
+### Lifecycle
+
+* Project recommends remaining in incubation
+* Concur with this recommendation
+
+### Project Suggestions
+
+* Blog posts, webinars, meetups and conference talks for AnonCreds could help with perception issues, even if driven by technologists 
+* Working with the other communities within the LF via presenting to those groups could also help with perception issues
+* Consider doing a 1.0 release to reflect the true status of the software
