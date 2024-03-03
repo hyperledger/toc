@@ -112,3 +112,41 @@ No specific requests at this time. There is a lot that the Hyperledger Foundatio
 ## Project Lifecycle Stage Recommendation
 
 Indy is a Graduated project and should remain so. Its code is rock solid, and a relatively large ecosystem of network operators, maintainers, contributors, and users.
+
+## Indy Annual Review 2024 Notes from the TOC
+
+[TOC Meeting Recording](https://zoom.us/rec/play/9R-g9dDkev58KyjPT7XkYJ6fltM879Tba6rdC-Loz_6pjyCjMabH5KwO8vcC-kvs_WoKp8ksD6Y8O1qG.FcT2qG1CM2RydRmp?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FSEWW2lMg14g4kV7hsjvXFr-i5hVtJDPlUb9_BmFb2S8cA-YyP-jw3EfEx4qbk4sA.AmQb1tXouL7kdu6A) -- Indy Annual report discussion starts at the 4:49 mark
+
+### Project Health
+
+* Overall, the project is in good health as indicated in the review and by looking at the insights
+* There's a lot of community interest and participation, as indicated by the Discord activity
+* Production usage is significant (e.g., govt. of BC, govt. agency in India)
+* The community of contributors and orgs is active and diverse, but there is still significant skew (almost 50% activity from a single maintainer, almost 60% from a single org). Maintainers should strive to distribute workload more, and ensure that there are no "critical" contributors, whose absence could derail maintenance of key features.
+
+### Recent Maintenance Activity and Progress
+  
+* As the review indicates, PRs are fewer. This is understandable when the product is mature and is largely in maintenance mode rather than in feature development mode. (Could this also be because there is more "code" per PR?)
+* Tasks listed in the roadmap are being fulfilled over time.
+* Question about roadmap: why is this hosted on an external site and also not linked from any of the project repos' READMEs?
+
+### Compliance with Hyperledger Project Lifecycle Criteria
+
+* All the criteria are fulfilled with no red flags
+* Should remain in Graduated status
+
+### Suggestions for Improvement
+
+* Manage churn from massive refactoring in a better way, ensuring stability and usability
+* Strive to keep documentation and upgrade guidelines for both users and contributors as fresh as possible, and display prominently to avoid basic inquiries on communication channels
+* There doesn't seem to be a well-advertized process for new feature proposal and brainstorming, say using RFCs. For a project of this stature, brainstorming only during the maintainers' calls (including having to listen to past recordings) seems to be inadequate in my opinion.
+* Maintain a roadmap file in at least one of the main repos rather than hosting it externally.
+
+### General Recommendations
+
+* Continue to pursue synergies with other projects, like Aries and Besu. Avoid reinventing the wheel and leverage dependencies instead, keeping the code as modular as possible. (The project has done a good job of this so far!)
+* Create an Indy ecosystem page similar to the Fabric ecosystem page (https://wiki.hyperledger.org/display/fabric/Ecosystem). This would be helpful to the community, as currently it is hard for newbies to understand how all the Indy repos (let alone Aries, or Besu) complement each other.
+* Write blog articles and run workshops periodically with Hyperledger staff's help
+* Keep connections with the W3C standardization community and strive for compliance with those standards
+* Figure out an ideal longer-term vision and roadmap, focusing on what is valuable about Indy. Also factor in the number of knowledgeable maintainers available and interests of the community (more around decentralized identity and credentials rather than distributed ledger architecture).
+* Identify real priorities that can be fulfilled along with ensuring maintainer diversity. Peg supporting features that are somewhat dormant (i.e., the Indy ledger) to other active projects (e.g., the current Indy-Besu effort to use a Besu ledger for purposes that Indy was originally intended for.)
