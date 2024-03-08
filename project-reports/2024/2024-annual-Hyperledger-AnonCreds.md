@@ -98,7 +98,7 @@ AnonCreds is an Incubation project and should probably remain so. AnonCreds is o
 
 * 2023 Goals were not set due to new project status. A number of accomplishments did occur in 2023, including completion of a v1 specification and its implementation
 * 2024 Goals - good set focused on formalizing the v1 specification into a standard, work towards v2 with a migration path between v1 and v2, and support for deploying W3C format.
-* It might be worth mentioning in the goals work that will be done for fixing the perception of AnonCreds
+* It might be worth mentioning in the goals work what will be done for fixing the perception of AnonCreds
 
 ### Help Required
 
