@@ -1,11 +1,11 @@
-# 2024 Annual Review Hyperledger Aries
-
 ---
 layout: default
 title: 2024 Annual Review Hyperledger Aries
 parent: 2024
 grand_parent: Project Updates
 ---
+
+# 2024 Annual Review Hyperledger Aries
 
 ## Project Health
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hyperledger Iroha 2024 Annual Review 
+title: 2024 Annual Review Hyperledger Iroha
 parent: 2024
 grand_parent: Project Updates
 ---
