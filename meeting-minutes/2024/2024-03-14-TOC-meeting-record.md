@@ -27,6 +27,9 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Discussion
 * [Hyperledger Iroha plan for maintainer diversity](https://docs.google.com/document/d/1zItXZYN3hOOUAxj3GW8x3rveKxoCbndqjs-9sN5aO9Y/edit?usp=sharing)
+* [Maintainer Summit](https://docs.google.com/document/d/1lQs7JXbPGI0aSnw9smMZdRiv1NX1s0jQqdSxxjJgA8g/edit) -- October 21-22, 2024
+    * Does this timing work?
+    * Do we want two days?
 * [TOC Pull Request Review](https://github.com/hyperledger/toc/pulls)
 
 # Recordings
