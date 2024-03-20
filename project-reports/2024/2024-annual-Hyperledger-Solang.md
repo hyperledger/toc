@@ -29,7 +29,7 @@ The maintainer team has identified the issue with Solang's slow adoption in 2023
 # Goals
 
 ## Performance Against Prior Goals
-Prior goals for Solang mainly involved making Solang more attractive to Solidity developers as stated in the 2023 [Q4 plans](https://https://github.com/hyperledger/toc/blob/gh-pages/project-reports/2023/2023-Q4-Hyperledger-Solang.md#current-plans)
+Prior goals for Solang mainly involved making Solang more attractive to Solidity developers as stated in the 2023 [Q4 plans](https://github.com/hyperledger/toc/blob/gh-pages/project-reports/2023/2023-Q4-Hyperledger-Solang.md#current-plans)
 
 There have been many contributions to that cause, but they involved Solang itself and not its sidecar tools.
 
