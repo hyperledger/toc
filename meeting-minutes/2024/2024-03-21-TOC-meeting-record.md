@@ -16,7 +16,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Annual reports
 * [2024 Annual Review Hyperledger Bevel](https://github.com/hyperledger/toc/pull/224) -- Stephen (Primary), Marcus (Secondary) -- To review March 28, 2024
-* 2024 Annual Review Hyperledger Solang (**Overdue February 22, 2024**) -- Yacov (Primary), Peter (Secondary)
+* [2024 Annual Review Hyperledger Solang](https://github.com/hyperledger/toc/pull/228) -- Yacov (Primary), Peter (Secondary) -- To review March 28, 2024
 * [2024 Annual Review Hyperledger Cello](https://github.com/hyperledger/toc/pull/223) -- Peter (Primary), Arun (Secondary)
 * [2024 Annual Review Hyperledger FireFly](https://github.com/hyperledger/toc/pull/222) -- Tracy (Primary), Dave (Secondary)
 
@@ -41,7 +41,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * [ ] Stephen Curran
 * [ ] David Enyeart
 * [ ] Tracy Kuhrt
-* [ ] Yacov Manevich
+* [ ] ~~Yacov Manevich~~
 * [ ] Matt Nelson
 * [ ] Venkatraman Ramakrishna
 * [ ] Arun S M
