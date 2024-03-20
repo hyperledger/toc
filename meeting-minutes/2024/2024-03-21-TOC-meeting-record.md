@@ -16,8 +16,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * The Web3j team will lead Ethereum Development with Web3j and Java: A Hands-on Workshop on Thursday, March 28th at 8amPT/11amET/4pm GMT. 
 To Register: [https://zoom.us/meeting/register/tJArdu6trjkoE9Lvnr4_4L-0GJgIF2VGdKMT](https://zoom.us/meeting/register/tJArdu6trjkoE9Lvnr4_4L-0GJgIF2VGdKMT)
 Details: [Ethereum Development with Web3j and Java: A Hands-on Workshop](https://wiki.hyperledger.org/display/events/Ethereum+Development+with+Web3j+and+Java%3A+A+Hands-on+Workshop)
-
-The Hyperledger Foundation will host the workshop, Zero Knowledge Proofs and ZK Programming in Blockchain Application Development on Wednesday, April 24th at 8amPT / 11am ET / 4pm GMT. 
+* The Hyperledger Foundation will host the workshop, Zero Knowledge Proofs and ZK Programming in Blockchain Application Development on Wednesday, April 24th at 8amPT / 11am ET / 4pm GMT. 
 To register: [https://zoom.us/meeting/register/tJYkfuyhpjsqGd1FCs-ZeFzD90EyqFy18IMt](https://zoom.us/meeting/register/tJYkfuyhpjsqGd1FCs-ZeFzD90EyqFy18IMt)
 Details: [Zero Knowledge Proofs and ZK Programming in Blockchain Application Development](https://wiki.hyperledger.org/pages/viewpage.action?pageId=120521152). 
 
