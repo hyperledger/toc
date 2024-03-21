@@ -21,6 +21,7 @@ To register: [https://zoom.us/meeting/register/tJYkfuyhpjsqGd1FCs-ZeFzD90EyqFy18
 Details: [Zero Knowledge Proofs and ZK Programming in Blockchain Application Development](https://wiki.hyperledger.org/pages/viewpage.action?pageId=120521152). 
 
 # Annual reports
+* [2024 Annual Review Hyperledger Cello](https://github.com/hyperledger/toc/pull/223) -- Peter (Primary), Arun (Secondary)
 * [2024 Annual Review Hyperledger Bevel](https://github.com/hyperledger/toc/pull/224) -- Stephen (Primary), Marcus (Secondary) -- To review March 28, 2024
 * [2024 Annual Review Hyperledger Solang](https://github.com/hyperledger/toc/pull/228) -- Yacov (Primary), Peter (Secondary) -- To review March 28, 2024
 * [2024 Annual Review Hyperledger Cello](https://github.com/hyperledger/toc/pull/223) -- Peter (Primary), Arun (Secondary)
@@ -33,7 +34,7 @@ Details: [Zero Knowledge Proofs and ZK Programming in Blockchain Application Dev
 
 # Discussion
 * [CLOWarden](https://clowarden.io/audit/?time_range=3d&organization=hyperledger-labs&page=1)
-* [2024 Annual Review Hyperledger Cello](https://github.com/hyperledger/toc/pull/223) -- Peter (Primary), Arun (Secondary)
+  * [CLOWarden code](https://github.com/cncf/clowarden)
 * [2024 Annual Review Hyperledger FireFly](https://github.com/hyperledger/toc/pull/222) -- Tracy (Primary), Dave (Secondary)
 
 # Recordings
@@ -44,14 +45,14 @@ Details: [Zero Knowledge Proofs and ZK Programming in Blockchain Application Dev
 
 # Attended by
 
-* [ ] Marcus Brandenburger
-* [ ] Stephen Curran
-* [ ] David Enyeart
-* [ ] Tracy Kuhrt
+* [x] Marcus Brandenburger
+* [x] Stephen Curran
+* [x] David Enyeart
+* [x] Tracy Kuhrt
 * [ ] ~~Yacov Manevich~~
-* [ ] Matt Nelson
-* [ ] Venkatraman Ramakrishna
-* [ ] Arun S M
-* [ ] Peter Somogyvari
-* [ ] Conor Svensson
-* [ ] Jim Zhang
+* [ ] ~~Matt Nelson~~
+* [x] Venkatraman Ramakrishna
+* [x] Arun S M
+* [x] Peter Somogyvari
+* [x] Conor Svensson
+* [x] Jim Zhang
