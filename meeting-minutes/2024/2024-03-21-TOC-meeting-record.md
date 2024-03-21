@@ -32,6 +32,7 @@ Details: [Zero Knowledge Proofs and ZK Programming in Blockchain Application Dev
 * [2024 TOC Project Update Calendar](../../project-reports/2024/2024-updates.md)
 
 # Discussion
+* [CLOWarden](https://clowarden.io/audit/?time_range=3d&organization=hyperledger-labs&page=1)
 * [2024 Annual Review Hyperledger Cello](https://github.com/hyperledger/toc/pull/223) -- Peter (Primary), Arun (Secondary)
 * [2024 Annual Review Hyperledger FireFly](https://github.com/hyperledger/toc/pull/222) -- Tracy (Primary), Dave (Secondary)
 
