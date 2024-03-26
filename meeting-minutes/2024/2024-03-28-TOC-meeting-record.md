@@ -19,6 +19,7 @@ Details: [Ethereum Development with Web3j and Java: A Hands-on Workshop](https:/
 * The Hyperledger Foundation will host the workshop, Zero Knowledge Proofs and ZK Programming in Blockchain Application Development on Wednesday, April 24th at 8amPT / 11am ET / 4pm GMT. 
 To register: [https://zoom.us/meeting/register/tJYkfuyhpjsqGd1FCs-ZeFzD90EyqFy18IMt](https://zoom.us/meeting/register/tJYkfuyhpjsqGd1FCs-ZeFzD90EyqFy18IMt)
 Details: [Zero Knowledge Proofs and ZK Programming in Blockchain Application Development](https://wiki.hyperledger.org/pages/viewpage.action?pageId=120521152). 
+* Please review [Identus Project Proposal](https://github.com/hyperledger/hyperledger-hip/pull/17). We will be discussing next week
 
 # Annual reports
 * [2024 Annual Review Hyperledger Cello](https://github.com/hyperledger/toc/pull/223) -- Peter (Primary), Arun (Secondary)
@@ -31,7 +32,6 @@ Details: [Zero Knowledge Proofs and ZK Programming in Blockchain Application Dev
 * [2024 TOC Project Update Calendar](../../project-reports/2024/2024-updates.md)
 
 # Discussion
-* Project Proposal - [Identus](https://github.com/hyperledger/hyperledger-hip/pull/17)
 * [2024 Annual Review Hyperledger Bevel](https://github.com/hyperledger/toc/pull/224) -- Stephen (Primary), Marcus (Secondary)
 * [2024 Annual Review Hyperledger Cello](https://github.com/hyperledger/toc/pull/223) -- Peter (Primary), Arun (Secondary)
 * [2024 Annual Review Hyperledger Solang](https://github.com/hyperledger/toc/pull/228) -- Yacov (Primary), Peter (Secondary)
