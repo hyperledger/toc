@@ -13,12 +13,14 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Announcements
 * The [Hyperledger /dev/weekly developer newsletter](https://wiki.hyperledger.org/pages/viewpage.action?pageId=39618905) goes out each Friday to hundreds of Hyperledger developers. It is a collaborative effort. If you have a project release, pull request, community event, and/or relevant article you would like highlighted next week, please [leave a comment for consideration on the upcoming newsletter wiki page](https://wiki.hyperledger.org/display/DR/2024)
-* The Web3j team will lead Ethereum Development with Web3j and Java: A Hands-on Workshop on Thursday, March 28th at 8amPT/11amET/4pm GMT. 
+* The Web3j team will lead Ethereum Development with Web3j and Java: A Hands-on Workshop TODAY at 8amPT/11amET/4pm CET. 
 To Register: [https://zoom.us/meeting/register/tJArdu6trjkoE9Lvnr4_4L-0GJgIF2VGdKMT](https://zoom.us/meeting/register/tJArdu6trjkoE9Lvnr4_4L-0GJgIF2VGdKMT)
 Details: [Ethereum Development with Web3j and Java: A Hands-on Workshop](https://wiki.hyperledger.org/display/events/Ethereum+Development+with+Web3j+and+Java%3A+A+Hands-on+Workshop)
 * The Hyperledger Foundation will host the workshop, Zero Knowledge Proofs and ZK Programming in Blockchain Application Development on Wednesday, April 24th at 8amPT / 11am ET / 4pm GMT. 
 To register: [https://zoom.us/meeting/register/tJYkfuyhpjsqGd1FCs-ZeFzD90EyqFy18IMt](https://zoom.us/meeting/register/tJYkfuyhpjsqGd1FCs-ZeFzD90EyqFy18IMt)
-Details: [Zero Knowledge Proofs and ZK Programming in Blockchain Application Development](https://wiki.hyperledger.org/pages/viewpage.action?pageId=120521152). 
+Details: [Zero Knowledge Proofs and ZK Programming in Blockchain Application Development](https://wiki.hyperledger.org/pages/viewpage.action?pageId=120521152).
+* The Hyperledger Indy community is holding Indy Summit 4 on April 9, 20204 at 8- 9AM PT/11AM-12 PM ET/17-18 CET/20.30-21.30. Registration: [https://zoom.us/meeting/register/tJMqdumsrDIvHt2Y-I3IHNpWeLUTyHnwYT3h#/registration](https://zoom.us/meeting/register/tJMqdumsrDIvHt2Y-I3IHNpWeLUTyHnwYT3h#/registration)
+Details: [https://docs.google.com/document/d/1Gkd-V17tAYQFI4ymtIGUjfQxBlgOYVj0WBdX1ZdWA_g/edit](https://docs.google.com/document/d/1Gkd-V17tAYQFI4ymtIGUjfQxBlgOYVj0WBdX1ZdWA_g/edit) 
 * Please review [Identus Project Proposal](https://github.com/hyperledger/hyperledger-hip/pull/17). We will be discussing next week
 
 # Annual reports
