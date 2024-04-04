@@ -30,6 +30,7 @@ Details: [https://docs.google.com/document/d/1Gkd-V17tAYQFI4ymtIGUjfQxBlgOYVj0WB
 # Discussion
 * [2024 Annual Review Hyperledger Solang](https://github.com/hyperledger/toc/pull/228) -- Yacov (Primary), Peter (Secondary)
 * [Identus Project Proposal](https://github.com/hyperledger/hyperledger-hip/pull/17)
+	* Approved by a role call vote; eight aye, three not present.
 
 # Recordings
 * [Recordings are available on your Open Profile page](https://openprofile.dev/my-meetings) under Past Meetings
