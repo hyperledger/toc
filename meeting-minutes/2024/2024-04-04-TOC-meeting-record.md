@@ -40,13 +40,13 @@ Details: [https://docs.google.com/document/d/1Gkd-V17tAYQFI4ymtIGUjfQxBlgOYVj0WB
 # Attended by
 
 * [ ] ~~Marcus Brandenburger~~
-* [ ] Stephen Curran
-* [ ] David Enyeart
-* [ ] Tracy Kuhrt
-* [ ] Yacov Manevich
+* [x] Stephen Curran
+* [ ] ~~David Enyeart~~
+* [x] Tracy Kuhrt
+* [x] Yacov Manevich
 * [ ] ~~Matt Nelson~~
-* [ ] Venkatraman Ramakrishna
-* [ ] Arun S M
-* [ ] Peter Somogyvari
-* [ ] Conor Svensson
-* [ ] Jim Zhang
+* [x] Venkatraman Ramakrishna
+* [x] Arun S M
+* [x] Peter Somogyvari
+* [x] Conor Svensson
+* [x] Jim Zhang
