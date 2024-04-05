@@ -18,6 +18,8 @@ The Hyperledger Besu project is quite healthy in terms of overall contributions.
 
 The Besu project has been adopted by Linea, a layer 2 network developed by Consensys. It is now powering the sequencer that is used to produce blocks and advance the network as critical infrastructure. Citi Bank has also joined the Hyperledger Foundation as a member organization using Hyperledger Besu. Several new institutional staking providers have adopted Besu in their tech stacks to support Ethereum client diversity on Mainnet. Besu sits in 3rd place alongside four other execution clients. It is also being forked for use in other layer 2 networks. 
 
+There has been significant adoption around CBDC pilots, interested in building on performant technology and interoperable Ethereum/EVM standards. [This report](https://www.linuxfoundation.org/hubfs/Hyperledger_CBDC%20ebook_V2.pdf?hsLang=en) breaks down many in-flight CBDC projects building the Besu. 
+
 # Goals
 
 ## Performance Against Prior Goals
