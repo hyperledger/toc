@@ -25,7 +25,7 @@ There has been significant adoption around CBDC pilots, interested in building o
 ## Performance Against Prior Goals
 The Besu maintainers successfully delivered the Cancun hard fork on Ethereum Mainnet and are looking forward to scoping the Prague fork. The Besu project has struggled to court sets of new maintainers from organizations building both public and private networks, but we are hopeful the new financial services working group may yield new interest and contributions. We have made some progress on standardizing features across both network types, like shipping snap-sync as a server. This means that, shortly, private networks and Mainnet can use the same sync methodology (and we may remove fast-sync). We are still working on Bonsai Archive and other feature consolidation efforts. 
 
-The enterprise and public roadmaps were both delivered on the [wiki.](https://wiki.hyperledger.org/pages/viewpage.action?pageId=24781786). We are hopping this will help with adoption, clarity among developers and orgs using Besu, and will keep up the transparency efforts by Maintainers. 
+The enterprise and public roadmaps were both delivered on the [wiki.](https://wiki.hyperledger.org/pages/viewpage.action?pageId=24781786). We are hoping this will help with adoption, clarity among developers and orgs using Besu, and will keep up the transparency efforts by Maintainers. 
 
 
 ## Next Year's Goals
