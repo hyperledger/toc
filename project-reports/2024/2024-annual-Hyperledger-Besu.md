@@ -39,7 +39,7 @@ This year there is also a renewed push around revitalizing and modernizing the p
 The Consensys team continues to focus its roadmap on performance, stability, modularity, and upcoming protocol changes like the Verkle Trie migration. The Besu Maintainers intend to support the Prague hard fork and take an active role in its delivery. 
 
 ## Help Required
-None 
+The project would love the help of the TOC and Hyperledger in courting and maintaining new sets of Maintainers/Contributors from orgs using Besu. 
 
 # Project Lifecycle Stage Recommendation
 This report recommends continuing the graduated status. 
