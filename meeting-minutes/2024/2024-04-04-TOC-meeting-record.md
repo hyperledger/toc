@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2024-04-04 TOC Meeting
+title: 2024-04-04 TOC Meeting Record
 parent: 2024
 grand_parent: Meeting Minutes
 nav_exclude: true
