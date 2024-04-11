@@ -16,7 +16,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * The Hyperledger Foundation will host the workshop, Zero Knowledge Proofs and ZK Programming in Blockchain Application Development on Wednesday, April 24th at 8amPT / 11am ET / 4pm GMT. 
 To register: [https://zoom.us/meeting/register/tJYkfuyhpjsqGd1FCs-ZeFzD90EyqFy18IMt](https://zoom.us/meeting/register/tJYkfuyhpjsqGd1FCs-ZeFzD90EyqFy18IMt)
 Details: [Zero Knowledge Proofs and ZK Programming in Blockchain Application Development](https://wiki.hyperledger.org/pages/viewpage.action?pageId=120521152).
-* The Hyperledger Identity SIG (ID SIG) recently hosted Jorge and Jesus from Entidad for "How The Aries Digital Trust Ecosystem Helped Distribute $60M USD (and counting) to Essential Workers. You can check out the recording here: [https://www.youtube.com/watch?v=wVo8F_qSz0Y](https://www.youtube.com/watch?v=wVo8F_qSz0Y)
+* The Hyperledger Identity SIG (ID SIG) recently hosted Jorge and Jesus from Entidad for "How The Aries Digital Trust Ecosystem Helped Distribute $60M USD (and counting) to Essential Workers. You can check out the recording [on YouTube.](https://www.youtube.com/watch?v=wVo8F_qSz0Y)
 
 
 # Annual reports
@@ -40,14 +40,14 @@ Details: [Zero Knowledge Proofs and ZK Programming in Blockchain Application Dev
 
 # Attended by
 
-* [ ] Marcus Brandenburger
-* [ ] Stephen Curran
-* [ ] David Enyeart
-* [ ] Tracy Kuhrt
-* [ ] Yacov Manevich
+* [x] Marcus Brandenburger
+* [x] Stephen Curran
+* [x] David Enyeart
+* [x] Tracy Kuhrt
+* [x] Yacov Manevich
 * [ ] ~~Matt Nelson~~
-* [ ] Venkatraman Ramakrishna
-* [ ] Arun S M
-* [ ] Peter Somogyvari
-* [ ] Conor Svensson
-* [ ] Jim Zhang
+* [ ] ~~Venkatraman Ramakrishna~~
+* [x] Arun S M
+* [ ] ~~Peter Somogyvari~~
+* [x] Conor Svensson
+* [x] Jim Zhang
