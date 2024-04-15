@@ -26,6 +26,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * [2024 TOC Project Update Calendar](../../project-reports/2024/2024-updates.md)
 
 # Discussion
+* [Review open PRs](https://github.com/hyperledger/toc/pulls)
 * Task Forces
     * [Existing list](https://github.com/hyperledger/toc/issues?q=is%3Aissue+is%3Aopen+label%3Atask-force-proposal)
     * What do we want to keep?
