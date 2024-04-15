@@ -28,7 +28,6 @@ has_toc: false
 | Q1 (annual) | 2024-03-21 | Caliper   |
 | Q2          | 2024-04-11 | Cacti     |
 | Q2          | 2024-04-11 | Fabric    |
-| Q2          | 2024-04-25 | Sawtooth  |
 | Q2          | 2024-05-02 | Aries     |
 | Q2          | 2024-05-02 | Indy      |
 | Q2          | 2024-05-02 | AnonCreds |
@@ -41,7 +40,6 @@ has_toc: false
 | Q2          | 2024-06-20 | Caliper   |
 | Q3          | 2024-07-11 | Cacti     |
 | Q3          | 2024-07-11 | Fabric    |
-| Q3          | 2024-07-25 | Sawtooth  |
 | Q3          | 2024-08-01 | Aries     |
 | Q3          | 2024-08-01 | Indy      |
 | Q3          | 2024-08-01 | AnonCreds |
@@ -54,7 +52,6 @@ has_toc: false
 | Q3          | 2024-09-19 | Caliper   |
 | Q4          | 2024-10-10 | Cacti     |
 | Q4          | 2024-10-10 | Fabric    |
-| Q4          | 2024-10-24 | Sawtooth  |
 | Q4          | 2024-11-07 | Aries     |
 | Q4          | 2024-11-07 | Indy      |
 | Q4          | 2024-11-07 | AnonCreds |
