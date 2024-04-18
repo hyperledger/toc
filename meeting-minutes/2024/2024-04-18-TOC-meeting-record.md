@@ -16,11 +16,10 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * The Hyperledger Foundation will host the workshop, Zero Knowledge Proofs and ZK Programming in Blockchain Application Development on Wednesday, April 24th at 8amPT / 11am ET / 4pm GMT.  To register: [https://zoom.us/meeting/register/tJYkfuyhpjsqGd1FCs-ZeFzD90EyqFy18IMt](https://zoom.us/meeting/register/tJYkfuyhpjsqGd1FCs-ZeFzD90EyqFy18IMt) Details: [Zero Knowledge Proofs and ZK Programming in Blockchain Application Development](https://wiki.hyperledger.org/pages/viewpage.action?pageId=120521152).
 
 # Quarterly reports
-* None received
+* [2024 Q2 Hyperledger Fabric](https://github.com/hyperledger/toc/pull/238)
 
 # Past due reports
 * 2024 Q2 Hyperledger Cacti (Due April 11, 2024)
-* 2024 Q2 Hyperledger Fabric (Due April 11, 2024)
 
 # Upcoming reports
 * [2024 TOC Project Update Calendar](../../project-reports/2024/2024-updates.md)
