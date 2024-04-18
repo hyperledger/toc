@@ -30,7 +30,13 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
     * [Existing list](https://github.com/hyperledger/toc/issues?q=is%3Aissue+is%3Aopen+label%3Atask-force-proposal)
     * What do we want to keep?
     * What new task forces are we interested in?
+        - Documentation - Summarize recommendation on documentation platform
+        - Maintainer Diversity Best Practices (Tracy)
+        - Video Series (Peter)
+        - Scorecard Adoption (Dave)
+        - New Project Onboarding
     * Who will drive the task force?
+
 
 # Recordings
 * [Recordings are available on your Open Profile page](https://openprofile.dev/my-meetings) under Past Meetings
