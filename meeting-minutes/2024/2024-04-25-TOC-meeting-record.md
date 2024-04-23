@@ -13,6 +13,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Announcements
 * The [Hyperledger /dev/weekly developer newsletter](https://wiki.hyperledger.org/pages/viewpage.action?pageId=39618905) goes out each Friday to hundreds of Hyperledger developers. It is a collaborative effort. If you have a project release, pull request, community event, and/or relevant article you would like highlighted next week, please [leave a comment for consideration on the upcoming newsletter wiki page](https://wiki.hyperledger.org/display/DR/2024)
+* On Thursday May 23rd, join the Hyperledger Cacti team for "Standardizing DLT Interoperation: Implementing IETF Secure Asset Transfer Protocol in Hyperledger Cacti". [Click here to register.](https://zoom.us/meeting/register/tJEtceGtpzgiGNLH4Wz-osaXswigPSSmgI95#/registration)
 
 # Quarterly reports
 * [2024 Q2 Hyperledger Fabric](https://github.com/hyperledger/toc/pull/238)
