@@ -28,7 +28,8 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * [2024 TOC Project Update Calendar](../../project-reports/2024/2024-updates.md)
 
 # Discussion
-* Maintainer Diversity Best Practices task force
+* GitCoin Presentation - https://grants.gitcoin.co/
+* Maintainer Diversity Best Practices task force - move to next week
     ![Initial Brainstorm](https://drive.google.com/uc?export=view&id=1taOHYNYmF4vhhX68zUBx2XWgFznfO2X0)
 
 # Recordings
