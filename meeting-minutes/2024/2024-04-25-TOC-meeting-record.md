@@ -41,7 +41,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 # Attended by
 
 * [ ] Marcus Brandenburger
-* [ ] Stephen Curran
+* [ ] ~~Stephen Curran~~
 * [ ] David Enyeart
 * [ ] Tracy Kuhrt
 * [ ] Yacov Manevich
