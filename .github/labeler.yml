@@ -1,0 +1,10 @@
+---
+meeting-minutes:
+  - changed-files:
+      - any-glob-to-any-file:
+          - meeting-minutes/**/*
+
+quarterly-report:
+  - changed-files:
+      - any-glob-to-any-file:
+          - project-reports/**/*
