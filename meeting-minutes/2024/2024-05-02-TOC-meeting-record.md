@@ -19,7 +19,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * Please review any [outstanding quarterly reports](https://github.com/hyperledger/toc/pulls?q=is%3Apr+is%3Aopen+label%3Aquarterly-report+user-review-requested%3A%40me).
 
 # Past due reports
-* 2024 Q2 Hyperledger Cacti (Due April 11, 2024)
+* [2024 Q2 Hyperledger Cacti](https://github.com/hyperledger/toc/pull/242)
 
 # Upcoming reports
 * 2024 Q2 Hyperledger Aries (Due May 2, 2024)
@@ -29,7 +29,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 * [2024 TOC Project Update Calendar](../../project-reports/2024/2024-updates.md)
 
 # Discussion
-* Maintainer Diversity Best Practices task force - move to next week
+* Maintainer Diversity Best Practices task force
     ![Initial Brainstorm](https://drive.google.com/uc?export=view&id=1taOHYNYmF4vhhX68zUBx2XWgFznfO2X0)
 
 # Recordings
@@ -40,14 +40,14 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Attended by
 
-* [ ] Marcus Brandenburger
-* [ ] Stephen Curran
-* [ ] David Enyeart
-* [ ] Tracy Kuhrt
-* [ ] Yacov Manevich
-* [ ] Matt Nelson
-* [ ] Venkatraman Ramakrishna
-* [ ] Arun S M
-* [ ] Peter Somogyvari
-* [ ] Conor Svensson
-* [ ] Jim Zhang
+* [x] Marcus Brandenburger
+* [x] Stephen Curran
+* [x] David Enyeart
+* [x] Tracy Kuhrt
+* [x] Yacov Manevich
+* [ ] ~~Matt Nelson~~
+* [x] Venkatraman Ramakrishna
+* [ ] ~~Arun S M~~
+* [x] Peter Somogyvari
+* [x] Conor Svensson
+* [x] Jim Zhang
