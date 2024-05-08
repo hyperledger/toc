@@ -7,8 +7,6 @@ has_children: false
 has_toc: false
 ---
 
-# 2024 Q2 Hyperledger AnonCreds
-
 Created by Stephen Curran with input from the Hyperledger AnonCreds Maintainers.
 
 ## Implementation Repositories
@@ -57,8 +55,9 @@ is "good enough".
 
 On the first, there are groups in Europe that would like to see more privacy
 preserving credentials in place, but they are very much in the minority. For
-example, concerns have been raised in [Europe about privacy being at the heart
-of the European digital identity] efforts and in the [US by the ACLU and EFF].
+example, concerns have been raised in
+[Europe about privacy being at the heart of the European digital identity]
+efforts and in the [US by the ACLU and EFF].
 The reasons outlined are exactly why the collaborators working on AnonCreds
 continue to evolve the capabilities. It is not clear if the privacy regulators
 have weighed in on the initiatives.
@@ -93,9 +92,14 @@ Verifiable Credential Data Model ([VCDM]) format. This was triggered by a "Code
 With Us" procurement from BC Gov that was won by [DSR Corporation] for the
 [AnonCreds Rust] work, [Animo Solutions] for the adding support for the format
 in the [Credo-TS] and [Bifold Wallet] libraries (formerly Aries Framework
-JavaScript and Aries Bifold React Native, respectively and now part of the [Open
-Wallet Foundation]), and What's Cookin for adding support the for the format in
-the [Aries Cloud Agent Python] library.
+JavaScript and Aries Bifold React Native, respectively and now part of the
+[Open Wallet Foundation]), and What's Cookin for adding support for the
+format in the [Aries Cloud Agent Python] library.
+
+[VCDM]: https://www.w3.org/TR/vc-data-model-2.0/
+[DSR Corporation]: https://en.dsr-corporation.com/
+[Animo Solutions]: https://animo.id/
+[Open Wallet Foundation]: https://openwallet.foundation/
 
 As announced in the last Quarterly Report, the contribution of the new AnonCreds
 v2 code base, and underlying cryptography in [Agora], a Hyperledger Labs,
@@ -120,11 +124,9 @@ project -- [audited cryptographic libraries].
 [audited cryptographic libraries]: https://github.com/hyperledger-labs?q=agora
 
 [AnonCreds Rust]: https://github.com/hyperledger/anoncreds-rs
-[AnonCreds CL Signatures]: https://github.com/hyperledger/anoncreds-clsignatures-rs
 [Credo-TS]: https://github.com/openwallet-foundation/credo-ts
 [Bifold Wallet]: https://github.com/openwallet-foundation/bifold-wallet
 [Aries Cloud Agent Python]: https://github.com/hyperledger/aries-cloudagent-python
-[Aries VCX]: https://github.com/hyperledger/aries-vcx
 [Internet Identity Workshop]: https://docs.google.com/document/d/1xicI8Prdgo12Ha3ctZWdie7spCqgDiZT43RjIT3LApA/edit
 
 ## Current Plans
