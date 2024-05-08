@@ -7,8 +7,6 @@ has_children: false
 has_toc: false
 ---
 
-# 2024 Q2 Hyperledger Indy
-
 Created by Stephen Curran with input from the Hyperledger Indy Maintainers.
 
 ## Sub-Projects
@@ -42,8 +40,6 @@ Created by Stephen Curran with input from the Hyperledger Indy Maintainers.
 [indy-shared-rs]: https://github.com/hyperledger/indy-shared-rs
 [indy-cli-rs]: https://github.com/hyperledger/indy-cli-rs
 [indy-sdk]: https://github.com/hyperledger/indy-sdk
-[Indy SDK]: https://github.com/hyperledger/indy-sdk
-[Aries Askar]: https://github.com/hyperledger/aries-askar
 [Hyperledger AnonCreds]: https://github.com/hyperledger/anoncreds-rs
 
 ### **Specifications**
@@ -61,8 +57,8 @@ Created by Stephen Curran with input from the Hyperledger Indy Maintainers.
 
 ## Project Health
 
-The project continued to have steady contributor activity. Per the [Indy
-Quarterly Activity Dashboard], in the months January through March, 2024 there
+The project continued to have steady contributor activity. Per the
+[Indy Quarterly Activity Dashboard], in the months January through March, 2024 there
 were 145 commits (about the same as the previous quarterly report quarterly, and
 up from the previous quarter) from 34 contributors (up significantly from the
 previous quarterly report quarter, but down about 20% from last quarter).
@@ -73,7 +69,7 @@ previous quarterly report quarter, but down about 20% from last quarter).
 
 From the previous quarterly report:
 
-> See the idea in that came out of the Second Hyperledger Indy Ecosystem Summit:
+> See the idea that came out of the Second Hyperledger Indy Ecosystem Summit:
 >
 > Is there a way for the Hyperledger Foundation to enable a group to collect
 funds for an open source objective, and the use those funds to enable a code
@@ -115,10 +111,10 @@ replace the archived Indy SDK. Notably, caching of transactions was put into
 Indy VDR so that it need not be re-implemented at the higher levels.
 
 Progress was also made on the [Indy Besu] implementation of Indy capabilities on
-a Besu base, and in defining the Indy Besu updates to the [Indy DID Method]].
+a Besu base, and in defining the Indy Besu updates to the [Indy DID Method].
 
 [Indy Besu]: https://github.com/hyperledger/indy-besu
-[Indy DID Method]]: https://github.com/hyperledger/indy-did-method
+[Indy DID Method]: https://github.com/hyperledger/indy-did-method
 
 Since the last quarterly report there have been two more Indy Ecosystem Summits
 (3 and 4) that focused on (3) collaborating on work in general, and (4)
