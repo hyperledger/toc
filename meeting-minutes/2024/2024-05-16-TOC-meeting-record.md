@@ -32,7 +32,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 - [Labs Governance](https://labs.hyperledger.org/governance.html)
     - Lab Stewards Responsibilities
     - Inactive Lab Stewards
-- OpenSSF Scorecard Task Force
+- [OpenSSF Scorecard Task Force](https://docs.google.com/presentation/d/18zO30diSW1jUfQwoglWza0Lx2_Q8vwuE__q-JdoC3ho/edit?usp=sharing)
 
 # Recordings
 - [Recordings are available on your Open Profile page](https://openprofile.dev/my-meetings) under Past Meetings
