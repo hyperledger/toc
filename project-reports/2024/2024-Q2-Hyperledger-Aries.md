@@ -71,6 +71,12 @@ Suggestions on what to do with [Aries VCX]. One thought is
 a Webinar on what the code base contains to publicize the fact
 that the it is "up for grabs" for anyone interested.
 
+Feedback from the TOC:
+
+- Add an issue in a Project repo that is kept open that requests people add comments that indicate they are using the repo/project, and if they are interested in being a maintainer.  This is useful in this situation but is a best practice for all projects.
+- Put an article about Aries VCX into the /dev/weekly newsletter.
+- Consider putting on a webinar/Meetup about the Aries VCX framework, what it is, current state, and the opportunity for picking up the framework.
+
 ## Releases
 
 The following Aries releases occurred in the last two quarters (including the
