@@ -31,6 +31,9 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Discussion
 - Vote: Marcus as Lab Steward
+  - Approved
+- Vote: Alvaro Picazo as Lab Steward
+  - Approved
 - Please review [PRs](https://github.com/hyperledger/toc/pulls) so that we can get them merged
 - Task Force: Video Series
 
@@ -42,14 +45,14 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Attended by
 
-- [ ] Marcus Brandenburger
-- [ ] Stephen Curran
-- [ ] David Enyeart
-- [ ] Tracy Kuhrt
-- [ ] Yacov Manevich
-- [ ] Matt Nelson
-- [ ] Venkatraman Ramakrishna
-- [ ] Arun S M
-- [ ] Peter Somogyvari
-- [ ] Conor Svensson
-- [ ] Jim Zhang
+- [x] Marcus Brandenburger
+- [x] Stephen Curran
+- [x] David Enyeart
+- [x] Tracy Kuhrt
+- [x] Yacov Manevich
+- [ ] ~~Matt Nelson~~
+- [x] Venkatraman Ramakrishna
+- [x] Arun S M
+- [x] Peter Somogyvari
+- [ ] ~~Conor Svensson~~
+- [x] Jim Zhang
