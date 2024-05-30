@@ -26,7 +26,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Discussion
 - [Maintainer Days](https://wiki.hyperledger.org/display/events/Maintainer+Days+October+21-22%2C+2024)
-- Automated Pipeline Best Practices Task Force discussion
+- [Automated Pipeline Best Practices Task Force discussion](https://github.com/hyperledger/toc/pull/252)
 
 # Recordings
 - [Recordings are available on your Open Profile page](https://openprofile.dev/my-meetings) under Past Meetings
