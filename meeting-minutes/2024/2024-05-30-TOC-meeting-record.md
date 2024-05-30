@@ -13,13 +13,10 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Announcements
 - The [Hyperledger /dev/weekly developer newsletter](https://wiki.hyperledger.org/pages/viewpage.action?pageId=39618905) goes out each Friday to hundreds of Hyperledger developers. It is a collaborative effort. If you have a project release, pull request, community event, and/or relevant article you would like highlighted next week, please [leave a comment for consideration on the upcoming newsletter wiki page](https://wiki.hyperledger.org/display/DR/2024)
-- Please review [PRs](https://github.com/hyperledger/toc/pulls) so that we can get them merged
+- Dashboards created for the [Hyperledger GitHub organization](https://toc.hyperledger.org/dashboards/hyperledger.html) and the [Hyperledger Labs GitHub organization](https://toc.hyperledger.org/dashboards/labs.html)
 
 # Quarterly reports
 - [2024 Q2 Hyperledger Cacti](https://github.com/hyperledger/toc/pull/242)
-- [2024 Q2 Hyperledger AnonCreds](https://github.com/hyperledger/toc/pull/245)
-- [2024 Q2 Hyperledger Iroha](https://github.com/hyperledger/toc/pull/246)
-- [2024 Q2 Hyperledger Bevel](https://github.com/hyperledger/toc/pull/248)
 - Please review any [outstanding quarterly reports](https://github.com/hyperledger/toc/pulls?q=is%3Apr+is%3Aopen+label%3Aquarterly-report+user-review-requested%3A%40me).
 
 # Upcoming reports
