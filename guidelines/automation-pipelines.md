@@ -63,18 +63,15 @@ https://docs.github.com/en/actions/using-workflows/reusing-workflows
 
 - Monitor GitHub Actions success rate, usage metrics and many other statistics about billing hours here: https://app.octolense.com/accounts/hyperledger
 - Use GitHub Actions efficiently and reduce unnecessary runner usage:
-- Use cancel-in-progress to suppress multiple jobs for multiple pushes to the same pull request
+    - Use cancel-in-progress to suppress multiple jobs for multiple pushes to the same pull request
 https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#example-using-concurrency-to-cancel-any-in-progress-job-or-run
-- Uncheck branch protection rule "Require branches to be up to date before merging" to reduce number of runs
-    * Potentially add a scheduled run if you are concerned about incompatible PRs getting merged
-    * You can enable this via built-in GitHub YAML syntax:
+    - Uncheck branch protection rule "Require branches to be up to date before merging" to reduce number of runs
+        * Potentially add a scheduled run if you are concerned about incompatible PRs getting merged
+        * You can enable this via built-in GitHub YAML syntax:
         https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches#require-status-checks-before-merging
-
-
-- Use path filters to eliminate unnecessary runs either 
-  * through the built-in GitHub Action YAML syntax: https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#filter-pattern-cheat-sheet
-  
-  * or by using a third-party GitHub Action: https://github.com/dorny/paths-filter
+    - Use path filters to eliminate unnecessary runs either 
+        * through the built-in GitHub Action YAML syntax: https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#filter-pattern-cheat-sheet
+        * or by using a third-party GitHub Action: https://github.com/dorny/paths-filter
 
 ## Contribution Flow
 
