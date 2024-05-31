@@ -61,7 +61,7 @@ Whether it's actually the best tool for your project will depend on a list of fa
 Note: use Reusable GitHub actions to reduce the number of top-level checks
 https://docs.github.com/en/actions/using-workflows/reusing-workflows
 
-- Monitor GitHub Actions success rate, usage metrics and many other statistics about billing hours here: - https://app.octolense.com/accounts/hyperledger
+- Monitor GitHub Actions success rate, usage metrics and many other statistics about billing hours here: https://app.octolense.com/accounts/hyperledger
 - Use GitHub Actions efficiently and reduce unnecessary runner usage:
 - Use cancel-in-progress to suppress multiple jobs for multiple pushes to the same pull request
 https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#example-using-concurrency-to-cancel-any-in-progress-job-or-run
