@@ -13,9 +13,9 @@
 1. Use git and GitHub
 2. Protect code branches. In GitHub settings "Branch protection rules" select:
 
-- "Require a pull request before merging"
-- "Require approvals": https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches#require-pull-request-reviews-before-merging  
-- "Require status checks to pass before merging": https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches#require-status-checks-before-merging
+    - "Require a pull request before merging"
+    - "Require approvals": https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches#require-pull-request-reviews-before-merging  
+    - "Require status checks to pass before merging": https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches#require-status-checks-before-merging
 
 GitHub Actions is the preferred CI platform to implement checks. Create a test pipeline, consider required checks for:
 1. DCO (required) https://github.com/apps/dco
