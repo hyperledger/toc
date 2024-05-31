@@ -40,6 +40,8 @@ has_toc: false
 | Q2          | 2024-06-20 | Caliper   |
 | Q3          | 2024-07-11 | Cacti     |
 | Q3          | 2024-07-11 | Fabric    |
+| Q3          | 2024-07-11 | Identus   |
+| Q3          | 2024-07-11 | Web3j     |
 | Q3          | 2024-08-01 | Aries     |
 | Q3          | 2024-08-01 | Indy      |
 | Q3          | 2024-08-01 | AnonCreds |
@@ -52,6 +54,8 @@ has_toc: false
 | Q3          | 2024-09-19 | Caliper   |
 | Q4          | 2024-10-10 | Cacti     |
 | Q4          | 2024-10-10 | Fabric    |
+| Q3          | 2024-10-10 | Identus   |
+| Q3          | 2024-10-10 | Web3j     |
 | Q4          | 2024-11-07 | Aries     |
 | Q4          | 2024-11-07 | Indy      |
 | Q4          | 2024-11-07 | AnonCreds |
