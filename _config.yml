@@ -18,3 +18,5 @@ aux_links:
     - "//wiki.hyperledger.org/display/TSC/Technical+Oversight+Committee+Home"
   "Chat":
     - "https://discord.gg/hyperledger/"
+plugins:
+  - jekyll-remote-theme
