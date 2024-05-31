@@ -37,6 +37,7 @@ Examples:
 - ReadTheDocs webhook: https://docs.readthedocs.io/en/stable/integrations.html
 
 ## Static analysis aka Static Application Security Testing (SAST)
+- Consider performing automated SAST scans to protect your app from security risks.
 
 Examples:
 
