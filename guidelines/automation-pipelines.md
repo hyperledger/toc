@@ -49,6 +49,8 @@ Whether it's actually the best tool for your project will depend on a list of fa
 
 ## Software Composition Analysis dependency scans and/or setup Dependabot in Settings/Security
 
+- Consider performing automated [software composition analysis](https://en.wikipedia.org/wiki/Software_composition_analysis) to manage open source risk.
+
 - Dependabot: https://docs.github.com/en/code-security/dependabot/dependabot-security-updates/configuring-dependabot-security-updates
 
 - Trivy: https://github.com/aquasecurity/trivy
