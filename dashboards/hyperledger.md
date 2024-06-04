@@ -1,3 +1,11 @@
+---
+layout: default
+title: Hyperledger GitHub Org Dashboard
+parent: Dashboards
+grand_parent: Hyperledger TOC
+nav_order: 1
+---
+
 # hyperledger Dashboard
 
 | Repo | License | Last Commit | Commits | Issues | Pull Requests | OpenSSF Scorecard | Stars | Forks | Watchers |
