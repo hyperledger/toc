@@ -39,7 +39,7 @@ Task force discussion: Badging Lifecycle
 # Attended by
 
 - [ ] Marcus Brandenburger
-- [ ] Stephen Curran
+- [ ] ~~Stephen Curran~~
 - [ ] David Enyeart
 - [ ] Tracy Kuhrt
 - [ ] Yacov Manevich
@@ -48,4 +48,4 @@ Task force discussion: Badging Lifecycle
 - [ ] Arun S M
 - [ ] Peter Somogyvari
 - [ ] Conor Svensson
-- [ ] Jim Zhang
+- [ ] ~~Jim Zhang~~
