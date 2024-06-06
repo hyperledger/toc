@@ -38,14 +38,14 @@ Task force discussion: Badging Lifecycle
 
 # Attended by
 
-- [ ] Marcus Brandenburger
+- [x] Marcus Brandenburger
 - [ ] ~~Stephen Curran~~
-- [ ] David Enyeart
-- [ ] Tracy Kuhrt
-- [ ] Yacov Manevich
-- [ ] Matt Nelson
-- [ ] Venkatraman Ramakrishna
-- [ ] Arun S M
-- [ ] Peter Somogyvari
-- [ ] Conor Svensson
+- [x] David Enyeart
+- [x] Tracy Kuhrt
+- [x] Yacov Manevich
+- [ ] ~~Matt Nelson~~
+- [x] Venkatraman Ramakrishna
+- [x] Arun S M
+- [x] Peter Somogyvari
+- [x] Conor Svensson
 - [ ] ~~Jim Zhang~~
