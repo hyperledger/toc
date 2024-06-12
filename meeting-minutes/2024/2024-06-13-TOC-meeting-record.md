@@ -13,6 +13,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Announcements
 - The [Hyperledger /dev/weekly developer newsletter](https://wiki.hyperledger.org/pages/viewpage.action?pageId=39618905) goes out each Friday to hundreds of Hyperledger developers. It is a collaborative effort. If you have a project release, pull request, community event, and/or relevant article you would like highlighted next week, please [leave a comment for consideration on the upcoming newsletter wiki page](https://wiki.hyperledger.org/display/DR/2024)
+- New project proposal: [xkey](https://github.com/hyperledger/hyperledger-hip/pull/18) - Please review as we will be discussing next week
 - Cancel July 4 meeting
 
 # Quarterly reports
@@ -29,7 +30,6 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 - [2024 TOC Project Update Calendar](../../project-reports/2024/2024-updates.md)
 
 # Discussion
-- New project proposal: [xkey](https://github.com/hyperledger/hyperledger-hip/pull/18)
 - New lab steward proposal: [Esteban Garcia](https://lists.hyperledger.org/g/toc/message/4081)
 - Task force discussion: Security Artifact Signing
 
