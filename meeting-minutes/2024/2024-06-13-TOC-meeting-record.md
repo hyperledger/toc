@@ -18,11 +18,11 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Quarterly reports
 - [2024 Q2 Hyperledger Cello](https://github.com/hyperledger/toc/pull/259)
+- [2024 Q2 Hyperledger Firefly](https://github.com/hyperledger/toc/pull/262)
 - Please review any [outstanding quarterly reports](https://github.com/hyperledger/toc/pulls?q=is%3Apr+is%3Aopen+label%3Aquarterly-report+user-review-requested%3A%40me).
 
 # Past due reports
 - 2024 Q2 Hyperledger Solang (due May 23, 2024)
-- 2024 Q2 Hyperledger Firefly (due June 6, 2024)
 
 # Upcoming reports
 - 2024 Q2 Hyperledger Besu (due June 20, 2024)
@@ -31,6 +31,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Discussion
 - New lab steward proposal: [Esteban Garcia](https://lists.hyperledger.org/g/toc/message/4081)
+  - Motion passes by voice vote
 - Task force discussion: Security Artifact Signing
 
 # Recordings
@@ -41,14 +42,14 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Attended by
 
-- [ ] Marcus Brandenburger
-- [ ] Stephen Curran
-- [ ] David Enyeart
-- [ ] Tracy Kuhrt
-- [ ] Yacov Manevich
-- [ ] Matt Nelson
-- [ ] Venkatraman Ramakrishna
-- [ ] Arun S M
-- [ ] Peter Somogyvari
-- [ ] Conor Svensson
-- [ ] Jim Zhang
+- [x] Marcus Brandenburger
+- [x] Stephen Curran
+- [ ] ~~David Enyeart~~
+- [x] Tracy Kuhrt
+- [x] Yacov Manevich
+- [ ] ~~Matt Nelson~~
+- [x] Venkatraman Ramakrishna
+- [ ] ~~Arun S M~~
+- [x] Peter Somogyvari
+- [x] Conor Svensson
+- [ ] ~~Jim Zhang~~
