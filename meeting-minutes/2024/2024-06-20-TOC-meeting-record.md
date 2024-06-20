@@ -28,6 +28,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Discussion
 - New project proposal: [xkey](https://github.com/hyperledger/hyperledger-hip/pull/18)
+  - Approved, eight aye, one nay
 - Preview of upcoming changes - Hart
 
 # Recordings
@@ -39,14 +40,14 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Attended by
 
-- [ ] Marcus Brandenburger
-- [ ] Stephen Curran
-- [ ] David Enyeart
-- [ ] Tracy Kuhrt
-- [ ] Yacov Manevich
-- [ ] Matt Nelson
-- [ ] Venkatraman Ramakrishna
-- [ ] Arun S M
-- [ ] Peter Somogyvari
-- [ ] Conor Svensson
-- [ ] Jim Zhang
+- [x] Marcus Brandenburger
+- [ ] ~~Stephen Curran~~
+- [x] David Enyeart
+- [x] Tracy Kuhrt
+- [x] Yacov Manevich
+- [ ] ~~Matt Nelson~~
+- [x] Venkatraman Ramakrishna
+- [x] Arun S M
+- [x] Peter Somogyvari
+- [x] Conor Svensson
+- [x] Jim Zhang
