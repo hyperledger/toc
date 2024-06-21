@@ -29,7 +29,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 - [Automated Pipeline Best Practices Task Force discussion](https://github.com/hyperledger/toc/pull/252)
 
 # Recordings
-- [Recordings are available on your Open Profile page](https://openprofile.dev/my-meetings) under Past Meetings
+- [Recordings are available on the Hyperledger calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/hyp)
 
 # Upcoming TOC meetings
 [Please check the calendar](https://lists.hyperledger.org/g/toc/calendar)
