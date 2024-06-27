@@ -13,6 +13,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Announcements
 - The [Hyperledger /dev/weekly developer newsletter](https://wiki.hyperledger.org/pages/viewpage.action?pageId=39618905) goes out each Friday to hundreds of Hyperledger developers. It is a collaborative effort. If you have a project release, pull request, community event, and/or relevant article you would like highlighted next week, please [leave a comment for consideration on the upcoming newsletter wiki page](https://wiki.hyperledger.org/display/DR/2024)
+- In recognition of the growing market for and adoption of decentralized technologies, the Linux Foundation announced plans to form [LF Decentralized Trust](https://www.linuxfoundation.org/press/linux-foundation-announces-intent-to-form-lf-decentralized-trust).
 - Reminder: The July 4th, 2024 meeting is canceled.
 
 # Quarterly reports
@@ -21,6 +22,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 - 2024 Q2 Hyperledger Besu (due June 20, 2024)
 - 2024 Q2 Hyperledger Caliper (due June 20, 2024)
 - Please review any [outstanding quarterly reports](https://github.com/hyperledger/toc/pulls?q=is%3Apr+is%3Aopen+label%3Aquarterly-report+user-review-requested%3A%40me).
+- Hyperledger Labs Q2 Report
 
 # Upcoming reports
 - 2024 Q3 Hyperledger Cacti (due July 11, 2024)
@@ -42,7 +44,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 - [ ] Marcus Brandenburger
 - [ ] Stephen Curran
-- [ ] David Enyeart
+- [ ] ~~David Enyeart~~
 - [ ] ~~Tracy Kuhrt~~
 - [ ] Yacov Manevich
 - [ ] Matt Nelson
