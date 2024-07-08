@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2024 Q42 Hyperledger FireFly
+title: 2024 Q2 Hyperledger FireFly
 parent: 2024
 grand_parent: Project Updates
 has_children: false
