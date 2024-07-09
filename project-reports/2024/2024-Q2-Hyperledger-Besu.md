@@ -43,6 +43,6 @@ No new maintainers were added this quarter, but several contributors remained ac
 
 # Contributor Diversity
 
-Many new contributors added PRs this quarter. Some were around private net features, like a fixed bass fee. Others were fixes to bugs, and some were cleanup, typo fixing (likely airdrop farming). Regardless, contribution activity is healthy. We are looking to keep some of these folks engaged. 
+Many new contributors added PRs this quarter. Some were around private net features, like a fixed base fee. Others were fixes to bugs, and some were cleanup, typo fixing (likely airdrop farming). Regardless, contribution activity is healthy. We are looking to keep some of these folks engaged. 
 
 # Additional Information
