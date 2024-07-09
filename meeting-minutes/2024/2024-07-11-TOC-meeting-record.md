@@ -31,6 +31,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 # Discussion
 - Hyperledger Labs Q2 Report
 - Preparation for LF Decentralized Trust
+    - Project charters
     - [Governing Documents](https://toc.hyperledger.org/governing-documents/) - Volunteers to review and see which need to be changed
     - [Guidelines](https://toc.hyperledger.org/guidelines/) - Determine which, if any, should be considered governing documents instead of guidelines
 
