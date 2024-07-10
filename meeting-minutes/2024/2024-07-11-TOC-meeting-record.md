@@ -24,7 +24,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 # Upcoming reports
 - 2024 Q3 Hyperledger Cacti (due July 11, 2024)
 - 2024 Q3 Hyperledger Fabric (due July 11, 2024)
-- 2024 Q3 Hyperledger Identus (due July 11, 2024)
+- [2024 Q3 Hyperledger Identus](https://github.com/hyperledger/toc/pull/271) (due July 11, 2024)
 - 2024 Q3 Hyperledger Web3j (due July 11, 2024)
 - [2024 TOC Project Update Calendar](../../project-reports/2024/2024-updates.md)
 
