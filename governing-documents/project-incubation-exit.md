@@ -2,7 +2,7 @@
 layout: default
 title: Project Incubation Exit Criteria
 parent: Governing Documents
-grand_parent: Hyperledger TOC
+grand_parent: LF Decentralized Trust TAC
 nav_order: 6
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)

@@ -2,7 +2,7 @@
 layout: default
 title: GitHub Contribution Guide
 parent: Guidelines
-grand_parent: Hyperledger TOC
+grand_parent: LF Decentralized Trust TAC
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 

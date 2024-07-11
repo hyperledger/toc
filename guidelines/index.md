@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Guidelines
-parent: Hyperledger TOC
+parent: LF Decentralized Trust TAC
 has_children: true
 has_toc: true
 nav_order: 2

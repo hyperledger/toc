@@ -2,7 +2,7 @@
 layout: default
 title: Task Force
 parent: Guidelines
-grand_parent: Hyperledger TOC
+grand_parent: LF Decentralized Trust TAC
 nav_order: 6
 ---
 # Task Force

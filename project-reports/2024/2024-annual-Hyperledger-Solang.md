@@ -2,7 +2,7 @@
 layout: default
 title: Hyperledger Solang
 parent: 2024
-grand_parent: Hyperledger TOC
+grand_parent: LF Decentralized Trust TAC
 ---
 
 # Project Health

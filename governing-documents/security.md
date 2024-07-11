@@ -2,7 +2,7 @@
 layout: default
 title:  Security Policy
 parent: Governing Documents
-grand_parent: Hyperledger TOC
+grand_parent: LF Decentralized Trust TAC
 nav_order: 10
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
@@ -237,7 +237,7 @@ team and should request to join the embargo list by contacting one or more of
 the members of the security response team. If there is an issue about embargo
 list membership where an entity feels like they are being dealt with unfairly
 by the security response team, then they are encouraged to bring up the issue
-in front of the Hyperledger TOC, who can act as moderators.
+in front of the LF Decentralized Trust TAC, who can act as moderators.
 
 Hyperledger projects maintain private embargo lists. If you wish to be added to
 the embargo list for a project, please email the [Hyperledger Foundation

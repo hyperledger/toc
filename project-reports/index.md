@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Project Updates
-parent: Hyperledger TOC
+parent: LF Decentralized Trust TAC
 has_children: true
 child_nav_order: reversed
 has_toc: true

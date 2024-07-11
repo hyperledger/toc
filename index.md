@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hyperledger TOC
+title: LF Decentralized Trust TAC
 nav_order: 1
 has_children: true
 has_toc: true

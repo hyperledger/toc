@@ -2,7 +2,7 @@
 layout: default
 title: Hyperledger Labs GitHub Org Dashboard
 parent: Dashboards
-grand_parent: Hyperledger TOC
+grand_parent: LF Decentralized Trust TAC
 nav_order: 2
 ---
 

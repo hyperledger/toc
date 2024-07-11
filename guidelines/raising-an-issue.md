@@ -2,7 +2,7 @@
 layout: default
 title: Raising an Issue
 parent: Guidelines
-grand_parent: Hyperledger TOC
+grand_parent: LF Decentralized Trust TAC
 nav_order: 5
 ---
 # Raising an Issue with the Technical Oversight Committee (TOC)

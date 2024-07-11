@@ -2,7 +2,7 @@
 layout: default
 title: Common Repository Structure
 parent: Guidelines
-grand_parent: Hyperledger TOC
+grand_parent: LF Decentralized Trust TAC
 nav_order: 1
 ---
 # Common Repository Structure

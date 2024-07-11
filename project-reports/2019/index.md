@@ -2,7 +2,7 @@
 layout: default
 title: 2019
 parent: Project Updates
-grand_parent: Hyperledger TOC
+grand_parent: LF Decentralized Trust TAC
 has_children: true
 has_toc: true
 child_nav_order: reversed

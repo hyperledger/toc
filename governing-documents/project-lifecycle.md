@@ -2,7 +2,7 @@
 layout: default
 title: Project Lifecycle
 parent: Governing Documents
-grand_parent: Hyperledger TOC
+grand_parent: LF Decentralized Trust TAC
 nav_order: 4
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
