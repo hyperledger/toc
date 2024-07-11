@@ -2,7 +2,7 @@
 layout: default
 title: TOC members
 parent: Member Info
-grand_parent: Hyperledger TOC
+grand_parent: LF Decentralized Trust TAC
 nav_order: 1
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)

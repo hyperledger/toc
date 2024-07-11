@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Hyperledger TOC
+parent: LF Decentralized Trust TAC
 nav_exclude: true
 ---
 ## Maintainers

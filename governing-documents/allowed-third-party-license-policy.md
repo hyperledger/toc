@@ -2,7 +2,7 @@
 layout: default
 title: Hyperledger Foundation Allowed Third Party Licenses
 parent: Governing Documents
-grand_parent: Hyperledger TOC
+grand_parent: LF Decentralized Trust TAC
 nav_order: 3
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)

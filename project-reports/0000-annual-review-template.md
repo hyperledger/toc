@@ -2,7 +2,7 @@
 layout: default
 title: Project Name
 parent: Project Updates
-grand_parent: Hyperledger TOC
+grand_parent: LF Decentralized Trust TAC
 nav_exclude: true
 ---
 

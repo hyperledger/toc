@@ -2,7 +2,7 @@
 layout: default
 title: Project Incubation Entry Considerations
 parent: Guidelines
-grand_parent: Hyperledger TOC
+grand_parent: LF Decentralized Trust TAC
 nav_order: 3
 ---
 # Project Incubation Entry Considerations
