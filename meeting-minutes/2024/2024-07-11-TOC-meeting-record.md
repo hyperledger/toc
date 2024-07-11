@@ -30,9 +30,25 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Discussion
 - Preparation for LF Decentralized Trust
-    - Project charters
+    - Project charters (reviewed the [Hyperledger Cacti example](https://docs.google.com/document/d/18zvrwNGDXyh9ewKPSoCMZUfbGhSQ0XRfpI80N6SZ9gM/edit)
     - [Governing Documents](https://toc.hyperledger.org/governing-documents/) - Volunteers to review and see which need to be changed
+        - Hyperledger Foundation Allowed Third Party Licenses - Jim
+        - Project Lifecycle - Jim
+        - Project Annual Review - Stephen
+        - Project Incubation Exit Criteria - Tracy
+        - Project Updates - Marcus
+        - Maintainer and Repository Inactivity - Arun
+        - Release Taxonomy - Peter
+        - Security Policy - Tracy
+
     - [Guidelines](https://toc.hyperledger.org/guidelines/) - Determine which, if any, should be considered governing documents instead of guidelines
+        - Common Repository Structure - Move to Governance - Rama
+        - MAINTAINERS Guidelines - Move to Governance - Rama
+        - Project Incubation Entry Considerations - Leave as Guideline - Yacov
+        - Project Best Practices - Leave as Guideline - Dave
+        - Raising an Issue - Move to higher level - Tracy
+        - Task Force - Move to Governance - Conor
+        - GitHub Contribution Guide - Leave as Guideline - Dave
 
 # Recordings
 - [Recordings are available on the Hyperledger calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/hyp)
@@ -42,14 +58,14 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Attended by
 
-- [ ] Marcus Brandenburger
-- [ ] Stephen Curran
+- [x] Marcus Brandenburger
+- [x] Stephen Curran
 - [ ] ~~David Enyeart~~
-- [ ] Tracy Kuhrt
+- [x] Tracy Kuhrt
 - [ ] ~~Yacov Manevich~~
-- [ ] Matt Nelson
+- [ ] ~~Matt Nelson~~
 - [ ] ~~Venkatraman Ramakrishna~~
-- [ ] Arun S M
-- [ ] Peter Somogyvari
+- [x] Arun S M
+- [x] Peter Somogyvari
 - [ ] ~~Conor Svensson~~
-- [ ] Jim Zhang
+- [x] Jim Zhang
