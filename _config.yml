@@ -7,13 +7,13 @@ ga_tracking: GTM-T6J7RQ
 ga_tracking_anonymize_ip: true
 remote_theme: pmarsceill/just-the-docs
 logo: "hyperledger-logo.png"
-url: "https://toc.hyperledger.org"
-footer_content: "<a href=\"https://github.com/hyperledger/toc\">Page generated from TOC repo on GitHub</a>"
+url: "https://tac.lfdecentralizedtrust.org"
+footer_content: "<a href=\"https://github.com/lf-decentralized-trust/tac\">Page generated from TAC repo on GitHub</a>"
 aux_links:
   "About":
-    - "//www.hyperledger.org/about/leadership#tsc"
+    - "//www.lfdecentralizedtrust.org/about/leadership#tsc"
   "GitHub":
-    - "//github.com/hyperledger/toc"
+    - "//github.com/lf-decentralized-trust/tac"
   "Wiki":
     - "//wiki.hyperledger.org/display/TSC/Technical+Oversight+Committee+Home"
   "Chat":
