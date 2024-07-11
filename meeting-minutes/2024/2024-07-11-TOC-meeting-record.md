@@ -29,7 +29,6 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 - [2024 TOC Project Update Calendar](../../project-reports/2024/2024-updates.md)
 
 # Discussion
-- Hyperledger Labs Q2 Report
 - Preparation for LF Decentralized Trust
     - Project charters
     - [Governing Documents](https://toc.hyperledger.org/governing-documents/) - Volunteers to review and see which need to be changed
@@ -52,5 +51,5 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 - [ ] ~~Venkatraman Ramakrishna~~
 - [ ] Arun S M
 - [ ] Peter Somogyvari
-- [ ] Conor Svensson
+- [ ] ~~Conor Svensson~~
 - [ ] Jim Zhang
