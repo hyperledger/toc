@@ -26,7 +26,7 @@ c. Drive broad adoption of the technology by building a substantial and diverse 
 
 d. Advocate for the use and adoption of enterprise multiparty systems technologies through marketing, education and outreach; and work with other aligned organizations to accelerate implementation and public acceptance.
 
-The scope of the Hyperledger Foundation includes supporting various open technical projects (including open source software, open standards / specifications, open data and other open projects, collectively, "Technical Projects". Technical Projects can either be overseen by (i) the Technical Oversight Committee of the Hyperledger Foundation (such Technical Projects, "TAC Projects", or (ii) separate technical oversight pursuant to a technical charter specific to such Technical Project (such Technical Projects, "Supported Projects".
+The scope of the Hyperledger Foundation includes supporting various open technical projects (including open source software, open standards / specifications, open data and other open projects, collectively, "Technical Projects". Technical Projects can either be overseen by (i) the Technical Oversight Committee of the Hyperledger Foundation (such Technical Projects, "TOC Projects", or (ii) separate technical oversight pursuant to a technical charter specific to such Technical Project (such Technical Projects, "Supported Projects".
 
 ### 2. Membership.
 
@@ -34,7 +34,7 @@ a. The Hyperledger Foundation shall be composed of Premier, General, and Associa
 
 b. The Associate Member category of membership is limited to non-profits, open source projects, and government entities, and requires approval by the Governing Board of the Hyperledger Foundation ("Governing Board", or, if the Governing Board sets criteria for joining as an Associate Member, the meeting of such criteria. If the Associate Member is a membership organization, Associate Membership in the Hyperledger Foundation does not confer any benefits or rights to the members of the Associate Member.
 
-c. Premier Members shall be entitled to appoint a representative to the Governing Board, the Marketing Committee and any other committees established by the Governing Board, excluding, for avoidance of doubt, appointment of a representative to the TAC; election to the TAC is as set forth in Section 4 below.
+c. Premier Members shall be entitled to appoint a representative to the Governing Board, the Marketing Committee and any other committees established by the Governing Board, excluding, for avoidance of doubt, appointment of a representative to the TOC; election to the TOC is as set forth in Section 4 below.
 
 d. General Members shall be entitled to annually elect one representative to the Governing Board for every ten (10) General Members, up to a maximum of two (2) representatives, provided that there shall always be at least one (1) General Member representative, even if there are less than ten (10) General Members. The election process shall be determined by the Governing Board.
 
@@ -54,7 +54,7 @@ i. Up to twenty-one (21) Premier Members with one representative appointed by ea
 
 ii. elected General Member representative(s) per Section 2.d.;
 
-iii. the Chair elected by the TAC, as defined in Section 4 below.
+iii. the Chair elected by the TOC, as defined in Section 4 below.
 
 b. Conduct of Meetings
 
@@ -74,34 +74,34 @@ iii. overseeing all Foundation business and marketing matters;
 
 iv. adopt and maintain policies or rules and procedures for the Hyperledger Foundation (subject to LF approval) including but not limited to (a) a Code of Conduct, (b) a trademark policy, (c) any compliance or certification policies, and (d) policies, procedures, requirements and recommendations to further the diversity of participants in the Hyperledger Foundation, its committees and sub-projects;
 
-v. working with the TAC on defining and administering any programs for certification, including any Foundation certification or processes for the Hyperledger Foundation;
+v. working with the TOC on defining and administering any programs for certification, including any Foundation certification or processes for the Hyperledger Foundation;
 
 vi. approving procedures for the nomination and election of (1) General Member representatives to the Governing Board, and (2) any officer or other positions created by the Governing Board.
 
 vii. voting on all decisions or matters coming before the Governing
 Board. 
 
-### 4. Technical Oversight Committee ("TAC")
+### 4. Technical Oversight Committee ("TOC")
 
 a. **Composition**
 
-i. Composition. The TAC voting members shall consist of eleven (11) individuals who are active within the scope of the Hyperledger Foundation and who have nominated themselves for the TAC and have been elected or appointed pursuant to Section 4.a.ii. or Section 4.a.iii. (such individuals for a particular election, the "TAC Nominees".
+i. Composition. The TOC voting members shall consist of eleven (11) individuals who are active within the scope of the Hyperledger Foundation and who have nominated themselves for the TOC and have been elected or appointed pursuant to Section 4.a.ii. or Section 4.a.iii. (such individuals for a particular election, the "TOC Nominees".
 
-ii. Elections. Elections will be administered and overseen by the TAC.  All maintainers (or similar technical role in the case of Supported Projects that have different technical roles than TAC Projects) of any Technical Project who have been active in the past year will elect six (6) individuals from among the TAC Nominees to serve as TAC voting members.
+ii. Elections. Elections will be administered and overseen by the TOC.  All maintainers (or similar technical role in the case of Supported Projects that have different technical roles than TOC Projects) of any Technical Project who have been active in the past year will elect six (6) individuals from among the TOC Nominees to serve as TOC voting members.
 
-iii. Appointments. For the purposes of ensuring appropriate diversity on the TAC and that the TAC has all of the relevant expertise concerning the scope of the Hyperledger Foundation's technical activities, the Governing Board annually will appoint the remaining five (5) voting members of the TAC from among the TAC Nominees.
+iii. Appointments. For the purposes of ensuring appropriate diversity on the TOC and that the TOC has all of the relevant expertise concerning the scope of the Hyperledger Foundation's technical activities, the Governing Board annually will appoint the remaining five (5) voting members of the TOC from among the TOC Nominees.
 
 iv. As used in Sections 4.a.i. and 4.a.ii., "active"means having made at least one contribution accepted to any Technical Project during the prior 12 months.
 
-v. At any time the TAC may vote to approve an alternate composition of the TAC, with the approval of the Governing Board.
+v. At any time the TOC may vote to approve an alternate composition of the TOC, with the approval of the Governing Board.
 
-b. TAC Projects overseen by the TAC involve Maintainers and Contributors:
+b. TOC Projects overseen by the TOC involve Maintainers and Contributors:
 
 i. Contributors: anyone in the technical community that contributes code, documentation, or other technical artifacts to a Hyperledger source code repository, wiki, or other official asset repository.
 
-ii. Maintainers: Contributors who have the ability to approve pull requests or commit code and contributions directly to a TAC Project's source code repository. A Contributor may become a Maintainer by a majority approval of the existing Maintainers.
+ii. Maintainers: Contributors who have the ability to approve pull requests or commit code and contributions directly to a TOC Project's source code repository. A Contributor may become a Maintainer by a majority approval of the existing Maintainers.
 
-c. Participation in the Hyperledger Foundation and any Technical Project through becoming a Contributor and/or Maintainer (or other technical role) is open to anyone. The TAC may:
+c. Participation in the Hyperledger Foundation and any Technical Project through becoming a Contributor and/or Maintainer (or other technical role) is open to anyone. The TOC may:
 
 i. establish work flows and procedures for the submission, approval and closure or archiving of Technical Projects,
 
@@ -109,15 +109,15 @@ ii. establish criteria and processes for the promotion of Contributors to Mainta
 
 iii. amend, adjust, and refine the roles of Contributors and Maintainers listed in Section 4.b., create new roles and publicly document responsibilities and expectations for such roles, as it sees fit.
 
-d. The TAC shall elect a TAC Chair, who will also serve as a voting member of the Governing Board, and is expected to act as a liaison between the Governing Board and technical leadership of the Hyperledger Foundation.
+d. The TOC shall elect a TOC Chair, who will also serve as a voting member of the Governing Board, and is expected to act as a liaison between the Governing Board and technical leadership of the Hyperledger Foundation.
 
 e. **Responsibilities**:
 
-The TAC is responsible for:
+The TOC is responsible for:
 
 i. coordinating the technical direction of the Hyperledger Foundation;
 
-ii. approving project proposals (including, but not limited to, incubation, deprecation and changes to a project's charter or scope) in accordance with a project lifecycle document to be developed, approved and maintained by the TAC;
+ii. approving project proposals (including, but not limited to, incubation, deprecation and changes to a project's charter or scope) in accordance with a project lifecycle document to be developed, approved and maintained by the TOC;
 
 iii. creating sub-committees or working groups to focus on cross-project technical issues or opportunities;
 
@@ -127,7 +127,7 @@ v. appointing representatives to work with other open source or standards commun
 
 vi. approving election processes and overseeing the administration of elections;
 
-vii. approving technical projects to be accepted as TAC Projects or Supported Projects;
+vii. approving technical projects to be accepted as TOC Projects or Supported Projects;
 viii. establishing community norms, workflows, or policies for releases;
 
 ix. discussing, seeking consensus, and where necessary, voting on technical matters relating to the code base that affect multiple projects; and
@@ -144,7 +144,7 @@ i. one appointed voting representative from each Premier Member;
 
 ii. non-voting representative(s), appointed by members of any other class of membership; and
 
-iii. one or more non-voting Maintainers appointed by the TAC.
+iii. one or more non-voting Maintainers appointed by the TOC.
 
 b. **Responsibilities**:
 
@@ -152,13 +152,13 @@ The Marketing Committee shall be responsible for designing, developing and execu
 
 ### 6. Voting
 
-a. While it is the goal of the Hyperledger Foundation to operate as a consensus based community, if any decision requires a vote to move forward, the representatives of the Governing Board, TAC, or Marketing Committee, as applicable, shall vote on a one vote per voting representative basis.
+a. While it is the goal of the Hyperledger Foundation to operate as a consensus based community, if any decision requires a vote to move forward, the representatives of the Governing Board, TOC, or Marketing Committee, as applicable, shall vote on a one vote per voting representative basis.
 
-b. Quorum for Governing Board, TAC, or Marketing Committee meetings shall require two-thirds of the voting representatives. The Governing Board, TAC, or Marketing Committee may continue to meet if quorum is not met, but shall be prevented from making any decisions at the meeting.  Any Governing Board representative who fails to attend two consecutive Governing Board meetings will not be counted for purposes of determining quorum requirements as of the third consecutive meeting and until they next attend a Governing Board meeting.
+b. Quorum for Governing Board, TOC, or Marketing Committee meetings shall require two-thirds of the voting representatives. The Governing Board, TOC, or Marketing Committee may continue to meet if quorum is not met, but shall be prevented from making any decisions at the meeting.  Any Governing Board representative who fails to attend two consecutive Governing Board meetings will not be counted for purposes of determining quorum requirements as of the third consecutive meeting and until they next attend a Governing Board meeting.
 
 c. Except as provided in Section 12.d. and 13.a., decisions by vote at a meeting shall require a majority vote, provided quorum is met. Except as provided in Section 12.d. and 13.a., decisions by electronic vote without a meeting shall require a majority of all voting representatives.
 
-d. In the event of a tie vote with respect to an action that cannot be resolved by the Governing Board, the chair shall be entitled to refer the matter to the LF for assistance in reaching a decision. For all decisions in the TAC, Marketing Committee or other committee created by the Governing Board, if there is a tie vote, the matter shall be referred to the Governing Board.
+d. In the event of a tie vote with respect to an action that cannot be resolved by the Governing Board, the chair shall be entitled to refer the matter to the LF for assistance in reaching a decision. For all decisions in the TOC, Marketing Committee or other committee created by the Governing Board, if there is a tie vote, the matter shall be referred to the Governing Board.
 
 e. All resolutions proposed for adoption by the Governing Board at a meeting, excluding resolutions to adopt minutes, shall be circulated in draft form to the members of the Governing Board at least two business days prior to the date of the meeting, and the text of such draft votes may be altered at such meeting.
 
@@ -206,9 +206,9 @@ f. operate under such rules and procedures as may from time to time be approved 
 
 ### 12. Intellectual Property Policy.
 
-This Section 12 sets forth the intellectual property policy for TAC Projects and does not apply to Supported Projects. The intellectual property policy of any Supported Project is as set forth in the applicable technical charter for such Supported Project.
+This Section 12 sets forth the intellectual property policy for TOC Projects and does not apply to Supported Projects. The intellectual property policy of any Supported Project is as set forth in the applicable technical charter for such Supported Project.
 
-a. Members agree that all new inbound code contributions to the Hyperledger Foundation and TAC Projects shall be made under the Apache License, Version 2.0 (available at [http://www.apache.org/licenses/LICENSE-2.0]()). All contributions shall be accompanied by a Developer Certificate of Origin sign-off ([http://developercertificate.org]()) that is submitted through a Governing Board and LF-approved contribution process. Such contribution process will include steps to also bind non-Member Contributors and, if not self-employed, their employer, to the licenses expressly granted in the Apache License, Version 2.0 with respect to such contribution.
+a. Members agree that all new inbound code contributions to the Hyperledger Foundation and TOC Projects shall be made under the Apache License, Version 2.0 (available at [http://www.apache.org/licenses/LICENSE-2.0]()). All contributions shall be accompanied by a Developer Certificate of Origin sign-off ([http://developercertificate.org]()) that is submitted through a Governing Board and LF-approved contribution process. Such contribution process will include steps to also bind non-Member Contributors and, if not self-employed, their employer, to the licenses expressly granted in the Apache License, Version 2.0 with respect to such contribution.
 
 b. All outbound code will be made available under the Apache License, Version 2.0.
 
