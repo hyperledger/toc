@@ -46,7 +46,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 - [ ] Stephen Curran
 - [ ] ~~David Enyeart~~
 - [ ] Tracy Kuhrt
-- [ ] Yacov Manevich
+- [ ] ~~Yacov Manevich~~
 - [ ] Matt Nelson
 - [ ] ~~Venkatraman Ramakrishna~~
 - [ ] Arun S M
