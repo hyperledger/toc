@@ -16,7 +16,7 @@ The project is fairly new to the Hyperledger Ecosystem however we continue to ha
 
 # Questions/Issues for the TOC
 
-Is there a way to access funds for open source contirbutions and development? 
+Is there a way to access funds for open source contributions and development? 
 
 
 # Releases
