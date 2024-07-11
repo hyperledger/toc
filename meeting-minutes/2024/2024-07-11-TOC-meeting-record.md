@@ -30,7 +30,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Discussion
 - Preparation for LF Decentralized Trust
-    - Project charters (reviewed the [Hyperledger Cacti example](https://docs.google.com/document/d/18zvrwNGDXyh9ewKPSoCMZUfbGhSQ0XRfpI80N6SZ9gM/edit)
+    - Project charters (reviewed the [Hyperledger Cacti example](https://docs.google.com/document/d/18zvrwNGDXyh9ewKPSoCMZUfbGhSQ0XRfpI80N6SZ9gM/edit))
     - [Governing Documents](https://toc.hyperledger.org/governing-documents/) - Volunteers to review and see which need to be changed
         - Hyperledger Foundation Allowed Third Party Licenses - Jim
         - Project Lifecycle - Jim
