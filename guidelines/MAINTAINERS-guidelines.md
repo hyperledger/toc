@@ -115,4 +115,4 @@ The `MAINTAINERS.md` file **SHOULD** contain information about how a maintainer 
 * How a removal is proposed. Typically, this is similar to the way in which maintainers are added, such as via a PR against the `MAINTAINERS.md` file.
 
 # References
-* [TOC Decision Log - Common Maintainers Management Policy](https://wiki.hyperledger.org/display/TSC/Common+Maintainers+management+policy)
+* [TAC Decision Log - Common Maintainers Management Policy](https://wiki.hyperledger.org/display/TSC/Common+Maintainers+management+policy)

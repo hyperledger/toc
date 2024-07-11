@@ -5,7 +5,7 @@ nav_exclude: true
 ---
 ## Maintainers
 
-The current TOC are also maintainers of this repo.
+The current TAC are also maintainers of this repo.
 
 ### Active Maintainers
 | name     | Github    | 

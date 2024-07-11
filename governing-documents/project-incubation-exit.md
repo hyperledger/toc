@@ -33,10 +33,10 @@ goals to be met to exit *Incubation*. These are expected to be documented
 in a [Proposal for a Hyperledger Improvement Project (HIP)](https://hyperledger.github.io/hyperledger-hip/)
 Because not all projects have the same goals, the importance of each
 criteria and the exact definition of this second set of criteria may
-vary from one project to another. Ultimately the TOC is responsible for
+vary from one project to another. Ultimately the TAC is responsible for
 determining whether a project deserves to move to *Graduated* or
 not and this decision does not need to be solely based on these exit
-criteria. The purpose of these exit criteria is to help the TOC in its
+criteria. The purpose of these exit criteria is to help the TAC in its
 decision process by informing its members of key aspects of the project.
 
 # Minimum requirements

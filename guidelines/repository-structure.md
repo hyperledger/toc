@@ -18,7 +18,7 @@ repository.
 
 -   [`LICENSE`](https://www.apache.org/licenses/LICENSE-2.0.txt) - https://www.apache.org/licenses/LICENSE-2.0.txt\
     (Unless an exception has been made by the Hyperledger Governing Board)
--   [`CODE_OF_CONDUCT.md`](https://toc.hyperledger.org/code-of-conduct.html) - https://toc.hyperledger.org/code-of-conduct.html
+-   [`CODE_OF_CONDUCT.md`](https://tac.lfdecentralizedtrust.org/code-of-conduct.html) - https://tac.lfdecentralizedtrust.org/code-of-conduct.html
 -   [`SECURITY.md`](https://wiki.hyperledger.org/display/SEC/Defect+Response) - https://wiki.hyperledger.org/display/SEC/Defect+Response
 
 ## Required Files with Variable Content

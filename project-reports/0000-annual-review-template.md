@@ -32,7 +32,7 @@ nav_exclude: true
 </mark>
 
 ## Help Required
-<mark>_How can the Hyperledger Foundation or the TOC help you achieve your upcoming goals?_
+<mark>_How can the Hyperledger Foundation or the TAC help you achieve your upcoming goals?_
 </mark>
 
 # Project Lifecycle Stage Recommendation

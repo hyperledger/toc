@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TOC members
+title: TAC members
 parent: Member Info
 grand_parent: LF Decentralized Trust TAC
 nav_order: 1

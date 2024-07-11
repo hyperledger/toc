@@ -121,7 +121,7 @@ The [Project Incubation Exit Criteria](../governing-documents/project-incubation
   - Static Application Security Testing (SAST) aka static analysis scans, e.g. CodeQL, Snyk
 * Pin dependencies and keep dependencies up to date,  e.g. using Dependabot, although be wary of auto-upgrades and lookout for malware.
 * Engage with Hyperledger staff on possibility of [security audits](https://wiki.hyperledger.org/display/SEC/Security+Code+Audits) for Graduated project major releases; address audit results and socialize
-* Review [OpenSSF secure developer guide](https://github.com/ossf/wg-best-practices-os-developers/blob/main/docs/Concise-Guide-for-Developing-More-Secure-Software.md) and OpenSSF overview presentation to TOC ([charts](https://wiki.hyperledger.org/download/attachments/80775801/OpenSSF%20Hyperledger%2020230119.pdf?version=1&modificationDate=1674218724000&api=v2), [replay](https://youtu.be/0AFFIDKFNvc))
+* Review [OpenSSF secure developer guide](https://github.com/ossf/wg-best-practices-os-developers/blob/main/docs/Concise-Guide-for-Developing-More-Secure-Software.md) and OpenSSF overview presentation to TAC ([charts](https://wiki.hyperledger.org/download/attachments/80775801/OpenSSF%20Hyperledger%2020230119.pdf?version=1&modificationDate=1674218724000&api=v2), [replay](https://youtu.be/0AFFIDKFNvc))
 * Review and obtain OpenSSF Best Practices Badge - see [criteria](https://bestpractices.coreinfrastructure.org/en/criteria/0)
 * Sign release artifacts (TBD) - see proposed [Security Artifact Signing task force](https://github.com/hyperledger/toc/issues/49)
 * Also see [2022 security task force](https://wiki.hyperledger.org/display/TF/Task+Force+Recommendations)
@@ -137,7 +137,7 @@ The [Project Incubation Exit Criteria](../governing-documents/project-incubation
 
 ## Releases
 
-* Follow an established [Release taxonomy](https://toc.hyperledger.org/governing-documents/release-taxonomy.html) - either SemVer or CalVer; use consistent pre-release tags (e.g. -preview, -alpha, -beta)
+* Follow an established [Release taxonomy](https://tac.lfdecentralizedtrust.org/governing-documents/release-taxonomy.html) - either SemVer or CalVer; use consistent pre-release tags (e.g. -preview, -alpha, -beta)
 * Document release strategy and release process including required approvals
 * Document branch strategy, e.g. one branch per major.minor release works well so that it can be maintained in isolation while delivering major.minor.patch releases
 * Document Long-term support (LTS) release strategy - [Fabric example](https://github.com/hyperledger/fabric-rfcs/blob/main/text/0005-lts-release-strategy.md)

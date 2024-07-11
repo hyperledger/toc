@@ -23,5 +23,5 @@ jobs:
       - name: GitHub Issue Schedule
         uses: hyperledger-tooling/github-issue-schedule@1.2
         env:
-          GITHUB_TOKEN: "${{ secrets.TOC_ISSUES }}"
+          GITHUB_TOKEN: "${{ secrets.TAC_ISSUES }}"
           CONFIG_FILE: ./.github/configs/quarterly-report-reminder.yaml
