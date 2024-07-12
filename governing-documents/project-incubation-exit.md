@@ -11,7 +11,7 @@ nav_order: 6
 
 ## Introduction
 
-Hyperledger has defined a [lifecycle](./project-lifecycle.md) for its
+LF Decentralized Trust has defined a [lifecycle](./project-lifecycle.md) for its
 projects but this definition does not specify in any detail what it
 takes for a project to be able to transition from the
 *Incubation* phase to the *Graduated* phase.
@@ -30,7 +30,7 @@ first one is made of requirements expected to be met by all projects
 before moving to *Graduated*. The second set lists examples of
 additional requirements typically defined at the onset of the project as
 goals to be met to exit *Incubation*. These are expected to be documented
-in a [Proposal for a Hyperledger Improvement Project (HIP)](https://hyperledger.github.io/hyperledger-hip/)
+in a [Project Proposal](https://lf-decentralized-trust.github.io/project-proposals/)
 Because not all projects have the same goals, the importance of each
 criteria and the exact definition of this second set of criteria may
 vary from one project to another. Ultimately the TAC is responsible for
@@ -75,16 +75,12 @@ decision process by informing its members of key aspects of the project.
 
         The project must document what requirements and use cases it addresses.
 
-    -   Architecture
-
-        The project must document how it fits within the [Hyperledger Architecture](https://wiki.hyperledger.org/display/AWG)
-
-    -   Compatibility with other Hyperledger projects
+    -   Compatibility with other LF Decentralized Trust projects
 
         Where applicable, the project should be compatible with other
         *Graduated* projects.
 
-    -   Release numbering: the project should use the Hyperledger
+    -   Release numbering: the project should use the LF Decentralized Trust
         standard [release taxonomy](./release-taxonomy.md), once that is agreed upon.
 
     -   Project must make a [release](./release-taxonomy.md), even a "developer preview",
@@ -106,17 +102,23 @@ decision process by informing its members of key aspects of the project.
 
     -   Address automated alerts, such as depend-a-bot, in a timely manner.
 
-    -   Participate in Hyperledger Foundation wide security discussions.
+    -   Participate in LF Decentralized Trust wide security discussions.
 
 -   OpenSSF Best Practices Badge
 
-    A team seeking to graduate from *Incubation* shall have started the
+    A project seeking to graduate from *Incubation* shall have started the
     OpenSSF Best Practices Badge application and be nearly complete with
     incomplete badge requirements referenced in their graduation proposal.
     That does not mean the project must have 100% of all criteria, just
     100% of the applicable criteria. This is to allow for projects such
     as test harnesses, that have "N/A" answers for questions that don\'t
     offer that as an option.
+
+-   OpenSSF Scorecard
+
+    A project seeking to graduate from *Incubation* shall have added the
+    OpenSSF Scorecard generation to its GitHub Actions. A project does not
+    need to score a perfect 10, but should be considered in the green overall.
 
 # Additional considerations
 
@@ -149,3 +151,8 @@ exit *Incubation*:
 # Acknowledgements
 
 The above borrows from the [ASF\'s Minimum Graduation Requirements](https://incubator.apache.org/incubation/Incubation_Policy.html#Graduating+from+the+Incubator).
+
+# FIXMEs
+There are a number of items that need to be resolved in our GitHub setup:
+1. Create the following repo [project-proposals](https://github.com/lf-decentralized-trust/project-proposals)
+2. Ensure that there is a GitHub Pages deployment of the above repo
