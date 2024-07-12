@@ -44,7 +44,7 @@ Intakes](#report-intakes).
 
 This document has the following sections:
 
-- [PROJECT Security Policy](#PROJECT-security-policy)
+- [PROJECT Security Policy](#project-an-lf-decentralized-trust-project-security-policy)
   - [Instructions](#instructions)
   - [About this document](#about-this-document)
   - [Outline](#outline)
