@@ -7,15 +7,15 @@ nav_order: 10
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
-This document outlines the Hyperledger security vulnerability disclosure policy
-that all Hyperledger projects **MUST** follow. The associated
+This document outlines the LF Decentralized Trust security vulnerability disclosure policy
+that all LF Decentralized Trust projects **MUST** follow. The associated
 [security-template.md] file is a "best practices" security vulnerability
 disclosure policy that project Maintainers **SHOULD** use for
 publishing the security policy and procedures for their project by copying the
 file into their project repositories and updating it according to the
 instructions in the document. This document includes the "best practices" text,
 and defines how project Maintainers can use alternatives to the best practices for their project. A project's resulting
-alternative policy **MUST** adhere to the Hyperledger security vulnerability
+alternative policy **MUST** adhere to the LF Decentralized Trust security vulnerability
 disclosure policy.
 
 [security-template.md]: /governing-documents/security-template.md
@@ -23,7 +23,7 @@ disclosure policy.
 All project repositories **MUST** have a published security vulnerability disclosure
 policy or have link to a common policy document for the project. In rare cases,
 a repository within a project **MAY** have a policy different from the project, as
-long as the repository policy also adheres to this Hyperledger security
+long as the repository policy also adheres to this LF Decentralized Trust security
 vulnerability disclosure policy.
 
 ## About This Document
@@ -47,9 +47,9 @@ This document has the following sections:
 8. [Private Patch Deployment Infrastructure](#private-patch-deployment-infrastructure)
 
 In each of these sections, and in the associated [security-template.md], the
-current Hyperledger "best practices" are defined. In some sections are
+current LF Decentralized Trust "best practices" are defined. In some sections are
 alternatives (tagged "**Alternative:**") that projects may want to use. When
-projects vary from the current Hyperledger best practices, the documented alternatives
+projects vary from the current LF Decentralized Trust best practices, the documented alternatives
 **MUST** adhere to this policy.
 
 ## What Is a Vulnerability Disclosure Policy?
@@ -61,14 +61,14 @@ vulnerability disclosure policy explains how this process functions from the
 perspective of the project.
 
 This vulnerability disclosure policy explains the rules and guidelines for
-Hyperledger Projects. It is intended to act as both a reference for
+LF Decentralized Trust projects. It is intended to act as both a reference for
 outsiders–including both bug reporters and those looking for information on the
 project’s security practices–as well as a set of rules that maintainers and
 contributors have agreed to follow.
 
 ## Vulnerability Disclosure Process and Associated Rules
 
-All Hyperledger projects, including this project, follow the associated process
+All LF Decentralized Trust projects, including this project, follow the associated process
 and rules for vulnerability disclosures. We note that this outline is derived
 from the [OpenSSF maintainers guide](https://github.com/ossf/oss-vulnerability-guide/blob/main/maintainer-guide.md).
 
@@ -116,7 +116,7 @@ more details).
 ## “People” Infrastructure
 
 This section details the required basic vulnerability disclosure infrastructure
-for all Hyperledger projects. There are quite a few necessary pieces of infrastructure,
+for all LF Decentralized Trust projects. There are quite a few necessary pieces of infrastructure,
 and we go through them in detail here.
 
 **Security team:** Projects **MUST** have a security response team of at
@@ -127,8 +127,8 @@ knowledge (e.g. in a particular area of cryptography) who is capable of
 fixing a problem in a short period of time.
 
 1. Each security team member will be a member of the
-[Hyperledger Foundation security email list](mailto:security@lists.hyperledger.org),
-and, in general, any Hyperledger-wide security infrastructure.
+[LF Decentralized Trust security email list](mailto:security@lists.lfdecentralizedtrust.org),
+and, in general, any LF Decentralized Trust-wide security infrastructure.
 
 2. If a project has specialized code related to certain aspects of security
 or cryptography (e.g. consensus algorithms or cryptographic algorithms), then
@@ -153,7 +153,7 @@ team members in the following format.
 
 Discussions about each reported vulnerability **SHOULD** be carried out in the
 private GitHub security advisory about the vulnerability. If necessary, a private
-channel specific to the issue **MAY** be created on the Hyperledger Discord server
+channel specific to the issue **MAY** be created on the LF Decentralized Trust Discord server
 with invited participants added to the discussion.
 
 **Alternative:** Projects **MAY** document on their security policy that they use other forums for private discussion forums for approved maintainers and
@@ -161,12 +161,12 @@ security team participants to discuss vulnerabilities. If other forum(s) are use
 
 ## Report Intakes
 
-Hyperledger projects offer the following ways to submit security
+LF Decentralized Trust projects offer the following ways to submit security
 vulnerabilities. While the security team members will do their best to
 respond to bugs disclosed in all possible ways, it is encouraged for bug
 finders to report through the following approved channels:
 
-- Email the [Hyperledger Foundation security
+- Email the [LF Decentralized Trust security
 list]: To report a security issue, please
 send an email with the name of the project/repository, a description of the issue, the
 steps you took to create the issue, affected versions, and if known,
@@ -178,7 +178,7 @@ on the "Security" tab of this GitHub repository. See [GitHub Security
 Advisories](#github-security-advisories) to learn more about the security
 infrastructure in GitHub.
 
-[Hyperledger Foundation security list]: mailto:security@lists.hyperledger.org
+[LF Decentralized Trust security list]: mailto:security@lists.lfdecentralizedtrust.org
 
 [GitHub security vulnerability report]: https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing/privately-reporting-a-security-vulnerability
 
@@ -187,14 +187,14 @@ security vulnerability disclosures via other mechanism, such as using the
 [HackerOne.com] service. The policy **MUST** document the necessary details in using
 the alternate reporting mechanism(s). In addition, a project **MAY** publish that
 they don't accept reports via the recommended GitHub security vulnerability
-process. Projects **MUST** accept reports via the [Hyperledger Foundation
+process. Projects **MUST** accept reports via the [LF Decentralized Trust
 security list].
 
 [HackerOne.com]: https://www.hackerone.com/
 
 ## CNA/CVE Reporting
 
-Hyperledger projects maintain a list of **Common Vulnerabilities and Exposures
+LF Decentralized Trust projects maintain a list of **Common Vulnerabilities and Exposures
 (CVE)** and use GitHub as its **CVE numbering authority (CNA)** for issuing
 CVEs.
 
@@ -211,7 +211,7 @@ This project uses the following CNA(s) in the following situations:
 ## Embargo List
 
 An embargo list is a list of known, trusted entities that run
-large deployments of a given Hyperledger project. These
+large deployments of a given LF Decentralized Trust project. These
 entities are notified ahead of time when important security patches are
 incoming to minimize potential security risks to large deployments of
 projects. Embargo lists are maintained by the security team for a given project/repository.
@@ -239,12 +239,12 @@ list membership where an entity feels like they are being dealt with unfairly
 by the security response team, then they are encouraged to bring up the issue
 in front of the LF Decentralized Trust TAC, who can act as moderators.
 
-Hyperledger projects maintain private embargo lists. If you wish to be added to
-the embargo list for a project, please email the [Hyperledger Foundation
+LF Decentralized Trust projects maintain private embargo lists. If you wish to be added to
+the embargo list for a project, please email the [LF Decentralized Trust
 security list], including the
 project name and reason for being added to the embargo list. Requests will be
-assessed by the respective Hyperledger security team in conjunction with the
-appropriate Hyperledger Staff, and a decision will be made to accommodate or not
+assessed by the respective LF Decentralized Trust security team in conjunction with the
+appropriate LF Decentralized Trust Staff, and a decision will be made to accommodate or not
 the request.
 
 **Alternative:** Projects **MAY** choose to document in their security document
@@ -253,7 +253,7 @@ that they do not have an embargo list. The reason for not having an embargo list
 
 ## (GitHub) Security Advisories
 
-Hyperledger Foundation projects use [GitHub
+LF Decentralized Trust projects use [GitHub
 security advisories and the GitHub security process](https://docs.github.com/en/code-security/security-advisories) for
 handling security vulnerabilities. In particular, this best practice is strongly recommended
 for projects that do not have a large number of security experts as the
@@ -267,15 +267,20 @@ to understand how to monitor the security advisories published by the project.
 
 ## Private Patch Deployment Infrastructure
 
-Patches to fix Hyperledger project security vulnerabilities are typically
+Patches to fix LF Decentralized Trust project security vulnerabilities are typically
 developed without public visibility by using the private development features of
 GitHub. Projects with maintainers that are not familiar with these capabilities
-are encouraged to contact the [Hyperledger Community Architects] to learn more.
+are encouraged to contact the [LF Decentralized Trust Community Architects] to learn more.
 
-[Hyperledger Community Architects]: community-architects@hyperledger.org
+[LF Decentralized Trust Community Architects]: community-architects@lfdecentralizedtrust.org
 
 **Alternative:** Projects **MAY** document in their security policy document
 that they do use a service other than GitHub for private patch deployment
 infrastructure, or that they don't use any private patch deployment
 infrastructure at all. In either case, the document **MUST** include the details
 of what is used instead.
+
+# FIXMEs
+The following items must be set up in order for this policy to work:
+1. security@lists.lfdecentralizedtrust.org email
+2. community-architects@lfdecentralizedtrust.org email
