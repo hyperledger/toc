@@ -20,8 +20,7 @@ Project updates are:
 - suggested as a point of reference by the Learning Materials Development WG to newcomers to determine if a project would be worth joining based on information like the contributor diversity, as well as, the type of feature work that is ongoing within the project
 
 ## Submitting Project Updates
-[//]: # (TODO Add lfdt github repo.)
-Project reports are to be submitted as a pull request to the [lfdecentralizedtrust/tac](https://github.com/lfdecentralizedtrust/tac) repository. For instructions on how to file see: [Filing a Project Update](https://tac.lfdecentralizedtrust.org/project-reports/#instructions-for-filing)
+Project reports are to be submitted as a pull request to the [LF-Decentralized-Trust/tac](https://github.com/LF-Decentralized-Trust/tac) repository. For instructions on how to file see: [Filing a Project Update](https://tac.lfdecentralizedtrust.org/project-reports/#instructions-for-filing)
 
 ## Merging
 Project reports will be merged after 14 days from submission unless (1) there is still ongoing discussion regarding the report or (2) a majority of the TAC has not approved the PR. If all TAC members have approved the PR before 14 days, then the PR will be merged.
