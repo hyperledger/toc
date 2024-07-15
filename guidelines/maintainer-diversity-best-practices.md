@@ -1,3 +1,10 @@
+---
+layout: default
+title: Maintainer Diversity Best Practices
+parent: Guidelines
+grand_parent: Hyperledger TOC
+nav_order: 2
+---
 # Maintainer Diversity Best Practices
 
 ## Welcoming Environment
