@@ -31,7 +31,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 # Discussion
 - CommunityOne Bot - Fay
 - Lab Q2 Quarterly Report - Alvaro
-- Task Force: Maintainer Diversity Best Practices
+- Task Force: Maintainer Diversity Best Practices (PR: https://github.com/hyperledger/toc/pull/272)
 
 # Recordings
 - [Recordings are available on the Hyperledger calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/hyp)
