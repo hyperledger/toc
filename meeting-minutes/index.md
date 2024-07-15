@@ -5,7 +5,7 @@ parent: LF Decentralized Trust TAC
 has_children: true
 child_nav_order: reversed
 has_toc: true
-nav_order: 4
+nav_order: 5
 ---
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
