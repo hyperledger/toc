@@ -14,7 +14,11 @@ Please, provide all relevant background information when raising an issue so tha
 
 If you are unsure about how to proceed or would like to raise an issue privately consider contacting one of the [LF Decentralized Trust Community Architects](https://wiki.hyperledger.org/display/CA/Community+Architects+Team) or one of the [TAC members](../members-info/tac-members.md). Community Architects can easily be contacted via email [community-architects@lfdecentralizedtrust.org](mailto:community-architects@lfdecentralizedtrust.org) or chat [#community-architects](https://discord.com/servers/hyperledger-foundation-905194001349627914).
 
-# FIXME
+# FIXMEs
 There are still two references to hypeledger that need to be resolved when infrastructure for LFDT is established.
 1. Community Architects Wiki page
 2. Discord channel
+
+In addition, the following needs to be set up:
+1. TAC mailing list
+2. GitHub repository for TAC
