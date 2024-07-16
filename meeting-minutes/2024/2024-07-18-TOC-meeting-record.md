@@ -29,7 +29,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 - [2024 TOC Project Update Calendar](../../project-reports/2024/2024-updates.md)
 
 # Discussion
-- CommunityOne Bot - Fay
+- CommunityOne Bot - Fay - Move to next week
 - Lab Q2 Quarterly Report - Alvaro
 - Task Force: Maintainer Diversity Best Practices (PR: https://github.com/hyperledger/toc/pull/272)
 
@@ -42,7 +42,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 # Attended by
 
 - [ ] Marcus Brandenburger
-- [ ] Stephen Curran
+- [ ] ~~Stephen Curran~~
 - [ ] ~~David Enyeart~~
 - [ ] Tracy Kuhrt
 - [ ] Yacov Manevich
