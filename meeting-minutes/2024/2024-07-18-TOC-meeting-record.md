@@ -15,12 +15,10 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 - The [Hyperledger /dev/weekly developer newsletter](https://wiki.hyperledger.org/pages/viewpage.action?pageId=39618905) goes out each Friday to hundreds of Hyperledger developers. It is a collaborative effort. If you have a project release, pull request, community event, and/or relevant article you would like highlighted next week, please [leave a comment for consideration on the upcoming newsletter wiki page](https://wiki.hyperledger.org/display/DR/2024)
 
 # Quarterly reports
+- [2024 Q2 Hyperledger Caliper](https://github.com/hyperledger/toc/pull/274) (due June 20, 2024)
 - [2024 Q2 Hyperledger Besu](https://github.com/hyperledger/toc/pull/267)
 - [2024 Q3 Hyperledger Identus](https://github.com/hyperledger/toc/pull/271)
 - Please review any [outstanding quarterly reports](https://github.com/hyperledger/toc/pulls?q=is%3Apr+is%3Aopen+label%3Aquarterly-report+user-review-requested%3A%40me).
-
-# Past due reports
-- 2024 Q2 Hyperledger Caliper (due June 20, 2024)
 
 # Upcoming reports
 - 2024 Q3 Hyperledger Cacti (due July 11, 2024)
