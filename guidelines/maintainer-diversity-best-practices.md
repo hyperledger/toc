@@ -7,6 +7,8 @@ nav_order: 2
 ---
 # Maintainer Diversity Best Practices
 
+The following is a set of items that can help in increasing maintainer diversity for projects. If there are any questions on how to implement these practices, please reach out to the community architects or the TOC. Also, if you have additional items that have helped your project increase your maintainer diversity, please feel free to file a PR to add those items.
+
 ## Welcoming Environment
 
 - See [video on creating a welcoming community](https://www.youtube.com/watch?v=lHOINFlb9JA)
