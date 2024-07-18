@@ -34,7 +34,7 @@ The following is a set of items that can help in increasing maintainer diversity
 ## Improving Processes
 
 - Have all meetings in the open (including standups)
-    - Consider rotating meeting times to accomodate different time zones.
+    - Consider rotating meeting times to accommodate different time zones.
 - Document Everything
     - Decision Making Process
     - Decisions
