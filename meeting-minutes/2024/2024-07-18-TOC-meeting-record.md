@@ -49,4 +49,4 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 - [ ] Arun S M
 - [ ] Peter Somogyvari
 - [ ] Conor Svensson
-- [ ] Jim Zhang
+- [ ] ~~Jim Zhang~~
