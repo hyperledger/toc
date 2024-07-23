@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2024 Q2 Hyperledger Identus
+title: 2024 Q3 Hyperledger Identus
 parent: 2024
 grand_parent: Project Updates
 nav_exclude: true
