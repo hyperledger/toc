@@ -35,10 +35,10 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 - Task force: OpenSSF Scorecard
 
 # Recordings
-- [Recordings are available on the Hyperledger calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/hyp)
+- [Recordings are available on the Hyperledger calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/lf-decentralized-trust)
 
 # Upcoming TOC meetings
-[Please check the calendar](https://lists.hyperledger.org/g/toc/calendar)
+[Please check the calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/lf-decentralized-trust)
 
 # Attended by
 

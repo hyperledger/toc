@@ -33,7 +33,7 @@ Details: [https://docs.google.com/document/d/1Gkd-V17tAYQFI4ymtIGUjfQxBlgOYVj0WB
 	* Approved by a role call vote; eight aye, three not present.
 
 # Recordings
-* [Recordings are available on the Hyperledger calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/hyp)
+* [Recordings are available on the Hyperledger calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/lf-decentralized-trust)
 
 # Upcoming TOC meetings
 [Please check the calendar](https://lists.hyperledger.org/g/toc/calendar)

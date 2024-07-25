@@ -32,7 +32,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 - Preview of upcoming changes - Hart
 
 # Recordings
-- [Recordings are available on the Hyperledger calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/hyp)
+- [Recordings are available on the Hyperledger calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/lf-decentralized-trust)
 
 # Upcoming TOC meetings
 - Task force discussion: Security Artifact Signing (next week)

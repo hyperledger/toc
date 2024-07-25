@@ -32,7 +32,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 - Task Force: Maintainer Diversity Best Practices (PR: https://github.com/hyperledger/toc/pull/272)
 
 # Recordings
-- [Recordings are available on the Hyperledger calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/hyp)
+- [Recordings are available on the Hyperledger calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/lf-decentralized-trust)
 
 # Upcoming TOC meetings
 [Please check the calendar](https://lists.hyperledger.org/g/toc/calendar)
