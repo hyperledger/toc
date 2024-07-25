@@ -19,10 +19,8 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 - [2024 Q3 Hyperledger Identus](https://github.com/hyperledger/toc/pull/271)
 - [2024 Q3 Hyperledger Web3j](https://github.com/hyperledger/toc/pull/275)
 - [2024 Q3 Hyperledger Cacti](https://github.com/hyperledger/toc/pull/277)
+- [2024 Q3 Hyperledger Fabric](https://github.com/hyperledger/toc/pull/278)
 - Please review any [outstanding quarterly reports](https://github.com/hyperledger/toc/pulls?q=is%3Apr+is%3Aopen+label%3Aquarterly-report+user-review-requested%3A%40me).
-
-# Past due reports
-- 2024 Q3 Hyperledger Fabric (due July 11, 2024)
 
 # Upcoming reports
 - 2024 Q3 Hyperledger Aries (due August 1, 2024)
