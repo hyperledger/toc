@@ -30,7 +30,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 - [2024 TOC Project Update Calendar](../../project-reports/2024/2024-updates.md)
 
 # Discussion
-- CommunityOne Bot - Fay
+- [CommunityOne Bot](https://communityone.io/) - Fay
 - [Infrastructure changes for LF Decentralized Trust](https://docs.google.com/document/d/1E3cYIGIckXyI2h74Ee7_DCxi48PQmJ38rCnbnSZ9Clg/edit)
 - Task force: OpenSSF Scorecard
 
@@ -42,14 +42,14 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Attended by
 
-- [ ] Marcus Brandenburger
-- [ ] Stephen Curran
-- [ ] David Enyeart
-- [ ] Tracy Kuhrt
-- [ ] Yacov Manevich
-- [ ] Matt Nelson
-- [ ] Venkatraman Ramakrishna
-- [ ] Arun S M
-- [ ] Peter Somogyvari
-- [ ] Conor Svensson
-- [ ] Jim Zhang
+- [x] Marcus Brandenburger
+- [x] Stephen Curran
+- [x] David Enyeart
+- [x] Tracy Kuhrt
+- [x] Yacov Manevich
+- [ ] ~~Matt Nelson~~
+- [x] Venkatraman Ramakrishna
+- [x] Arun S M
+- [x] Peter Somogyvari
+- [ ] ~~Conor Svensson~~
+- [x] Jim Zhang
