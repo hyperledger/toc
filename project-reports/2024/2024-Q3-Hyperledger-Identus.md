@@ -34,7 +34,7 @@ Is there a way to access funds for open source contributions and development?
 
 # Overall Activity in the Past Quarter
 
-The main focus this quarter, and continuing into the next, is to achieve a rich set of features within Identus. The contribution of the code base from IOG to Hyperledger was completed in early July 2024. Initially it was only the cloud agent respository that was part of Hyperledger that started out as the Open Enterprise Agent Lab. The rest of the repositories were public repositories in IOG and has since been migrated to Hyperledger. 
+The main focus this quarter, and continuing into the next, is to achieve a rich set of features within Identus. The contribution of the code base from IOG to Hyperledger was completed in early July 2024. Initially it was only the cloud agent repository that was part of Hyperledger that started out as the Open Enterprise Agent Lab. The rest of the repositories were public repositories in IOG and has since been migrated to Hyperledger. 
 
 The mailing list is not the primary tool for discussions, instead we encourage discussions and questions within the relevant Discord channels. To enhance support for community members, we have enlisted the CommunityOne bot, which is trained on the Identus documentation. This has been extremely helpful for developers seeking immediate answers when a contributor or maintainer is unavailable. The majority of development now is to get to feature complete and fix existing bugs that get reported by the community. 
 
