@@ -30,7 +30,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 - [2024 TOC Project Update Calendar](../../project-reports/2024/2024-updates.md)
 
 # Discussion
-- CommunityOne Bot - Fay - Move to next week
+- CommunityOne Bot - Fay
 - [Infrastructure changes for LF Decentralized Trust](https://docs.google.com/document/d/1E3cYIGIckXyI2h74Ee7_DCxi48PQmJ38rCnbnSZ9Clg/edit)
 - Task force: OpenSSF Scorecard
 
