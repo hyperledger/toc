@@ -56,7 +56,7 @@ We did release several strong releases for all Web3j repos.
 # Overall Activity in the Past Quarter
 
 - 100+ commits and 30 PRs merged in Web3j core.
-- commits and 34 PRs merged across all other Web3j repositories.
+- 50+ commits and 34 PRs merged across all other Web3j repositories.
 - Fixed bugs, issues, and vulnerabilities, and updated Java and Kotlin versions.
 - Simplified and fixed the release process of Web3j after migrating to the Hyperledger GitHub organization.
 - Upgraded to Gradle 8.7 and updated all dependencies. [Check Announcement](https://medium.com/web3labs/boost-dev-efficiency-security-with-web3js-gradle-8-7-upgrade-d8435a9fb990).
@@ -67,7 +67,7 @@ We did release several strong releases for all Web3j repos.
 # Current Plans
 
 - Fixing Bugs and issues in Web3j.
-- Getting web3j-android fixed for newer android versions.
+- Getting web3j-android fixed for newer Android versions.
 - Adding support for account abstraction in Web3j.
 
 # Maintainer Diversity
