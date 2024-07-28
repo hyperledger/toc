@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2024 Q2 Hyperledger Web3j
+title: 2024 Q3 Hyperledger Web3j
 parent: 2024
 grand_parent: Project Updates
 ---
