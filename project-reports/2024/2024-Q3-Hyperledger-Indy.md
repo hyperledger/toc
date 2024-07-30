@@ -55,14 +55,13 @@ Created by Stephen Curran with input from the Hyperledger Indy Maintainers.
 
 ## Project Health
 
-The project had relatively little contributor activity over the quarter. Per the
-[Indy Quarterly Activity Dashboard], in the months April through June, 2024
-there were 83 commits (down about 45%)) from 15 contributors (down about 55%).
-Work was focused on dependabot updates, the [Indy Besu] efforts, and client
-performance improvements in digital credential wallets.
+The project less contributor activity over the quarter. Per the [Indy Quarterly
+Activity Dashboard], in the months April through June, 2024 there were 426
+commits (down about 50%)) and 77 contributors (down about 30%). Work was focused
+on dependabot updates, the [Indy Besu] efforts (which is not included in the LFX
+data), and client performance improvements in digital credential wallets.
 
-[Indy Quarterly Activity Dashboard]: https://insights.lfx.linuxfoundation.org/foundation/hyp/overview?project=indy&repository=&dateFilters=Last%20Quarter&dateRange=2024-01-01%20to%202024-03-31&compare=PP&granularity=week&hideBots=true&routedFrom=Github
-[Indy Quarterly Activity Dashboard]: https://insights.lfx.linuxfoundation.org/foundation/hyp/overview?project=indy&repository=&dateFilters=Last%20Quarter&dateRange=2024-04-01%20to%202024-06-30&compare=PP&granularity=week&hideBots=true&routedFrom=Github
+[Indy Quarterly Activity Dashboard]: https://insights.lfx.linuxfoundation.org/foundation/lf-decentralized-trust/overview/github?project=indy&routedFrom=Github&bestPractice=false&dateFilters=Last%20Quarter&dateRange=2024-04-01%20to%202024-06-30&compare=PP&granularity=week&hideBots=true
 
 ## Questions/Issues for the TOC
 
@@ -135,7 +134,7 @@ if they are still interested in being maintainers.
 ## Contributor Diversity
 
 See the [Indy Quarterly Activity Dashboard] for information about contributors
-this quarter. The 15 individual contributors came from at least 10 different
+this quarter. The contributions came from at least 13 different
 organizations.
 
 ## Additional Information
