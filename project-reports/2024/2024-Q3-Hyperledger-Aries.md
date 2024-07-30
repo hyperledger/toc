@@ -51,14 +51,13 @@ here: [https://aries-interop.info](https://aries-interop.info).
 ## Overall Activity in the Past Quarter
 
 Per the [Aries Activity Dashboard] for the months of April-June 2024, Aries
-codebases had 605 Commits from 63 contributors representing at least 28
-organizations. The LFX Insights report is not fully generating, so comparisons
-to previous quarters are not available. The numbers do include the repositories
+codebases had 3185 Commits and 275 contributors representing at least 28
+organizations.  The numbers do include the repositories
 that have moved from Hyperledger to the Open Wallet Foundation, as well as some
 obsolete (but unchanging) repositories. Per Ry Jones there is not a good way for
 us to control the included list of repos.
 
-[Aries Activity Dashboard]: https://insights.lfx.linuxfoundation.org/foundation/hyp/overview?project=aries&repository=all&dateFilters=Last%20Quarter&dateRange=2024-04-01%20to%202024-06-30&compare=PP&granularity=week&hideBots=true
+[Aries Activity Dashboard]: https://insights.lfx.linuxfoundation.org/foundation/lf-decentralized-trust/overview/github?project=aries&routedFrom=Github&bestPractice=false&dateFilters=Last%20Quarter&dateRange=2024-04-01%20to%202024-06-30&compare=PP&granularity=week&hideBots=true
 
 - The [Indy SDK] has been removed from ACA-Py, eliminating the older component in favour of newer and more capable
   replacements ([Aries Askar], [Indy VDR], and [AnonCreds RS]). Good to see that
@@ -116,7 +115,7 @@ There are currently 62 people on the 48 Hyperledger Aries teams representing at 
 
 ## Contributor Diversity
 
-In the quarter there were commits from 63 individuals representing at least 28 organizations.
+In the quarter there were commits from 275 individuals representing at least 28 organizations.
 
 ## Additional Information
 
