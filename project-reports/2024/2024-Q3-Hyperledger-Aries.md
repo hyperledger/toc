@@ -16,16 +16,17 @@ Python] continues to move to its 1.0.0 release, and the community around
 [Aries-VCX] is again growing, with lots of work happening in moving the
 implementation forward. [Open Wallet Foundation]-hosted [Credo-TS] and [Bifold
 Wallet] continue to evolve rapidly. [Animo Solutions], key maintainers of
-[Credo-TS], were selected by the German Government as funded participate in
-their [Funke] ("sparkle") initiative to build innovation in the EUDI space.
+[Credo-TS], were selected by the German Government as a funded participate in
+the [Funke] ("sparkle") initiative to create innovative wallet prototypes in
+preparation for the promised German [EUDI Wallet] to be released by 2026.
 Exciting times!
 
 [Funke]: https://www.sprind.org/en/challenges/eudi-wallet-prototypes/
 [Animo Solutions]: https://animo.id/
+[EUDI Wallet]: https://digital-strategy.ec.europa.eu/en/policies/eudi-wallet-implementation
 
 [Hyperledger Aries]: https://www.hyperledger.org/projects/aries
 [Credo-TS]: https://github.com/openwallet-foundation/credo-ts
-[Bifold Wallet]: https://github.com/openwallet-foundation/bifold-wallet
 [Aries Cloud Agent Python]: https://github.com/hyperledger/aries-cloudagent-python
 [Aries VCX]: https://github.com/hyperledger/aries-vcx
 [Open Wallet Foundation]: https://openwallet.foundation/
@@ -68,8 +69,6 @@ us to control the included list of repos.
 
 [Aries Askar]: https://github.com/hyperledger/aries-askar
 [Indy SDK]: https://github.com/hyperledger/indy-sdk
-[Hyperledger AnonCreds]: https://github.com/hyperledger/anoncreds-rs
-[Aries Cloud Agent Python plugins]: https://github.com/hyperledger/aries-acapy-plugins
 [DIDComm v2]: https://identity.foundation/didcomm-messaging/spec/
 [ACA-Py]: https://aca-py.org
 
