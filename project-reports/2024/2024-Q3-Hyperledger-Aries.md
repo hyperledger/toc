@@ -76,7 +76,27 @@ us to control the included list of repos.
 
 ### [Aries VCX]
 
-Work on Aries VCX has been picked up by a new set of maintainers, and lots of updates have been happening.
+Lots of work has been happening on Aries VCX with the release of 0.64.0 and
+0.65.0, and it has also gained new maintainers, contributors and support from
+Instnt.
+
+The releases have included updates to the AATH (Aries Agent Test Harness) Aries
+VCX Backchannel to include the latest 0.65.0 updates and implement processes for
+continuous deployment of the backchannel. As part of the efforts updating the
+backchannel, work has occurred to resolve interoperability issues between Aries
+VCX and Aries Cloud Agent Python (ACA-Py) within DID Exchange, adding support
+for DID Exchange 1.1 and did:peer numalgo 4.
+
+Release 0.65.0 marks the planned final release including support for the
+indy-sdk, credx, and indyvdrtools crates and features in Aries VCX. The
+replacement for these crates are already implemented (Aries Askar, anoncreds-rs,
+and indy-vdr) in Aries VCX. Additional info or discussion can be found here.
+Work is underway to remove these dependencies from the project.
+
+Work is in-progress on fixing and enhancing fixing Android support, as well as
+adding support for iOS. Support for usage via React Native will be considered in
+the future as well. Additionally, work is planned and underway to improve the
+overall ease of use of Aries VCX to boost its adoption.
 
 ### [Aries Cloud Agent Python]
 
