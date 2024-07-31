@@ -21,10 +21,10 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 - [2024 Q3 Hyperledger Fabric](https://github.com/hyperledger/toc/pull/278)
 - [2024 Q3 Hyperledger Indy](https://github.com/hyperledger/toc/pull/279)
 - [2024 Q3 Hyperledger Aries](https://github.com/hyperledger/toc/pull/281)
+- [2024 Q3 Hyperledger AnonCreds](https://github.com/hyperledger/toc/pull/282)
 - Please review any [outstanding quarterly reports](https://github.com/hyperledger/toc/pulls?q=is%3Apr+is%3Aopen+label%3Aquarterly-report+user-review-requested%3A%40me).
 
 # Upcoming reports
-- 2024 Q3 Hyperledger AnonCreds (due August 1, 2024)
 - 2024 Q3 Hyperledger Iroha (due August 8, 2024)
 - [2024 TOC Project Update Calendar](../../project-reports/2024/2024-updates.md)
 
