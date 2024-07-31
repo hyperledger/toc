@@ -124,9 +124,12 @@ to be from the ACA-Py repo itself.
 - Deploying support for [AnonCreds in W3C Verifiable Credentials Data Model Standard] format.
 - Continuing working to add support for [DIDComm V2].
 - Adding support for the [`did:tdw` DID Method], including support for rooting AnonCreds Verifiable Credentials using a `did:tdw` DID
+- Moving to Phase 2 of two Community Coordinated Updates ([793], [496]) in effort to deprecate old practices and adopt replacements in a coordinated effort.
 
 [AnonCreds in W3C Verifiable Credentials Data Model Standard]: https://marketplace.digital.gov.bc.ca/opportunities/code-with-us/7afcbd7c-2bbc-41ed-bf27-b6ba6e2903c5
 [`did:tdw` DID Method]: https://bcgov.github.io/trustdidweb/
+[793]: https://hyperledger.github.io/aries-rfcs/latest/features/0793-unqualfied-dids-transition/
+[496]: https://hyperledger.github.io/aries-rfcs/latest/features/0496-transition-to-oob-and-did-exchange/
 
 ## Maintainer Diversity
 
