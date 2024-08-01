@@ -57,7 +57,7 @@ Created by Stephen Curran with input from the Hyperledger Indy Maintainers.
 
 The project less contributor activity over the quarter. Per the [Indy Quarterly
 Activity Dashboard], in the months April through June, 2024 there were 426
-commits (down about 50%)) and 77 contributors (down about 30%). Work was focused
+commits (down about 50%) and 77 contributors (down about 30%). Work was focused
 on dependabot updates, the [Indy Besu] efforts (which is not included in the LFX
 data), and client performance improvements in digital credential wallets.
 
@@ -109,7 +109,7 @@ Two followups meetings to the most recent Indy Ecosystem Summit (#4, held April
 approaches to implementing Ledger Redactibility on Indy. A design was developed,
 but little progress was made towards a cross-community collaboration for funding
 and implementing the work. A couple of organizations have (as was suggested)
-submitted a proposal to for grant funding for the effort.
+submitted a proposal for a grant to fund the effort.
 
 ## Current Plans
 
