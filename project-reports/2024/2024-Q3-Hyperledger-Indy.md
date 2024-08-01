@@ -55,7 +55,7 @@ Created by Stephen Curran with input from the Hyperledger Indy Maintainers.
 
 ## Project Health
 
-The project less contributor activity over the quarter. Per the [Indy Quarterly
+The project had less contributor activity over the quarter. Per the [Indy Quarterly
 Activity Dashboard], in the months April through June, 2024 there were 426
 commits (down about 50%) and 77 contributors (down about 30%). Work was focused
 on dependabot updates, the [Indy Besu] efforts (which is not included in the LFX
