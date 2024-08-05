@@ -30,6 +30,12 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 - [2024 TOC Project Update Calendar](../../project-reports/2024/2024-updates.md)
 
 # Discussion
+- LF Decentralized Trust Infrastructure Sequencing
+  - Wiki
+  - Discord
+  - Mailing lists
+  - Community calls
+  - GitHub
 - Task force: Video Series
 
 # Recordings
