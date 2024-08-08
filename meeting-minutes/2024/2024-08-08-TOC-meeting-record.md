@@ -52,12 +52,12 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 - [ ] ~~Marcus Brandenburger~~
 - [ ] ~~Stephen Curran~~
-- [ ] David Enyeart
-- [ ] Tracy Kuhrt
-- [ ] Yacov Manevich
-- [ ] Matt Nelson
-- [ ] Venkatraman Ramakrishna
-- [ ] Arun S M
-- [ ] Peter Somogyvari
-- [ ] Conor Svensson
-- [ ] Jim Zhang
+- [x] David Enyeart
+- [x] Tracy Kuhrt
+- [ ] ~~Yacov Manevich~~
+- [ ] ~~Matt Nelson~~
+- [x] Venkatraman Ramakrishna
+- [ ] ~~Arun S M~~
+- [x] Peter Somogyvari
+- [ ] ~~Conor Svensson~~
+- [ ] ~~Jim Zhang~~
