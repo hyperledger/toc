@@ -58,7 +58,7 @@ Signatures used in AnonCreds v1 or BBS Signatures planned for use in AnonCreds
 v2. Some well-known cryptographers have [weighed in on that approach] and
 [presented a paper] arguing that the "batch issue" approach is ineffective. As
 well, they have proposed new scheme is being proposed that implements ZKPs using
-EDDSA hardware-based keys.  The folks involved in AnonCreds are part of that
+ECDSA hardware-based keys.  The folks involved in AnonCreds are part of that
 discussion, and will see how that might impact the direction of the AnonCreds
 project.
 
