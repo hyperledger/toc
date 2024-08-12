@@ -47,7 +47,7 @@ there has been a significant uptake in conversations around the use of ZKP-based
 verifiable credentials in the AnonCreds and other VC communities. The EU has a
 requirement to use "unlinkable" (non-correlatable) verifiable credentials with
 the [EUDI Wallets]. To now, the plan to meet that requirement has not been to
-use ZKPs, but instead to issue a many instances of each credential and have the
+use ZKPs, but instead to issue many instances of each credential and have the
 holder use each credential just once, or at least, each credential with just one
 verifier. Each instance is slightly different, and as a result, each verifier
 gets an unlinkable credential -- although the verifiers can correlate the
@@ -57,14 +57,14 @@ the holders mobile device -- which is not possible with ZKP schemes such as CL
 Signatures used in AnonCreds v1 or BBS Signatures planned for use in AnonCreds
 v2. Some well-known cryptographers have [weighed in on that approach] and
 [presented a paper] arguing that the "batch issue" approach is ineffective. As
-well, they have proposed new scheme is being proposed that implements ZKPs using
+well, they have proposed a new scheme that implements ZKPs using
 ECDSA hardware-based keys.  The folks involved in AnonCreds are part of that
 discussion, and will see how that might impact the direction of the AnonCreds
 project.
 
 [weighed in on that approach]: https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework/issues/200
 [presented a paper]: https://github.com/user-attachments/files/15904122/cryptographers-feedback.pdf
-[EUDI Wallets]: [](https://digital-strategy.ec.europa.eu/en/policies/eudi-wallet-implementation)
+[EUDI Wallets]: https://digital-strategy.ec.europa.eu/en/policies/eudi-wallet-implementation
 
 The [AnonCreds Quarterly Activity Dashboard] shows the activity on the project
 repositories from April to June 2024.
@@ -96,7 +96,7 @@ project -- [audited cryptographic libraries].
 
 ## Current Plans
 
-Continued evolution of the [AnonCreds Rust] library. Contributing the
+Continued evolution of the [AnonCreds Rust] library. Contributing to the
 conversation happening in the broader community about new ways to use ZKPs for
 achieving unlinkable VCs, and determining how to leverage that work into
 expanding efforts on AnonCreds, or using the resources of AnonCreds together
