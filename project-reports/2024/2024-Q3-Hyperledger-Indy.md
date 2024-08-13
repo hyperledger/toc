@@ -117,7 +117,8 @@ The maintainers would like to see the publication of an official Indy release
 supporting Ubuntu 22.04. the work is well underway, with [indy-plenum] work
 complete, and a "rinse and repeat" of the dependency changes in [indy-node].
 
-[Indy Besu] work continues and gain interest.
+[Indy Besu] work continues and is gaining interest. Work has begun towards
+adding a verifiable credential revocation capability to the implementation.
 
 We're now waiting on word of whether there will be a funding award for the
 Ledger Redaction implementation work as described above.
