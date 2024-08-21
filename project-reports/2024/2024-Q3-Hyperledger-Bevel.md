@@ -11,7 +11,7 @@ has_toc: false
 
 # Project Health
 
-[Hyperledger Bevel LFX Insights page](https://insights.lfx.linuxfoundation.org/foundation/hyp/overview?project=bevel&repository=&dateFilters=Last%20Year&dateRange=2023-01-01%20to%202023-12-31&compare=PP&granularity=month&hideBots=true)
+[Hyperledger Bevel LFX Insights page](https://insights.lfx.linuxfoundation.org/foundation/lf-decentralized-trust/overview?project=bevel&repository=&dateFilters=Last%20Year&dateRange=2023-01-01%20to%202023-12-31&compare=PP&granularity=month&hideBots=true)
 
 
 1. Getting code contributions for Hyperledger Bevel still remains a challenge.
