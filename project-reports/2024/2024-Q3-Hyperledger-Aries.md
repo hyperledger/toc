@@ -16,7 +16,7 @@ Python] continues to move to its 1.0.0 release, and the community around
 [Aries-VCX] is again growing, with lots of work happening in moving the
 implementation forward. [Open Wallet Foundation]-hosted [Credo-TS] and [Bifold
 Wallet] continue to evolve rapidly. [Animo Solutions], key maintainers of
-[Credo-TS], were selected by the German Government as a funded participate in
+[Credo-TS], were selected by the German Government as a funded participant in
 the [Funke] ("sparkle") initiative to create innovative wallet prototypes in
 preparation for the promised German [EUDI Wallet] to be released by 2026.
 Exciting times!
