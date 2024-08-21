@@ -75,7 +75,7 @@ See the updated type of information in the appropriate section of this report.
 
 ## Releases
 
-Release since the last quarterly report -- those after September 30, 2023:
+Release since the last quarterly report:
 
 - indy-node - None
 - indy-plenum - v1.14.0rc0 -- first release candidate for the Ubuntu 22.04 release of Indy Plenum
