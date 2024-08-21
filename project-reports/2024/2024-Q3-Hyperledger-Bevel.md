@@ -18,7 +18,7 @@ has_toc: false
 2. The Bevel project has received no external contributions; nearly all contributions for the last couple of releases have come from the Accenture team. Accenture will not be able to maintain the project without other organization or individual contributor help in maintaining.
 3. Community usage and interest are positive, as inferred from discussions and queries on the Discord channel.
 
-[Hyperledger Bevel Operator Fabric LFX Insights page](https://insights.lfx.linuxfoundation.org/foundation/hyp/overview?project=bevel&repository=https:%2F%2Fgithub.com%2Fhyperledger%2Fbevel-operator-fabric)
+[Hyperledger Bevel Operator Fabric LFX Insights page](https://insights.lfx.linuxfoundation.org/foundation/lf-decentralized-trust/overview?project=bevel&repository=https:%2F%2Fgithub.com%2Fhyperledger%2Fbevel-operator-fabric)
 
 
 # Questions/Issues for the TOC
