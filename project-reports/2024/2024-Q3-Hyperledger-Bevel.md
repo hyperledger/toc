@@ -74,7 +74,7 @@ Ansible automations to use the new helm charts.
 	-	Aditya Joshi (Walmart)
 
 # Contributor Diversity
-[Dashboard](https://insights.lfx.linuxfoundation.org/foundation/hyp/reports/contributors?project=bevel&repository=https:%2F%2Fgithub.com%2Fhyperledger%2Fbevel&routedFrom=Github)
+[Dashboard](https://insights.lfx.linuxfoundation.org/foundation/lf-decentralized-trust/reports/contributors?project=bevel&repository=https:%2F%2Fgithub.com%2Fhyperledger%2Fbevel&routedFrom=Github)
 
 # Additional Information
 
