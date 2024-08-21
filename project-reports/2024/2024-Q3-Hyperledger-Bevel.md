@@ -44,7 +44,7 @@ Ansible automations to use the new helm charts.
 - Continue with Q3 plan and release commitments.
 - Hyperledger meetup: Bevel workshop series remaining two sessions in September.
 - Explore cloud native vaults (AWS secret manager).
-- Collaborate with hyperledger-labs blockchain explorer and fabric-opertaions-console teams and plan to add deployment support on bevel.
+- Collaborate with hyperledger-labs blockchain explorer and fabric-operations-console teams and plan to add deployment support on bevel.
 
 # Maintainer Diversity
 
