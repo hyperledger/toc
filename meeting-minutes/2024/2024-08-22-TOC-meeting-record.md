@@ -31,6 +31,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Discussion
 - Project Proposal: [Move Hedera Core Network Software to LFDT](https://github.com/hyperledger/hyperledger-hip/pull/20)
+  - Proposal was approved via roll call vote; 10 aye, 1 absent
 
 # Recordings
 - [Recordings are available on the Hyperledger calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/lf-decentralized-trust)
