@@ -30,6 +30,7 @@ None.
 [Releases](https://github.com/hyperledger/bevel/releases) past quarter:
 
 - Bevel Release v1.0.1 and v1.1.0
+- Bevel Fabric Operator v1.10.1
 
 
 # Overall Activity in the Past Quarter
@@ -39,12 +40,15 @@ The project delivered its roadmap targets for Q2/Q3. See [roadmap](https://hyper
 Deployment using just helm commands with proxy/vault and without proxy/vault options for all DLT platform
 Ansible automations to use the new helm charts.
 
+Bug fixes in `kubectl-hlf` plugin while adding new organisation to the fabric network
+
 # Current Plans
 
 - Continue with Q3 plan and release commitments.
 - Hyperledger meetup: Bevel workshop series remaining two sessions in September.
 - Explore cloud native vaults (AWS secret manager).
 - Collaborate with hyperledger-labs blockchain explorer and fabric-operations-console teams and plan to add deployment support on bevel.
+- Bevel Operator Fabric will have fabric 3.0 support once fabric 3.0 is released.
 
 # Maintainer Diversity
 
