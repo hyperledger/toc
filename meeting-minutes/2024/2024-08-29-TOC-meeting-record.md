@@ -3,7 +3,6 @@ layout: default
 title: 2024-08-29 TOC Meeting Record
 parent: 2024
 grand_parent: Meeting Minutes
-nav_exclude: true
 ---
 
 ![Antitrust Policy Notice](../images/antitrust-policy-notice.png "Antitrust Policy Notice")
@@ -43,14 +42,14 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Attended by
 
-- [ ] Marcus Brandenburger
-- [ ] Stephen Curran
-- [ ] David Enyeart
+- [x] Marcus Brandenburger
+- [x] Stephen Curran
+- [x] David Enyeart
 - [ ] ~~Tracy Kuhrt~~
 - [ ] Yacov Manevich
 - [ ] Matt Nelson
-- [ ] Venkatraman Ramakrishna
-- [ ] Arun S M
-- [ ] Peter Somogyvari
-- [ ] Conor Svensson
-- [ ] Jim Zhang
+- [x] Venkatraman Ramakrishna
+- [x] Arun S M
+- [x] Peter Somogyvari
+- [x] Conor Svensson
+- [x] Jim Zhang
