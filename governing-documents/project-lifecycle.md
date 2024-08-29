@@ -43,7 +43,7 @@ and may go through several iterations.
 
 # Proposal
 
-Project Proposals must be submitted to the [TOC](https://www.hyperledger.org/about/leadership)
+Project Proposals must be submitted to the [TAC](https://www.hyperledger.org/about/leadership)
 for review, using [Proposal Template](https://hyperledger.github.io/hyperledger-hip/).
 Proposals that are approved enter into an *Incubation* state, unless
 they are of a refactoring nature, in which case the project is turned over
@@ -73,7 +73,7 @@ community exploration of different ideas.
 
 After a project qualifies to be declared *Graduated*, the
 *project* maintainers can then vote to request a graduation
-review by the TOC.
+review by the TAC.
 
 Entering *Incubation* does not guarantee that the project will
 eventually get to the *Graduated* state. Projects may never get
@@ -90,7 +90,7 @@ the criteria defined in the
 Projects that have successfully exited the *Incubation* phase
 are in the *Graduated* phase.
 
-The TOC may decide to move a *Graduated* project that no longer meets
+The TAC may decide to move a *Graduated* project that no longer meets
 the [Incubation Exit Criteria](./project-incubation-exit.md) back to
 the *Incubation* state until it meets the criteria again.
 
@@ -103,10 +103,10 @@ suspended, slowed down for a period of time, or the project is being
 deprecated.
 
 When possible, the maintainers of the project shall vote on such a change
-of state and if it passes, make that recommendation to the TOC, but
+of state and if it passes, make that recommendation to the TAC, but
 anyone may propose that a project be moved to *Dormant* state. Members
 of the community who disagree with the request can make their case
-before the TOC. The TOC will consider all points of view and render a
+before the TAC. The TAC will consider all points of view and render a
 final decision.
 
 If *Dormant* projects are re-activated, they re-enter the *Incubation*
@@ -121,7 +121,7 @@ Projects that have been in the *Dormant* state for a period of 6 months
 will be automatically archived.
 
 If anyone wants to resume work on an *Archived* project they may
-submit a proposal to the TOC for consideration.
+submit a proposal to the TAC for consideration.
 
 If an *Archived* project is re-activated, it re-enters the *Incubation*
 state independent of its prior history.

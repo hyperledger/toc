@@ -11,11 +11,11 @@ nav_order: 4
 
 # Project Updates
 Project updates are:
-- used by the TOC to determine the health of a project, including whether project should be moved to Dormant state
-- provided to the Governing Board on a monthly basis in the TOC Update
+- used by the TAC to determine the health of a project, including whether project should be moved to Dormant state
+- provided to the Governing Board on a monthly basis in the TAC Update
 - used to highlight interesting updates to the Governing Board about the projects
-- used by the TOC chair to provide project updates at both the annual Member Summit and Global Forum 
-- used to share interesting information with member companies by both the staff and TOC members
+- used by the TAC chair to provide project updates at both the annual Member Summit and Global Forum 
+- used to share interesting information with member companies by both the staff and TAC members
 - suggested as a point of reference for newcomers to determine if a project would be worth joining based on information like the contributor diversity, as well as, the type of feature work that is ongoing within the project
 
 # Instructions for Filing

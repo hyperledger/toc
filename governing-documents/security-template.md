@@ -28,7 +28,7 @@ Hyperledger policies.
 This document defines how security vulnerability reporting is handled in the
 Hyperledger PROJECT project. The approach aligns with the [Hyperledger
 Foundation's Security Vulnerability Reporting
-policy](https://toc.hyperledger.org/governing-documents/security.html). Please
+policy](https://tac.lfdecentralizedtrust.org/governing-documents/security.html). Please
 review that document to understand the basis of the security reporting for
 Hyperledger PROJECT.
 
@@ -89,7 +89,7 @@ Members are added and removed from the team via approved Pull Requests to this
 repository. For additional background into the role of the security team, see
 the [People Infrastructure] section of the Hyperledger Security Policy.
 
-[People Infrastructure]: https://toc.hyperledger.org/governing-documents/security.html#people-infrastructure
+[People Infrastructure]: https://tac.lfdecentralizedtrust.org/governing-documents/security.html#people-infrastructure
 
 **Responsibilities:**
 
@@ -176,7 +176,7 @@ the request.
 
 For more information about the embargo list, please see the [Embargo List
 section of the Hyperledger Security
-Policy](https://toc.hyperledger.org/governing-documents/security.html#embargo-list).
+Policy](https://tac.lfdecentralizedtrust.org/governing-documents/security.html#embargo-list).
 
 ## (GitHub) Security Advisories
 

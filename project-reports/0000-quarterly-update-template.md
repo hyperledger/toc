@@ -14,9 +14,9 @@ nav_exclude: true
 <mark>_Required: Sum up the status and health of your project and the community in a few sentences. Consider this the TL;DR for the rest of the report. How is your community doing health-wise? Are questions being answered? Are contributors acting appropriately? Are there new contributors showing up?_
 </mark>
 
-# Questions/Issues for the TOC
+# Questions/Issues for the TAC
 
-<mark>_Required: If there are any specific issues that the TOC should be aware of or specifically address, then please call them out. If not, then it is helpful to state something like: "There are no issues at this time." When in doubt, it is better to include information or questions, rather than waiting._
+<mark>_Required: If there are any specific issues that the TAC should be aware of or specifically address, then please call them out. If not, then it is helpful to state something like: "There are no issues at this time." When in doubt, it is better to include information or questions, rather than waiting._
 </mark>
 
 # Releases
@@ -46,6 +46,6 @@ nav_exclude: true
 
 # Additional Information
 
-<mark>_Optional: Please provide any additional information that you feel would be useful for TOC to be aware._
+<mark>_Optional: Please provide any additional information that you feel would be useful for TAC to be aware._
 </mark>
 

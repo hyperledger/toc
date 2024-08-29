@@ -56,7 +56,7 @@ Maintainers are expected to perform the following duties for this repository. Th
 - Maintain the repository CONTRIBUTING.md file and getting started documents to
   give guidance and encouragement to those wanting to contribute to the product, and those wanting to become maintainers.
 - Contribute to the product via GitHub Pull Requests.
-- Monitor requests from the Hyperledger Technical Oversight Committee about the
+- Monitor requests from the LF Decentralized Trust Technical Advisory Council about the
 contents and management of Hyperledger repositories, such as branch handling,
 required files in repositories and so on.
 - Contribute to the Hyperledger Project's Quarterly Report.

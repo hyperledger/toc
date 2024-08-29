@@ -1,17 +1,17 @@
 ---
 layout: default
-title: YYYY-MM-DD TOC Meeting Record
+title: YYYY-MM-DD TAC Meeting Record
 parent: Meeting Minutes
 grand_parent: LF Decentralized Trust TAC
 nav_exclude: true
 ---
-<mark>_Copy this template to the subdirectory for the current year and name the file `YYYY-MM-DD-TOC-meeting-record.md` (e.g., `2023-02-02-TOC-meeting-record.md`). Update the information above to change the `title` (e.g., `2023-02-16 TOC Meeting Record`, the `parent` to `YYYY` (e.g., 2023), the `grand_parent` to `Meeting Minutes`, and remove the `nav_exclude` line. Update the links below to reflect the appropriate image location (e.g., `../images/`). Text between `<mark></mark>` are instructions. Please remove when section has been completed._
+<mark>_Copy this template to the subdirectory for the current year and name the file `YYYY-MM-DD-TAC-meeting-record.md` (e.g., `2023-02-02-TAC-meeting-record.md`). Update the information above to change the `title` (e.g., `2023-02-16 TAC Meeting Record`, the `parent` to `YYYY` (e.g., 2023), the `grand_parent` to `Meeting Minutes`, and remove the `nav_exclude` line. Update the links below to reflect the appropriate image location (e.g., `../images/`). Text between `<mark></mark>` are instructions. Please remove when section has been completed._
 </mark>
 
 ![Antitrust Policy Notice](images/antitrust-policy-notice.png "Antitrust Policy Notice")
 ![All are Welcome in the Hyperledger Community](images/all-are-welcome.png "All are Welcome in the Hyperledger Community")
 
-Hyperledger is committed to creating a safe and welcoming community for all. For more information please visit our Code of Conduct: [Hyperledger Code of Conduct](https://toc.hyperledger.org/governing-documents/code-of-conduct.html)
+Hyperledger is committed to creating a safe and welcoming community for all. For more information please visit our Code of Conduct: [Hyperledger Code of Conduct](https://tac.lfdecentralizedtrust.org/governing-documents/code-of-conduct.html)
 
 # Announcements
 * The [Hyperledger /dev/weekly developer newsletter](https://wiki.hyperledger.org/pages/viewpage.action?pageId=39618905) goes out each Friday to hundreds of Hyperledger developers. It is a collaborative effort. If you have a project release, pull request, community event, and/or relevant article you would like highlighted next week, please [leave a comment for consideration on the upcoming newsletter wiki page](https://wiki.hyperledger.org/display/DR/2024)
@@ -26,7 +26,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 # Upcoming reports
 <mark>_List the upcoming reports, including delayed reports with the original required date. for instance: https://lists.hyperledger.org/g/toc/message/1966_
 </mark>
-* [2024 TOC Project Update Calendar](../../project-reports/2024/2024-updates.md)
+* [2024 TAC Project Update Calendar](../../project-reports/2024/2024-updates.md)
 
 # Presentation
 <mark>_If there are any presentations from a WG, SIG, or project._
