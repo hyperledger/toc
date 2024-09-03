@@ -28,6 +28,8 @@ The following is a set of items that can help in increasing maintainer diversity
     - Writing Documentation
     - Reviewing Pull Requests
 - Community Building
+    - Pair Programming Sessions
+    - Contributor Office Hours
 - Retesting Landing Process for New Users
 - How to Retain Maintainers
 
