@@ -61,14 +61,14 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Attended by
 
-- [ ] Marcus Brandenburger
-- [ ] Stephen Curran
-- [ ] David Enyeart
-- [ ] Tracy Kuhrt
+- [x] Marcus Brandenburger
+- [x] Stephen Curran
+- [x] David Enyeart
+- [x] Tracy Kuhrt
 - [ ] Yacov Manevich
 - [ ] Matt Nelson
-- [ ] Venkatraman Ramakrishna
-- [ ] Arun S M
-- [ ] Peter Somogyvari
-- [ ] Conor Svensson
+- [x] Venkatraman Ramakrishna
+- [x] Arun S M
+- [x] Peter Somogyvari
+- [x] Conor Svensson
 - [ ] Jim Zhang
