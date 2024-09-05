@@ -12,6 +12,7 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 
 # Announcements
 - The [Hyperledger /dev/weekly developer newsletter](https://wiki.hyperledger.org/pages/viewpage.action?pageId=39618905) goes out each Friday to hundreds of Hyperledger developers. It is a collaborative effort. If you have a project release, pull request, community event, and/or relevant article you would like highlighted next week, please [leave a comment for consideration on the upcoming newsletter wiki page](https://wiki.hyperledger.org/display/DR/2024).
+- The Morgan State Seminar Series continues: Mon Sept 9 at 12 noon, Hyperledger community members John Carpenter and Jim Mason will present "How to Get a Job in Web3". Find out more about this and upcoming seminars here: [https://wiki.hyperledger.org/display/events/Morgan+State+Seminars](https://wiki.hyperledger.org/display/events/Morgan+State+Seminars)
 - Maintainer Days / Member Summit 2024: Find out more here: [https://www.hyperledger.org/hyperledger-member-summit-2024](https://www.hyperledger.org/hyperledger-member-summit-2024).
 
 # Quarterly reports
