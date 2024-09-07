@@ -10,9 +10,7 @@ has_toc: false
 # Project Health
 
 
-The Hyperledger Cello project remains in good health, marked by the recent release of v1.0.0-RC. This update includes key dependency upgrades and bug fixes.
-
-Highlights of v1.0.0-RC:
+The Hyperledger Cello project remains in good health, marked by the recent update. This update includes key dependency upgrades and bug fixes.
 
 * Upgraded Cello dashboard's Node.js version.
 * Upgraded Cello Backend API Engine Dependencies: 
