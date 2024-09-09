@@ -11,10 +11,10 @@ nav_order: 4
 
 ## Introduction
 
-This document provides a high level survey of best practices and suggestions for various aspects of management and maintenance of Hyperledger projects.
-In many cases links are provided to other resources at Hyperledger and beyond for more detailed information.
+This document provides a high level survey of best practices and suggestions for various aspects of management and maintenance of LF Decentralized Trust (LFDT) projects.
+In many cases links are provided to other resources at LFDT and beyond for more detailed information.
 
-The best practices generally apply to Hyperledger Graduated projects.
+The best practices generally apply to LFDT Graduated projects.
 Many of the best practices also apply to Incubation projects, especially Incubation projects that are on a path to become a Graduated project.
 
 The document will first provide a survey of existing guidelines and practices and then dive deeper into areas not covered elsewhere.
@@ -72,7 +72,7 @@ The [Project Incubation Exit Criteria](../governing-documents/project-incubation
 
 * Foster a welcoming, positive, and public environment where contributions are encouraged. - See [Creating an Inclusive Community presentation](https://www.youtube.com/watch?v=lHOINFlb9JA)
 * Decisions should be made in public, or at least socialized in public
-* Engage on Discord Chat - see [Suggested Channel Organization and Naming](https://wiki.hyperledger.org/display/TF/Hyperledger%27s+Transition+to+Discord+Proposal)
+* Engage on Discord Chat - see [Suggested Channel Organization and Naming](https://wiki.hyperledger.org/display/TF/Transition+to+Discord+Proposal)
 * Use Mailing lists for official business - start with a single mailing list, consider multiple if there becomes a need (users list versus contributors/maintainers list)
 * Host public meetings on a regular cadence. Ask community about best meeting time, consider two meetings to cover different regions, or rotating meeting times (shifted 8 hours or 12 hours).
 
@@ -86,12 +86,12 @@ The [Project Incubation Exit Criteria](../governing-documents/project-incubation
   - https://hyperledger.github.io/firefly/contributors/
   - https://github.com/hyperledger/iroha/blob/main/CONTRIBUTING.rst
 * Present at Meetups - Virtual or in person – these are well attended and the videos also get many views
-  - Email meetup@hyperledger.org if you're interested in presenting or join one of the [bi-weekly Meetup and Workshop planning calls every other Thursday at 9:30 AM pacific](https://lists.hyperledger.org/g/meetups/calendar)
+  - Email meetup@lfdecentralizedtrust.org if you're interested in presenting or join one of the [bi-weekly Meetup and Workshop planning calls every other Thursday at 9:30 AM pacific](https://lists.lfdecentralizedtrust.org/g/meetups/calendar)
 * Host technical Workshops - Virtual or in person (e.g. Global Forum) – these are well attended and the videos also get many views
-  - Reach out to one of the Hyperledger Community Architects or join one of the [bi-weekly Meetup and Workshop planning calls every other Thursday at 9:30 AM pacific](https://lists.hyperledger.org/g/meetups/calendar)
+  - Reach out to one of the LFDT Community Architects or join one of the [bi-weekly Meetup and Workshop planning calls every other Thursday at 9:30 AM pacific](https://lists.lfdecentralizedtrust.org/g/meetups/calendar)
 * Take part in annual Mentorship program
-  - Near the beginning of each year maintainers have the option to [submit projects to the annual Hyperledger mentorship program](https://wiki.hyperledger.org/display/INTERN/Mentorship+Projects) and work with mentees or code, documentation or research projects
-* See also [Raising the Profile of your Hyperledger Project or Lab](https://docs.google.com/presentation/d/13nji_R-op77ERT-AV3-CbOOZwAOjtvq33RRGnjpL3Gc/edit#slide=id.g3cf4a9ebda_0_647)
+  - Near the beginning of each year maintainers have the option to [submit projects to the annual LFDT mentorship program](https://wiki.hyperledger.org/display/INTERN/Mentorship+Projects) and work with mentees or code, documentation or research projects
+* See also [Raising the Profile of your Project or Lab](https://docs.google.com/presentation/d/13nji_R-op77ERT-AV3-CbOOZwAOjtvq33RRGnjpL3Gc/edit#slide=id.g3cf4a9ebda_0_647)
 
 ## Project management and issues
 
@@ -112,15 +112,15 @@ The [Project Incubation Exit Criteria](../governing-documents/project-incubation
 ## Security
 
 * Provide three named security contacts per project
-* Define security issue reporting process in SECURITY.md with reference to [Hyperledger reporting process](https://wiki.hyperledger.org/display/SEC/Defect+Response)
+* Define security issue reporting process in SECURITY.md with reference to [Security reporting process](../governing-documents/security.md)
 * Review, respond, and act on reported security vulnerabilities
-* Follow security issue disclosure process - see [Disclosure task force](https://github.com/hyperledger/toc/issues/48)
+* Follow security issue disclosure process - see [Disclosure task force](https://github.com/LF-Decentralized-Trust/tac/issues/48)
 * Leverage automated scans, tooling depends on language but usually includes some combination of:
   - linters
   - Software Composition Analysis dependency scans, e.g. Dependabot, Govulncheck
   - Static Application Security Testing (SAST) aka static analysis scans, e.g. CodeQL, Snyk
 * Pin dependencies and keep dependencies up to date,  e.g. using Dependabot, although be wary of auto-upgrades and lookout for malware.
-* Engage with Hyperledger staff on possibility of [security audits](https://wiki.hyperledger.org/display/SEC/Security+Code+Audits) for Graduated project major releases; address audit results and socialize
+* Engage with LFDT staff on possibility of [security audits](https://wiki.hyperledger.org/display/SEC/Security+Code+Audits) for Graduated project major releases; address audit results and socialize
 * Review [OpenSSF secure developer guide](https://github.com/ossf/wg-best-practices-os-developers/blob/main/docs/Concise-Guide-for-Developing-More-Secure-Software.md) and OpenSSF overview presentation to TAC ([charts](https://wiki.hyperledger.org/download/attachments/80775801/OpenSSF%20Hyperledger%2020230119.pdf?version=1&modificationDate=1674218724000&api=v2), [replay](https://youtu.be/0AFFIDKFNvc))
 * Review and obtain OpenSSF Best Practices Badge - see [criteria](https://bestpractices.coreinfrastructure.org/en/criteria/0)
 * Sign release artifacts (TBD) - see proposed [Security Artifact Signing task force](https://github.com/hyperledger/toc/issues/49)
@@ -156,7 +156,7 @@ The [Project Incubation Exit Criteria](../governing-documents/project-incubation
   - Use [filters](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#filter-pattern-cheat-sheet) to eliminate unnecessary runs, e.g. doc PRs shouldn't require building and testing code.
   - Consider running some jobs on schedule (nightly) rather than on each pull request (e.g. full matrix of platform tests)
   - Inspect Github Actions run results on your own fork prior to opening Pull Request
-  - Contact Hyperledger staff for the possibility of dedicated paid runners
+  - Contact LFDT staff for the possibility of dedicated paid runners
 * Pull request checks
   - DCO - [Developer Certificate of Origin](https://github.com/apps/dco)
   - Unit tests
@@ -188,7 +188,7 @@ The [Project Incubation Exit Criteria](../governing-documents/project-incubation
 ## GitHub workflow
 
 * Although there are often multiple paths to achieve an outcome in git and GitHub, there is value in defining a suggested path for contributors, both for the benefit of new GitHub users, and for the sake of project consistency.
-  - See the [Hyperledger GitHub Contribution Guide](github-contribution-guide.md) for detailed guidance on forking, branching, remotes, creating pull requests, updating pull requests, and cherry picking
+  - See the [LFDT GitHub Contribution Guide](github-contribution-guide.md) for detailed guidance on forking, branching, remotes, creating pull requests, updating pull requests, and cherry picking
 * **Rebase merging** is preferred over **Merge commits** and **Squash merging** to keep commit history and PR description clean (assuming contributors squash/amend their own pull requests)
 * Nice to haves (consult the GitHub Best Practices documentation for details)
   - Try to have all the commits signed on your default branch. This is hard to do in practice, but could come in handy later.

@@ -8,16 +8,16 @@ grand_parent: LF Decentralized Trust TAC
 
 # GitHub Contribution Guide
 
-This document provides instructions to fork a Hyperledger repository and submit code contributions through a pull request.
-Although there are many GitHub guides available, this guide covers the full set of contribution steps using generally accepted Hyperledger practices.
+This document provides instructions to fork a LF Decentralized Trust (LFDT) repository and submit code contributions through a pull request.
+Although there are many GitHub guides available, this guide covers the full set of contribution steps using generally accepted LFDT practices.
 
 For additional Git/GitHub questions and discussions after reading this guide, reach out on the [git-help Discord channel](https://discord.com/channels/905194001349627914/1098621099681513492).
 
 ## Forking the repository
 
-In order to contribute code to a Hyperledger project, it is required to fork the relevant GitHub repository and submit a pull request from your fork.
+In order to contribute code to a LFDT project, it is required to fork the relevant GitHub repository and submit a pull request from your fork.
 The act of forking a GitHub repository creates an identical copy of the repository in your personal GitHub account.
-You are then able to edit code and propose these changes to the official Hyperledger repository you forked the code from via the GitHub pull request process.
+You are then able to edit code and propose these changes to the official LFDT repository you forked the code from via the GitHub pull request process.
 
 To fork a repository:
 
@@ -48,11 +48,11 @@ To clone a repository:
 git clone git@github.com:<your_github_id>/<repository_name>.git
 ```
 
-- Now change to the repository directory and add a remote upstream repository pointing to the official Hyperledger repository
+- Now change to the repository directory and add a remote upstream repository pointing to the official LFDT repository
 
 ```
 cd <repository_name>
-git remote add upstream https://github.com/hyperledger/<repository_name>.git
+git remote add upstream https://github.com/LF-Decentralized-Trust/<repository_name>.git
 ```
 
 - You can now list your remote branches and confirm your local repository has created a link with the remote upstream repository
@@ -146,18 +146,18 @@ To integrate these changes you must now go through the pull request process.
 ## Opening a Pull Request in GitHub
 
 Now that you've created and pushed changes to a feature branch in your forked repository,
-you can now open a pull request against the original Hyperledger repository from which you created your fork and begin the code review process.
+you can now open a pull request against the original LFDT repository from which you created your fork and begin the code review process.
 
-- Navigate to https://github.com/hyperledger/<original_repository>
+- Navigate to https://github.com/LF-Decentralized-Trust/<original_repository>
 - Select the Pull Request tab at the top of the page
 - In the top right corner of the Pull Requests page, select New Pull Request
 - On the Compare Changes page, select "compare across forks" at the top of the page
-- Select the Hyperledger repository and branch that you want to merge into as the "base repository" and "base" branch
+- Select the LFDT repository and branch that you want to merge into as the "base repository" and "base" branch
 - Select your fork and your feature branch as the "head repository" and "compare" branch
 - Select Create Pull Request
 - You'll have the option to open your pull request as a Draft if you are not yet ready to have it reviewed.
 
-Congratulations, you have now submitted your first pull request to a Hyperledger project.
+Congratulations, you have now submitted your first pull request to a LFDT project.
 Your pull request will now run through CI checks.
 You can monitor your pull request CI progress by navigating to the Checks tab of the pull request.
 If there are CI check failures the pull request may not get reviewed and merged.
