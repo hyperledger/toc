@@ -44,12 +44,12 @@ The [Project Incubation Exit Criteria](../governing-documents/project-incubation
 
 ## Repository structure
 
-* Projects should follow the [Common Repository Structure](repository-structure.md) which provides details for required and recommended repository files.
+* Projects should follow the [Common Repository Structure](../governing-documents/repository-structure.md) which provides details for required and recommended repository files.
 
 ## Maintainer guidelines
 
-* Projects should document maintainers along with maintainer roles and responsibilities in a MAINTAINERS.md file.
-* See the [Maintainers Guidelines](MAINTAINERS-guidelines.md) and [sample MAINTAINERS.md](SAMPLE-MAINTAINERS.md) for suggested duties of a maintainer and guidance on how to add and remove maintainers.
+* Projects should document maintainers along with maintainer roles and responsibilities in a `MAINTAINERS.md` file.
+* See the [Maintainers File Governing Document](../governing-documents/MAINTAINERS-file.md) and [sample MAINTAINERS.md](../governing-documents/SAMPLE-MAINTAINERS.md) for suggested duties of a maintainer and guidance on how to add and remove maintainers.
 
 ## Inclusive naming
 
@@ -170,9 +170,9 @@ The [Project Incubation Exit Criteria](../governing-documents/project-incubation
 ## GitHub configuration
 
 * Define repository settings in `.github/settings.yml` so that they can be managed and tracked via pull requests, see [Fabric example](https://github.com/hyperledger/fabric/blob/main/.github/settings.yml).
-* Consider using a CODEOWNERS file to specify write permission per directory
+* Consider using a `CODEOWNERS` file to specify write permission per directory
   - See [Fabric example](https://github.com/hyperledger/fabric/blob/main/CODEOWNERS) with additional `/docs` maintainers.
-  - Add a link from CODEOWNERS to MAINTAINERS.md scope field so that users can find domain area contacts
+  - Add a link from `CODEOWNERS` to `MAINTAINERS.md` scope field so that users can find domain area contacts
 * Consider using a .github/[PULL_REQUEST_TEMPLATE.md](https://raw.githubusercontent.com/hyperledger/fabric/main/.github/PULL_REQUEST_TEMPLATE.md) and .github/[ISSUE_TEMPLATE](https://github.com/hyperledger/fabric/tree/main/.github/ISSUE_TEMPLATE)
 * Define Branch protection rules. Recommended configuration:
   - Check `Require a pull request before merging`

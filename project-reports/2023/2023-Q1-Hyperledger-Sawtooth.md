@@ -14,7 +14,7 @@ discussions about simplifying the build processes.
 
 - Have you switched from master to main in all your repos? YEs
 - Have you implemented the [Common Repository
-  Structure](../guidelines/repository-structure.md) in all your repos? Yes
+  Structure](../../governing-documents/repository-structure.md) in all your repos? Yes
 - Has your project implemented these inclusive language changes listed below to
   your repo? You can optionally [use the DCI Lint
   tool](https://github.com/petermetz/gh-action-dci-lint#usage) to make this a

@@ -20,7 +20,7 @@ There are currently 640k lines of code for Hyperledger FireFly across 19 reposit
 # Required Information
 
 - Have you switched from master to main in all your repos? Yes
-- Have you implemented the [Common Repository Structure](../guidelines/repository-structure.md) in all your repos? Yes
+- Have you implemented the [Common Repository Structure](../../governing-documents/repository-structure.md) in all your repos? Yes
 - Has your project implemented these inclusive language changes listed below to your repo? You can optionally [use the DCI Lint tool](https://github.com/petermetz/gh-action-dci-lint#usage) to make this a recurring action on your repo. Yes
   - master → main
   - slave → replicas

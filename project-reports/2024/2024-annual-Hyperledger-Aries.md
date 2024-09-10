@@ -23,7 +23,7 @@ Aries remains a healthy project and one of several viable candidates for major d
 
 ## Maintainer Diversity
 
-_Guidance: How many maintainers do you have, and which organisations are they from? How has the maintainers and diversity of your maintainers changed in the past year? Has the number of active maintainers increased/decreased? Has the diversity of maintainers increased/decreased? Please include a link to your existing [MAINTAINERS file](https://github.com/hyperledger/toc/blob/gh-pages/guidelines/MAINTAINERS-guidelines.md) and the MAINTAINERS file from last year (if appropriate). This is a good opportunity to ensure that your MAINTAINERS file is up to date and to retire any maintainers._
+_Guidance: How many maintainers do you have, and which organisations are they from? How has the maintainers and diversity of your maintainers changed in the past year? Has the number of active maintainers increased/decreased? Has the diversity of maintainers increased/decreased? Please include a link to your existing [MAINTAINERS file](https://github.com/hyperledger/toc/blob/gh-pages/governing-documents/MAINTAINERS-file.md) and the MAINTAINERS file from last year (if appropriate). This is a good opportunity to ensure that your MAINTAINERS file is up to date and to retire any maintainers._
 
 There are currently 62 people on the 48 Hyperledger Aries teams representing at least 19 organizations. As there are still dependent projects in Hyperledger, the Agent Framework JavaScript Maintainers continue to be Aries Maintainers, despite the move of the repository to the Open Wallet Foundation.
 

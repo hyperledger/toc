@@ -7,13 +7,13 @@ nav_exclude: true
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 # Maintainers
 
-This is a sample `MAINTAINERS.md` file for a Hyperledger project repository.
+This is a sample `MAINTAINERS.md` file for a Linux Foundation Decentralized Trust (LFDT) project repository.
 Feel free to copy this file into your repository and update it for your specific
 needs.
 
-It is sufficient to have a `MAINTAINERS.md` file that contains only a reference to a `MAINTAINERS.md` file in another repository that is part of the Hyperledger project.  For example:
+It is sufficient to have a `MAINTAINERS.md` file that contains only a reference to a `MAINTAINERS.md` file in another repository that is part of the LFDT project.  For example:
 
-> For information about the Maintainers of this repository, please see this Hyperledger \<PROJECT> repository's [MAINTAINERS](#) file.
+> For information about the Maintainers of this repository, please see this LFDT \<PROJECT> repository's [MAINTAINERS](#) file.
 
 ## Maintainer Scopes, GitHub Roles and GitHub Teams
 
@@ -57,9 +57,9 @@ Maintainers are expected to perform the following duties for this repository. Th
   give guidance and encouragement to those wanting to contribute to the product, and those wanting to become maintainers.
 - Contribute to the product via GitHub Pull Requests.
 - Monitor requests from the LF Decentralized Trust Technical Advisory Council about the
-contents and management of Hyperledger repositories, such as branch handling,
+contents and management of LFDT repositories, such as branch handling,
 required files in repositories and so on.
-- Contribute to the Hyperledger Project's Quarterly Report.
+- Contribute to the LFDT Project's Quarterly Report.
 
 ## Becoming a Maintainer
 
@@ -103,7 +103,7 @@ The process to move a maintainer from active to emeritus status is comparable to
 resignation, the Pull Request can be merged following a maintainer PR approval. If the removal is for any other reason, the following steps **SHOULD** be followed:
 
 - A PR is created to update this file to move the maintainer to the list of emeritus maintainers.
-- The PR is authored by, or has a comment supporting the proposal from, an existing maintainer or Hyperledger GitHub organization administrator.
+- The PR is authored by, or has a comment supporting the proposal from, an existing maintainer or a member of the project's Technical Steering Commitee (TSC).
 - Once the PR and necessary comments have been received, the approval timeframe begins.
 - The PR **MAY** be communicated on appropriate communication channels, including relevant community calls, chat channels and mailing lists.
 - The PR is merged and the maintainer transitions to maintainer emeritus if:

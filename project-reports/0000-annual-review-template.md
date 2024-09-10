@@ -14,7 +14,7 @@ nav_exclude: true
 </mark>
 
 # Maintainer Diversity
-<mark>_How many maintainers do you have, and which organisations are they from? How has the maintainers and diversity of your maintainers changed in the past year? Has the number of active maintainers increased/decreased? Has the diversity of maintainers increased/decreased? Please include a link to your existing [MAINTAINERS file](../guidelines/MAINTAINERS-guidelines.md) and the MAINTAINERS file from last year (if appropriate). This is a good opportunity to ensure that your MAINTAINERS file is up to date and to retire any maintainers._ 
+<mark>_How many maintainers do you have, and which organisations are they from? How has the maintainers and diversity of your maintainers changed in the past year? Has the number of active maintainers increased/decreased? Has the diversity of maintainers increased/decreased? Please include a link to your existing [MAINTAINERS file](../governing-documents/MAINTAINERS-file.md) and the MAINTAINERS file from last year (if appropriate). This is a good opportunity to ensure that your MAINTAINERS file is up to date and to retire any maintainers._
 </mark>
 
 # Project Adoption

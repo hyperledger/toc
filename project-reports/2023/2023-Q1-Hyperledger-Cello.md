@@ -17,7 +17,7 @@ The 1.0 release is with new architecture.
 
 # Required Information
 - [x] Have you switched from master to main in all your repos? 
-- [x] Have you implemented the [Common Repository Structure](../guidelines/repository-structure.md) in all your repos? 
+- [x] Have you implemented the [Common Repository Structure](../../governing-documents/repository-structure.md) in all your repos? 
 - [x] Has your project implemented these inclusive language changes listed below to your repo? You can optionally [use the DCI Lint tool](https://github.com/petermetz/gh-action-dci-lint#usage) to make this a recurring action on your repo.
     - master → main
     - slave → replicas

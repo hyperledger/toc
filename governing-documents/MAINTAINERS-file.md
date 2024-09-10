@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MAINTAINERS Guidelines
-parent: Guidelines
+parent: Governing Documents
 grand_parent: LF Decentralized Trust TAC
 nav_order: 2
 ---
@@ -9,9 +9,11 @@ nav_order: 2
 
 ## Introduction
 
-All Hyperledger repositories **MUST** have a `MAINTAINERS.md` file at the top-level directory of the source code. The [SAMPLE-MAINTAINERS.md](SAMPLE-MAINTAINERS.md) can be used as a template by projects creating a new repository.
+All Linux Foundation Decentralized Trust (LFDT) repositories **MUST** have a `MAINTAINERS.md` file at the top-level directory of the source code. The [SAMPLE-MAINTAINERS.md](SAMPLE-MAINTAINERS.md) can be used as a template by projects creating a new repository.
 
-The Hyperledger Foundation GitHub organization administrators **SHOULD** periodically send out notifications about missing `MAINTAINERS.md` files.
+The Technical Steering Committee (TSC) for the project to which a repository belongs **MUST** periodically send out notifications about missing `MAINTAINERS.md` files.
+
+The LFDT GitHub organization administrators (i.e., LFDT TAC) **SHOULD** periodically send out notifications about missing `MAINTAINERS.md` files.
 
 The following provides guidelines and suggested content to include in the `MAINTAINERS.md` file.
 
@@ -28,17 +30,17 @@ In most repositories, the "Maintainer" scope is given to all repository
 Maintainers. The "Maintainer" scope is defined as the "Maintain" GitHub role.
 This is usually sufficient to do all of the work required of a Maintainer. From
 time to time, Maintainers may have to request certain administrative tasks by
-performed by the Hyperledger GitHub organization administrators.
+performed by the LFDT GitHub organization administrators.
 
 In some repositories, the maintainers may decide to define additional scopes and
 each Maintainer given one or more of those designated scopes:
 
-- In rare cases, Maintainers in a repository may request that the Hyperledger Foundation GitHub organization administrators enable designating some Maintainers with different GitHub roles, such as "Admin" (more capable than "Maintain") or "Triage" (less capable than "Maintain").
-  - Each elevated GitHub role needed in a repository requires the Hyperledger Foundation GitHub organization administrators to create and maintain an additional GitHub Team.
-  - The Hyperledger Foundation GitHub organization administrators manage a team per Hyperledger Project that includes all contributors to the project. That team is given the "Read" GitHub role in all project repositories. This team need not be documented in the "MAINTAINERS" file.
+- In rare cases, Maintainers in a repository may request that the project's TSC enable designating some Maintainers with different GitHub roles, such as "Admin" (more capable than "Maintain") or "Triage" (less capable than "Maintain").
+  - Each elevated GitHub role needed in a repository requires the project's TSC to create and maintain an additional GitHub Team.
+  - The LFDT TAC manages a team per LFDT Project that includes all contributors to the project. That team is given the "Read" GitHub role in all project repositories. This team need not be documented in the "MAINTAINERS" file.
 - Maintainers **MAY** define Maintainer scopes within a repository that don't require
   elevated GitHub privileges. For example, a scope might include hosting
-  community meetings, or contributing to the Hyperledger Project's Quarterly
+  community meetings, or contributing to the LFDT Project's Quarterly
   report.
 
 If there is more than the single "Maintainer" scope used in a repository, there **MUST** be a list of the repository specific scopes in the MAINTAINERS file. The list must include the scope name, the definition of the scope, and if applicable, the related GitHub Role and Team for the scope.
@@ -51,13 +53,13 @@ If there is more than the single "Maintainer" scope used in a repository, there 
 
 Lists of active and emeritus maintainers **MUST** be included in the `MAINTAINERS.md` file.
 
-Changes to the maintainers lists **MUST** be made via Pull Requests. Once a new `MAINTAINERS.md` file is created or a PR changing the maintainer lists within the file is merged, a corresponding update to the affected GitHub Teams within the Hyperledger GitHub organization must be made. This is a manual process and the maintainers must ensure that it occurs.
+Changes to the maintainers lists **MUST** be made via Pull Requests. Once a new `MAINTAINERS.md` file is created or a PR changing the maintainer lists within the file is merged, a corresponding update to the affected GitHub Teams within the LFDT GitHub organization must be made. This is a manual process and the maintainers must ensure that it occurs.
 
 It is recommended that the lists be sorted alphabetically and **MUST** contain at least the Maintainers name, GitHub ID, Scope, and at least one contact method. The reasons for populating columns are:
 
 - A GitHub ID **MUST** be provided to add the Maintainer to a GitHub Team, and to recognize the action the Maintainer takes in the repository.
 - The Scope **MUST** be provided to know the role of each Maintainer, and to know the GitHub Team to update when adding/removing Maintainers.
-- A LFID (Linux Foundation ID), Discord ID and/or Email are the most effective ways for the Hyperledger Foundation to contact the Maintainer when necessary.
+- A LFID (Linux Foundation ID), Discord ID and/or Email are the most effective ways for the LFDT to contact the Maintainer when necessary.
 - A Company Affiliation is helpful for monitoring the diversity of the Maintainer community for a project.
 
 The following table format **MUST** be used for both Maintainers lists (active and emeritus):
