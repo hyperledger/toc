@@ -72,5 +72,5 @@ Hyperledger is committed to creating a safe and welcoming community for all. For
 - [ ] Venkatraman Ramakrishna
 - [ ] Arun S M
 - [ ] Peter Somogyvari
-- [ ] Conor Svensson
+- [ ] ~~Conor Svensson~~
 - [ ] Jim Zhang
