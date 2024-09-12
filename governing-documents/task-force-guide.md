@@ -21,7 +21,7 @@ To propose a task force, create an issue in [the TOC GitHub repository](https://
 ## Approval Process
 The TOC will review the task force proposal first by providing comments in the issue and secondly by bringing the task force proposal to a discussion and vote in a TOC meeting.
 
-The decision of the vote will be documented in the issue. If the task force is approved, a page in the [Task Force section of the LFDT wiki](https://wiki.hyperledger.org/display/TF/Task+Forces+Home) will be created.
+The decision of the vote will be documented in the issue. If the task force is approved, a page in the [Task Force section of the wiki](https://wiki.hyperledger.org/display/TF/Task+Forces+Home) will be created.
 
 ## Reporting on Task Force Completion of Deliverables
 Upon completion of the task force's deliverables, the task force should arrange a time with the TOC chair to present the deliverables at a TOC meeting. This can be accomplished by sending an email to [the TOC mailing list](https://lists.hyperledger.org/g/toc) at  [toc@lists.hyperledger.org](mailto:toc@lists.hyperledger.org).
