@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2024 Q3 Hyperledger FireFly
+title: 2024 Q2 Hyperledger FireFly
 parent: 2024
 grand_parent: Project Updates
 has_children: false
@@ -9,40 +9,36 @@ has_toc: false
 
 # Project Health
 
-FireFly continues to be actively developed with the release of v1.3.1 this quarter. The release of 1.3.1 includes the following new features and enhancements.
+Hyperledger FireFly successfully launched [V1.3](https://www.hyperledger.org/blog/hyperledger-firefly-v1.3-is-now-available) this quarter. This is a significant upgrade that makes the industry’s first open-source Web3 Gateway an even more powerful platform for tokenization, multi-chain interoperability, and building blockchain-based applications.
 
-__New Features__
+FireFly continues to expand its maintainer base and diversity with 3 new maintainers this quarter. New maintainers include Enrique Lacal from Kaleido, Sam May from Kaleido, and Alexey Semenyuk from Instinct Tools.
 
-- __Support for Contract Listeners with Multiple Event Filters:__ FireFly now supports contract listeners that can listen to multiple types of blockchain events. This is a substantial improvement that has been carefully thought through to be backwards compatible.
-
-__Updates__
-
-- __Improved Documentation:__ Missing documentation and README files have been added, including updates to doc links.
-- __Multiparty Status API:__ A new API was added for managing multiparty transaction status.
-- __Ethereum Blank Signing Key Support:__ Queries on Ethereum can now allow blank signing keys.
-- __Enhanced Listener Management:__ When re-creating listeners in EVMConnect, EthConnect, or FabConnect, the last event block is now used to prevent duplicate handling.
-- __Namespace Management:__ Fixes related to preventing multiple blockchain plugins from starting on namespace retry.
-- __Websocket Enhancements:__ Websockets are now available as an option to communicate with EVM nodes in addition to RPC calls.
-- __Performance:__ Event indexing optimized and bugs fixed to ensure that events and transactions are received and in the correct order.
-- __Receipt Confirmation:__ Improved the receipt confirmations logic from the chain for EVM
+In addition, FireFly continues to power many use cases in the digital assets community and remains a leader in enterprise middleware.
 
 ### Community adoption updates
 
-This quarter, we have also seen increased activity from Partior who have contributed significantly to the FireFly CLI and EVMConnect.
+- [SWIFT CBDC Phase 2](https://www.swift.com/sites/default/files/files/swift_cbdc_sandbox_project_results_report_phase2_final_220324.pdf)
+  - Hyperledger Firefly was used to facilitate interoperability in the world’s largest CBDC industry collaboration to date.
+  - Interoperability was tested between 38 different banks across chains running Besu, Fabric, and Corda.
+  - Networks included 7 simulated CBDC networks, a foreign exchange network, a digital asset network, and a simulated CLS application, representing a mix of digital and traditional networks.
 
 Community members have given talks featuring Hyperledger FireFly at a number of events including:
 
-- Hyperledger Member Webinar: [Hyperledger FireFly 1.3 Whats New & Whats Next](https://www.youtube.com/watch?v=zR_JwW1V9Og)
-- Hyperledger Maintainer Days attendance scheduled for October 21st, 2024
+- Consensus 2024 where Hyperledger FireFly members presented at the Hyperledger booth
+- Hyperledger Member Webinar: [Streamlining Delivery-versus-Payment with Hyperledger Technologies](https://www.youtube.com/watch?v=gnZOXHBsVdk&t=2737s)
+- Duke Web3 Conference: [Real World Asset Tokenization](https://www.dukeweb3conference.com/speakers)
+- Token 2049: [Decentralized Trust & Web3 in the Enterprise](https://lu.ma/lxjqfuw3?hss_channel=lcp-10851358)
+- University of Southampton Business School lecture: [Web3 in Industry](https://www.linkedin.com/feed/update/urn:li:activity:7196499141403856896)
+- [FireFly 1.3 webinar](https://www.meetup.com/hyperledger-raleigh/events/301138155/) scheduled for 6/10
 
 ### Contributor activity updates
 
-The star activity for the FireFly repository has continued to grow from 481 end of last quarter to 496 end of this quarter. Discord activity has been very high this quarter with ~50 DAU.
+The star activity for the FireFly repository has continued to grow from 430 end of last quarter to 481 end of this quarter. Discord activity remains consistent with ~45 DAU.
 
-![alt_text](images/HLFF_2024_Q3_stars.png "image_tooltip")
+![alt_text](images/HLFF_2024_Q2_stars.png "image_tooltip")
 
-Contributors are active in the project and since June, there were 39 contributors who performed at least one commit.
-There are currently over 775k lines of code for Hyperledger FireFly across 20 repositories, with a total of 10.861k commits to date.
+Contributors are active in the project and since March, there were 19 new contributors who performed at least one commit.
+There are currently over 770k lines of code for Hyperledger FireFly across 20 repositories, with a total of 10.482k commits to date.
 
 # Questions/Issues for the TOC
 
@@ -50,39 +46,24 @@ None
 
 # Releases
 
-This quarter, FireFly v1.3.1 was released with FireFly v1.3.2 upcoming next quarter. A high level overview of what’s new is below:
-
-## [FireFly v1.3.2 pre-release](https://github.com/hyperledger/firefly/releases/tag/v1.3.2-rc.1)
-
-FireFly v1.3.2 pre-release features includes the ability to install the FireFly CLI through Brew, a package manager for MacOS, bug fixes, documentation updates, and FireFly dependency updates. Look for a full update next quarter.
-
-## [FireFly v1.3.1](https://github.com/hyperledger/firefly/releases/tag/v1.3.1)
-
+## [FireFly v1.3](https://github.com/hyperledger/firefly/releases/tag/v1.3.0)
 FireFly v1.3 new features include:
-- Multi-filters per listeners: Added the ability to listen to multiple types of events on the same contract listener.
-- New Listener Type: Block listeners are added to stream receipts of block confirmations in the order that they are confirmed on the blockchain.
-- Improved Documentation: Missing documentation and README files have been added, including updates to doc links.
-- Multiparty Status API: A new API was added for managing multiparty transaction status.
-- Ethereum Blank Signing Key Support: Queries on Ethereum can now allow blank signing keys.
-- Enhanced Listener Management: When re-creating listeners in EVMConnect, EthConnect, or FabConnect, the last event block is now used to prevent duplicate handling.
-- Namespace Management: Fixes related to preventing multiple blockchain plugins from starting on namespace retry.
-- Websocket Enhancements: Websockets are now available as an option to communicate with EVM nodes in addition to RPC calls.
-- Performance: Event indexing optimized and bugs fixed to ensure that events and transactions are received and in the correct order.
-- Receipt Confirmation: Improved the receipt confirmations logic from the chain for EVM
-
-For a full list of changes and updates, please visit [the FireFly Github](https://github.com/hyperledger/firefly/releases/tag/v1.3.1).
+- Namespace Isolation: Isolated event streams added per namespace, improving replay functionality and availability without breaking changes.
+- Invoke with Data: FireFly now supports custom smart contracts with data association, enhancing customization and enabling the ability to associate an off-chain data payload and pin it on a custom contract.
+- Transaction Manager Performance: Support for PostgreSQL boosts transaction management performance and provides rich query APIs for better integration and diagnosis.
+- Enhanced Performance with Besu: FireFly v1.3 optimizes integration with Hyperledger Besu, improving transaction coordination and state management for enterprise finance applications.
+- Tezos Connector: New Tezos connector enables remote transaction signing and integration with key management solutions for decentralized applications on Tezos.
 
 # Overall Activity in the Past Quarter
 
-The major highlights have been detailed at the beginning of the report. In summary, there has been a lot of activity in the project. New community members continue to discover the project and make contributions. This quarter we have continued to see contribution and activities from outside the set of the original maintainers. A new Cardano Connector has been discussed to be in development by an external party.
+The major highlights have been detailed at the beginning of the report. In summary, there has been a lot of activity in the project. New community members continue to discover the project and make contributions. This quarter has seen the most significant new contribution from outside the set of the original maintainers, in the form of an entirely new blockchain connector. Additionally, FireFly 1.3 was released
 
 # Current Plans
 
 As part of our annual report, we listed the following goals for 2024.
-
-- Release FireFly v1.3 (Q1) - This has been completed last quarter.
-- Host another in-depth workshop to get even more developers hands on with FireFly - An in-depth workshop is being planned and scheduled for Q1 2025.
-- Continue to increase diversity of maintainers - No new maintainers this quarter however FireFly has added three 3 new maintainers across 2 organizations since the beginning of the year.
+- Release FireFly v1.3 (Q1) - This has been completed this quarter.
+- Host another in-depth workshop to get even more developers hands on with FireFly - An in-depth workshop is being planned and scheduled for the end of Q3 2024.
+- Continue to increase diversity of maintainers - FireFly has added three 3 new maintainers this quarter across 2 organizations.
 
 # Maintainer Diversity
 
@@ -98,19 +79,19 @@ A list of all maintainers for Hyperledger FireFly may be found [here](https://wi
 
 # Contributor Diversity
 
-In the past quarter we’ve seen an increase in contributor strength and new contributors from parties outside of Kaleido.
+In the past quarter we’ve seen an increase in contributor strength, commit growth, and new contributors from parties outside of Kaleido.
 
-[Commit Activities](https://insights.lfx.linuxfoundation.org/foundation/lf-decentralized-trust/overview/github?project=firefly&repository=&routedFrom=Github)
+[Commit Activities](https://insights.lfx.linuxfoundation.org/projects/hyperledger%2Ffirefly/dashboard;subTab=technical;v=source-control%2Fcommits%2Foverview)
 
-![alt_text](images/HLFF_2024_Q3_1.png "image_tooltip")
+![alt_text](images/HLFF_2024_Q2_1.png "image_tooltip")
 
-![alt_text](images/HLFF_2024_Q3_2.png "image_tooltip")
+![alt_text](images/HLFF_2024_Q2_2.png "image_tooltip")
 
-![alt_text](images/HLFF_2024_Q3_3.png "image_tooltip")
+![alt_text](images/HLFF_2024_Q2_3.png "image_tooltip")
 
-![alt_text](images/HLFF_2024_Q3_4.png "image_tooltip")
+![alt_text](images/HLFF_2024_Q2_4.png "image_tooltip")
 
-![alt_text](images/HLFF_2024_Q3_5.png "image_tooltip")
+![alt_text](images/HLFF_2024_Q2_5.png "image_tooltip")
 
 # Additional Information
 
