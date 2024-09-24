@@ -68,7 +68,7 @@ FireFly v1.3 new features include:
 - Namespace Management: Fixes related to preventing multiple blockchain plugins from starting on namespace retry.
 - Websocket Enhancements: Websockets are now available as an option to communicate with EVM nodes in addition to RPC calls.
 - Performance: Event indexing optimized and bugs fixed to ensure that events and transactions are received and in the correct order.
-- Receipt Confirmation: Improved the receipt confirmations logic from the chain for EVM
+- Receipt Confirmation: Improved the receipt confirmations logic from the chain for EVM.
 
 For a full list of changes and updates, please visit [the FireFly Github](https://github.com/hyperledger/firefly/releases/tag/v1.3.1).
 
