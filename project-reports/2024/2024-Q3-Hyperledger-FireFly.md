@@ -24,7 +24,7 @@ __Updates__
 - __Namespace Management:__ Fixes related to preventing multiple blockchain plugins from starting on namespace retry.
 - __Websocket Enhancements:__ Websockets are now available as an option to communicate with EVM nodes in addition to RPC calls.
 - __Performance:__ Event indexing optimized and bugs fixed to ensure that events and transactions are received and in the correct order.
-- __Receipt Confirmation:__ Improved the receipt confirmations logic from the chain for EVM
+- __Receipt Confirmation:__ Improved the receipt confirmations logic from the chain for EVM.
 
 ### Community adoption updates
 
