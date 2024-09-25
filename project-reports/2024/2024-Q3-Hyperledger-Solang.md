@@ -9,7 +9,7 @@ grand_parent: Project Updates
 
 * Hyperledger Solang development is going well. Work on the Soroban target is underway, with the goal of supporting cross-contract calls and value transfers.
 
-* Hyperledger Solang got invited to be presented live at Stellar's Meridian 2024 conference, which is a great opportunity to showcase the project to a wider audience.
+* Hyperledger Solang got invited to be presented live at [Stellar's Meridian 2024 conference](https://meridian.stellar.org/), which is a great opportunity to showcase the project to a wider audience.
 
 * Solang Playground has undergone a UI/UX revamp, and is now more visually attractive.
 
