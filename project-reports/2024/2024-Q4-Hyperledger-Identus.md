@@ -12,13 +12,12 @@ Created by Javier Ribó with input from other maintainers
 # Project Health
 
 The project is still new to the Hyperledger Ecosystem and continues to have steady growth of contributors.
-The project can now be found on the LFX dashboard which can now be checked for health insights. In the last quarter we have seen an increase on the number of github issues created while the active contributors have gone down 8%.
+The project can now be found on the [LFX dashboard](https://insights.lfx.linuxfoundation.org/foundation/lf-decentralized-trust/overview/github?project=identus&routedFrom=Github&bestPractice=false&repository=all&dateFilters=Last%20Quarter&dateRange=2024-07-01%20to%202024-09-30&compare=PP&granularity=week&hideBots=true) which can now be checked for health insights. In the last quarter we have seen an increase on the number of github issues created while the active contributors have gone down 8%.
 
 
 # Questions/Issues for the TOC
 
-Is there a way to access funds for open source contributions and development? 
-
+N/A
 
 # Releases
 
