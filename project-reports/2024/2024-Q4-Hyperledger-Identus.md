@@ -70,7 +70,7 @@ We currently have 7 maintainers from which 3 are from outside of IOG, and we are
 
 # Contributor Diversity
 
-At the moment, the main contributors of source code is IOG at a 75% of the contributions.
+At the moment, the main contributors of source code are from IOG at 75% of the contributions.
 The remaining of the contributions are shared across other organizations.
 Other organizations have given additional on feature request ideas such as Ahau and Socious. While we have other organizations such as C-Sign developing books specifically aimed at developers wanting to develop with Identus. The book is expected to be completed next year https://identusbook.com/book/
 
