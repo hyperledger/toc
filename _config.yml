@@ -11,11 +11,9 @@ url: "https://toc.hyperledger.org"
 footer_content: "<a href=\"https://github.com/hyperledger/toc\">Page generated from TOC repo on GitHub</a>"
 aux_links:
   "About":
-    - "//www.hyperledger.org/about/leadership#tsc"
+    - "//www.lfdecentralizedtrust.org/about"
   "GitHub":
     - "//github.com/hyperledger/toc"
-  "Wiki":
-    - "//wiki.hyperledger.org/display/TSC/Technical+Oversight+Committee+Home"
   "Chat":
     - "https://discord.gg/hyperledger/"
 plugins:
